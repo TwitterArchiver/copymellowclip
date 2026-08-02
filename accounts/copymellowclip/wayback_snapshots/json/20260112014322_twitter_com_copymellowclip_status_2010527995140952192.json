@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010522535432163762",
+    "created_at": "2026-01-12T01:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T02:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010527995140952192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009673611918110720",
+          "start": 0,
+          "username": "PotatoD6480"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010527995140952192",
+    "in_reply_to_user_id": "2009673611918110720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010527797564060102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PotatoD6480 还有嘴替（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010522535432163762",
+        "created_at": "2026-01-12T01:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T02:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010527995140952192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009673611918110720",
+              "start": 0,
+              "username": "PotatoD6480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010527995140952192",
+        "in_reply_to_user_id": "2009673611918110720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010527797564060102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PotatoD6480 还有嘴替（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009673611918110720",
+        "conversation_id": "2010522535432163762",
+        "created_at": "2026-01-12T01:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T02:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010527797564060102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010527797564060102",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010522535432163762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 第一个滚回狗窝里吧 活该绝育的死东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 170,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 568
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T17:08:42.000Z",
+        "description": "Male 05 INFP/非同非跨/有负能内容/请原谅我的意淫/某人小号，常发碎碎念🥺涩涩压抑用，如果打扰到泥了不要讨厌窝，窝会自己滚蛋。。",
+        "id": "2009673611918110720",
+        "name": "PotatoD",
+        "pinned_tweet_id": "2009689435143844051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009674189729615872/zBr2Czrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 45,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 120
+        },
+        "username": "PotatoD6480",
+        "verified": false
+      }
+    ]
+  }
+}

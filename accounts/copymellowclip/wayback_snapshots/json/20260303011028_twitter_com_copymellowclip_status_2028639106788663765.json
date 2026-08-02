@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2028567802408571072",
+    "created_at": "2026-03-03T01:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T02:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028639106788663765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1668257047647776770",
+          "start": 0,
+          "username": "strip0w076377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028639106788663765",
+    "in_reply_to_user_id": "1668257047647776770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028567802408571072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strip0w076377 真的要分尸吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2028567802408571072",
+        "created_at": "2026-03-03T01:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028639106788663765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1668257047647776770",
+              "start": 0,
+              "username": "strip0w076377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028639106788663765",
+        "in_reply_to_user_id": "1668257047647776770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028567802408571072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strip0w076377 真的要分尸吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668257047647776770",
+        "conversation_id": "2028567802408571072",
+        "created_at": "2026-03-02T20:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T21:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028567802408571072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028567802408571072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 915,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对互关有种占有欲！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1706,
+          "like_count": 6284,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2449
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩里垢",
+        "id": "1668257047647776770",
+        "location": "🚪188  ",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2024841962806010115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 205,
+          "like_count": 6710,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 3164
+        },
+        "username": "strip0w076377",
+        "verified": false
+      }
+    ]
+  }
+}

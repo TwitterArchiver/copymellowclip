@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012568506798088695",
+    "created_at": "2026-01-18T01:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T02:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012695675759116495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009636788118433792",
+          "start": 0,
+          "username": "Josiezhoun0201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012695675759116495",
+    "in_reply_to_user_id": "2009636788118433792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012695574735466942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Josiezhoun0201 老婆老婆我爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012568506798088695",
+        "created_at": "2026-01-18T01:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T02:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012695675759116495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009636788118433792",
+              "start": 0,
+              "username": "Josiezhoun0201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012695675759116495",
+        "in_reply_to_user_id": "2009636788118433792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012695574735466942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Josiezhoun0201 老婆老婆我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009636788118433792",
+        "conversation_id": "2012568506798088695",
+        "created_at": "2026-01-18T01:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T02:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012695574735466942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012695574735466942",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012666676291231787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 你最可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 621,
+          "like_count": 3533,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T14:42:15.000Z",
+        "description": "我发着玩的 os好想和小女孩互fo",
+        "id": "2009636788118433792",
+        "name": "Josie zhou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010257622536957952/6l1MhC_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 44,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 83
+        },
+        "username": "Josiezhoun0201",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2053204947374661895",
+    "created_at": "2026-05-10T03:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053314903273087419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1468567542264664067",
+          "start": 0,
+          "username": "Angelica_zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053314903273087419",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053204947374661895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angelica_zj 是班长www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053204930115104770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5zAW6XcAIvW0a.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2053204947374661895",
+        "created_at": "2026-05-10T03:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053314903273087419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053314903273087419",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053204947374661895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 是班长www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053204930115104770"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2053204947374661895",
+        "created_at": "2026-05-09T20:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T21:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053204947374661895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeYG2yqlzw",
+              "end": 36,
+              "expanded_url": "https://x.com/Angelica_zj/status/2053204947374661895/photo/1",
+              "media_key": "3_2053204930115104770",
+              "start": 13,
+              "url": "https://t.co/YeYG2yqlzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053204947374661895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 579,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "全世界最萌的小表情出现了 https://t.co/YeYG2yqlzw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 1733,
+          "like_count": 6959,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 3180
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25153,
+          "following_count": 1051,
+          "like_count": 14744,
+          "listed_count": 42,
+          "media_count": 1582,
+          "tweet_count": 17083
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

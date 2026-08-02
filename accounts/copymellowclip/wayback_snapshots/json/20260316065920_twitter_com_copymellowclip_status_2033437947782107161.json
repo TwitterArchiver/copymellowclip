@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2033357841965453459",
+    "created_at": "2026-03-16T06:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033437947782107161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028846216944242688",
+          "start": 0,
+          "username": "YingZaisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033437947782107161",
+    "in_reply_to_user_id": "2028846216944242688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033357841965453459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingZaisama 毛思想主要是很多老师讲的很无聊，其实挺有趣的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033357826085806080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDfwK20a4AALZ8-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2033357841965453459",
+        "created_at": "2026-03-16T06:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033437947782107161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028846216944242688",
+              "start": 0,
+              "username": "YingZaisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033437947782107161",
+        "in_reply_to_user_id": "2028846216944242688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033357841965453459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingZaisama 毛思想主要是很多老师讲的很无聊，其实挺有趣的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033357826085806080"
+          ]
+        },
+        "author_id": "2028846216944242688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2033357841965453459",
+        "created_at": "2026-03-16T01:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T02:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033357841965453459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iccu2bjgq7",
+              "end": 60,
+              "expanded_url": "https://x.com/YingZaisama/status/2033357841965453459/photo/1",
+              "media_key": "3_2033357826085806080",
+              "start": 37,
+              "url": "https://t.co/iccu2bjgq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033357841965453459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1662,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "果然还是不喜欢这节课，没有任何政治因素，只是单纯觉得好枯燥好无聊.... https://t.co/iccu2bjgq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 1713,
+          "like_count": 6415,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2618
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T14:53:45.000Z",
+        "description": "總有一天會成為魔王大人的！（辛苦的大學生一隻💔） 高強度上網，時不時分享自己的日常，喜歡和不同地區，不同國家的大家交朋友！目前正在自學日語，主修金融學（很不喜歡的專業.....）感謝大家的關注！🥰  \n      不鍵政❌",
+        "id": "2028846216944242688",
+        "location": "天堂",
+        "name": "鷹仔大魔王",
+        "pinned_tweet_id": "2031015036089688368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031688080722366464/anQQX9Iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 195,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 642
+        },
+        "username": "YingZaisama",
+        "verified": false
+      }
+    ]
+  }
+}

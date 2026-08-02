@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009639906222686489",
+    "created_at": "2026-01-10T21:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T22:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010100322455433549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999747932573302784",
+          "start": 0,
+          "username": "Tivzy77"
+        },
+        {
+          "end": 17,
+          "id": "1558346182316896256",
+          "start": 9,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010100322455433549",
+    "in_reply_to_user_id": "1999747932573302784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009642154763989084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tivzy77 @hoxer15 可以和我湿吻解决（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009639906222686489",
+        "created_at": "2026-01-10T21:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T22:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010100322455433549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999747932573302784",
+              "start": 0,
+              "username": "Tivzy77"
+            },
+            {
+              "end": 17,
+              "id": "1558346182316896256",
+              "start": 9,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010100322455433549",
+        "in_reply_to_user_id": "1999747932573302784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009642154763989084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tivzy77 @hoxer15 可以和我湿吻解决（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999747932573302784",
+        "conversation_id": "2009639906222686489",
+        "created_at": "2026-01-09T15:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T16:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009642154763989084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558346182316896256",
+              "start": 0,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009642154763989084",
+        "in_reply_to_user_id": "1558346182316896256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009639906222686489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoxer15 这就是我冬天的烦恼！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 120,
+          "like_count": 580,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 376
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T07:47:25.000Z",
+        "description": "皮下是非常坏并且玻璃心的小女孩",
+        "id": "1999747932573302784",
+        "name": "谁理你",
+        "pinned_tweet_id": "2009153255864148333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009568818801336320/z9gXXSMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 51,
+          "like_count": 672,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 411
+        },
+        "username": "Tivzy77",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门不约不聊骚",
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2009604292475572735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009980061253021697/onhb3-ya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 227,
+          "like_count": 15696,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 8297
+        },
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

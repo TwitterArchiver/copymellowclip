@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2040918932966752566",
+    "created_at": "2026-04-05T22:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T23:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040918932966752566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Miiharukawa/st…",
+          "end": 138,
+          "expanded_url": "https://twitter.com/Miiharukawa/status/2040746005570941346",
+          "start": 115,
+          "url": "https://t.co/hWTfDxJwcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040918932966752566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040746005570941346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "防止我塌房我先说 本人提前说一下聊骚、钓鱼、忘本、聊h、死装、吃里扒外，装纯情，立人设、搞暧昧、高p、爱看擦边、拜金、PUA、冷暴力、自私、虚伪、好吃懒做、素质低下、爱耍流氓、好色哭穷，看别人长得漂亮就骚扰人家，我全干过这是真的 https://t.co/hWTfDxJwcw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2040918932966752566",
+        "created_at": "2026-04-05T22:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T23:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040918932966752566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Miiharukawa/st…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/Miiharukawa/status/2040746005570941346",
+              "start": 115,
+              "url": "https://t.co/hWTfDxJwcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040918932966752566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040746005570941346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "防止我塌房我先说 本人提前说一下聊骚、钓鱼、忘本、聊h、死装、吃里扒外，装纯情，立人设、搞暧昧、高p、爱看擦边、拜金、PUA、冷暴力、自私、虚伪、好吃懒做、素质低下、爱耍流氓、好色哭穷，看别人长得漂亮就骚扰人家，我全干过这是真的 https://t.co/hWTfDxJwcw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2040746005570941346",
+        "created_at": "2026-04-05T10:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040746005570941346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chengorange777…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/chengorange777/status/2040740185588281844",
+              "start": 115,
+              "url": "https://t.co/QCJbpH7x40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040746005570941346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1766,
+          "like_count": 26,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040740185588281844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "防止我塌房我先说\n本人提前说一下聊骚、钓鱼、忘本、聊h、死装、吃里扒外，装纯情，立人设、搞暧昧、高p、爱看擦边、拜金、PUA、冷暴力、自私、虚伪、好吃懒做、素质低下、爱耍流氓、好色哭穷，看别人长得漂亮就骚扰人家，我全干过这是真的 https://t.co/QCJbpH7x40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 1699,
+          "like_count": 6493,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2756
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 168,
+          "like_count": 4344,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

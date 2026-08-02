@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2062900043720560897",
+    "created_at": "2026-06-06T06:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063150381203698068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "114875388",
+          "start": 0,
+          "username": "Ranger_21g"
+        },
+        {
+          "end": 20,
+          "id": "1552213521253150720",
+          "start": 12,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063150381203698068",
+    "in_reply_to_user_id": "114875388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063129811774779771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ranger_21g @acnekot 在linux以外的位置（就是mnt/磁盘符/ 这种）io性能会有很多影响，如果你用wsl在windows的区域操作git，terminal也会告诉你不要这样做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2062900043720560897",
+        "created_at": "2026-06-06T06:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063150381203698068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "114875388",
+              "start": 0,
+              "username": "Ranger_21g"
+            },
+            {
+              "end": 20,
+              "id": "1552213521253150720",
+              "start": 12,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063150381203698068",
+        "in_reply_to_user_id": "114875388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063129811774779771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ranger_21g @acnekot 在linux以外的位置（就是mnt/磁盘符/ 这种）io性能会有很多影响，如果你用wsl在windows的区域操作git，terminal也会告诉你不要这样做"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "114875388",
+        "conversation_id": "2062900043720560897",
+        "created_at": "2026-06-06T05:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063129811774779771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 24,
+              "id": "1552213521253150720",
+              "start": 16,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063129811774779771",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063067763393147268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @acnekot 需要设置专门的硬盘分区?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 1773,
+          "like_count": 7245,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3588
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-16T22:06:35.000Z",
+        "description": "",
+        "id": "114875388",
+        "location": "China",
+        "name": "阳光开朗孔乙己",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/482365651026079744/YTfJcGXl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 832,
+          "like_count": 32,
+          "listed_count": 4,
+          "media_count": 90,
+          "tweet_count": 1385
+        },
+        "username": "Ranger_21g",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 799,
+          "like_count": 93666,
+          "listed_count": 9,
+          "media_count": 3969,
+          "tweet_count": 16870
+        },
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

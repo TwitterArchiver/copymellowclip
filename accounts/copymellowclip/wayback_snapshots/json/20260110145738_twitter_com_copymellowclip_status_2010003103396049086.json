@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010002618836496390",
+        "3_2010002617938923520"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2010003103396049086",
+    "created_at": "2026-01-10T14:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T15:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010003103396049086"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "若叶睦"
+        },
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "MyGO"
+        },
+        {
+          "end": 32,
+          "start": 24,
+          "tag": "cosplay"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "OOC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/luqLdHjtua",
+          "end": 61,
+          "expanded_url": "https://x.com/copymellowclip/status/2010003103396049086/photo/1",
+          "media_key": "3_2010002618836496390",
+          "start": 38,
+          "url": "https://t.co/luqLdHjtua"
+        },
+        {
+          "display_url": "pic.x.com/luqLdHjtua",
+          "end": 61,
+          "expanded_url": "https://x.com/copymellowclip/status/2010003103396049086/photo/1",
+          "media_key": "3_2010002617938923520",
+          "start": 38,
+          "url": "https://t.co/luqLdHjtua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010003103396049086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "需要soyo妈妈安慰、、\n#若叶睦 #MyGO #cosplay #OOC https://t.co/luqLdHjtua"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2010002618836496390",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-T2u31asAYRTHu.jpg",
+        "width": 3058
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2010002617938923520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-T2u0fa0AAHFts.jpg",
+        "width": 3058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010002618836496390",
+            "3_2010002617938923520"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2010003103396049086",
+        "created_at": "2026-01-10T14:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T15:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010003103396049086"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "若叶睦"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "MyGO"
+            },
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "cosplay"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "OOC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/luqLdHjtua",
+              "end": 61,
+              "expanded_url": "https://x.com/copymellowclip/status/2010003103396049086/photo/1",
+              "media_key": "3_2010002618836496390",
+              "start": 38,
+              "url": "https://t.co/luqLdHjtua"
+            },
+            {
+              "display_url": "pic.x.com/luqLdHjtua",
+              "end": 61,
+              "expanded_url": "https://x.com/copymellowclip/status/2010003103396049086/photo/1",
+              "media_key": "3_2010002617938923520",
+              "start": 38,
+              "url": "https://t.co/luqLdHjtua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010003103396049086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "需要soyo妈妈安慰、、\n#若叶睦 #MyGO #cosplay #OOC https://t.co/luqLdHjtua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 86,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 323
+        },
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

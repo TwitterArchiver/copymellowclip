@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2081988253574705631",
+    "created_at": "2026-07-28T07:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082000276500672769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1468680674458488833",
+          "start": 0,
+          "username": "Doll070707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082000276500672769",
+    "in_reply_to_user_id": "1468680674458488833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081988253574705631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doll070707 亲亲抱抱，赚钱我们一起花 ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2081988253574705631",
+        "created_at": "2026-07-28T07:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082000276500672769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468680674458488833",
+              "start": 0,
+              "username": "Doll070707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082000276500672769",
+        "in_reply_to_user_id": "1468680674458488833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081988253574705631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doll070707 亲亲抱抱，赚钱我们一起花 ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468680674458488833",
+        "conversation_id": "2081988253574705631",
+        "created_at": "2026-07-28T06:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081988253574705631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081988253574705631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下，我是你对象。每天宅在家。不爱出门现实不跟任何人说话，在家什么也不做，情绪总是崩溃。动不动就吃药药，你一回家就边哭边亲你然后就伸手要抱要哄，什么都依着你，虽然没钱但一有钱全给你花。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2873,
+          "following_count": 1768,
+          "like_count": 7408,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 3869
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T20:35:47.000Z",
+        "description": "不用关注我 想发啥发啥啊",
+        "id": "1468680674458488833",
+        "location": "扩列52可以聊天^_^",
+        "name": "yd",
+        "pinned_tweet_id": "2081340590147666038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077115310587691008/0C-rLCFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 137,
+          "like_count": 1054,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 415
+        },
+        "url": "",
+        "username": "Doll070707",
+        "verified": false
+      }
+    ]
+  }
+}

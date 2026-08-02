@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009962388553118042",
+    "created_at": "2026-01-10T12:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T13:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009963870451052566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994769699054522369",
+          "start": 0,
+          "username": "BaiShirly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009963870451052566",
+    "in_reply_to_user_id": "1994769699054522369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009962388553118042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiShirly 变身色拉酱.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009962280025538560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-TSC2DbQAAu_JZ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009962388553118042",
+        "created_at": "2026-01-10T12:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009963870451052566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994769699054522369",
+              "start": 0,
+              "username": "BaiShirly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009963870451052566",
+        "in_reply_to_user_id": "1994769699054522369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009962388553118042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiShirly 变身色拉酱.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009962280025538560"
+          ]
+        },
+        "author_id": "1994769699054522369",
+        "conversation_id": "2009962388553118042",
+        "created_at": "2026-01-10T12:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009962388553118042"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 2,
+              "tag": "WutheringWaves"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkzg7DdzMv",
+              "end": 41,
+              "expanded_url": "https://x.com/BaiShirly/status/2009962388553118042/photo/1",
+              "media_key": "3_2009962280025538560",
+              "start": 18,
+              "url": "https://t.co/gkzg7DdzMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009962388553118042",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 270,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "🥔\n#WutheringWaves https://t.co/gkzg7DdzMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 69,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 276
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-29T14:06:05.000Z",
+        "description": "本体 @bailikoi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "bailikoi"
+              }
+            ]
+          }
+        },
+        "id": "1994769699054522369",
+        "name": "白栎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008887801996259328/PPaj_sHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21745,
+          "following_count": 2,
+          "like_count": 47,
+          "listed_count": 54,
+          "media_count": 26,
+          "tweet_count": 68
+        },
+        "username": "BaiShirly",
+        "verified": false
+      }
+    ]
+  }
+}

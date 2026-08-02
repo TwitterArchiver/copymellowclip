@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013052116978532365",
+    "created_at": "2026-01-19T04:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T05:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013104421799178429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1981611616287510528",
+          "start": 0,
+          "username": "xinyuiiiis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013104421799178429",
+    "in_reply_to_user_id": "1981611616287510528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013100226555330794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinyuiiiis 不老不死都来了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013052116978532365",
+        "created_at": "2026-01-19T04:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013104421799178429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1981611616287510528",
+              "start": 0,
+              "username": "xinyuiiiis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013104421799178429",
+        "in_reply_to_user_id": "1981611616287510528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013100226555330794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinyuiiiis 不老不死都来了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981611616287510528",
+        "conversation_id": "2013052116978532365",
+        "created_at": "2026-01-19T04:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013100226555330794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013100226555330794",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013052116978532365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 喂你吃唐僧肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 652,
+          "like_count": 3736,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-24T06:41:40.000Z",
+        "description": "纯4i妹1s不喜羞辱（暧昧中。。。💞）以后可能会做情侣推｜严重精神洁癖｜颜&智性恋｜看完置顶自介再说喜欢我 非粉不回私信❗️｜推特喜欢发发身材照和现实无关别随意揣测｜重度焦虑&抑郁介意别来｜不约不调只恋爱｜极度厌蠢 别对我的私人生活有太大占有欲｜有🚪（🈲白嫖）\n欢迎温良女宝来跟我互动互fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinyu73816",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinyu73816",
+                "start": 0,
+                "url": "https://t.co/atHjdTLbA9"
+              }
+            ]
+          }
+        },
+        "id": "1981611616287510528",
+        "location": "山东 🚪无上限 30好友位 52纯绿聊天⬇️📬欢迎留言",
+        "name": "心雨",
+        "pinned_tweet_id": "2007505372505092438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006704982700208128/asnNPJyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 187,
+          "like_count": 6610,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/atHjdTLbA9",
+        "username": "xinyuiiiis",
+        "verified": false
+      }
+    ]
+  }
+}

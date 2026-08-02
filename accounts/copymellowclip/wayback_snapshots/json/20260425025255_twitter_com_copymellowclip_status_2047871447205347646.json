@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2047300515659444401",
+    "created_at": "2026-04-25T02:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T03:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047871447205347646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1668917712851181568",
+          "start": 0,
+          "username": "Astdeitee"
+        },
+        {
+          "end": 21,
+          "id": "869072758247874560",
+          "start": 11,
+          "username": "EMRATS520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047871447205347646",
+    "in_reply_to_user_id": "1668917712851181568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047870423292113125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astdeitee @EMRATS520 玄武比利民更好吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-25T02:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047871447205347646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1668917712851181568",
+              "start": 0,
+              "username": "Astdeitee"
+            },
+            {
+              "end": 21,
+              "id": "869072758247874560",
+              "start": 11,
+              "username": "EMRATS520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047871447205347646",
+        "in_reply_to_user_id": "1668917712851181568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047870423292113125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astdeitee @EMRATS520 玄武比利民更好吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668917712851181568",
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-25T02:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047870423292113125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 26,
+              "id": "869072758247874560",
+              "start": 16,
+              "username": "EMRATS520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047870423292113125",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047860731995943220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @EMRATS520 电源属于是没办法，sfx电源没有性价比特别突出的，实在不行就玄武吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 1706,
+          "like_count": 6811,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3047
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T09:46:25.000Z",
+        "description": "",
+        "id": "1668917712851181568",
+        "name": "sepimax zen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683496572682747905/q4TRAlDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 498,
+          "like_count": 45344,
+          "listed_count": 0,
+          "media_count": 996,
+          "tweet_count": 27706
+        },
+        "username": "Astdeitee",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-29T06:07:46.000Z",
+        "description": "愛がなければ見えない",
+        "id": "869072758247874560",
+        "location": "中国",
+        "name": "roobo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983667480813039619/0S-b261z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 93,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "EMRATS520",
+        "verified": false
+      }
+    ]
+  }
+}

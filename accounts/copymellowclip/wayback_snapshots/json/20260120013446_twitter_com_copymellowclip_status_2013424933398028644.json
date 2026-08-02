@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013245622309294144",
+    "created_at": "2026-01-20T01:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T02:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013424933398028644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1877365413358845952",
+          "start": 0,
+          "username": "xie22255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013424933398028644",
+    "in_reply_to_user_id": "1877365413358845952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013245622309294144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xie22255 超绝冷萌脸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013245618760667136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_B8OT_XUAA6oy5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013245622309294144",
+        "created_at": "2026-01-20T01:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T02:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013424933398028644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1877365413358845952",
+              "start": 0,
+              "username": "xie22255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013424933398028644",
+        "in_reply_to_user_id": "1877365413358845952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013245622309294144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xie22255 超绝冷萌脸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013245618760667136"
+          ]
+        },
+        "author_id": "1877365413358845952",
+        "conversation_id": "2013245622309294144",
+        "created_at": "2026-01-19T13:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T14:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013245622309294144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/feAa90QJFp",
+              "end": 35,
+              "expanded_url": "https://x.com/xie22255/status/2013245622309294144/photo/1",
+              "media_key": "3_2013245618760667136",
+              "start": 12,
+              "url": "https://t.co/feAa90QJFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013245622309294144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2168,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上班太累实在笑不出来。 https://t.co/feAa90QJFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 697,
+          "like_count": 3935,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-09T14:43:09.000Z",
+        "description": "你好 可以叫我猫罐｜不接任何推广 不约不线下｜我是女生 会有男装照片｜礼貌私信 欢迎来和我玩 不要对我冷冰冰˃̣̣̥⌓˂̣̣̥",
+        "id": "1877365413358845952",
+        "location": "🚪188 纯绿",
+        "name": "溏心鸡屎",
+        "pinned_tweet_id": "1998352688950501874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004378026986164227/lQAXzrui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3383,
+          "following_count": 138,
+          "like_count": 1729,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 338
+        },
+        "username": "xie22255",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010230621298459027",
+    "created_at": "2026-01-11T06:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T07:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010238934257938622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875640415015337984",
+          "start": 0,
+          "username": "chusuiyouzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010238934257938622",
+    "in_reply_to_user_id": "1875640415015337984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010230621298459027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chusuiyouzi 雪糕好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010230617599029254",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XGGJaasAYOFqe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010230616751800320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XGGGQbAAA0NMF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2010230616596590592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XGGFrasAAgGcN.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1703,
+        "media_key": "3_2010230615824863233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XGGCzbEAEOQL3.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010230621298459027",
+        "created_at": "2026-01-11T06:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T07:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010238934257938622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875640415015337984",
+              "start": 0,
+              "username": "chusuiyouzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010238934257938622",
+        "in_reply_to_user_id": "1875640415015337984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010230621298459027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chusuiyouzi 雪糕好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010230617599029254",
+            "3_2010230616751800320",
+            "3_2010230616596590592",
+            "3_2010230615824863233"
+          ]
+        },
+        "author_id": "1875640415015337984",
+        "conversation_id": "2010230621298459027",
+        "created_at": "2026-01-11T06:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T07:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010230621298459027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "妹1"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "女高中生"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "小狗日记"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKrpCvts7w",
+              "end": 39,
+              "expanded_url": "https://x.com/chusuiyouzi/status/2010230621298459027/photo/1",
+              "media_key": "3_2010230617599029254",
+              "start": 16,
+              "url": "https://t.co/IKrpCvts7w"
+            },
+            {
+              "display_url": "pic.x.com/IKrpCvts7w",
+              "end": 39,
+              "expanded_url": "https://x.com/chusuiyouzi/status/2010230621298459027/photo/1",
+              "media_key": "3_2010230616751800320",
+              "start": 16,
+              "url": "https://t.co/IKrpCvts7w"
+            },
+            {
+              "display_url": "pic.x.com/IKrpCvts7w",
+              "end": 39,
+              "expanded_url": "https://x.com/chusuiyouzi/status/2010230621298459027/photo/1",
+              "media_key": "3_2010230616596590592",
+              "start": 16,
+              "url": "https://t.co/IKrpCvts7w"
+            },
+            {
+              "display_url": "pic.x.com/IKrpCvts7w",
+              "end": 39,
+              "expanded_url": "https://x.com/chusuiyouzi/status/2010230621298459027/photo/1",
+              "media_key": "3_2010230615824863233",
+              "start": 16,
+              "url": "https://t.co/IKrpCvts7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010230621298459027",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1114,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#妹1 #女高中生 #小狗日记 https://t.co/IKrpCvts7w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 135,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 427
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-04T20:28:24.000Z",
+        "description": "1i 女高 Switch 170 休学中 不谈恋爱 不线下 爱我请给钱 二次死宅。。 出原🚪48/131.4 我爱发啥就发啥！梦想是做一个幸福的碎碎 神秘小号",
+        "id": "1875640415015337984",
+        "location": "傻逼",
+        "name": "碎",
+        "pinned_tweet_id": "2009518564009759114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000229949853335552/cLisYrsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2674,
+          "following_count": 18,
+          "like_count": 1007,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 42
+        },
+        "username": "chusuiyouzi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2027689880789373390",
+    "created_at": "2026-02-28T10:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027689880789373390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tequila_SUNRlS…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Tequila_SUNRlSE/status/2027299959406755951",
+          "start": 6,
+          "url": "https://t.co/6ixsrWXlnf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027689880789373390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027299959406755951",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这条看晕了 https://t.co/6ixsrWXlnf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2027299950741356544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJqkGkbAAAFpxX.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2027689880789373390",
+        "created_at": "2026-02-28T10:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027689880789373390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tequila_SUNRlS…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Tequila_SUNRlSE/status/2027299959406755951",
+              "start": 6,
+              "url": "https://t.co/6ixsrWXlnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027689880789373390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027299959406755951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这条看晕了 https://t.co/6ixsrWXlnf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027299950741356544"
+          ]
+        },
+        "author_id": "1394784939216818179",
+        "conversation_id": "2027299959406755951",
+        "created_at": "2026-02-27T08:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027299959406755951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4z62tRsU7j",
+              "end": 76,
+              "expanded_url": "https://x.com/Tequila_SUNRlSE/status/2027299959406755951/photo/1",
+              "media_key": "3_2027299950741356544",
+              "start": 53,
+              "url": "https://t.co/4z62tRsU7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027299959406755951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 471119,
+          "like_count": 3661,
+          "quote_count": 12,
+          "reply_count": 96,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "上学时候喜欢的直女好久没联系突然跟我说结婚了 \n\n当年waslike\n此女：(*只是呼吸)\n我：手段了得 https://t.co/4z62tRsU7j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 1702,
+          "like_count": 6309,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2423
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T22:40:41.000Z",
+        "description": "互联网光屁教教主/废话推主/bi/同居热恋中/喜欢我请给我打钱 自用蜂鸟vpn：https://t.co/DpgTecV1tM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=ulYN1VK2",
+                "start": 40,
+                "url": "https://t.co/DpgTecV1tM"
+              }
+            ]
+          }
+        },
+        "id": "1394784939216818179",
+        "location": "6.8km  ",
+        "name": "八十荣",
+        "pinned_tweet_id": "1776820462062100614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410274938737414151/pFNLQOX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30876,
+          "following_count": 504,
+          "like_count": 4039,
+          "listed_count": 62,
+          "media_count": 1658,
+          "tweet_count": 14754
+        },
+        "username": "Tequila_SUNRlSE",
+        "verified": false
+      }
+    ]
+  }
+}

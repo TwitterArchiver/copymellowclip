@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2014009982061355088",
+    "created_at": "2026-01-21T16:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014009982061355088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wsiakls135497/…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/wsiakls135497/status/2014008904074609040",
+          "start": 26,
+          "url": "https://t.co/t22YY6y7dv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014009982061355088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014008904074609040",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这只小奈特别特别可爱ww好吧我就这样喜欢小萝莉（） https://t.co/t22YY6y7dv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1113,
+        "media_key": "3_2014008891843977216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MyapzWoAAWNNB.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014008891496099840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MyaogacAAuqF5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2014009982061355088",
+        "created_at": "2026-01-21T16:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014009982061355088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wsiakls135497/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/wsiakls135497/status/2014008904074609040",
+              "start": 26,
+              "url": "https://t.co/t22YY6y7dv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014009982061355088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014008904074609040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这只小奈特别特别可爱ww好吧我就这样喜欢小萝莉（） https://t.co/t22YY6y7dv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014008891843977216",
+            "3_2014008891496099840"
+          ]
+        },
+        "author_id": "1969358899007668226",
+        "conversation_id": "2014008904074609040",
+        "created_at": "2026-01-21T16:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014008904074609040"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "萝莉"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "白虎"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7082klWjF",
+              "end": 90,
+              "expanded_url": "https://x.com/wsiakls135497/status/2014008904074609040/photo/1",
+              "media_key": "3_2014008891843977216",
+              "start": 67,
+              "url": "https://t.co/U7082klWjF"
+            },
+            {
+              "display_url": "pic.x.com/U7082klWjF",
+              "end": 90,
+              "expanded_url": "https://x.com/wsiakls135497/status/2014008904074609040/photo/1",
+              "media_key": "3_2014008891496099840",
+              "start": 67,
+              "url": "https://t.co/U7082klWjF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014008904074609040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奈奈入门指南\n家里人不管我 自己生活压力太大 需要买的东西太多 希望来个温柔的哥哥溺爱我一下 欢迎女孩子互fo互转！ #萝莉 #白虎 https://t.co/U7082klWjF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 783,
+          "like_count": 4415,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1719
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-20T11:12:13.000Z",
+        "description": "🚪口令188 388 520 1314 富公专属1888加私人v",
+        "id": "1969358899007668226",
+        "name": "幼",
+        "pinned_tweet_id": "2014008904074609040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403522694975488/UiN3_VkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 7,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 66
+        },
+        "username": "wsiakls135497",
+        "verified": false
+      }
+    ]
+  }
+}

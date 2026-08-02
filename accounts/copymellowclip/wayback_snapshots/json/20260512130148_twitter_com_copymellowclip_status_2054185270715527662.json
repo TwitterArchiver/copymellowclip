@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2054175962976407629",
+    "created_at": "2026-05-12T13:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054185270715527662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1840695204271247360",
+          "start": 0,
+          "username": "yshidhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054185270715527662",
+    "in_reply_to_user_id": "1840695204271247360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054175962976407629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yshidhe 放松下来吧一直都很萌喔，抱抱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054175962976407629].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054175962976407629",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2054175962976407629"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2054175962976407629",
+        "created_at": "2026-05-12T13:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054185270715527662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1840695204271247360",
+              "start": 0,
+              "username": "yshidhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054185270715527662",
+        "in_reply_to_user_id": "1840695204271247360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054175962976407629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe 放松下来吧一直都很萌喔，抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 1735,
+          "like_count": 7001,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 3238
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T10:08:39.000Z",
+        "description": "沒有辦法成為大家的心中的樣子\n很抱歉",
+        "id": "1840695204271247360",
+        "name": "ゆうく；已壞掉",
+        "pinned_tweet_id": "2035327812085895543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033847648617435136/uN-3c_Ci_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 77,
+          "like_count": 2131,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1687
+        },
+        "username": "yshidhe",
+        "verified": true
+      }
+    ]
+  }
+}

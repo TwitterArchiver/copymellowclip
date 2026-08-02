@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2040922554123321831",
+    "created_at": "2026-04-06T00:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T01:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040952834339049834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1549090176688726021",
+          "start": 0,
+          "username": "RanulLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040952834339049834",
+    "in_reply_to_user_id": "1549090176688726021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040931720032333874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RanulLiu 是啊，吃什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2040922554123321831",
+        "created_at": "2026-04-06T00:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T01:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040952834339049834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1549090176688726021",
+              "start": 0,
+              "username": "RanulLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040952834339049834",
+        "in_reply_to_user_id": "1549090176688726021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040931720032333874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RanulLiu 是啊，吃什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549090176688726021",
+        "conversation_id": "2040922554123321831",
+        "created_at": "2026-04-05T23:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T00:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040931720032333874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040931720032333874",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040922554123321831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 是啊，吃什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 1700,
+          "like_count": 6497,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2763
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T17:54:35.000Z",
+        "description": "北美coser，兴趣是各种美少年。还没下海！桌游重度爱好者，请找我BGA，TTS，或者其他战略游戏，请多来找我玩！欢迎互fo，也欢迎骚扰~点个点赞转发与关注吧？",
+        "id": "1549090176688726021",
+        "location": "六世纪前",
+        "name": "伊宸",
+        "pinned_tweet_id": "2019918714481893708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216307220901890/3HNgonbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 185,
+          "like_count": 8074,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 825
+        },
+        "username": "RanulLiu",
+        "verified": true
+      }
+    ]
+  }
+}

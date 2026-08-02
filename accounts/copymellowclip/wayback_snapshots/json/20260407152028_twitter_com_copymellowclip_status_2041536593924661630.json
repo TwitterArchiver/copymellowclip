@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2041536421425786920",
+    "created_at": "2026-04-07T15:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041536593924661630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038482519507558400",
+          "start": 0,
+          "username": "jiaojiao330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041536593924661630",
+    "in_reply_to_user_id": "2038482519507558400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041536421425786920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaojiao330 神秘审美真的有人喜欢吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041536418712068096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT-jmlbIAAJ8vh.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041536418871447552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT-jnLbEAAgm5V.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041536419076947968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT-jn8awAAp9Hu.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2041536421425786920",
+        "created_at": "2026-04-07T15:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041536593924661630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038482519507558400",
+              "start": 0,
+              "username": "jiaojiao330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041536593924661630",
+        "in_reply_to_user_id": "2038482519507558400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041536421425786920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaojiao330 神秘审美真的有人喜欢吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041536418712068096",
+            "3_2041536418871447552",
+            "3_2041536419076947968"
+          ]
+        },
+        "author_id": "2038482519507558400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041536421425786920",
+        "created_at": "2026-04-07T15:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041536421425786920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rE3LJLpXLP",
+              "end": 55,
+              "expanded_url": "https://x.com/jiaojiao330/status/2041536421425786920/photo/1",
+              "media_key": "3_2041536418712068096",
+              "start": 32,
+              "url": "https://t.co/rE3LJLpXLP"
+            },
+            {
+              "display_url": "pic.x.com/rE3LJLpXLP",
+              "end": 55,
+              "expanded_url": "https://x.com/jiaojiao330/status/2041536421425786920/photo/1",
+              "media_key": "3_2041536418871447552",
+              "start": 32,
+              "url": "https://t.co/rE3LJLpXLP"
+            },
+            {
+              "display_url": "pic.x.com/rE3LJLpXLP",
+              "end": 55,
+              "expanded_url": "https://x.com/jiaojiao330/status/2041536421425786920/photo/1",
+              "media_key": "3_2041536419076947968",
+              "start": 32,
+              "url": "https://t.co/rE3LJLpXLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041536421425786920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天抖音刷到了好多诡异的广告。在抖音眼里我到底是什么人！！！ https://t.co/rE3LJLpXLP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 1708,
+          "like_count": 6550,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 2804
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T05:04:52.000Z",
+        "description": "有🚪\nswitch\n143cm37kg\n三围66 56 83\n感谢米娜私信评论跟赞赏（划重点）ᰔᩚ/•᷅•᷄\\\\୭\n小事化巧克力 大事化蛋糕 牙齿可以正常咀嚼之后又开始喜欢甜食了捏´༥`\n投喂的米会被我换成房租 电费 如果有剩余的话！就变成了香香奶茶跟麦麦ദ്ദി (⩌ᴗ⩌ )",
+        "id": "2038482519507558400",
+        "location": "喜欢我的话请多多赞赏",
+        "name": "我想睡觉觉•᎔•",
+        "pinned_tweet_id": "2038530916126200231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038485433034985472/f-Q9whUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 20,
+          "like_count": 754,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 158
+        },
+        "username": "jiaojiao330",
+        "verified": false
+      }
+    ]
+  }
+}

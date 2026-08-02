@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010658006338605457",
+    "created_at": "2026-01-13T04:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T05:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010938879243927612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1750922170329669632",
+          "start": 0,
+          "username": "WHY761595083014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010938879243927612",
+    "in_reply_to_user_id": "1750922170329669632",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010658006338605457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WHY761595083014 79！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010657997014659072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dKy5zbcAAaeXK.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010658006338605457",
+        "created_at": "2026-01-13T04:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T05:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010938879243927612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1750922170329669632",
+              "start": 0,
+              "username": "WHY761595083014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010938879243927612",
+        "in_reply_to_user_id": "1750922170329669632",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010658006338605457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WHY761595083014 79！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010657997014659072"
+          ]
+        },
+        "author_id": "1750922170329669632",
+        "conversation_id": "2010658006338605457",
+        "created_at": "2026-01-12T10:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010658006338605457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P3HLG5E4uJ",
+              "end": 30,
+              "expanded_url": "https://x.com/WHY761595083014/status/2010658006338605457/photo/1",
+              "media_key": "3_2010657997014659072",
+              "start": 7,
+              "url": "https://t.co/P3HLG5E4uJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010658006338605457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人和我玩吗 https://t.co/P3HLG5E4uJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 294,
+          "like_count": 1689,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 832
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T16:42:43.000Z",
+        "description": "",
+        "id": "1750922170329669632",
+        "name": "明安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567207458742272/fM9HiNzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 112,
+          "like_count": 2410,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 307
+        },
+        "username": "WHY761595083014",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "1984249018898386965",
+    "created_at": "2026-01-16T12:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T13:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012145477194792979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1639664012907429890",
+          "start": 0,
+          "username": "Je1nFaur_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012145477194792979",
+    "in_reply_to_user_id": "1639664012907429890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984252267567194612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Je1nFaur_l 为啥非得这样摆...男生也不会觉得这很漂亮吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1705,
+        "media_key": "3_1984252264287219712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4l6692asAAZ2fr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "1984249018898386965",
+        "created_at": "2026-01-16T12:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T13:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012145477194792979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1639664012907429890",
+              "start": 0,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012145477194792979",
+        "in_reply_to_user_id": "1639664012907429890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984252267567194612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Je1nFaur_l 为啥非得这样摆...男生也不会觉得这很漂亮吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984252264287219712"
+          ]
+        },
+        "author_id": "1639664012907429890",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984249018898386965",
+        "created_at": "2025-10-31T13:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984252267567194612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5w22Fwhd3",
+              "end": 64,
+              "expanded_url": "https://x.com/Je1nFaur_l/status/1984252267567194612/photo/1",
+              "media_key": "3_1984252264287219712",
+              "start": 41,
+              "url": "https://t.co/X5w22Fwhd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984252267567194612",
+        "in_reply_to_user_id": "1955977520492503043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1257,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984249018898386965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ffbbgg00 我之前看到一个男生眼里的漂亮饭真的无语死了 这种的能吃吗。。 https://t.co/X5w22Fwhd3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 78,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 56,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢网址请收藏ovo",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 563,
+          "like_count": 2959,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-25T16:22:49.000Z",
+        "description": "我是Mio大王 宅女一枚呀\n你管得着我发什么吗\n品客网左滚\nshitposting & venting randomly\n #フォロバ0　 #フォロバ絶対しない",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "フォロバ0"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "tag": "フォロバ絶対しない"
+              }
+            ]
+          }
+        },
+        "id": "1639664012907429890",
+        "location": "Heimdallr, Erebonian Empire ",
+        "name": "mio大王@無言ブロック失礼します",
+        "pinned_tweet_id": "1939326757410349487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004336547978768384/Oz15S-zD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 3982,
+          "like_count": 165151,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 11346
+        },
+        "username": "Je1nFaur_l",
+        "verified": false
+      }
+    ]
+  }
+}

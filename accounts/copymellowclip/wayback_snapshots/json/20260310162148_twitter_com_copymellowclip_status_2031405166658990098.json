@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2031403732253217263",
+    "created_at": "2026-03-10T16:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T17:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031405166658990098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906024483431047168",
+          "start": 0,
+          "username": "Chudokusho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031405166658990098",
+    "in_reply_to_user_id": "1906024483431047168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031405062245986475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chudokusho 真是百年难得一遇（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2031403732253217263",
+        "created_at": "2026-03-10T16:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031405166658990098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906024483431047168",
+              "start": 0,
+              "username": "Chudokusho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031405166658990098",
+        "in_reply_to_user_id": "1906024483431047168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031405062245986475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chudokusho 真是百年难得一遇（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906024483431047168",
+        "conversation_id": "2031403732253217263",
+        "created_at": "2026-03-10T16:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031405062245986475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031405062245986475",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031403732253217263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 好耶！烤烤酱终于解锁室外地图了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 1691,
+          "like_count": 6333,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2507
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Chudokushowo",
+                "end": 23,
+                "expanded_url": "https://x.com/Chudokushowo",
+                "start": 0,
+                "url": "https://t.co/9QS2ZLrzWv"
+              }
+            ]
+          }
+        },
+        "id": "1906024483431047168",
+        "location": "防走丢",
+        "name": "叙春日",
+        "pinned_tweet_id": "2012377584156447185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021836144829509635/rWlwX03t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 70,
+          "like_count": 4646,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 2705
+        },
+        "url": "https://t.co/9QS2ZLrzWv",
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

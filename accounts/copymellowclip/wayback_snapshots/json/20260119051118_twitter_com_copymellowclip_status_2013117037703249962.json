@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012581735117267001",
+    "created_at": "2026-01-19T05:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T06:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013117037703249962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1562700436041527297",
+          "start": 0,
+          "username": "_saku_rin_"
+        },
+        {
+          "end": 20,
+          "id": "1470410046353858565",
+          "start": 12,
+          "username": "miumcii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013117037703249962",
+    "in_reply_to_user_id": "1562700436041527297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013114636602876078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_saku_rin_ @miumcii 居然这样ww超级可爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012581735117267001",
+        "created_at": "2026-01-19T05:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T06:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013117037703249962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1562700436041527297",
+              "start": 0,
+              "username": "_saku_rin_"
+            },
+            {
+              "end": 20,
+              "id": "1470410046353858565",
+              "start": 12,
+              "username": "miumcii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013117037703249962",
+        "in_reply_to_user_id": "1562700436041527297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013114636602876078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_saku_rin_ @miumcii 居然这样ww超级可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562700436041527297",
+        "conversation_id": "2012581735117267001",
+        "created_at": "2026-01-19T05:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T06:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013114636602876078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 24,
+              "id": "1470410046353858565",
+              "start": 16,
+              "username": "miumcii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013114636602876078",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013112084838621580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @miumcii 宝你刷到我这个大号了（💦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 654,
+          "like_count": 3741,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1490
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-25T07:16:44.000Z",
+        "description": "这里是小曦的娃分身。桜凛です | 着ぐるみ｜miku专业户",
+        "id": "1562700436041527297",
+        "name": "さくりん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975877413725962240/yHustWSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 336,
+          "like_count": 64,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 25
+        },
+        "username": "_saku_rin_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T15:07:45.000Z",
+        "description": "好拥挤啊哈哈…。",
+        "id": "1470410046353858565",
+        "name": "闵目🍉夕曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954133022334410752/JblCpcUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36483,
+          "following_count": 310,
+          "like_count": 21958,
+          "listed_count": 106,
+          "media_count": 319,
+          "tweet_count": 11934
+        },
+        "username": "miumcii",
+        "verified": false
+      }
+    ]
+  }
+}

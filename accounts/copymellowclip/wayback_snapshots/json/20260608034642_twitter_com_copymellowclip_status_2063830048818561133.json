@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2063685568211632144",
+    "created_at": "2026-06-08T03:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063830048818561133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        },
+        {
+          "end": 26,
+          "id": "1614515878737113090",
+          "start": 10,
+          "username": "Sakichan_desuwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063830048818561133",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063685568211632144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 @Sakichan_desuwa 老婆宝宝妈妈姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063685558325673984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOvFNgbAAAprUO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063685557889511424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOvFL4bsAAkW4a.jpg",
+        "width": 1534
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2063685557902057472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOvFL7bIAABGbA.jpg",
+        "width": 768
+      },
+      {
+        "height": 1532,
+        "media_key": "3_2063685558321455104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOvFNfaoAAatMk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2063685568211632144",
+        "created_at": "2026-06-08T03:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063830048818561133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            },
+            {
+              "end": 26,
+              "id": "1614515878737113090",
+              "start": 10,
+              "username": "Sakichan_desuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063830048818561133",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063685568211632144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 @Sakichan_desuwa 老婆宝宝妈妈姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063685558325673984",
+            "3_2063685557889511424",
+            "3_2063685557902057472",
+            "3_2063685558321455104"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2063685568211632144",
+        "created_at": "2026-06-07T18:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063685568211632144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 1,
+              "tag": "鳴瀬しろは生誕祭"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "サマポケ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGJHw0Ghok",
+              "end": 40,
+              "expanded_url": "https://x.com/doll7799/status/2063685568211632144/photo/1",
+              "media_key": "3_2063685558325673984",
+              "start": 17,
+              "url": "https://t.co/CGJHw0Ghok"
+            },
+            {
+              "display_url": "pic.x.com/CGJHw0Ghok",
+              "end": 40,
+              "expanded_url": "https://x.com/doll7799/status/2063685568211632144/photo/1",
+              "media_key": "3_2063685557889511424",
+              "start": 17,
+              "url": "https://t.co/CGJHw0Ghok"
+            },
+            {
+              "display_url": "pic.x.com/CGJHw0Ghok",
+              "end": 40,
+              "expanded_url": "https://x.com/doll7799/status/2063685568211632144/photo/1",
+              "media_key": "3_2063685557902057472",
+              "start": 17,
+              "url": "https://t.co/CGJHw0Ghok"
+            },
+            {
+              "display_url": "pic.x.com/CGJHw0Ghok",
+              "end": 40,
+              "expanded_url": "https://x.com/doll7799/status/2063685568211632144/photo/1",
+              "media_key": "3_2063685558321455104",
+              "start": 17,
+              "url": "https://t.co/CGJHw0Ghok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063685568211632144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2660,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🍉#鳴瀬しろは生誕祭 #サマポケ https://t.co/CGJHw0Ghok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 1774,
+          "like_count": 7279,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 3613
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707 \n扩列52 匿名提问 https://t.co/2lBKx6Awd7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ydd67887",
+                "end": 46,
+                "expanded_url": "https://ngl.link/ydd67887",
+                "start": 23,
+                "url": "https://t.co/2lBKx6Awd7"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5242,
+          "following_count": 10,
+          "like_count": 2375,
+          "listed_count": 21,
+          "media_count": 230,
+          "tweet_count": 920
+        },
+        "username": "doll7799",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-15T06:53:59.000Z",
+        "description": "＊INTP/INFP丨♪Res quas amo:E̴R̷R̵O̴R̶ ̵N̷O̵N̵E̸丨⚠️せいしんびょう",
+        "id": "1614515878737113090",
+        "location": "Utopia",
+        "name": "伪人小祥desuwa",
+        "pinned_tweet_id": "1931292817017418065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929590920930095104/rRnZuYk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 2903,
+          "like_count": 19027,
+          "listed_count": 15,
+          "media_count": 121,
+          "tweet_count": 2968
+        },
+        "username": "Sakichan_desuwa",
+        "verified": false
+      }
+    ]
+  }
+}

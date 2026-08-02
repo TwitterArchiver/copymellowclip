@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009962388553118042",
+    "created_at": "2026-01-10T16:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T17:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010031698139103635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007995602324643840",
+          "start": 0,
+          "username": "Aubergiking78"
+        },
+        {
+          "end": 25,
+          "id": "1994769699054522369",
+          "start": 15,
+          "username": "BaiShirly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010031698139103635",
+    "in_reply_to_user_id": "2007995602324643840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010031420094529890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aubergiking78 @BaiShirly 我就这样看一个回一个.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009962388553118042",
+        "created_at": "2026-01-10T16:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010031698139103635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007995602324643840",
+              "start": 0,
+              "username": "Aubergiking78"
+            },
+            {
+              "end": 25,
+              "id": "1994769699054522369",
+              "start": 15,
+              "username": "BaiShirly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010031698139103635",
+        "in_reply_to_user_id": "2007995602324643840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010031420094529890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aubergiking78 @BaiShirly 我就这样看一个回一个.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007995602324643840",
+        "conversation_id": "2009962388553118042",
+        "created_at": "2026-01-10T16:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010031420094529890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 26,
+              "id": "1994769699054522369",
+              "start": 16,
+              "username": "BaiShirly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010031420094529890",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009963870451052566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @BaiShirly 主播主播怎么在哪都看的到你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 99,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 357
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-05T02:01:06.000Z",
+        "description": "171cm 74kg 大一新生\n纯当朋友圈，如果看不惯就当我是乐子",
+        "id": "2007995602324643840",
+        "name": "111 Aubergine.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008395042906574848/X9yJArPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 45
+        },
+        "username": "Aubergiking78",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T14:06:05.000Z",
+        "description": "本体 @bailikoi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "bailikoi"
+              }
+            ]
+          }
+        },
+        "id": "1994769699054522369",
+        "name": "白栎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008887801996259328/PPaj_sHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21829,
+          "following_count": 2,
+          "like_count": 47,
+          "listed_count": 55,
+          "media_count": 26,
+          "tweet_count": 68
+        },
+        "username": "BaiShirly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2035745808541458544",
+    "created_at": "2026-03-23T01:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035894673735356660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628343048051490816",
+          "start": 0,
+          "username": "mamamia1008"
+        },
+        {
+          "end": 22,
+          "id": "1291827298392449024",
+          "start": 13,
+          "username": "rik0ring"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035894673735356660",
+    "in_reply_to_user_id": "1628343048051490816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035745808541458544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mamamia1008 @rik0ring 开盖即食喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035745803894185985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBsBdYa4AE-BTI.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035745805001453568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBsBhgacAAjoou.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2035745808541458544",
+        "created_at": "2026-03-23T01:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035894673735356660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628343048051490816",
+              "start": 0,
+              "username": "mamamia1008"
+            },
+            {
+              "end": 22,
+              "id": "1291827298392449024",
+              "start": 13,
+              "username": "rik0ring"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035894673735356660",
+        "in_reply_to_user_id": "1628343048051490816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035745808541458544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mamamia1008 @rik0ring 开盖即食喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035745803894185985",
+            "3_2035745805001453568"
+          ]
+        },
+        "author_id": "1628343048051490816",
+        "conversation_id": "2035745808541458544",
+        "created_at": "2026-03-22T15:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035745808541458544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291827298392449024",
+              "start": 3,
+              "username": "rik0ring"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WF5tsuyxqk",
+              "end": 36,
+              "expanded_url": "https://x.com/mamamia1008/status/2035745808541458544/photo/1",
+              "media_key": "3_2035745803894185985",
+              "start": 13,
+              "url": "https://t.co/WF5tsuyxqk"
+            },
+            {
+              "display_url": "pic.x.com/WF5tsuyxqk",
+              "end": 36,
+              "expanded_url": "https://x.com/mamamia1008/status/2035745808541458544/photo/1",
+              "media_key": "3_2035745805001453568",
+              "start": 13,
+              "url": "https://t.co/WF5tsuyxqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035745808541458544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 847,
+          "impression_count": 97153,
+          "like_count": 3828,
+          "quote_count": 3,
+          "reply_count": 52,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "原作：@rik0ring https://t.co/WF5tsuyxqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 1706,
+          "like_count": 6449,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 2672
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T10:37:18.000Z",
+        "description": "🇨🇳の气人Cosplayer~努力努力再努力的小coser一枚✨bilibili：咪娅酱ovo✨佛系发帖✨谢谢喜欢✨",
+        "id": "1628343048051490816",
+        "location": "鸡窝托斯学院",
+        "name": "咪娅酱🐰",
+        "pinned_tweet_id": "2021246940004950108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911827877940572160/6LKyXZH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195104,
+          "following_count": 44,
+          "like_count": 6635,
+          "listed_count": 837,
+          "media_count": 178,
+          "tweet_count": 1669
+        },
+        "username": "mamamia1008",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T20:03:45.000Z",
+        "description": "📨CONTACT: rikoring16@gmail.com fanbox: https://t.co/YUTk0uYeqY ENG/中/日本語 OK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rik0ring.fanbox.cc",
+                "end": 62,
+                "expanded_url": "https://rik0ring.fanbox.cc/",
+                "start": 39,
+                "url": "https://t.co/YUTk0uYeqY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/40317874",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/40317874",
+                "start": 0,
+                "url": "https://t.co/rmoYfw5SUx"
+              }
+            ]
+          }
+        },
+        "id": "1291827298392449024",
+        "name": "Riko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894337707398017024/DBM5g_Us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250750,
+          "following_count": 997,
+          "like_count": 15375,
+          "listed_count": 1645,
+          "media_count": 231,
+          "tweet_count": 7846
+        },
+        "url": "https://t.co/rmoYfw5SUx",
+        "username": "rik0ring",
+        "verified": true
+      }
+    ]
+  }
+}

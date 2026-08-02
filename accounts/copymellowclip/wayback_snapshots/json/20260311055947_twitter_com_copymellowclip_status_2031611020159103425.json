@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2031415328451002668",
+    "created_at": "2026-03-11T05:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T06:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031611020159103425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865514630808010752",
+          "start": 0,
+          "username": "Ew4wEB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031611020159103425",
+    "in_reply_to_user_id": "1865514630808010752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031415328451002668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ew4wEB 可爱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2031415328451002668",
+        "created_at": "2026-03-11T05:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031611020159103425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865514630808010752",
+              "start": 0,
+              "username": "Ew4wEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031611020159103425",
+        "in_reply_to_user_id": "1865514630808010752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031415328451002668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ew4wEB 可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865514630808010752",
+        "conversation_id": "2031415328451002668",
+        "created_at": "2026-03-10T17:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031415328451002668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031415328451002668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5167,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己给自己买狗链这合适嘛w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 1704,
+          "like_count": 6381,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2557
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T21:52:10.000Z",
+        "description": "brat小咪的爆炸碎碎念^ ^",
+        "id": "1865514630808010752",
+        "name": "萌咪",
+        "pinned_tweet_id": "2023555698316243379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026319089439068160/TN8LCcCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4585,
+          "following_count": 19,
+          "like_count": 1295,
+          "listed_count": 12,
+          "media_count": 132,
+          "tweet_count": 720
+        },
+        "username": "Ew4wEB",
+        "verified": false
+      }
+    ]
+  }
+}

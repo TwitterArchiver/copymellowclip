@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2028406629549723717",
+    "created_at": "2026-03-03T01:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T02:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028637897545650532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751084995312275456",
+          "start": 0,
+          "username": "WikuWiku1911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028637897545650532",
+    "in_reply_to_user_id": "1751084995312275456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028406629549723717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WikuWiku1911 本质就是自带屏幕和电池的超薄itx（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 257,
+        "media_key": "3_2028406621928558592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZZE2AaEAAIUqH.jpg",
+        "width": 309
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2028406629549723717",
+        "created_at": "2026-03-03T01:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028637897545650532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751084995312275456",
+              "start": 0,
+              "username": "WikuWiku1911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028637897545650532",
+        "in_reply_to_user_id": "1751084995312275456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028406629549723717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WikuWiku1911 本质就是自带屏幕和电池的超薄itx（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028406621928558592"
+          ]
+        },
+        "author_id": "1751084995312275456",
+        "conversation_id": "2028406629549723717",
+        "created_at": "2026-03-02T09:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028406629549723717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/coYLpLky2a",
+              "end": 77,
+              "expanded_url": "https://x.com/WikuWiku1911/status/2028406629549723717/photo/1",
+              "media_key": "3_2028406621928558592",
+              "start": 54,
+              "url": "https://t.co/coYLpLky2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028406629549723717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7078,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以说游戏本真就是中国风味电脑\n续航没有\n便携没有\n性能也没有\n只能满足宿舍放不了pc的大学生打游戏的需求 https://t.co/coYLpLky2a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1706,
+          "like_count": 6283,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2446
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "「私たちが経験した平凡な日常は、連続して起こる奇跡かもしれません」                                                                  友達！：@meguruKirara   Remi  @miku_suki393939 对象：@Mikuloverr_新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "meguruKirara"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 157,
+                "start": 145,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/LittIeStar/MyG…",
+                "end": 23,
+                "expanded_url": "https://github.com/LittIeStar/MyGameCode",
+                "start": 0,
+                "url": "https://t.co/TLtumacIN5"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "2022938243470401923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996915949782581248/zpb98e3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3962,
+          "following_count": 1344,
+          "like_count": 38326,
+          "listed_count": 17,
+          "media_count": 2651,
+          "tweet_count": 14975
+        },
+        "url": "https://t.co/TLtumacIN5",
+        "username": "WikuWiku1911",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2081029942158983337",
+    "created_at": "2026-07-26T01:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081187154252742902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081187154252742902",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081029942158983337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 下班还能抱抱太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2081029942158983337",
+        "created_at": "2026-07-26T01:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081187154252742902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081187154252742902",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081029942158983337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 下班还能抱抱太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944679199358570496",
+        "conversation_id": "2081029942158983337",
+        "created_at": "2026-07-25T14:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081029942158983337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081029942158983337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2339,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下。我是你对象。每天宅在家。\n什么也不做。也不吃饭。情绪总是崩溃。\n药瓶滚的哪里都是。等你下班。还带着一手臂的新伤。还伸手要抱要哄。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 1774,
+          "like_count": 7403,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 3865
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "miovo",
+        "pinned_tweet_id": "2011472330870907217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 243,
+          "like_count": 20077,
+          "listed_count": 5,
+          "media_count": 232,
+          "tweet_count": 3574
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

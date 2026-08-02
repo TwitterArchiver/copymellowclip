@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010761288847421719",
+    "created_at": "2026-01-13T02:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T03:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010906131338834359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010906131338834359",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010902543086375288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 用的是jetbrains家的ide耶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010902531673833472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gpMsZaQAA1fgQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010761288847421719",
+        "created_at": "2026-01-13T02:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T03:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010906131338834359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010906131338834359",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010902543086375288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 用的是jetbrains家的ide耶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010902531673833472"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2010761288847421719",
+        "created_at": "2026-01-13T02:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T03:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010902543086375288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQ4CUFQNtu",
+              "end": 70,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2010902543086375288/photo/1",
+              "media_key": "3_2010902531673833472",
+              "start": 47,
+              "url": "https://t.co/lQ4CUFQNtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010902543086375288",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010901565440475364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 这个我真略知一二！待我学成归来手把手教你哈哈哈哈（bushi https://t.co/lQ4CUFQNtu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 285,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 785
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0kadami0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0kadami0",
+                "start": 0,
+                "url": "https://t.co/K7lD9UABTb"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "ミオ没睡醒",
+        "pinned_tweet_id": "1977444582653935861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 130,
+          "like_count": 6124,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/K7lD9UABTb",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

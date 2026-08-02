@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2019006479144198332",
+    "created_at": "2026-02-05T02:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T03:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019242916477337644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906024483431047168",
+          "start": 0,
+          "username": "Chudokusho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019242916477337644",
+    "in_reply_to_user_id": "1906024483431047168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019006479144198332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chudokusho 没吃过qwq不能吃辣的TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2019006479144198332",
+        "created_at": "2026-02-05T02:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019242916477337644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906024483431047168",
+              "start": 0,
+              "username": "Chudokusho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019242916477337644",
+        "in_reply_to_user_id": "1906024483431047168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019006479144198332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chudokusho 没吃过qwq不能吃辣的TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906024483431047168",
+        "conversation_id": "2019006479144198332",
+        "created_at": "2026-02-04T11:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019006479144198332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019006479144198332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1681,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三养火鸡面里面肯定加东西了 不然我怎么一天三顿都想吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 1637,
+          "like_count": 6266,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2332
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你 @Chudokushowo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "Chudokushowo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chudokusho1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chudokusho1",
+                "start": 0,
+                "url": "https://t.co/B2IXaTpzxd"
+              }
+            ]
+          }
+        },
+        "id": "1906024483431047168",
+        "location": "匿名信箱",
+        "name": "叙春日",
+        "pinned_tweet_id": "2012377584156447185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006905531848601602/DnnroOGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 77,
+          "like_count": 2759,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/B2IXaTpzxd",
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

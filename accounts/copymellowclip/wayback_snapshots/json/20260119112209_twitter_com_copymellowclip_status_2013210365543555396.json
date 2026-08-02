@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012950065892204698",
+    "created_at": "2026-01-19T11:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T12:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013210365543555396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1793837778314338304",
+          "start": 0,
+          "username": "Woliketouzhele"
+        },
+        {
+          "end": 26,
+          "id": "1902927187965251589",
+          "start": 16,
+          "username": "wuy035296"
+        },
+        {
+          "end": 38,
+          "id": "112932815",
+          "start": 27,
+          "username": "Chinese_XU"
+        },
+        {
+          "end": 51,
+          "id": "489233083",
+          "start": 39,
+          "username": "discountifu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013210365543555396",
+    "in_reply_to_user_id": "1793837778314338304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "身边统计学，女生大概百分之10左右知道并且会用吧，但是女生沾二次元/同人的大概能增加到40-60%，然后男生基本上30%会用吧。\n\n基本上百分之90以上的年轻人都知道墙的存在，都知道“外国人”会用谷歌油管，但是觉得上面都是英文内容自己看不懂并且也没需求、所以不会有人主动去找，看外网也是看国内转载/非授权转载并加上字幕的视频。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013208680590909587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Woliketouzhele @wuy035296 @Chinese_XU @discountifu 身边统计学，女生大概百分之10左右知道并且会用吧，但是女生沾二次元/同人的大概能增加到40-60%，然后男生基本上30%会用吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012950065892204698",
+        "created_at": "2026-01-19T11:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013210365543555396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1793837778314338304",
+              "start": 0,
+              "username": "Woliketouzhele"
+            },
+            {
+              "end": 26,
+              "id": "1902927187965251589",
+              "start": 16,
+              "username": "wuy035296"
+            },
+            {
+              "end": 38,
+              "id": "112932815",
+              "start": 27,
+              "username": "Chinese_XU"
+            },
+            {
+              "end": 51,
+              "id": "489233083",
+              "start": 39,
+              "username": "discountifu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013210365543555396",
+        "in_reply_to_user_id": "1793837778314338304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "身边统计学，女生大概百分之10左右知道并且会用吧，但是女生沾二次元/同人的大概能增加到40-60%，然后男生基本上30%会用吧。\n\n基本上百分之90以上的年轻人都知道墙的存在，都知道“外国人”会用谷歌油管，但是觉得上面都是英文内容自己看不懂并且也没需求、所以不会有人主动去找，看外网也是看国内转载/非授权转载并加上字幕的视频。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013208680590909587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Woliketouzhele @wuy035296 @Chinese_XU @discountifu 身边统计学，女生大概百分之10左右知道并且会用吧，但是女生沾二次元/同人的大概能增加到40-60%，然后男生基本上30%会用吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793837778314338304",
+        "conversation_id": "2012950065892204698",
+        "created_at": "2026-01-19T11:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013208680590909587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902927187965251589",
+              "start": 0,
+              "username": "wuy035296"
+            },
+            {
+              "end": 26,
+              "id": "876363325998678017",
+              "start": 11,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 38,
+              "id": "112932815",
+              "start": 27,
+              "username": "Chinese_XU"
+            },
+            {
+              "end": 51,
+              "id": "489233083",
+              "start": 39,
+              "username": "discountifu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013208680590909587",
+        "in_reply_to_user_id": "1902927187965251589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013207459947577674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuy035296 @copymellowclip @Chinese_XU @discountifu 你同学知道有墙的存在吗？如果知道，会翻墙吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 662,
+          "like_count": 3802,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1507
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T02:54:39.000Z",
+        "description": "主张反共复清，西方民主，马列那一套，都是殖人思维，见了皇帝和官员三跪九叩才是正统，为什么长膝盖？就是用来下跪的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "program-think.blogspot.com/?m=1",
+                "end": 23,
+                "expanded_url": "https://program-think.blogspot.com/?m=1",
+                "start": 0,
+                "url": "https://t.co/zGAdmZBz1s"
+              }
+            ]
+          }
+        },
+        "id": "1793837778314338304",
+        "location": "比邻星B",
+        "name": "豹国师",
+        "pinned_tweet_id": "2010696284181868808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993312666606284800/A7nWkvOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 918,
+          "like_count": 41232,
+          "listed_count": 1,
+          "media_count": 1284,
+          "tweet_count": 10553
+        },
+        "url": "https://t.co/zGAdmZBz1s",
+        "username": "Woliketouzhele",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T03:36:35.000Z",
+        "description": "用苹果手机，享受苹果人生。",
+        "id": "1902927187965251589",
+        "location": "所在地区有十条地铁，有一座国际机场，有一家山姆会员店。",
+        "name": "户没风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971233496099442688/dtO4-fFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 23,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 128
+        },
+        "username": "wuy035296",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-10T04:55:41.000Z",
+        "description": "君子中庸，小人反中庸。己所不欲勿施于人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ba2ops.com",
+                "end": 23,
+                "expanded_url": "http://www.ba2ops.com",
+                "start": 0,
+                "url": "https://t.co/z5dDZGEg26"
+              }
+            ]
+          }
+        },
+        "id": "112932815",
+        "location": "Shanghai",
+        "name": "君子中庸",
+        "pinned_tweet_id": "1859898747469402493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1169051350237401089/A6I5Vsv-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12940,
+          "following_count": 442,
+          "like_count": 319532,
+          "listed_count": 88,
+          "media_count": 4225,
+          "tweet_count": 96646
+        },
+        "url": "https://t.co/z5dDZGEg26",
+        "username": "Chinese_XU",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-11T09:47:06.000Z",
+        "description": "区块链｜AI｜玄学命理｜全沾工程师 🔮一站式加密货币看板 @ritmex_crypto 🕹️Sea·星海漫游 Co-Founder @Seaxing777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ritmex_crypto"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "Seaxing777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ritmex.one",
+                "end": 23,
+                "expanded_url": "https://ritmex.one",
+                "start": 0,
+                "url": "https://t.co/nyYytqql9Q"
+              }
+            ]
+          }
+        },
+        "id": "489233083",
+        "location": "Japan",
+        "name": "大梦想家迪士尼",
+        "pinned_tweet_id": "1974870806892331228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993334087940292609/WEd8L0BX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11975,
+          "following_count": 677,
+          "like_count": 7843,
+          "listed_count": 168,
+          "media_count": 1283,
+          "tweet_count": 9613
+        },
+        "url": "https://t.co/nyYytqql9Q",
+        "username": "discountifu",
+        "verified": true
+      }
+    ]
+  }
+}

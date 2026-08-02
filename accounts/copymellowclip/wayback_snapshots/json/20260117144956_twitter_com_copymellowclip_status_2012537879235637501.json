@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012526158508888519",
+    "created_at": "2026-01-17T14:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T15:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012537879235637501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429328211180023810",
+          "start": 0,
+          "username": "XiaoXiaohcgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012537879235637501",
+    "in_reply_to_user_id": "1429328211180023810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012526158508888519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoXiaohcgz 特别特别认真好看ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1965,
+        "media_key": "3_2012525982356561920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3tt9ebYAAStmZ.jpg",
+        "width": 1079
+      },
+      {
+        "height": 728,
+        "media_key": "3_2012525982348124161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3tt9caoAEsfMU.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012526158508888519",
+        "created_at": "2026-01-17T14:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012537879235637501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429328211180023810",
+              "start": 0,
+              "username": "XiaoXiaohcgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012537879235637501",
+        "in_reply_to_user_id": "1429328211180023810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012526158508888519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoXiaohcgz 特别特别认真好看ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012525982356561920",
+            "3_2012525982348124161"
+          ]
+        },
+        "author_id": "1429328211180023810",
+        "conversation_id": "2012526158508888519",
+        "created_at": "2026-01-17T14:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012526158508888519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRAhEYyHwA",
+              "end": 50,
+              "expanded_url": "https://x.com/XiaoXiaohcgz/status/2012526158508888519/photo/1",
+              "media_key": "3_2012525982356561920",
+              "start": 27,
+              "url": "https://t.co/PRAhEYyHwA"
+            },
+            {
+              "display_url": "pic.x.com/PRAhEYyHwA",
+              "end": 50,
+              "expanded_url": "https://x.com/XiaoXiaohcgz/status/2012526158508888519/photo/1",
+              "media_key": "3_2012525982348124161",
+              "start": 27,
+              "url": "https://t.co/PRAhEYyHwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012526158508888519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 211,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我出cos的态度就是，我既然决定了要出，就会做的最好 https://t.co/PRAhEYyHwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢个人主页、推荐收藏！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 608,
+          "like_count": 3459,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1409
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-22T06:23:07.000Z",
+        "description": "入门不退谢谢喵 50+v纯绿喵",
+        "id": "1429328211180023810",
+        "location": "50+V",
+        "name": "关关",
+        "pinned_tweet_id": "1982385418495738032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012301021817749508/bingO7W-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36446,
+          "following_count": 250,
+          "like_count": 3408,
+          "listed_count": 14,
+          "media_count": 970,
+          "tweet_count": 3485
+        },
+        "username": "XiaoXiaohcgz",
+        "verified": false
+      }
+    ]
+  }
+}

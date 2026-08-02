@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013685982789328896"
+      ],
+      "media_source_tweet_id": [
+        "2013685988317679898"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2015803776511430852",
+    "created_at": "2026-01-26T15:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T16:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015803776511430852"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "反差"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "調皮鬼"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1850956559817506816",
+          "start": 3,
+          "username": "_mixia__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/abUKMPjszE",
+          "end": 70,
+          "expanded_url": "https://x.com/_mixia__/status/2013685988317679898/photo/1",
+          "media_key": "3_2013685982789328896",
+          "start": 47,
+          "url": "https://t.co/abUKMPjszE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015803776511430852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013685988317679898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mixia__: 這麼晚了怎麼還不睡？\n反正你也沒有什麼事可以做\n#反差 #調皮鬼 https://t.co/abUKMPjszE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2015803776511430852].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2015803776511430852",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2015803776511430852"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2013685982789328896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_IMu31XYAAVIvK.jpg",
+        "width": 733
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013685982789328896"
+          ]
+        },
+        "author_id": "1850956559817506816",
+        "conversation_id": "2013685988317679898",
+        "created_at": "2026-01-20T18:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013685988317679898"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "反差"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "調皮鬼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abUKMPjszE",
+              "end": 56,
+              "expanded_url": "https://x.com/_mixia__/status/2013685988317679898/photo/1",
+              "media_key": "3_2013685982789328896",
+              "start": 33,
+              "url": "https://t.co/abUKMPjszE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013685988317679898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這麼晚了怎麼還不睡？\n反正你也沒有什麼事可以做\n#反差 #調皮鬼 https://t.co/abUKMPjszE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 1028,
+          "like_count": 5396,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 2004
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-28T17:43:43.000Z",
+        "description": "這裡是紬～偶爾發些奇奇怪怪的文和照片～ 但不可能會發私密照之類的就別想那麼多了。歡迎交朋友！ 可以問我問題或是各種許願！https://t.co/Xut6tlY35x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_mixia__",
+                "end": 83,
+                "expanded_url": "https://ngl.link/_mixia__",
+                "start": 60,
+                "url": "https://t.co/Xut6tlY35x"
+              }
+            ]
+          }
+        },
+        "id": "1850956559817506816",
+        "location": "Osaka-fu, Japan",
+        "name": "ツムギ",
+        "pinned_tweet_id": "2013658196964188249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013593401325699072/jVvmmQyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 106,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 83
+        },
+        "username": "_mixia__",
+        "verified": false
+      }
+    ]
+  }
+}

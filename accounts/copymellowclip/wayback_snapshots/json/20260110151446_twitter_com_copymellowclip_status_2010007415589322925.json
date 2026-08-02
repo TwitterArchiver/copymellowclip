@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010003103396049086",
+    "created_at": "2026-01-10T15:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T16:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010007415589322925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976659813863227392",
+          "start": 0,
+          "username": "qian_YuqianMi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010007415589322925",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010003705970733246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian_YuqianMi 捏捏千酱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010003103396049086",
+        "created_at": "2026-01-10T15:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T16:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010007415589322925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010007415589322925",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010003705970733246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 捏捏千酱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2010003103396049086",
+        "created_at": "2026-01-10T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010003705970733246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010003705970733246",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010003103396049086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 宝宝你为森莫这么萌啊，，简直是阿芙洛狄忒降世🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 86,
+          "like_count": 438,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 326
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 634,
+          "like_count": 10835,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2496
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

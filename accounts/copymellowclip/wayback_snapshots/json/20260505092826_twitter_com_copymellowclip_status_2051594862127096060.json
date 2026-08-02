@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2051471686017634456",
+    "created_at": "2026-05-05T09:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051594862127096060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051594862127096060",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051471686017634456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa 偶尔看朋友圈发现可爱遥喵的图我将开心一整天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2051471686017634456",
+        "created_at": "2026-05-05T09:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051594862127096060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051594862127096060",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051471686017634456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 偶尔看朋友圈发现可爱遥喵的图我将开心一整天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2051471686017634456",
+        "created_at": "2026-05-05T01:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051471686017634456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miiharukawa/st…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/miiharukawa/status/2051333375919804571",
+              "start": 94,
+              "url": "https://t.co/3U3W1TboBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051471686017634456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 891,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051333375919804571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有时候在想自己拍的一些照片完全没亮点 没有新鲜事物也没有精彩的构图，不是完美精修的自拍。这样的照片也可以发在朋友圈吗，大家又会怎么想呢。所以不太发了，感觉像是在经营着什么而不是为了自己。 https://t.co/3U3W1TboBM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 1722,
+          "like_count": 6863,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 3106
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 215,
+          "like_count": 6673,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 2573
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

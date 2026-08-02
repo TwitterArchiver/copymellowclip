@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2059921351876682086",
+    "created_at": "2026-05-28T11:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059966825782198411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2013724577529049088",
+          "start": 0,
+          "username": "_roopuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059966825782198411",
+    "in_reply_to_user_id": "2013724577529049088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059921351876682086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_roopuu 好萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2059921332939423745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZPidMagAEzcwx.jpg",
+        "width": 4096
+      },
+      {
+        "height": 636,
+        "media_key": "3_2059921332733911040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZPicbaoAAzBJ5.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2059921351876682086",
+        "created_at": "2026-05-28T11:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059966825782198411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2013724577529049088",
+              "start": 0,
+              "username": "_roopuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059966825782198411",
+        "in_reply_to_user_id": "2013724577529049088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059921351876682086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_roopuu 好萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059921332939423745",
+            "3_2059921332733911040"
+          ]
+        },
+        "author_id": "2013724577529049088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059921351876682086",
+        "created_at": "2026-05-28T08:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059921351876682086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vu5TRUNzHc",
+              "end": 26,
+              "expanded_url": "https://x.com/_roopuu/status/2059921351876682086/photo/1",
+              "media_key": "3_2059921332939423745",
+              "start": 3,
+              "url": "https://t.co/Vu5TRUNzHc"
+            },
+            {
+              "display_url": "pic.x.com/Vu5TRUNzHc",
+              "end": 26,
+              "expanded_url": "https://x.com/_roopuu/status/2059921351876682086/photo/1",
+              "media_key": "3_2059921332733911040",
+              "start": 3,
+              "url": "https://t.co/Vu5TRUNzHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059921351876682086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好耶 https://t.co/Vu5TRUNzHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 1772,
+          "like_count": 7206,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 3505
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "本垢 @_ropu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "_ropu"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": "プロ",
+        "pinned_tweet_id": "2059631799094161801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058139565706354688/a9VoHTY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 93,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 299
+        },
+        "username": "_roopuu",
+        "verified": false
+      }
+    ]
+  }
+}

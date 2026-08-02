@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011644553904996720",
+    "created_at": "2026-01-15T13:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T14:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011790865921176007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906024483431047168",
+          "start": 0,
+          "username": "Chudokusho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011790865921176007",
+    "in_reply_to_user_id": "1906024483431047168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011644553904996720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chudokusho 我以前一直玩电脑的时候也是这样、！然后后来发现感觉一直按标点符号好萌呀、我就一直在按这个顿号（？）、、、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2011644551807791104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rMD8zacAAa-MF.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011644553904996720",
+        "created_at": "2026-01-15T13:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T14:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011790865921176007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906024483431047168",
+              "start": 0,
+              "username": "Chudokusho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011790865921176007",
+        "in_reply_to_user_id": "1906024483431047168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011644553904996720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chudokusho 我以前一直玩电脑的时候也是这样、！然后后来发现感觉一直按标点符号好萌呀、我就一直在按这个顿号（？）、、、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011644551807791104"
+          ]
+        },
+        "author_id": "1906024483431047168",
+        "conversation_id": "2011644553904996720",
+        "created_at": "2026-01-15T03:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T04:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011644553904996720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KmZ0Z6V6te",
+              "end": 81,
+              "expanded_url": "https://x.com/Chudokusho/status/2011644553904996720/photo/1",
+              "media_key": "3_2011644551807791104",
+              "start": 58,
+              "url": "https://t.co/KmZ0Z6V6te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011644553904996720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1638,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我很不爱打标点符号 我觉得是因为小时候用按键手机 标点符号要按好多下 不如直接按空格省事 久而久之就这样了！ https://t.co/KmZ0Z6V6te"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 76,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 53,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 512,
+          "like_count": 2578,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1157
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你",
+        "id": "1906024483431047168",
+        "name": "叙春日",
+        "pinned_tweet_id": "2006923818917572943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006905531848601602/DnnroOGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 62,
+          "like_count": 2282,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 803
+        },
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

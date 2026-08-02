@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2056655768515231849",
+    "created_at": "2026-05-19T09:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056674864355057704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056674864355057704",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056655768515231849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 哇哦ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2056655755210825728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq1g0KaoAAfet1.jpg",
+        "width": 1024
+      },
+      {
+        "height": 514,
+        "media_key": "3_2056655755202457600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq1g0Ia8AAMWRf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2056655768515231849",
+        "created_at": "2026-05-19T09:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056674864355057704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056674864355057704",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056655768515231849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 哇哦ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056655755210825728",
+            "3_2056655755202457600"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056655768515231849",
+        "created_at": "2026-05-19T08:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056655768515231849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jfPKloyAT",
+              "end": 43,
+              "expanded_url": "https://x.com/doll7799/status/2056655768515231849/photo/1",
+              "media_key": "3_2056655755210825728",
+              "start": 20,
+              "url": "https://t.co/0jfPKloyAT"
+            },
+            {
+              "display_url": "pic.x.com/0jfPKloyAT",
+              "end": 43,
+              "expanded_url": "https://x.com/doll7799/status/2056655768515231849/photo/1",
+              "media_key": "3_2056655755202457600",
+              "start": 20,
+              "url": "https://t.co/0jfPKloyAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056655768515231849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凌晨去vrc圣地巡礼了，我九岁看的电影 https://t.co/0jfPKloyAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 1741,
+          "like_count": 7117,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3368
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707 \n扩列不是门槛，能不能就当成正常交朋友😂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5190,
+          "following_count": 10,
+          "like_count": 2109,
+          "listed_count": 20,
+          "media_count": 210,
+          "tweet_count": 845
+        },
+        "username": "doll7799",
+        "verified": false
+      }
+    ]
+  }
+}

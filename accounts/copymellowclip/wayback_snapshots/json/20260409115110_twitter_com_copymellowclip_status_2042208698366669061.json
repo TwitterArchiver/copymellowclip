@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2042188476989222997",
+    "created_at": "2026-04-09T11:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042208698366669061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620792340897054720",
+          "start": 0,
+          "username": "Orange007Orange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042208698366669061",
+    "in_reply_to_user_id": "1620792340897054720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042202633155301492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orange007Orange 我记不太清了但是好像是名创优品qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2042188476989222997",
+        "created_at": "2026-04-09T11:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042208698366669061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620792340897054720",
+              "start": 0,
+              "username": "Orange007Orange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042208698366669061",
+        "in_reply_to_user_id": "1620792340897054720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042202633155301492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange007Orange 我记不太清了但是好像是名创优品qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620792340897054720",
+        "conversation_id": "2042188476989222997",
+        "created_at": "2026-04-09T11:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042202633155301492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042202633155301492",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042188476989222997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 啊啊啊啊哪里可以买哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 1707,
+          "like_count": 6611,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 2839
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T14:33:23.000Z",
+        "description": "请问你今天要来一个🍊吗｜无性别或者性别是🍊｜精神状态二极管 但是努力康复中！｜⚠️鉴证魔怔b滚贴脸飞老冯｜随便发发 偶有r17内容｜陌生人私信不常看",
+        "id": "1620792340897054720",
+        "name": "melatonin🍊",
+        "pinned_tweet_id": "1935274813045571758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776652401012736/ZaGBqDqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 736,
+          "like_count": 59264,
+          "listed_count": 7,
+          "media_count": 751,
+          "tweet_count": 23969
+        },
+        "username": "Orange007Orange",
+        "verified": false
+      }
+    ]
+  }
+}

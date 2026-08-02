@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009393177074258320",
+    "created_at": "2026-01-09T11:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T12:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009590063278202978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1968747916903776256",
+          "start": 0,
+          "username": "Lolicon_AreYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009590063278202978",
+    "in_reply_to_user_id": "1968747916903776256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009393177074258320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lolicon_AreYou 看完更热了怎么办……！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009393172116312064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-LMcZ4WkAAnZtP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009393172137246721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-LMcZ9WAAElHZj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009393177074258320",
+        "created_at": "2026-01-09T11:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009590063278202978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1968747916903776256",
+              "start": 0,
+              "username": "Lolicon_AreYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009590063278202978",
+        "in_reply_to_user_id": "1968747916903776256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009393177074258320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lolicon_AreYou 看完更热了怎么办……！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009393172116312064",
+            "3_2009393172137246721"
+          ]
+        },
+        "author_id": "1968747916903776256",
+        "conversation_id": "2009393177074258320",
+        "created_at": "2026-01-08T22:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T23:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009393177074258320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "伪娘"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0dA6Y9TdWr",
+              "end": 45,
+              "expanded_url": "https://x.com/Lolicon_AreYou/status/2009393177074258320/photo/1",
+              "media_key": "3_2009393172116312064",
+              "start": 22,
+              "url": "https://t.co/0dA6Y9TdWr"
+            },
+            {
+              "display_url": "pic.x.com/0dA6Y9TdWr",
+              "end": 45,
+              "expanded_url": "https://x.com/Lolicon_AreYou/status/2009393177074258320/photo/1",
+              "media_key": "3_2009393172137246721",
+              "start": 22,
+              "url": "https://t.co/0dA6Y9TdWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009393177074258320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2114,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得你需要这个来降降温🤓\n#伪娘 #白丝 https://t.co/0dA6Y9TdWr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 37,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 161
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T18:44:31.000Z",
+        "description": "喜欢看Fate/kaleid liner 魔法少女☆伊莉雅！喜欢凹ba总力战！后面会喜欢发涩涩吧（",
+        "id": "1968747916903776256",
+        "location": "Denmark",
+        "name": "你懂双拼输入法嘛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968748538981933056/wSR2oWmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 10,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 80
+        },
+        "username": "Lolicon_AreYou",
+        "verified": true
+      }
+    ]
+  }
+}

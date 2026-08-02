@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2056613007506256350",
+    "created_at": "2026-05-19T05:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056613007506256350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/hsn8086/status/2056375829006049373",
+          "start": 59,
+          "url": "https://t.co/1Whw4XRGEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056613007506256350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056375829006049373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我小时候在网上玩的比较早，全是90后95后的我只能伪装自己年龄，现在遇到10后的人对方不用装反而是我被嫌年龄大，怒了 https://t.co/1Whw4XRGEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2056375784844247040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIm24ZRbQAAEIIl.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2056613007506256350",
+        "created_at": "2026-05-19T05:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056613007506256350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/hsn8086/status/2056375829006049373",
+              "start": 59,
+              "url": "https://t.co/1Whw4XRGEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056613007506256350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056375829006049373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小时候在网上玩的比较早，全是90后95后的我只能伪装自己年龄，现在遇到10后的人对方不用装反而是我被嫌年龄大，怒了 https://t.co/1Whw4XRGEx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056375784844247040"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2056375829006049373",
+        "created_at": "2026-05-18T14:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056375829006049373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/maxDh3vRCv",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2056375829006049373/photo/1",
+              "media_key": "3_2056375784844247040",
+              "start": 0,
+              "url": "https://t.co/maxDh3vRCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056375829006049373",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11956,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/maxDh3vRCv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 1741,
+          "like_count": 7122,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3359
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120346,
+          "following_count": 1120,
+          "like_count": 52314,
+          "listed_count": 293,
+          "media_count": 21581,
+          "tweet_count": 32035
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

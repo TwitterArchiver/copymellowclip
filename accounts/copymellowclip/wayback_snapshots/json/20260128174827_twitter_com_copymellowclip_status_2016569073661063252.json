@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016165613157417056",
+    "created_at": "2026-01-28T17:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016569073661063252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974198640056152068",
+          "start": 0,
+          "username": "Xiaogouwei7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016569073661063252",
+    "in_reply_to_user_id": "1974198640056152068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016566693758456128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaogouwei7 我喜欢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2016165613157417056",
+        "created_at": "2026-01-28T17:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016569073661063252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974198640056152068",
+              "start": 0,
+              "username": "Xiaogouwei7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016569073661063252",
+        "in_reply_to_user_id": "1974198640056152068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016566693758456128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaogouwei7 我喜欢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974198640056152068",
+        "conversation_id": "2016165613157417056",
+        "created_at": "2026-01-28T17:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016566693758456128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016566693758456128",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016566458776768681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 超级无敌漂亮啊你！无论是哪里…蹭蹭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 1062,
+          "like_count": 5669,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T19:43:47.000Z",
+        "description": "小狗味｜08｜165/55｜sub｜看到感兴趣的私信会回｜看到好看的会回｜喜欢碎碎念小女孩 ｜想骚扰我请问门。*不线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/virus60789",
+                "end": 23,
+                "expanded_url": "https://ngl.link/virus60789",
+                "start": 0,
+                "url": "https://t.co/oKQIiBv088"
+              }
+            ]
+          }
+        },
+        "id": "1974198640056152068",
+        "name": "小狗味",
+        "pinned_tweet_id": "2014601647226531976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012412765076602880/MDS3ords_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 29,
+          "like_count": 632,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/oKQIiBv088",
+        "username": "Xiaogouwei7",
+        "verified": false
+      }
+    ]
+  }
+}

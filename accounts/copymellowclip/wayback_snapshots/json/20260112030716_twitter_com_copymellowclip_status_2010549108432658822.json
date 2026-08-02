@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010305391037751780",
+    "created_at": "2026-01-12T03:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T04:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010549108432658822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1659121034535276548",
+          "start": 0,
+          "username": "yucow404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010549108432658822",
+    "in_reply_to_user_id": "1659121034535276548",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010548774561829009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yucow404 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010305391037751780",
+        "created_at": "2026-01-12T03:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T04:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010549108432658822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1659121034535276548",
+              "start": 0,
+              "username": "yucow404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010549108432658822",
+        "in_reply_to_user_id": "1659121034535276548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010548774561829009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yucow404 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659121034535276548",
+        "conversation_id": "2010305391037751780",
+        "created_at": "2026-01-12T03:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T04:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010548774561829009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010548774561829009",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010305391037751780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 哇宝宝你像瓷娃娃一样好漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 175,
+          "like_count": 1158,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 580
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-18T08:57:49.000Z",
+        "description": "158/40 没有🚪 欢迎口令红包投喂 看到喜欢的私信会聊天",
+        "id": "1659121034535276548",
+        "location": "Tokyo-to, Japan",
+        "name": "fish fish",
+        "pinned_tweet_id": "2009212640720281995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007387105895567360/EKE_YNhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4660,
+          "following_count": 199,
+          "like_count": 2561,
+          "listed_count": 20,
+          "media_count": 14,
+          "tweet_count": 590
+        },
+        "username": "yucow404",
+        "verified": false
+      }
+    ]
+  }
+}

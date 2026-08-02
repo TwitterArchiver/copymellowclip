@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2059134560991121456",
+    "created_at": "2026-05-26T06:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059163681221673181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1532735739602956289",
+          "start": 0,
+          "username": "zzqz19"
+        },
+        {
+          "end": 24,
+          "id": "1736045277507993600",
+          "start": 8,
+          "username": "EnderDragon5554"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059163681221673181",
+    "in_reply_to_user_id": "1532735739602956289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059162143308845461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzqz19 @EnderDragon5554 居然这样，不过也比我挂了也收不到强吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2059134560991121456",
+        "created_at": "2026-05-26T06:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059163681221673181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1532735739602956289",
+              "start": 0,
+              "username": "zzqz19"
+            },
+            {
+              "end": 24,
+              "id": "1736045277507993600",
+              "start": 8,
+              "username": "EnderDragon5554"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059163681221673181",
+        "in_reply_to_user_id": "1532735739602956289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059162143308845461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzqz19 @EnderDragon5554 居然这样，不过也比我挂了也收不到强吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532735739602956289",
+        "conversation_id": "2059134560991121456",
+        "created_at": "2026-05-26T06:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059162143308845461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1736045277507993600",
+              "start": 0,
+              "username": "EnderDragon5554"
+            },
+            {
+              "end": 32,
+              "id": "876363325998678017",
+              "start": 17,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059162143308845461",
+        "in_reply_to_user_id": "1736045277507993600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059159722914173434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EnderDragon5554 @copymellowclip ins能不挂收到，tg和x开了通知➕梯子死活收不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 1767,
+          "like_count": 7164,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 3432
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T14:47:54.000Z",
+        "description": "",
+        "id": "1532735739602956289",
+        "location": "Taiwan",
+        "name": "VVICNA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859586839792975876/agvZbErz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1130,
+          "like_count": 152,
+          "listed_count": 9,
+          "media_count": 13,
+          "tweet_count": 230
+        },
+        "username": "zzqz19",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T15:27:12.000Z",
+        "description": "你可以在這個賬號看到日常碎碎念 | 🌈 | 簡中 | 繁中 | 粵語｜深圳｜HK｜歡迎擴列喔",
+        "id": "1736045277507993600",
+        "name": "雲希CloudHope",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743430655283200/Dauk-Xbp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 149,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 38
+        },
+        "username": "EnderDragon5554",
+        "verified": false
+      }
+    ]
+  }
+}

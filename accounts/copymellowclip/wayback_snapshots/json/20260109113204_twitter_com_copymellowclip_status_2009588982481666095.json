@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009566916638335450",
+    "created_at": "2026-01-09T11:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T12:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009588982481666095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1748779709541085184",
+          "start": 0,
+          "username": "UoxoU_uxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009588982481666095",
+    "in_reply_to_user_id": "1748779709541085184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009566916638335450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UoxoU_uxu ピンクが一番可愛い！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 635,
+        "media_key": "3_2009566913668780032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-NqdfmbEAAx2LW.jpg",
+        "width": 911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009566916638335450",
+        "created_at": "2026-01-09T11:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009588982481666095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1748779709541085184",
+              "start": 0,
+              "username": "UoxoU_uxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009588982481666095",
+        "in_reply_to_user_id": "1748779709541085184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009566916638335450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UoxoU_uxu ピンクが一番可愛い！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009566913668780032"
+          ]
+        },
+        "author_id": "1748779709541085184",
+        "conversation_id": "2009566916638335450",
+        "created_at": "2026-01-09T10:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009566916638335450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLgSiwqezy",
+              "end": 35,
+              "expanded_url": "https://x.com/UoxoU_uxu/status/2009566916638335450/photo/1",
+              "media_key": "3_2009566913668780032",
+              "start": 12,
+              "url": "https://t.co/JLgSiwqezy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009566916638335450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 9869,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "かわいいって言って…？ https://t.co/JLgSiwqezy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 35,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 156
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T18:49:22.000Z",
+        "description": "0から始める裏アカ生活♪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ad-nex.com/u/ai7isitejwdr",
+                "end": 23,
+                "expanded_url": "https://ad-nex.com/u/ai7isitejwdr",
+                "start": 0,
+                "url": "https://t.co/g3pIx0rWtK"
+              }
+            ]
+          }
+        },
+        "id": "1748779709541085184",
+        "name": "め　る　໒꒱°*。",
+        "pinned_tweet_id": "2008365325969224088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757872616151695360/QNhMBKb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5809,
+          "following_count": 167,
+          "like_count": 243,
+          "listed_count": 28,
+          "media_count": 28,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/g3pIx0rWtK",
+        "username": "UoxoU_uxu",
+        "verified": false
+      }
+    ]
+  }
+}

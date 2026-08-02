@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2020087083600425254",
+    "created_at": "2026-02-07T14:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T15:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020147350446973248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1562700436041527297",
+          "start": 0,
+          "username": "_saku_rin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020147350446973248",
+    "in_reply_to_user_id": "1562700436041527297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020087083600425254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_saku_rin_ 小宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3366,
+        "height": 1280,
+        "media_key": "13_2020087024141901824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020087024141901824/img/KUa5FvKwSkzN3PSH.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020087024141901824/vid/avc1/320x694/oZT4WhdFlUlkTcn3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020087024141901824/vid/avc1/480x1040/NygIkghG81vVpxBb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020087024141901824/vid/avc1/590x1280/UV9nKijpPxHvL7rH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020087024141901824/pl/ngN8AUanhafebQ-F.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2020087083600425254",
+        "created_at": "2026-02-07T14:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020147350446973248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1562700436041527297",
+              "start": 0,
+              "username": "_saku_rin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020147350446973248",
+        "in_reply_to_user_id": "1562700436041527297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020087083600425254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_saku_rin_ 小宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020087024141901824"
+          ]
+        },
+        "author_id": "1562700436041527297",
+        "conversation_id": "2020087083600425254",
+        "created_at": "2026-02-07T10:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020087083600425254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/92buuuXHqf",
+              "end": 32,
+              "expanded_url": "https://x.com/_saku_rin_/status/2020087083600425254/video/1",
+              "media_key": "13_2020087024141901824",
+              "start": 9,
+              "url": "https://t.co/92buuuXHqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020087083600425254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "薄荷巧克力小蛋糕 https://t.co/92buuuXHqf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 1645,
+          "like_count": 6303,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2359
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-25T07:16:44.000Z",
+        "description": "这里是小曦的娃分身。桜凛です | 着ぐるみ｜miku专业户",
+        "id": "1562700436041527297",
+        "name": "さくりん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975877413725962240/yHustWSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 338,
+          "like_count": 69,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 30
+        },
+        "username": "_saku_rin_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009932376512889310",
+    "created_at": "2026-01-10T13:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T14:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009979741236043932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1943613356134576128",
+          "start": 0,
+          "username": "xsdlily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009979741236043932",
+    "in_reply_to_user_id": "1943613356134576128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009932376512889310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsdlily かわいい！スカートめくれば即食なのかww"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "今の私はシスターなので、ざんぎょ...いえ、懺悔をしていきますか？",
+        "height": 2048,
+        "media_key": "3_2009932373337751552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-S22C9awAAJPJ7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009932376512889310",
+        "created_at": "2026-01-10T13:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T14:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009979741236043932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1943613356134576128",
+              "start": 0,
+              "username": "xsdlily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009979741236043932",
+        "in_reply_to_user_id": "1943613356134576128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009932376512889310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsdlily かわいい！スカートめくれば即食なのかww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009932373337751552"
+          ]
+        },
+        "author_id": "1943613356134576128",
+        "conversation_id": "2009932376512889310",
+        "created_at": "2026-01-10T10:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T11:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009932376512889310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zcdvwuf14d",
+              "end": 23,
+              "expanded_url": "https://x.com/xsdlily/status/2009932376512889310/photo/1",
+              "media_key": "3_2009932373337751552",
+              "start": 0,
+              "url": "https://t.co/zcdvwuf14d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009932376512889310",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 209,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zcdvwuf14d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 77,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 303
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T10:08:40.000Z",
+        "description": "♂ | 女装 | コスプレ | ふぇち多め♡ | 気軽にリプDMしてね！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/xsdlily",
+                "end": 23,
+                "expanded_url": "https://lit.link/xsdlily",
+                "start": 0,
+                "url": "https://t.co/v7Pe39m303"
+              }
+            ]
+          }
+        },
+        "id": "1943613356134576128",
+        "location": "干し芋/ひなん垢/ましまろ→",
+        "name": "lily",
+        "pinned_tweet_id": "2006639200779817241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988173195887996930/Rl5-ZLXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 47,
+          "like_count": 2266,
+          "listed_count": 7,
+          "media_count": 97,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/v7Pe39m303",
+        "username": "xsdlily",
+        "verified": true
+      }
+    ]
+  }
+}

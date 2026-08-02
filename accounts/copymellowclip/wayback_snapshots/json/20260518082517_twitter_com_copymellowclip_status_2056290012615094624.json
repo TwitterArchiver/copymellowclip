@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2055980164140716512",
+    "created_at": "2026-05-18T08:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056290012615094624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1796824915087421440",
+          "start": 0,
+          "username": "Niwa2026"
+        },
+        {
+          "end": 17,
+          "id": "1902568136450424832",
+          "start": 10,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056290012615094624",
+    "in_reply_to_user_id": "1796824915087421440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056220307422351498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niwa2026 @aoim33 你不知道猜猜呗是说什么吗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2055980164140716512",
+        "created_at": "2026-05-18T08:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056290012615094624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1796824915087421440",
+              "start": 0,
+              "username": "Niwa2026"
+            },
+            {
+              "end": 17,
+              "id": "1902568136450424832",
+              "start": 10,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056290012615094624",
+        "in_reply_to_user_id": "1796824915087421440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056220307422351498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niwa2026 @aoim33 你不知道猜猜呗是说什么吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796824915087421440",
+        "conversation_id": "2055980164140716512",
+        "created_at": "2026-05-18T03:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056220307422351498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056220307422351498",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055980164140716512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 看黄的沉默大多数怎么不提呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 1742,
+          "like_count": 7118,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3350
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T08:43:49.000Z",
+        "description": "营销号离我远点，看到 AI 味特别冲的，会直接 block；坚持手搓推文的，欢迎互关～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ni-wa.cc",
+                "end": 23,
+                "expanded_url": "http://ni-wa.cc",
+                "start": 0,
+                "url": "https://t.co/li9qWNEwlD"
+              }
+            ]
+          }
+        },
+        "id": "1796824915087421440",
+        "location": "Anaheim, CA",
+        "name": "妮瓦酱～",
+        "pinned_tweet_id": "2017221186158317829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022529859755581440/Gz3hlsGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 493,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/li9qWNEwlD",
+        "username": "Niwa2026",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5444,
+          "following_count": 2945,
+          "like_count": 49075,
+          "listed_count": 19,
+          "media_count": 2862,
+          "tweet_count": 12329
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

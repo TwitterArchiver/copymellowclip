@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2048404706297528329",
+    "created_at": "2026-04-27T12:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048748660792697299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1840695204271247360",
+          "start": 0,
+          "username": "yshidhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048748660792697299",
+    "in_reply_to_user_id": "1840695204271247360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048594162673672569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yshidhe 怎么好多人都和我一样祝生日快乐笑死ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2048404706297528329",
+        "created_at": "2026-04-27T12:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048748660792697299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1840695204271247360",
+              "start": 0,
+              "username": "yshidhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048748660792697299",
+        "in_reply_to_user_id": "1840695204271247360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048594162673672569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe 怎么好多人都和我一样祝生日快乐笑死ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840695204271247360",
+        "conversation_id": "2048404706297528329",
+        "created_at": "2026-04-27T02:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048594162673672569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048594162673672569",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048440908706705501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 不是昨天啦 是5.20(´▽｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 1714,
+          "like_count": 6838,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3072
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T10:08:39.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡\n~不線下哦\n!!日本人みんな、交流しよ～♡ 英語で話しかけてくれると嬉しいな（私の日本語ほんとに下手くそだから…(´；ω；)",
+        "id": "1840695204271247360",
+        "name": "ゆうく;壞掉了♡",
+        "pinned_tweet_id": "2035327812085895543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033847648617435136/uN-3c_Ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 79,
+          "like_count": 1618,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1219
+        },
+        "username": "yshidhe",
+        "verified": true
+      }
+    ]
+  }
+}

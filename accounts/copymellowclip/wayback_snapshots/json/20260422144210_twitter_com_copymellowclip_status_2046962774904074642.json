@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2046947258160312641",
+    "created_at": "2026-04-22T14:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046962774904074642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046962774904074642",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046947258160312641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 yd萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046947242951757824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg3rBoa0AAj5-p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2046947258160312641",
+        "created_at": "2026-04-22T14:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046962774904074642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046962774904074642",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046947258160312641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 yd萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046947242951757824"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2046947258160312641",
+        "created_at": "2026-04-22T13:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046947258160312641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnlgUhGm8R",
+              "end": 45,
+              "expanded_url": "https://x.com/doll7799/status/2046947258160312641/photo/1",
+              "media_key": "3_2046947242951757824",
+              "start": 22,
+              "url": "https://t.co/EnlgUhGm8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046947258160312641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 381,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是小孩，也不是ltp，我只是个萝莉控。 https://t.co/EnlgUhGm8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 1704,
+          "like_count": 6754,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52聊一辈子天谢谢",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4685,
+          "following_count": 8,
+          "like_count": 1710,
+          "listed_count": 20,
+          "media_count": 188,
+          "tweet_count": 700
+        },
+        "username": "doll7799",
+        "verified": false
+      }
+    ]
+  }
+}

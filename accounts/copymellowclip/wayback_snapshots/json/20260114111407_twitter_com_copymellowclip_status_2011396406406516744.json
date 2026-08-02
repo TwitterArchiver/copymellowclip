@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011392113427324945",
+    "created_at": "2026-01-14T11:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T12:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011396406406516744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960385041806344192",
+          "start": 0,
+          "username": "kuu55239"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011396406406516744",
+    "in_reply_to_user_id": "1960385041806344192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011392113427324945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuu55239 小小的可以吗x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011392113427324945",
+        "created_at": "2026-01-14T11:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011396406406516744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960385041806344192",
+              "start": 0,
+              "username": "kuu55239"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011396406406516744",
+        "in_reply_to_user_id": "1960385041806344192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011392113427324945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuu55239 小小的可以吗x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960385041806344192",
+        "conversation_id": "2011392113427324945",
+        "created_at": "2026-01-14T10:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T11:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011392113427324945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011392113427324945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要奈子安慰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 80,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 57,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 368,
+          "like_count": 2191,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T16:54:16.000Z",
+        "description": "",
+        "id": "1960385041806344192",
+        "name": "ig",
+        "pinned_tweet_id": "2011071002940452952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009990848768028676/eWVPKlRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 60,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 66
+        },
+        "username": "kuu55239",
+        "verified": false
+      }
+    ]
+  }
+}

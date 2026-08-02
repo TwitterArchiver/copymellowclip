@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2072980850405412923",
+    "created_at": "2026-07-03T09:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072980850405412923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/copymellowclip…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/copymellowclip/status/2072979948198093107",
+          "start": 144,
+          "url": "https://t.co/kqHvq90H5V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072980850405412923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072979948198093107",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "护肤品化妆品都只看成分买平价的，用起来感觉差不多，感觉化妆手法更重要，护肤几乎只有 0 和 1 有区别\n\n电子产品我想用安卓就买前代旗舰用腻了就卖掉换同价或者补小几百块，想用苹果了就五千块钱买新的用腻了卖掉换二手旗舰然后以此类推，手机我六七年总花销可能都没到过三千（如果把当前手机卖掉） https://t.co/kqHvq90H5V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2072980850405412923",
+        "created_at": "2026-07-03T09:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072980850405412923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/copymellowclip…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/copymellowclip/status/2072979948198093107",
+              "start": 144,
+              "url": "https://t.co/kqHvq90H5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072980850405412923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072979948198093107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "护肤品化妆品都只看成分买平价的，用起来感觉差不多，感觉化妆手法更重要，护肤几乎只有 0 和 1 有区别\n\n电子产品我想用安卓就买前代旗舰用腻了就卖掉换同价或者补小几百块，想用苹果了就五千块钱买新的用腻了卖掉换二手旗舰然后以此类推，手机我六七年总花销可能都没到过三千（如果把当前手机卖掉） https://t.co/kqHvq90H5V"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2072979948198093107",
+        "created_at": "2026-07-03T09:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072979948198093107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meiqinyuban/st…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/meiqinyuban/status/2072976275120197978",
+              "start": 112,
+              "url": "https://t.co/jRUptmRVHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072979948198093107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072976275120197978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道我为什么省钱了（）\n我有需求的时候很喜欢自己做（）\n租房墙面脏脏我自己把墙面刷了，想要电动窗帘电机 99 剩下全自己做，窗帘布也是用物料做的总成本 120，衣服买了卖衣柜里一直就几件，假发毛坯自己修完戴过卖了还能赚钱 https://t.co/jRUptmRVHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2818,
+          "following_count": 1778,
+          "like_count": 7347,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 3758
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      }
+    ]
+  }
+}

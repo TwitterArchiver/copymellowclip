@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010360808774197433",
+    "created_at": "2026-01-13T04:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T05:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010938766320681267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945157928010604544",
+          "start": 0,
+          "username": "aiTvTing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010938766320681267",
+    "in_reply_to_user_id": "1945157928010604544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010360808774197433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiTvTing 那我吃一口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010360808774197433",
+        "created_at": "2026-01-13T04:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T05:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010938766320681267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945157928010604544",
+              "start": 0,
+              "username": "aiTvTing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010938766320681267",
+        "in_reply_to_user_id": "1945157928010604544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010360808774197433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiTvTing 那我吃一口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945157928010604544",
+        "conversation_id": "2010360808774197433",
+        "created_at": "2026-01-11T14:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010360808774197433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010360808774197433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 817,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "被生活反复捶打 然后变得软糯Q弹=ᗜωᗜ="
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 294,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 831
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-15T16:26:35.000Z",
+        "description": "我活得好懵逼｜od｜低精力宅｜欢迎宝宝们找我互fo",
+        "id": "1945157928010604544",
+        "location": "🚪52",
+        "name": "操",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003555514010206211/Tk4wl8kH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 147,
+          "like_count": 423,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 368
+        },
+        "username": "aiTvTing",
+        "verified": false
+      }
+    ]
+  }
+}

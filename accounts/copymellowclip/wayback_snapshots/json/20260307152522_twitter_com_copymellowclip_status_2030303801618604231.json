@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2029874639154073763",
+    "created_at": "2026-03-07T15:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030303801618604231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030303801618604231",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029874639154073763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 吓晕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3297,
+        "media_key": "3_2028467020443086848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaQAgAa8AA0fRY.jpg",
+        "width": 2941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2029874639154073763",
+        "created_at": "2026-03-07T15:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030303801618604231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030303801618604231",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029874639154073763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 吓晕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028467020443086848"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2029874639154073763",
+        "created_at": "2026-03-06T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029874639154073763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/glOYQ0Q51U",
+              "end": 143,
+              "expanded_url": "https://x.com/JanboMikan/status/2029874639154073763/photo/1",
+              "media_key": "3_2028467020443086848",
+              "start": 120,
+              "url": "https://t.co/glOYQ0Q51U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029874639154073763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 8565,
+          "like_count": 242,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我爸为了省水把黑白衣服混洗，导致我T恤上留下一滩滩感觉像被啥泼上去的灰白斑块。\n我妈义正辞严地辩解：你个白眼狼，你爸帮你洗衣服还不是因为爱你。\n结果一出去就被人指着嘲笑：哈哈哈，你这是干那事儿弄到身上啦！\n我气得一扯衣服：这是我爸爸的爱！ https://t.co/glOYQ0Q51U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 1696,
+          "like_count": 6285,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2458
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7315,
+          "following_count": 389,
+          "like_count": 10810,
+          "listed_count": 33,
+          "media_count": 167,
+          "tweet_count": 5737
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

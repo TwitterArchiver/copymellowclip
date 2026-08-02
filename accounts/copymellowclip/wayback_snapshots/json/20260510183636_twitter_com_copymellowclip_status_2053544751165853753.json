@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2053476530978947392",
+    "created_at": "2026-05-10T18:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053544751165853753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979108124985561088",
+          "start": 0,
+          "username": "yumenoWchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053544751165853753",
+    "in_reply_to_user_id": "1979108124985561088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053476530978947392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumenoWchan 你們說一句話就能有幾百個讚的推特哪下的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2053476530978947392",
+        "created_at": "2026-05-10T18:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053544751165853753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979108124985561088",
+              "start": 0,
+              "username": "yumenoWchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053544751165853753",
+        "in_reply_to_user_id": "1979108124985561088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053476530978947392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumenoWchan 你們說一句話就能有幾百個讚的推特哪下的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979108124985561088",
+        "conversation_id": "2053476530978947392",
+        "created_at": "2026-05-10T14:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053476530978947392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053476530978947392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4047,
+          "like_count": 102,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你們說一句話就能有幾百個讚的推特哪下的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 1732,
+          "like_count": 6973,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 3197
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕/阿欠｜🇨🇳🇭🇰｜🚫轉載🚫AI 🚫自作發言\n沒有其他帳號 請不要轉載我的作品",
+        "id": "1979108124985561088",
+        "name": "えぐち",
+        "pinned_tweet_id": "2046593454990619043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047250628687355904/LIuDBNUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 507,
+          "like_count": 3095,
+          "listed_count": 5,
+          "media_count": 82,
+          "tweet_count": 514
+        },
+        "username": "yumenoWchan",
+        "verified": false
+      }
+    ]
+  }
+}

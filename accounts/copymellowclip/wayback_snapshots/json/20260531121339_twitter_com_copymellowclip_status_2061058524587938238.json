@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2060945338438148302",
+    "created_at": "2026-05-31T12:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061058524587938238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "771705332703735808",
+          "start": 0,
+          "username": "XLionc"
+        },
+        {
+          "end": 16,
+          "id": "1552213521253150720",
+          "start": 8,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061058524587938238",
+    "in_reply_to_user_id": "771705332703735808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061057552398659684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XLionc @acnekot 我自己的电脑用的是老款的thinkpad x270，系统用的是fedora，桌面很想用i3吧，但是硬件太差了换成wayland的性能好不少，就用了hyprland关掉动画效果之类的\n\n公司发什么我就用什么啦也没得选，反正是免费的，能完成工作就好了，我看我澳大利亚的朋友那边都是发thinkpad或者framework啊，好厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2060945338438148302",
+        "created_at": "2026-05-31T12:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061058524587938238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "771705332703735808",
+              "start": 0,
+              "username": "XLionc"
+            },
+            {
+              "end": 16,
+              "id": "1552213521253150720",
+              "start": 8,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061058524587938238",
+        "in_reply_to_user_id": "771705332703735808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061057552398659684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XLionc @acnekot 我自己的电脑用的是老款的thinkpad x270，系统用的是fedora，桌面很想用i3吧，但是硬件太差了换成wayland的性能好不少，就用了hyprland关掉动画效果之类的\n\n公司发什么我就用什么啦也没得选，反正是免费的，能完成工作就好了，我看我澳大利亚的朋友那边都是发thinkpad或者framework啊，好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "771705332703735808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2060945338438148302",
+        "created_at": "2026-05-31T12:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061057552398659684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 24,
+              "id": "1552213521253150720",
+              "start": 16,
+              "username": "acnekot"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Contribute to xlionjuan/fw13-bootc-sys development by creating an account on GitHub.",
+              "display_url": "github.com/xlionjuan/fw13…",
+              "end": 166,
+              "expanded_url": "https://github.com/xlionjuan/fw13-bootc-sys",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2061057595587379200/O77oT4iK?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061057595587379200/O77oT4iK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 143,
+              "status": 200,
+              "title": "GitHub - xlionjuan/fw13-bootc-sys",
+              "unwound_url": "https://github.com/xlionjuan/fw13-bootc-sys",
+              "url": "https://t.co/Yyg5h1mLEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061057552398659684",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061055676617810064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @acnekot 我很討厭 Apple 產品，因為你買的設備不屬於你，也不能修，macOS 毛也很多\n\n我自己用 Framework Laptop 13 + Bazzite-dx 用的可爽了\n\n然後在基於 Bazzite 的基礎上微調客製化自己的系統\n\nhttps://t.co/Yyg5h1mLEQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 1776,
+          "like_count": 7249,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3562
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-02T13:44:23.000Z",
+        "description": "@ xlionjuan on most Git platforms",
+        "id": "771705332703735808",
+        "name": "XLion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/863732386495737856/whFL9t-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 894,
+          "like_count": 8997,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2001
+        },
+        "username": "XLionc",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 798,
+          "like_count": 93280,
+          "listed_count": 10,
+          "media_count": 3946,
+          "tweet_count": 16757
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

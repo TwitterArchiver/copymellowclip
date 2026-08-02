@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2017136934888624528",
+    "created_at": "2026-01-30T07:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T08:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017137864937738719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miaooo_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017137864937738719",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017136934888624528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaooo_47 我也感觉他家不太好喝x不过好像感觉也没有很火了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3588,
+        "media_key": "3_2017136924990066688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5PWJVbUAAE_ar.jpg",
+        "width": 2978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2017136934888624528",
+        "created_at": "2026-01-30T07:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017137864937738719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miaooo_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017137864937738719",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017136934888624528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaooo_47 我也感觉他家不太好喝x不过好像感觉也没有很火了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017136924990066688"
+          ]
+        },
+        "author_id": "2000126709375623168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017136934888624528",
+        "created_at": "2026-01-30T07:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017136934888624528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GAHMoyicl",
+              "end": 70,
+              "expanded_url": "https://x.com/Miaooo_47/status/2017136934888624528/photo/1",
+              "media_key": "3_2017136924990066688",
+              "start": 47,
+              "url": "https://t.co/9GAHMoyicl"
+            },
+            {
+              "display_url": "x.com/miaooo_47/stat…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/miaooo_47/status/2017130590198542571",
+              "start": 71,
+              "url": "https://t.co/jLFXK0bNoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017136934888624528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017130590198542571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Day1打卡\n奈雪的茶一如既往地难喝，稳定发挥。\n芒果好酸啊。\n但是这个草莓麻薯蛋糕很好吃😚 https://t.co/9GAHMoyicl https://t.co/jLFXK0bNoy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 1442,
+          "like_count": 5869,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 2164
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡| infp 双 | ❗️好相处 喜欢互动 都来找我丸 | 当朋友圈发 | 一个人的碎碎念 | 可能是抽象文案bot | 会存一些自己很有感触的话 | 不要过问我的现实生活，不喜欢一直被问问题┆·✦ʚ♡ɞ✦·┆妹宝们需要互fo请私信",
+        "id": "2000126709375623168",
+        "name": "米遥",
+        "pinned_tweet_id": "2015080151571399069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015483655137918976/sU1eoINa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 144,
+          "like_count": 3019,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 826
+        },
+        "username": "Miaooo_47",
+        "verified": false
+      }
+    ]
+  }
+}

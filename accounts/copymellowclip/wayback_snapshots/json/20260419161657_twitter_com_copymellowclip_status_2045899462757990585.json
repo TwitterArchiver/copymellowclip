@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2045684011071414634",
+    "created_at": "2026-04-19T16:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045899462757990585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1333407168054386688",
+          "start": 0,
+          "username": "TaoRay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045899462757990585",
+    "in_reply_to_user_id": "1333407168054386688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045684011071414634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoRay 法盲通信盲聚一起了😨无知很正常，但臆断...\n\n- vpn有合规的，外贸商务学者可以用合法的，大学/机构会发，个人没办法申请，但个人不发言论引起热度也没人管\n- vpn是不可能禁止掉的，非要说你真想访问外网可以去腾讯阿里之类的云服务商买一台外网ip的虚拟服务器，ssh进去不走加密协议看各种网页是合法的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2045684011071414634",
+        "created_at": "2026-04-19T16:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045899462757990585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1333407168054386688",
+              "start": 0,
+              "username": "TaoRay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045899462757990585",
+        "in_reply_to_user_id": "1333407168054386688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045684011071414634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoRay 法盲通信盲聚一起了😨无知很正常，但臆断...\n\n- vpn有合规的，外贸商务学者可以用合法的，大学/机构会发，个人没办法申请，但个人不发言论引起热度也没人管\n- vpn是不可能禁止掉的，非要说你真想访问外网可以去腾讯阿里之类的云服务商买一台外网ip的虚拟服务器，ssh进去不走加密协议看各种网页是合法的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1333407168054386688",
+        "conversation_id": "2045684011071414634",
+        "created_at": "2026-04-19T02:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045684011071414634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045684011071414634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国从来没有完全封锁过VPN，不是技术做不到，而是他们也心知肚明，大量外贸需要VPN，大量学者需要用VPN。中国的顶尖大学也是默认学者需要用谷歌Scholar的。更不要说这么多外籍人士了。其实外网的反贼已经不能左右中国舆论了，封杀VPN只会造成不必要的经济损失。突然最近严控，原因只有一个，这是一个预演测试。由于看到了伊朗不得不突然封网，有点措手不及，严重影响了其贸易。所以中国要提前测试以及摸底VPN的规模。如果中国武统台湾，也遇到这种极端情况，怎么应对。\n\n我想测试完以后，还会恢复到以前宽松的状态。但是当极端情况发生时，是会封网的，不然也不会测试。保险起见，到了中国，一定要确保你的sim卡国际漫游是开通的，不要嫌贵，一个月多给个几百美金话费是划算的。另外去中国之前也应该在国外专门搭好两个私人的梯子，留好备用。一个月少于20美金的梯子基本都不稳定。私人服务器会好很多，毕竟不和别人挤通道。\n\n另外在中国千万不能用手机和境外的敏感人士通电话。上一次我在中国，有个很敏感的人给我打了个电话，他不知道我在中国。我何其无辜，因为我又阻止不了谁给我打电话。结果我的sim卡从此在中国就废了，在中国再也收不到任何信号。估计这些敏感人士的号码进入黑名单了，任何在中国和他们联系的号码都会封杀，哪怕是境外号码，因为你走的线路还是中国的通信基站。我回到美国后换了一个新sim卡，我当时很怕我的这个号码从此都不能在中国用了。但是之后去中国发现是可以用的，看来换sim卡就行。所以我从那以后在中国，我就直接带一个备用sim卡，万一又出现这种情况，我就可以直接换sim卡。不用像上一次那样，完全没有电话用了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 453,
+          "impression_count": 405244,
+          "like_count": 820,
+          "quote_count": 5,
+          "reply_count": 207,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "中国从来没有完全封锁过VPN，不是技术做不到，而是他们也心知肚明，大量外贸需要VPN，大量学者需要用VPN。中国的顶尖大学也是默认学者需要用谷歌Scholar的。更不要说这么多外籍人士了。其实外网的反贼已经不能左右中国舆论了，封杀VPN只会造成不必要的经济损失。突然最近严控，原因只有一个，这是一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 1703,
+          "like_count": 6699,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 2949
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-30T13:47:12.000Z",
+        "description": "这是我唯一的社媒账号，没有WhatsApp和群，注意辨别网上和评论区的冒名骗子！我有一个自由的人生。自由不是你能干一切想干的事情，而是你可以拒绝一切不想干的事情。投资分享不构成建议。我从来不拉群，不主动私信推荐金融产品，请大家勿上当。点赞转发只代表值得一看，不一定代表赞同。会定期捐助福音事工，可私信。",
+        "id": "1333407168054386688",
+        "location": "随心所欲，四海为家",
+        "name": "陶瑞 TaoRay",
+        "pinned_tweet_id": "1980115481924403484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831174696240631808/URProuQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122842,
+          "following_count": 182,
+          "like_count": 14673,
+          "listed_count": 758,
+          "media_count": 963,
+          "tweet_count": 8918
+        },
+        "username": "TaoRay",
+        "verified": true
+      }
+    ]
+  }
+}

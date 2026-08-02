@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2035882028118511877",
+    "created_at": "2026-03-23T01:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035895428361998812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799331977205796864",
+          "start": 0,
+          "username": "Xxxxx62778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035895428361998812",
+    "in_reply_to_user_id": "1799331977205796864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035882028118511877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxx62778 我也想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2035882006996017152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEDn5hebYAAE3iE.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2035882028118511877",
+        "created_at": "2026-03-23T01:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035895428361998812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799331977205796864",
+              "start": 0,
+              "username": "Xxxxx62778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035895428361998812",
+        "in_reply_to_user_id": "1799331977205796864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035882028118511877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxx62778 我也想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035882006996017152"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2035882028118511877",
+        "created_at": "2026-03-23T00:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035882028118511877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LvaFGIarKR",
+              "end": 28,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2035882028118511877/photo/1",
+              "media_key": "3_2035882006996017152",
+              "start": 5,
+              "url": "https://t.co/LvaFGIarKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035882028118511877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上坏！ https://t.co/LvaFGIarKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 1706,
+          "like_count": 6450,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 2675
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2031628371965390951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3233,
+          "following_count": 37,
+          "like_count": 42999,
+          "listed_count": 3,
+          "media_count": 4529,
+          "tweet_count": 17449
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

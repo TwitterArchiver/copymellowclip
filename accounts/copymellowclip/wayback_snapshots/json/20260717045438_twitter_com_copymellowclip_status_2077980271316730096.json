@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2077720773712662965",
+    "created_at": "2026-07-17T04:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077980271316730096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077980271316730096",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077918548325007547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 想 zako 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2077720773712662965",
+        "created_at": "2026-07-17T04:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077980271316730096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077980271316730096",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077918548325007547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 想 zako 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2077720773712662965",
+        "created_at": "2026-07-17T00:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077918548325007547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077918548325007547",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077916959598153778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 呜呜呜呜咋口死目莉一不小心就死掉了喵？肯定有想死目莉的对吧？对吧对吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 1774,
+          "like_count": 7384,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 3829
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…\n需要回fo请私信或评论我！",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 210,
+          "like_count": 215,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 989
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2031417404610490728",
+    "created_at": "2026-03-10T17:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031417404610490728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aylauwulol/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/aylauwulol/status/2031096859716993428",
+          "start": 11,
+          "url": "https://t.co/uwWcI2Uy7B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031417404610490728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031096859716993428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hso我喜欢这个（） https://t.co/uwWcI2Uy7B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2031096850044878848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC_n0utXAAA9lLm.jpg",
+        "width": 1434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2031417404610490728",
+        "created_at": "2026-03-10T17:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031417404610490728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aylauwulol/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/aylauwulol/status/2031096859716993428",
+              "start": 11,
+              "url": "https://t.co/uwWcI2Uy7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031417404610490728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031096859716993428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hso我喜欢这个（） https://t.co/uwWcI2Uy7B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031096850044878848"
+          ]
+        },
+        "author_id": "1874784383137435648",
+        "conversation_id": "2031096859716993428",
+        "created_at": "2026-03-09T19:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T20:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031096859716993428"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "bozo",
+              "probability": 0.4468,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rM12gSM1QJ",
+              "end": 32,
+              "expanded_url": "https://x.com/aylauwulol/status/2031096859716993428/photo/1",
+              "media_key": "3_2031096850044878848",
+              "start": 9,
+              "url": "https://t.co/rM12gSM1QJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031096859716993428",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1186,
+          "impression_count": 110643,
+          "like_count": 10681,
+          "quote_count": 14,
+          "reply_count": 36,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "rip bozo https://t.co/rM12gSM1QJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 1698,
+          "like_count": 6363,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2534
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T11:46:57.000Z",
+        "description": "https://t.co/y6LbCWEocj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aylauwulol",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/aylauwulol",
+                "start": 0,
+                "url": "https://t.co/y6LbCWEocj"
+              }
+            ]
+          }
+        },
+        "id": "1874784383137435648",
+        "name": "a",
+        "pinned_tweet_id": "1905415768210325777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990731159953670144/zM5ReLoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3689,
+          "following_count": 175,
+          "like_count": 2175,
+          "listed_count": 6,
+          "media_count": 59,
+          "tweet_count": 371
+        },
+        "username": "aylauwulol",
+        "verified": false
+      }
+    ]
+  }
+}

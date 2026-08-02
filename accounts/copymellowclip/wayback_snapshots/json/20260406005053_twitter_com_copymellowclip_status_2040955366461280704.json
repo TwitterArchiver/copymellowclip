@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040955363869282304"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2040955366461280704",
+    "created_at": "2026-04-06T00:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T01:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040955366461280704"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 87,
+          "tag": "VRCTI"
+        },
+        {
+          "end": 101,
+          "start": 94,
+          "tag": "VRChat"
+        }
+      ],
+      "urls": [
+        {
+          "description": "私のVRChatプレイスタイルはどうでしょうか？今すぐ確認してみましょう！",
+          "display_url": "vrc.nupa.moe/vrcti?result=E…",
+          "end": 86,
+          "expanded_url": "https://vrc.nupa.moe/vrcti?result=ESDU",
+          "start": 63,
+          "status": 200,
+          "title": "VRCTI - VRChat Type Indicator",
+          "unwound_url": "http://vrc.nupa.moe/vrcti/?result=ESDU",
+          "url": "https://t.co/JcFyyHN1sn"
+        },
+        {
+          "display_url": "pic.x.com/EYtpzmBcMM",
+          "end": 125,
+          "expanded_url": "https://x.com/copymellowclip/status/2040955366461280704/photo/1",
+          "media_key": "3_2040955363869282304",
+          "start": 102,
+          "url": "https://t.co/EYtpzmBcMM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040955366461280704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有vrcti吗（）测出来sio但是我用的是chocolat\n\n[VRCTI 测试结果]\n类型: ESDU, 亚文化/时尚派\nhttps://t.co/JcFyyHN1sn\n#VRCTI #VRChat https://t.co/EYtpzmBcMM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1884,
+        "media_key": "3_2040955363869282304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFLuFwnbUAAHzN5.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040955363869282304"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2040955366461280704",
+        "created_at": "2026-04-06T00:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T01:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040955366461280704"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 87,
+              "tag": "VRCTI"
+            },
+            {
+              "end": 101,
+              "start": 94,
+              "tag": "VRChat"
+            }
+          ],
+          "urls": [
+            {
+              "description": "私のVRChatプレイスタイルはどうでしょうか？今すぐ確認してみましょう！",
+              "display_url": "vrc.nupa.moe/vrcti?result=E…",
+              "end": 86,
+              "expanded_url": "https://vrc.nupa.moe/vrcti?result=ESDU",
+              "start": 63,
+              "status": 200,
+              "title": "VRCTI - VRChat Type Indicator",
+              "unwound_url": "http://vrc.nupa.moe/vrcti/?result=ESDU",
+              "url": "https://t.co/JcFyyHN1sn"
+            },
+            {
+              "display_url": "pic.x.com/EYtpzmBcMM",
+              "end": 125,
+              "expanded_url": "https://x.com/copymellowclip/status/2040955366461280704/photo/1",
+              "media_key": "3_2040955363869282304",
+              "start": 102,
+              "url": "https://t.co/EYtpzmBcMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040955366461280704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有vrcti吗（）测出来sio但是我用的是chocolat\n\n[VRCTI 测试结果]\n类型: ESDU, 亚文化/时尚派\nhttps://t.co/JcFyyHN1sn\n#VRCTI #VRChat https://t.co/EYtpzmBcMM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 1700,
+          "like_count": 6497,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      }
+    ]
+  }
+}

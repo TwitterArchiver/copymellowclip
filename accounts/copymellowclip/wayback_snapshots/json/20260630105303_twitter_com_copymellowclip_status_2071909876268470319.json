@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2071909876268470319",
+    "created_at": "2026-06-30T10:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071909876268470319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lun060530/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/lun060530/status/2071828078842536096",
+          "start": 8,
+          "url": "https://t.co/uAcvQd280w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071909876268470319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071828078842536096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "活动还能参加吗 https://t.co/uAcvQd280w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_2071828076699283456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCcqKNXcAA0M-1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2071909876268470319",
+        "created_at": "2026-06-30T10:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071909876268470319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lun060530/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/lun060530/status/2071828078842536096",
+              "start": 8,
+              "url": "https://t.co/uAcvQd280w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071909876268470319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071828078842536096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活动还能参加吗 https://t.co/uAcvQd280w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071828076699283456"
+          ]
+        },
+        "author_id": "2054893017946087424",
+        "conversation_id": "2071828078842536096",
+        "created_at": "2026-06-30T05:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071828078842536096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pKVXbA1e1",
+              "end": 35,
+              "expanded_url": "https://x.com/lun060530/status/2071828078842536096/photo/1",
+              "media_key": "3_2071828076699283456",
+              "start": 12,
+              "url": "https://t.co/2pKVXbA1e1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071828078842536096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1475,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥  不介意加我一个吧 https://t.co/2pKVXbA1e1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 1776,
+          "like_count": 7309,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 3722
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T11:54:32.000Z",
+        "description": "中文互联网观察｜ 中文互联网段子手｜每天吐槽热点、奇葩事、爆笑视频｜普通人视角看世界｜来一起乐呵～ 感兴趣的点关注！",
+        "id": "2054893017946087424",
+        "name": "挽歌.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065062024544186368/RoAZgJKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 2120,
+          "like_count": 781,
+          "listed_count": 6,
+          "media_count": 926,
+          "tweet_count": 2409
+        },
+        "url": "",
+        "username": "lun060530",
+        "verified": true
+      }
+    ]
+  }
+}

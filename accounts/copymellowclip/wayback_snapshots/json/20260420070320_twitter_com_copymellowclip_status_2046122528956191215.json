@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2046066419981558115",
+    "created_at": "2026-04-20T07:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T08:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046122528956191215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728228114277507072",
+          "start": 0,
+          "username": "Bad_guy_89"
+        },
+        {
+          "end": 26,
+          "id": "1641983374133960704",
+          "start": 12,
+          "username": "kaguya___love"
+        },
+        {
+          "end": 38,
+          "id": "1756909109788753920",
+          "start": 27,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046122528956191215",
+    "in_reply_to_user_id": "1728228114277507072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046094146079699242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bad_guy_89 @kaguya___love @__fanqie__ 那个是command不是code（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2046066419981558115",
+        "created_at": "2026-04-20T07:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046122528956191215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728228114277507072",
+              "start": 0,
+              "username": "Bad_guy_89"
+            },
+            {
+              "end": 26,
+              "id": "1641983374133960704",
+              "start": 12,
+              "username": "kaguya___love"
+            },
+            {
+              "end": 38,
+              "id": "1756909109788753920",
+              "start": 27,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046122528956191215",
+        "in_reply_to_user_id": "1728228114277507072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046094146079699242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bad_guy_89 @kaguya___love @__fanqie__ 那个是command不是code（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728228114277507072",
+        "conversation_id": "2046066419981558115",
+        "created_at": "2026-04-20T05:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046094146079699242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1641983374133960704",
+              "start": 0,
+              "username": "kaguya___love"
+            },
+            {
+              "end": 26,
+              "id": "1756909109788753920",
+              "start": 15,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046094146079699242",
+        "in_reply_to_user_id": "1641983374133960704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046074639596851397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaguya___love @__fanqie__ 太難了，下個軟體還得打代碼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 1705,
+          "like_count": 6716,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 2960
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T01:44:43.000Z",
+        "description": "Everyone despises lies, everyone creates lies, life is a lie。",
+        "id": "1728228114277507072",
+        "name": "BADGUY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728239109150511104/EEGsjx6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 76,
+          "like_count": 1215,
+          "listed_count": 4,
+          "media_count": 1882,
+          "tweet_count": 5463
+        },
+        "username": "Bad_guy_89",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:58:48.000Z",
+        "description": "已经变成推推空间了（摆烂＋碎碎念）\nhttps://t.co/AWlPq253Ry",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/konpakuyuyuko",
+                "end": 41,
+                "expanded_url": "https://lit.link/konpakuyuyuko",
+                "start": 18,
+                "url": "https://t.co/AWlPq253Ry"
+              }
+            ]
+          }
+        },
+        "id": "1641983374133960704",
+        "location": "龙结晶之地，一个任何奇面族都没有发现的洞穴",
+        "name": "卡古亚",
+        "pinned_tweet_id": "1942266696502579234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996596625977036800/pMoOcAY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 2718,
+          "like_count": 8515,
+          "listed_count": 1,
+          "media_count": 625,
+          "tweet_count": 2040
+        },
+        "username": "kaguya___love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2045499488916381709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4913,
+          "following_count": 2960,
+          "like_count": 1506,
+          "listed_count": 7,
+          "media_count": 977,
+          "tweet_count": 8807
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

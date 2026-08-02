@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010986568417493205",
+    "created_at": "2026-01-14T01:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T02:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011250910878712051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1754567808447655937",
+          "start": 0,
+          "username": "AngelKanade_OVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011250910878712051",
+    "in_reply_to_user_id": "1754567808447655937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010986568417493205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelKanade_OVO 这种人一开口我就跑路了、、感觉像是第一次上网"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010986565787615232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-h1oH3agAA9rEG.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010986568417493205",
+        "created_at": "2026-01-14T01:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T02:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011250910878712051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1754567808447655937",
+              "start": 0,
+              "username": "AngelKanade_OVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011250910878712051",
+        "in_reply_to_user_id": "1754567808447655937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010986568417493205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelKanade_OVO 这种人一开口我就跑路了、、感觉像是第一次上网"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010986565787615232"
+          ]
+        },
+        "author_id": "1754567808447655937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010986568417493205",
+        "created_at": "2026-01-13T08:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010986568417493205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHZAQ3Vftd",
+              "end": 32,
+              "expanded_url": "https://x.com/AngelKanade_OVO/status/2010986568417493205/photo/1",
+              "media_key": "3_2010986565787615232",
+              "start": 9,
+              "url": "https://t.co/sHZAQ3Vftd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010986568417493205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3932,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么全是这种傻逼 https://t.co/sHZAQ3Vftd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜脆与ins也是copymellowclip（用来防走失）\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 108,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 85,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 345,
+          "like_count": 1994,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 941
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T18:09:05.000Z",
+        "description": "177/100，无p超绝小南娘                                               B站ID天奏，会经常在上面直播哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+NAHDnUkxDpMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+NAHDnUkxDpMyNGI1",
+                "start": 0,
+                "url": "https://t.co/vTnfaioW14"
+              }
+            ]
+          }
+        },
+        "id": "1754567808447655937",
+        "location": "深圳",
+        "name": "天奏nya",
+        "pinned_tweet_id": "2005518327649820687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845528309998010368/y7FP5R88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16912,
+          "following_count": 62,
+          "like_count": 566,
+          "listed_count": 55,
+          "media_count": 273,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/vTnfaioW14",
+        "username": "AngelKanade_OVO",
+        "verified": true
+      }
+    ]
+  }
+}

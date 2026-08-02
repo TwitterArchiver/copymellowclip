@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2017229732761489833",
+    "created_at": "2026-01-30T15:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017265030358827336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662733551199227905",
+          "start": 0,
+          "username": "Ueno_Serin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017265030358827336",
+    "in_reply_to_user_id": "1662733551199227905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017262450354389154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ueno_Serin 装汉化补丁要用adb（）所以不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2017229732761489833",
+        "created_at": "2026-01-30T15:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017265030358827336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662733551199227905",
+              "start": 0,
+              "username": "Ueno_Serin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017265030358827336",
+        "in_reply_to_user_id": "1662733551199227905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017262450354389154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ueno_Serin 装汉化补丁要用adb（）所以不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662733551199227905",
+        "conversation_id": "2017229732761489833",
+        "created_at": "2026-01-30T15:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017262450354389154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017262450354389154",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017229732761489833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 卓易通里能用嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 1520,
+          "like_count": 6044,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-28T08:12:38.000Z",
+        "description": "Serin或者九,​日本語勉強中🔰 中/日OK✨\n\n07\n\n喜欢🐱和🐶还有🦝，音楽と文学，jpop，jazz，rnb，碎碎念。\n并非纯良。\n习惯看见互关推文就点赞如果不喜欢请直说🤲🏻\n\n❗发牢骚和辱骂内容永远不涉及互关❗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/komk2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/komk2",
+                "start": 0,
+                "url": "https://t.co/5TyDMPaAhV"
+              }
+            ]
+          }
+        },
+        "id": "1662733551199227905",
+        "location": "幻想鄉",
+        "name": "上野川凛",
+        "pinned_tweet_id": "1981718921691447511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014719224762269697/WQUaEH91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 856,
+          "like_count": 21898,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/5TyDMPaAhV",
+        "username": "Ueno_Serin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2042219101922439346",
+    "created_at": "2026-04-10T02:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042427848518992295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1376365824689115140",
+          "start": 0,
+          "username": "8964rinrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042427848518992295",
+    "in_reply_to_user_id": "1376365824689115140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042219101922439346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964rinrina8964 没买过优衣库（）感觉女装都好土x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2042219101922439346",
+        "created_at": "2026-04-10T02:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042427848518992295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1376365824689115140",
+              "start": 0,
+              "username": "8964rinrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042427848518992295",
+        "in_reply_to_user_id": "1376365824689115140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042219101922439346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964rinrina8964 没买过优衣库（）感觉女装都好土x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376365824689115140",
+        "conversation_id": "2042219101922439346",
+        "created_at": "2026-04-09T12:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042219101922439346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042219101922439346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 50668,
+          "like_count": 482,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我27岁的一个网购感悟就是如果一个衣服价格比优衣库便宜那么它的质量就极大概率没有优衣库好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 1707,
+          "like_count": 6643,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 2857
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-29T02:49:32.000Z",
+        "description": "在日程序员",
+        "id": "1376365824689115140",
+        "name": "re",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969347431990247424/4-gvOY_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 726,
+          "like_count": 1855,
+          "listed_count": 15,
+          "media_count": 427,
+          "tweet_count": 2463
+        },
+        "username": "8964rinrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012446728230703200",
+    "created_at": "2026-01-17T08:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T09:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012449534023225462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1980682684985921536",
+          "start": 0,
+          "username": "linovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012449534023225462",
+    "in_reply_to_user_id": "1980682684985921536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012446728230703200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linovo33 你俩太萌了我说，能变成恋爱号吗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012446728230703200",
+        "created_at": "2026-01-17T08:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012449534023225462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1980682684985921536",
+              "start": 0,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012449534023225462",
+        "in_reply_to_user_id": "1980682684985921536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012446728230703200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linovo33 你俩太萌了我说，能变成恋爱号吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980682684985921536",
+        "conversation_id": "2012446728230703200",
+        "created_at": "2026-01-17T08:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012446728230703200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012446728230703200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是一只小狗，而我是一个人累诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 84,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "喵",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 597,
+          "like_count": 3265,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "不收门不加任何联系方式不下海不线下别私信我｜防走丢小号@linovo332 ｜我很敏感请不要对我有恶意不喜欢我拉黑就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "linovo332"
+              }
+            ]
+          }
+        },
+        "id": "1980682684985921536",
+        "location": "Amoy",
+        "name": "檩",
+        "pinned_tweet_id": "2011835558256132331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010005579511803909/rdE55MHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 57,
+          "like_count": 1757,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 900
+        },
+        "username": "linovo33",
+        "verified": false
+      }
+    ]
+  }
+}

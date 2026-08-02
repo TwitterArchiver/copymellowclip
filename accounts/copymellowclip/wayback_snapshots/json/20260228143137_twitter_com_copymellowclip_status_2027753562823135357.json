@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2027501693156446337",
+    "created_at": "2026-02-28T14:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T15:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027753562823135357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "117247845",
+          "start": 0,
+          "username": "passenger101"
+        },
+        {
+          "end": 30,
+          "id": "1572838295918489600",
+          "start": 14,
+          "username": "hnchdngsdeloti1"
+        },
+        {
+          "end": 43,
+          "id": "1490956030364499970",
+          "start": 31,
+          "username": "Jiu12126220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027753562823135357",
+    "in_reply_to_user_id": "117247845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027677061100323108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@passenger101 @hnchdngsdeloti1 @Jiu12126220 这样用LLM，LLM也就是一个用户提示词的放大器，想让他怎么说就怎么说，没有任何意义"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1763,
+        "media_key": "3_2027677057820270592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPBin6WIAAjy8O.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1983,
+        "media_key": "3_2027677058155913216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPBipKXoAArCtE.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1821,
+        "media_key": "3_2027677058097098752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPBio8WMAAIHbU.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1796,
+        "media_key": "3_2027677057837084673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPBin-WsAEugPU.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2027501693156446337",
+        "created_at": "2026-02-28T14:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027753562823135357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "117247845",
+              "start": 0,
+              "username": "passenger101"
+            },
+            {
+              "end": 30,
+              "id": "1572838295918489600",
+              "start": 14,
+              "username": "hnchdngsdeloti1"
+            },
+            {
+              "end": 43,
+              "id": "1490956030364499970",
+              "start": 31,
+              "username": "Jiu12126220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027753562823135357",
+        "in_reply_to_user_id": "117247845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027677061100323108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@passenger101 @hnchdngsdeloti1 @Jiu12126220 这样用LLM，LLM也就是一个用户提示词的放大器，想让他怎么说就怎么说，没有任何意义"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027677057820270592",
+            "3_2027677058155913216",
+            "3_2027677058097098752",
+            "3_2027677057837084673"
+          ]
+        },
+        "author_id": "117247845",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027501693156446337",
+        "created_at": "2026-02-28T09:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027677061100323108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1572838295918489600",
+              "start": 0,
+              "username": "hnchdngsdeloti1"
+            },
+            {
+              "end": 29,
+              "id": "1490956030364499970",
+              "start": 17,
+              "username": "Jiu12126220"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4acbVxHpu6",
+              "end": 128,
+              "expanded_url": "https://x.com/passenger101/status/2027677061100323108/photo/1",
+              "media_key": "3_2027677057820270592",
+              "start": 105,
+              "url": "https://t.co/4acbVxHpu6"
+            },
+            {
+              "display_url": "pic.x.com/4acbVxHpu6",
+              "end": 128,
+              "expanded_url": "https://x.com/passenger101/status/2027677061100323108/photo/1",
+              "media_key": "3_2027677058155913216",
+              "start": 105,
+              "url": "https://t.co/4acbVxHpu6"
+            },
+            {
+              "display_url": "pic.x.com/4acbVxHpu6",
+              "end": 128,
+              "expanded_url": "https://x.com/passenger101/status/2027677061100323108/photo/1",
+              "media_key": "3_2027677058097098752",
+              "start": 105,
+              "url": "https://t.co/4acbVxHpu6"
+            },
+            {
+              "display_url": "pic.x.com/4acbVxHpu6",
+              "end": 128,
+              "expanded_url": "https://x.com/passenger101/status/2027677061100323108/photo/1",
+              "media_key": "3_2027677057837084673",
+              "start": 105,
+              "url": "https://t.co/4acbVxHpu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027677061100323108",
+        "in_reply_to_user_id": "1572838295918489600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 775,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027648846348882180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnchdngsdeloti1 @Jiu12126220 哎呀别在这里较劲了，看看评论里的孩儿们都被一下暴击成什么样了，这不是正常的亲子交流，成长中的孩儿们也不应该有这样的心理负担和愧疚，看看AI怎么说吧。 https://t.co/4acbVxHpu6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1708,
+          "like_count": 6312,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-25T00:52:49.000Z",
+        "description": "不太认真的消遣。",
+        "id": "117247845",
+        "location": "USA",
+        "name": "Maya",
+        "pinned_tweet_id": "1725573384249978961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993433101612040192/MWdbIKfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 78,
+          "like_count": 5490,
+          "listed_count": 6,
+          "media_count": 768,
+          "tweet_count": 4084
+        },
+        "username": "passenger101",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-22T06:41:09.000Z",
+        "description": "开始混吃等死的一天！喜欢绘画～",
+        "id": "1572838295918489600",
+        "location": "归墟",
+        "name": "混吃等死的老天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940776914454564864/JwfVmU_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 413,
+          "like_count": 3015,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 589
+        },
+        "username": "hnchdngsdeloti1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T07:50:09.000Z",
+        "description": "泥不要再喝酒啦！",
+        "id": "1490956030364499970",
+        "name": "喝了吗",
+        "pinned_tweet_id": "1934269307799609740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854497578215424000/xJxmiQSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 120,
+          "like_count": 4892,
+          "listed_count": 2,
+          "media_count": 761,
+          "tweet_count": 3686
+        },
+        "username": "Jiu12126220",
+        "verified": false
+      }
+    ]
+  }
+}

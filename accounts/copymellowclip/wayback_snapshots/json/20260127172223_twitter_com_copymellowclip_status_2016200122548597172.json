@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2015874364886196341",
+    "created_at": "2026-01-27T17:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T18:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016200122548597172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739591003559088128",
+          "start": 0,
+          "username": "ShiYou62377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016200122548597172",
+    "in_reply_to_user_id": "1739591003559088128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015874364886196341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiYou62377 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2024,
+        "media_key": "3_2015874347785977856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_nTCeubAAAitFF.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2015874364886196341",
+        "created_at": "2026-01-27T17:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016200122548597172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739591003559088128",
+              "start": 0,
+              "username": "ShiYou62377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016200122548597172",
+        "in_reply_to_user_id": "1739591003559088128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015874364886196341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiYou62377 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015874347785977856"
+          ]
+        },
+        "author_id": "1739591003559088128",
+        "conversation_id": "2015874364886196341",
+        "created_at": "2026-01-26T19:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T20:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015874364886196341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F37VDDY9Te",
+              "end": 53,
+              "expanded_url": "https://x.com/ShiYou62377/status/2015874364886196341/photo/1",
+              "media_key": "3_2015874347785977856",
+              "start": 30,
+              "url": "https://t.co/F37VDDY9Te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015874364886196341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我拿自己声音做的豆包智能体给我朋友玩\n结果我自己还吃醋了哼 https://t.co/F37VDDY9Te"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 1039,
+          "like_count": 5524,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2054
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-26T10:16:37.000Z",
+        "description": "我叫小沋｜谢谢你来看我｜⬇️是匿名提问箱｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%B2%8B",
+                "start": 0,
+                "url": "https://t.co/l2NtAahPgL"
+              }
+            ]
+          }
+        },
+        "id": "1739591003559088128",
+        "location": "天堂",
+        "name": "十沋",
+        "pinned_tweet_id": "2014806667360444630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004983552673271808/qy2-b8Sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 142,
+          "like_count": 10693,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 2400
+        },
+        "url": "https://t.co/l2NtAahPgL",
+        "username": "ShiYou62377",
+        "verified": false
+      }
+    ]
+  }
+}

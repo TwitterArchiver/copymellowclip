@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2064245380087451714",
+    "created_at": "2026-06-09T13:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064339165756739941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1316301573828427777",
+          "start": 0,
+          "username": "nhs1688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064339165756739941",
+    "in_reply_to_user_id": "1316301573828427777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064245380087451714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhs1688 不用上班的话 2000rmb 够我躺了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2064245380087451714",
+        "created_at": "2026-06-09T13:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064339165756739941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1316301573828427777",
+              "start": 0,
+              "username": "nhs1688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064339165756739941",
+        "in_reply_to_user_id": "1316301573828427777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064245380087451714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhs1688 不用上班的话 2000rmb 够我躺了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316301573828427777",
+        "conversation_id": "2064245380087451714",
+        "created_at": "2026-06-09T07:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064245380087451714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064245380087451714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 106920,
+          "like_count": 213,
+          "quote_count": 0,
+          "reply_count": 867,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "招助理:\n\n男女不限，月薪6666美金。\n工作内容：躺平 躺平。\n\n我想体验用金钱把一个年轻人砸成废人的感觉。\n\n评论区报道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 1778,
+          "like_count": 7337,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 3642
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-14T08:55:41.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/nhs1688",
+                "end": 23,
+                "expanded_url": "https://twitter.com/nhs1688",
+                "start": 0,
+                "url": "https://t.co/TTbC8UcmTk"
+              }
+            ]
+          }
+        },
+        "id": "1316301573828427777",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "BiLL(🦈,💧）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936127130645168128/zYpJmEus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8913,
+          "following_count": 2729,
+          "like_count": 12463,
+          "listed_count": 13,
+          "media_count": 1291,
+          "tweet_count": 17043
+        },
+        "url": "https://t.co/TTbC8UcmTk",
+        "username": "nhs1688",
+        "verified": true
+      }
+    ]
+  }
+}

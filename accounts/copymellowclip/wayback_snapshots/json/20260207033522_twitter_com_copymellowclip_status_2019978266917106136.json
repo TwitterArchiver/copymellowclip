@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2019786849418686710",
+    "created_at": "2026-02-07T03:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T04:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019978266917106136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miharuka_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019978266917106136",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019786849418686710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miharuka_47 好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2019786841696989184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAe5bmVbcAAvdCi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2019786849418686710",
+        "created_at": "2026-02-07T03:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019978266917106136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miharuka_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019978266917106136",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019786849418686710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miharuka_47 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019786841696989184"
+          ]
+        },
+        "author_id": "2000126709375623168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019786849418686710",
+        "created_at": "2026-02-06T14:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019786849418686710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/auoJ8OsmHp",
+              "end": 60,
+              "expanded_url": "https://x.com/Miaooo_8964/status/2019786849418686710/photo/1",
+              "media_key": "3_2019786841696989184",
+              "start": 37,
+              "url": "https://t.co/auoJ8OsmHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019786849418686710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3015,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忘记说惹 今天吃麦香鱼。第一次请我爸吃东西。自己打工赚钱了真的挺开心的。 https://t.co/auoJ8OsmHp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 1643,
+          "like_count": 6293,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2348
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "就一破发抽象文案碎碎念的。别性骚扰我。 | 心的距離是遙不可及。 ❤︎•┈ ❤︎ ⋅⋯ together ⋯⋅ ❤︎ ┈•❤︎",
+        "id": "2000126709375623168",
+        "name": "夢遙",
+        "pinned_tweet_id": "2018398587890409558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015483655137918976/sU1eoINa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 163,
+          "like_count": 4624,
+          "listed_count": 6,
+          "media_count": 120,
+          "tweet_count": 1280
+        },
+        "username": "Miharuka_47",
+        "verified": false
+      }
+    ]
+  }
+}

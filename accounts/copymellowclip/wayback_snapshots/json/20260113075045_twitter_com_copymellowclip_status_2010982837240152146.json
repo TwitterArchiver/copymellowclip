@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010981233342496948",
+    "created_at": "2026-01-13T07:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T08:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010982837240152146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003081838965960704",
+          "start": 0,
+          "username": "Gatsuue_inf"
+        },
+        {
+          "end": 21,
+          "id": "2006740448719810562",
+          "start": 13,
+          "username": "Cxzccgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010982837240152146",
+    "in_reply_to_user_id": "2003081838965960704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010982501540622398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gatsuue_inf @Cxzccgd 还有仙台市与宫城县（？）那你拿去地铁上读罢！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2010982304932642816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hxwG8bQAAULdG.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1983,
+        "media_key": "3_2010982472146960391",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hx513bQAcoW5M.jpg",
+        "width": 3485
+      },
+      {
+        "height": 500,
+        "media_key": "3_2010982491256209411",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hx69DbQAMMf6N.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010981233342496948",
+        "created_at": "2026-01-13T07:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T08:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010982837240152146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003081838965960704",
+              "start": 0,
+              "username": "Gatsuue_inf"
+            },
+            {
+              "end": 21,
+              "id": "2006740448719810562",
+              "start": 13,
+              "username": "Cxzccgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010982837240152146",
+        "in_reply_to_user_id": "2003081838965960704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010982501540622398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gatsuue_inf @Cxzccgd 还有仙台市与宫城县（？）那你拿去地铁上读罢！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010982304932642816",
+            "3_2010982472146960391",
+            "3_2010982491256209411"
+          ]
+        },
+        "author_id": "2003081838965960704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010981233342496948",
+        "created_at": "2026-01-13T07:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T08:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010982501540622398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 24,
+              "id": "2006740448719810562",
+              "start": 16,
+              "username": "Cxzccgd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/se0Qt2kL94",
+              "end": 58,
+              "expanded_url": "https://x.com/Gatsuue_inf/status/2010982501540622398/photo/1",
+              "media_key": "3_2010982304932642816",
+              "start": 35,
+              "url": "https://t.co/se0Qt2kL94"
+            },
+            {
+              "display_url": "pic.x.com/se0Qt2kL94",
+              "end": 58,
+              "expanded_url": "https://x.com/Gatsuue_inf/status/2010982501540622398/photo/1",
+              "media_key": "3_2010982472146960391",
+              "start": 35,
+              "url": "https://t.co/se0Qt2kL94"
+            },
+            {
+              "display_url": "pic.x.com/se0Qt2kL94",
+              "end": 58,
+              "expanded_url": "https://x.com/Gatsuue_inf/status/2010982501540622398/photo/1",
+              "media_key": "3_2010982491256209411",
+              "start": 35,
+              "url": "https://t.co/se0Qt2kL94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010982501540622398",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010981575174078725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @Cxzccgd 百合有啥不能放的！ https://t.co/se0Qt2kL94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 298,
+          "like_count": 1742,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 852
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T12:35:12.000Z",
+        "description": "男的    不是男娘    是正常人\n把推當qq空間使的    因為推沒人認識所以可以肆無忌憚地發    qq空間就不行了",
+        "id": "2003081838965960704",
+        "location": "上海/南宁",
+        "name": "月上Gatsuue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010839571848994817/QmL5F809_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 263,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 259
+        },
+        "username": "Gatsuue_inf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T14:55:07.000Z",
+        "description": "歡迎真人🚪哥。🚪姐。互關。我會給你推薦真人。 是真人。我就會關注妳你",
+        "id": "2006740448719810562",
+        "name": "奶油車輪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006741182681067525/TOB4mLu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 27,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 229
+        },
+        "username": "Cxzccgd",
+        "verified": false
+      }
+    ]
+  }
+}

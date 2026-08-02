@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2017397876859801625",
+    "created_at": "2026-01-31T01:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T02:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017413993179320816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004483824122793984",
+          "start": 0,
+          "username": "momocha1599214e"
+        },
+        {
+          "end": 26,
+          "id": "1771977757385523200",
+          "start": 17,
+          "username": "KB_Noter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017413993179320816",
+    "in_reply_to_user_id": "2004483824122793984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017397876859801625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momocha1599214e @KB_Noter 最喜欢听的女喘更新了喵（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 187833,
+        "height": 1280,
+        "media_key": "13_2017397578980343808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017397578980343808/img/QQQW5hMiery8AB5e.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017397578980343808/vid/avc1/320x690/MShlBCfy5DZg7Nfp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017397578980343808/vid/avc1/480x1036/c1zgLUHN3lUe_TX6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017397578980343808/vid/avc1/592x1280/FdU25SkiQjQKUJLQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017397578980343808/pl/zJL37w8VrNA_IPzI.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2017397876859801625",
+        "created_at": "2026-01-31T01:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T02:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017413993179320816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004483824122793984",
+              "start": 0,
+              "username": "momocha1599214e"
+            },
+            {
+              "end": 26,
+              "id": "1771977757385523200",
+              "start": 17,
+              "username": "KB_Noter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017413993179320816",
+        "in_reply_to_user_id": "2004483824122793984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017397876859801625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momocha1599214e @KB_Noter 最喜欢听的女喘更新了喵（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017397578980343808"
+          ]
+        },
+        "author_id": "2004483824122793984",
+        "conversation_id": "2017397876859801625",
+        "created_at": "2026-01-31T00:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T01:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017397876859801625"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "女喘实录"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "短打"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "医生"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "女喘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 81,
+              "id": "1771977757385523200",
+              "start": 72,
+              "username": "KB_Noter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAZgRsJiDb",
+              "end": 124,
+              "expanded_url": "https://x.com/momocha1599214e/status/2017397876859801625/video/1",
+              "media_key": "13_2017397578980343808",
+              "start": 101,
+              "url": "https://t.co/FAZgRsJiDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017397876859801625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《复诊》短打\n明明没有过性生活，但是却会一直流水，内裤换来不及，无奈只能去医院检查，而今天，是第二次来…\n\n关键词：医患，病房，女喘\n台本老师：@KB_Noter \n#女喘实录 #短打 #医生 #女喘 https://t.co/FAZgRsJiDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 1551,
+          "like_count": 6082,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T09:26:10.000Z",
+        "description": "可以叫我小璃|压抑女大的黄色废料处理地|超业余女喘|只回复礼貌私信|有🚪|女生互fo大欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/momocha%E5%9D%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/momocha%E5%9D%9A%E6%9E%9C",
+                "start": 0,
+                "url": "https://t.co/UyThplTnDm"
+              }
+            ]
+          }
+        },
+        "id": "2004483824122793984",
+        "location": "互联网幽灵",
+        "name": "momocha坚果",
+        "pinned_tweet_id": "2016917753995911185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004484296803799040/6eMhJDsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 80,
+          "like_count": 3266,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/UyThplTnDm",
+        "username": "momocha1599214e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T19:10:08.000Z",
+        "description": "拖延症晚期患者，台本请在photos直接看——录制本子直接关注➕@我——每位老师录制的内容都会放在相应台本下的评论区（落下的老师可以和我说一下，之前有些找不到",
+        "id": "1771977757385523200",
+        "name": "叁俩空白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816167319145447424/WxGPrOA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 66,
+          "like_count": 26,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 182
+        },
+        "username": "KB_Noter",
+        "verified": false
+      }
+    ]
+  }
+}

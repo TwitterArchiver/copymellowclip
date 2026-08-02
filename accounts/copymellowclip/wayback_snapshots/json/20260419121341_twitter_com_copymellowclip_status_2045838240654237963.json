@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2045717429192716782",
+    "created_at": "2026-04-19T12:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045838240654237963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1840695204271247360",
+          "start": 0,
+          "username": "yshidhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045838240654237963",
+    "in_reply_to_user_id": "1840695204271247360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045717429192716782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yshidhe 好玩ww我是用小号转区买的、现在有点后悔了小号和大号不太方便绑定家庭库每次还要切换账号去玩TT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1908,
+        "media_key": "3_2045717419726163968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPZJ5GbUAAPxc2.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2045717429192716782",
+        "created_at": "2026-04-19T12:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045838240654237963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1840695204271247360",
+              "start": 0,
+              "username": "yshidhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045838240654237963",
+        "in_reply_to_user_id": "1840695204271247360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045717429192716782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe 好玩ww我是用小号转区买的、现在有点后悔了小号和大号不太方便绑定家庭库每次还要切换账号去玩TT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045717419726163968"
+          ]
+        },
+        "author_id": "1840695204271247360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045717429192716782",
+        "created_at": "2026-04-19T04:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045717429192716782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LG3TPpaFfW",
+              "end": 58,
+              "expanded_url": "https://x.com/yshidhe/status/2045717429192716782/photo/1",
+              "media_key": "3_2045717419726163968",
+              "start": 35,
+              "url": "https://t.co/LG3TPpaFfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045717429192716782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 592,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想買...\n但好貴(╯﹏╰）\n\n有人能送我嘛(小聲_(:_」∠)_ https://t.co/LG3TPpaFfW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 1699,
+          "like_count": 6686,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 2928
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T10:08:39.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡\n\n日本人みんな、交流しよ～♡ 英語で話しかけてくれると嬉しいな（私の日本語ほんとに下手くそだから…(´；ω；)",
+        "id": "1840695204271247360",
+        "name": "ゆうく;壞掉了♡",
+        "pinned_tweet_id": "2035327812085895543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033847648617435136/uN-3c_Ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 77,
+          "like_count": 1208,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 855
+        },
+        "username": "yshidhe",
+        "verified": true
+      }
+    ]
+  }
+}

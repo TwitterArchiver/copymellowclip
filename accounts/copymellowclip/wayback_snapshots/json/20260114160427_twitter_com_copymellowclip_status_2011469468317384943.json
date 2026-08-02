@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011468031072010736",
+    "created_at": "2026-01-14T16:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T17:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011469468317384943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003081838965960704",
+          "start": 0,
+          "username": "Gatsuue_inf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011469468317384943",
+    "in_reply_to_user_id": "2003081838965960704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011468031072010736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gatsuue_inf setup so cute!!\n不像我稳定西半球作息（不）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2011467833386102784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-orVlYacAAeQAI.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011468031072010736",
+        "created_at": "2026-01-14T16:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T17:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011469468317384943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003081838965960704",
+              "start": 0,
+              "username": "Gatsuue_inf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011469468317384943",
+        "in_reply_to_user_id": "2003081838965960704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011468031072010736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gatsuue_inf setup so cute!!\n不像我稳定西半球作息（不）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011467833386102784"
+          ]
+        },
+        "author_id": "2003081838965960704",
+        "conversation_id": "2011468031072010736",
+        "created_at": "2026-01-14T15:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T16:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011468031072010736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxRV69wkFz",
+              "end": 48,
+              "expanded_url": "https://x.com/Gatsuue_inf/status/2011468031072010736/photo/1",
+              "media_key": "3_2011467833386102784",
+              "start": 25,
+              "url": "https://t.co/HxRV69wkFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011468031072010736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放假了作息跟环球旅游了一样每个时区的都要体验一遍 https://t.co/HxRV69wkFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 80,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 57,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 392,
+          "like_count": 2317,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T12:35:12.000Z",
+        "description": "男的    不是男娘    是正常人\n把推當qq空間使的    因為推沒人認識所以可以肆無忌憚地發    qq空間就不行了",
+        "id": "2003081838965960704",
+        "location": "上海/南宁",
+        "name": "月上Gatsuue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010839571848994817/QmL5F809_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 273,
+          "like_count": 215,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 345
+        },
+        "username": "Gatsuue_inf",
+        "verified": false
+      }
+    ]
+  }
+}

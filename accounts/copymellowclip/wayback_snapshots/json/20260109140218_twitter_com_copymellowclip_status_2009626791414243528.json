@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009626791414243528",
+    "created_at": "2026-01-09T14:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T15:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009626791414243528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/hsn8086/status/2009284720958320934",
+          "start": 30,
+          "url": "https://t.co/NugFKCsbqW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009626791414243528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009284720958320934",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再过四年30后就出生了，还是10后生的、、这句真的好可怕x https://t.co/NugFKCsbqW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2009284718240677888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JpzjtbQAAawBt.jpg",
+        "width": 489
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009626791414243528",
+        "created_at": "2026-01-09T14:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009626791414243528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hsn8086/status/2009284720958320934",
+              "start": 30,
+              "url": "https://t.co/NugFKCsbqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009626791414243528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009284720958320934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再过四年30后就出生了，还是10后生的、、这句真的好可怕x https://t.co/NugFKCsbqW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009284718240677888"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2009284720958320934",
+        "created_at": "2026-01-08T15:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009284720958320934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/up7Gf8cqfv",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2009284720958320934/photo/1",
+              "media_key": "3_2009284718240677888",
+              "start": 0,
+              "url": "https://t.co/up7Gf8cqfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009284720958320934",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 143049,
+          "like_count": 1554,
+          "quote_count": 11,
+          "reply_count": 52,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/up7Gf8cqfv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 40,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 190
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115416,
+          "following_count": 1027,
+          "like_count": 50098,
+          "listed_count": 263,
+          "media_count": 18429,
+          "tweet_count": 27825
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

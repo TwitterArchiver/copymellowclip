@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010634883035709440"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2010634885875327108",
+    "created_at": "2026-01-12T08:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T09:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010634885875327108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7PoK0EYaKx",
+          "end": 50,
+          "expanded_url": "https://x.com/copymellowclip/status/2010634885875327108/photo/1",
+          "media_key": "3_2010634883035709440",
+          "start": 27,
+          "url": "https://t.co/7PoK0EYaKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010634885875327108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "teto酱我搓搓搓、我会开心的呀ww嗯可以点两杯（） https://t.co/7PoK0EYaKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "3_2010634883035709440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-c1xfhaQAANe2a.png",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010634883035709440"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2010634885875327108",
+        "created_at": "2026-01-12T08:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T09:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010634885875327108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PoK0EYaKx",
+              "end": 50,
+              "expanded_url": "https://x.com/copymellowclip/status/2010634885875327108/photo/1",
+              "media_key": "3_2010634883035709440",
+              "start": 27,
+              "url": "https://t.co/7PoK0EYaKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010634885875327108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "teto酱我搓搓搓、我会开心的呀ww嗯可以点两杯（） https://t.co/7PoK0EYaKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 211,
+          "like_count": 1340,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 653
+        },
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

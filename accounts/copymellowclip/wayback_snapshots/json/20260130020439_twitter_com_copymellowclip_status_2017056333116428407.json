@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016828680467612023",
+    "created_at": "2026-01-30T02:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T03:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017056333116428407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017056333116428407",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016828680467612023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 那看看垂直的地方吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2016346520124325888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uAehwbAAAj3ZD.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2016828680467612023",
+        "created_at": "2026-01-30T02:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017056333116428407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017056333116428407",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016828680467612023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 那看看垂直的地方吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016346520124325888"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2016828680467612023",
+        "created_at": "2026-01-29T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016828680467612023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqIBVyES7a",
+              "end": 163,
+              "expanded_url": "https://x.com/JanboMikan/status/2016828680467612023/photo/1",
+              "media_key": "3_2016346520124325888",
+              "start": 140,
+              "url": "https://t.co/UqIBVyES7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016828680467612023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3951,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "师妹凑过来看的时候，屏幕上刚好卡在推文编辑界面。\n还好我切屏快，但还是被她认出是推特了。\n面对她的好奇，我只能强行解释我是在「做一个垂直领域」，然后大概4kfo。\n「哇，垂直领域能做到4k粉，师兄你也太厉害了！」\n看着她崇拜的眼神，我哪敢多说什么......\n但至少我也没说谎。 https://t.co/UqIBVyES7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 1429,
+          "like_count": 5838,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 2142
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4389,
+          "following_count": 288,
+          "like_count": 7110,
+          "listed_count": 21,
+          "media_count": 118,
+          "tweet_count": 3606
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

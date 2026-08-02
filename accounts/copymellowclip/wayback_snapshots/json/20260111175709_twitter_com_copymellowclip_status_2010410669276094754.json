@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010410600669835264",
+        "3_2010410612313169920",
+        "3_2010410625722449920",
+        "3_2010410647482458113"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2010410669276094754",
+    "created_at": "2026-01-11T17:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T18:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010410669276094754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/copymellowclip",
+          "end": 57,
+          "expanded_url": "https://ngl.link/copymellowclip",
+          "start": 34,
+          "status": 200,
+          "title": "@copymellowclip: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/copymellowclip",
+          "url": "https://t.co/xETDf59M4r"
+        },
+        {
+          "display_url": "pic.x.com/GDYkPZs6d5",
+          "end": 81,
+          "expanded_url": "https://x.com/copymellowclip/status/2010410669276094754/photo/1",
+          "media_key": "3_2010410600669835264",
+          "start": 58,
+          "url": "https://t.co/GDYkPZs6d5"
+        },
+        {
+          "display_url": "pic.x.com/GDYkPZs6d5",
+          "end": 81,
+          "expanded_url": "https://x.com/copymellowclip/status/2010410669276094754/photo/1",
+          "media_key": "3_2010410612313169920",
+          "start": 58,
+          "url": "https://t.co/GDYkPZs6d5"
+        },
+        {
+          "display_url": "pic.x.com/GDYkPZs6d5",
+          "end": 81,
+          "expanded_url": "https://x.com/copymellowclip/status/2010410669276094754/photo/1",
+          "media_key": "3_2010410625722449920",
+          "start": 58,
+          "url": "https://t.co/GDYkPZs6d5"
+        },
+        {
+          "display_url": "pic.x.com/GDYkPZs6d5",
+          "end": 81,
+          "expanded_url": "https://x.com/copymellowclip/status/2010410669276094754/photo/1",
+          "media_key": "3_2010410647482458113",
+          "start": 58,
+          "url": "https://t.co/GDYkPZs6d5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010410669276094754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "✦･ﾟ: ✧･ﾟ: CopyMellowClip :･ﾟ✧:･ﾟ✦\nhttps://t.co/xETDf59M4r https://t.co/GDYkPZs6d5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_2010410600669835264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Zpyima8AA8-9S.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1107,
+        "media_key": "3_2010410612313169920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ZpzN-aIAAgdxI.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1299,
+        "media_key": "3_2010410625722449920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Zpz_7bgAAy2TP.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1352,
+        "media_key": "3_2010410647482458113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Zp1Q_a4AEJw52.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010410600669835264",
+            "3_2010410612313169920",
+            "3_2010410625722449920",
+            "3_2010410647482458113"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2010410669276094754",
+        "created_at": "2026-01-11T17:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T18:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010410669276094754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/copymellowclip",
+              "end": 57,
+              "expanded_url": "https://ngl.link/copymellowclip",
+              "start": 34,
+              "status": 200,
+              "title": "@copymellowclip: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/copymellowclip",
+              "url": "https://t.co/xETDf59M4r"
+            },
+            {
+              "display_url": "pic.x.com/GDYkPZs6d5",
+              "end": 81,
+              "expanded_url": "https://x.com/copymellowclip/status/2010410669276094754/photo/1",
+              "media_key": "3_2010410600669835264",
+              "start": 58,
+              "url": "https://t.co/GDYkPZs6d5"
+            },
+            {
+              "display_url": "pic.x.com/GDYkPZs6d5",
+              "end": 81,
+              "expanded_url": "https://x.com/copymellowclip/status/2010410669276094754/photo/1",
+              "media_key": "3_2010410612313169920",
+              "start": 58,
+              "url": "https://t.co/GDYkPZs6d5"
+            },
+            {
+              "display_url": "pic.x.com/GDYkPZs6d5",
+              "end": 81,
+              "expanded_url": "https://x.com/copymellowclip/status/2010410669276094754/photo/1",
+              "media_key": "3_2010410625722449920",
+              "start": 58,
+              "url": "https://t.co/GDYkPZs6d5"
+            },
+            {
+              "display_url": "pic.x.com/GDYkPZs6d5",
+              "end": 81,
+              "expanded_url": "https://x.com/copymellowclip/status/2010410669276094754/photo/1",
+              "media_key": "3_2010410647482458113",
+              "start": 58,
+              "url": "https://t.co/GDYkPZs6d5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010410669276094754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✦･ﾟ: ✧･ﾟ: CopyMellowClip :･ﾟ✧:･ﾟ✦\nhttps://t.co/xETDf59M4r https://t.co/GDYkPZs6d5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 157,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 541
+        },
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

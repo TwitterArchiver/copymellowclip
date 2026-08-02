@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2018497116411400511",
+    "created_at": "2026-02-03T09:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T10:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018613039524941927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010040086277304321",
+          "start": 0,
+          "username": "samoye0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018613039524941927",
+    "in_reply_to_user_id": "2010040086277304321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018573421249269988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samoye0808 然后就是亲亲小咪呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2018497116411400511",
+        "created_at": "2026-02-03T09:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T10:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018613039524941927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010040086277304321",
+              "start": 0,
+              "username": "samoye0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018613039524941927",
+        "in_reply_to_user_id": "2010040086277304321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018573421249269988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samoye0808 然后就是亲亲小咪呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010040086277304321",
+        "conversation_id": "2018497116411400511",
+        "created_at": "2026-02-03T06:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018573421249269988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018573421249269988",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018497116411400511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 宝宝你咋这么可爱嘿嘿…🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 1615,
+          "like_count": 6206,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2301
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-10T17:24:45.000Z",
+        "description": "8.8 天气阴 手机震动收到你的消息  我划掉写下今天天气晴",
+        "id": "2010040086277304321",
+        "name": "咪咪咪咪生",
+        "pinned_tweet_id": "2015053684468773039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010040245564186625/4Djtpsaz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 19,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 101
+        },
+        "username": "samoye0808",
+        "verified": false
+      }
+    ]
+  }
+}

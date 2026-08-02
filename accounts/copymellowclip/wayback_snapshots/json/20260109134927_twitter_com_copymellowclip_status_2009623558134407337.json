@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009512720169894155",
+    "created_at": "2026-01-09T13:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T14:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009623558134407337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1333594509238804482",
+          "start": 0,
+          "username": "shenxian0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009623558134407337",
+    "in_reply_to_user_id": "1333594509238804482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009622970482966611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenxian0000 是喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009512720169894155",
+        "created_at": "2026-01-09T13:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T14:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009623558134407337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1333594509238804482",
+              "start": 0,
+              "username": "shenxian0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009623558134407337",
+        "in_reply_to_user_id": "1333594509238804482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009622970482966611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenxian0000 是喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1333594509238804482",
+        "conversation_id": "2009512720169894155",
+        "created_at": "2026-01-09T13:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T14:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009622970482966611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009622970482966611",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009585578065682855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 宝宝是女生吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 41,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 186
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-01T02:11:39.000Z",
+        "description": "少女的心事",
+        "id": "1333594509238804482",
+        "name": "少女的心事",
+        "pinned_tweet_id": "2007783207069192363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004098323700195328/-1X5j4Wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 3,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 44
+        },
+        "username": "shenxian0000",
+        "verified": false
+      }
+    ]
+  }
+}

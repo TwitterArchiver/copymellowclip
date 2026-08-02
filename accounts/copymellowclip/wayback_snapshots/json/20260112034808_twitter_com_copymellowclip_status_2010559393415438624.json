@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009964029759173109",
+    "created_at": "2026-01-12T03:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T04:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010559393415438624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832308955852500995",
+          "start": 0,
+          "username": "ming_akira0423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010559393415438624",
+    "in_reply_to_user_id": "1832308955852500995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009964029759173109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_akira0423 ai流量都比我好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009964029759173109",
+        "created_at": "2026-01-12T03:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T04:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010559393415438624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832308955852500995",
+              "start": 0,
+              "username": "ming_akira0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010559393415438624",
+        "in_reply_to_user_id": "1832308955852500995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009964029759173109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_akira0423 ai流量都比我好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832308955852500995",
+        "conversation_id": "2009964029759173109",
+        "created_at": "2026-01-10T12:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009964029759173109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/corneliaedith2…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/corneliaedith2/status/2009289714998681707",
+              "start": 10,
+              "url": "https://t.co/KnFbcv2vBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009964029759173109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009289714998681707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ai流量都比我好。 https://t.co/KnFbcv2vBS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 179,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 599
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-07T06:44:41.000Z",
+        "description": "北京 男 之后可能很少出cos了…如果想入我门直接私信我就好了 想和我聊天也可以私信和我聊 私信都会会的 我话真的特别多 谢谢你们！       这个是我的提问箱https://t.co/WWRcHh4ytv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akira19923",
+                "end": 104,
+                "expanded_url": "https://ngl.link/akira19923",
+                "start": 81,
+                "url": "https://t.co/WWRcHh4ytv"
+              }
+            ]
+          }
+        },
+        "id": "1832308955852500995",
+        "name": "hikari",
+        "pinned_tweet_id": "2006753409937060028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009957760268648448/PFnjP22P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 96,
+          "like_count": 1230,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 319
+        },
+        "username": "ming_akira0423",
+        "verified": false
+      }
+    ]
+  }
+}

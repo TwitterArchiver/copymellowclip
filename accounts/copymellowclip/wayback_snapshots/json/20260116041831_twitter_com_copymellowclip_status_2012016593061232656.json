@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012016593061232656",
+    "created_at": "2026-01-16T04:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T05:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012016593061232656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/abskoop/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/abskoop/status/2011481639491092899",
+          "start": 10,
+          "url": "https://t.co/hpRy9d9jHp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012016593061232656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011481639491092899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我写作文就这样、、 https://t.co/hpRy9d9jHp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2011481628988866560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-o34mAbAAAs706.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012016593061232656",
+        "created_at": "2026-01-16T04:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012016593061232656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/abskoop/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/abskoop/status/2011481639491092899",
+              "start": 10,
+              "url": "https://t.co/hpRy9d9jHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012016593061232656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011481639491092899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我写作文就这样、、 https://t.co/hpRy9d9jHp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011481628988866560"
+          ]
+        },
+        "author_id": "2262723812",
+        "conversation_id": "2011481639491092899",
+        "created_at": "2026-01-14T16:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T17:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011481639491092899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoHo4P5Six",
+              "end": 28,
+              "expanded_url": "https://x.com/abskoop/status/2011481639491092899/photo/1",
+              "media_key": "3_2011481628988866560",
+              "start": 5,
+              "url": "https://t.co/KoHo4P5Six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011481639491092899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 285559,
+          "like_count": 1163,
+          "quote_count": 18,
+          "reply_count": 206,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "你行吗🙃 https://t.co/KoHo4P5Six"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 78,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 56,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢网址请收藏ovo",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 550,
+          "like_count": 2772,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740272,
+          "following_count": 1203,
+          "like_count": 26097,
+          "listed_count": 2652,
+          "media_count": 23289,
+          "tweet_count": 59971
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

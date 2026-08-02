@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2074937311544987917",
+    "created_at": "2026-07-09T11:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075185218735186269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "958661897263329280",
+          "start": 0,
+          "username": "Yukakoiri_"
+        },
+        {
+          "end": 19,
+          "id": "1664742004423794688",
+          "start": 12,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075185218735186269",
+    "in_reply_to_user_id": "958661897263329280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075152036208017837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukakoiri_ @rwayne 然后乱吃东西过度劳累 58 岁倒在床上起不来，另一半一个人照顾不动家里断了收入，你要怎么努力呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2074937311544987917",
+        "created_at": "2026-07-09T11:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075185218735186269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "958661897263329280",
+              "start": 0,
+              "username": "Yukakoiri_"
+            },
+            {
+              "end": 19,
+              "id": "1664742004423794688",
+              "start": 12,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075185218735186269",
+        "in_reply_to_user_id": "958661897263329280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075152036208017837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukakoiri_ @rwayne 然后乱吃东西过度劳累 58 岁倒在床上起不来，另一半一个人照顾不动家里断了收入，你要怎么努力呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "958661897263329280",
+        "conversation_id": "2074937311544987917",
+        "created_at": "2026-07-09T09:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075152036208017837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075152036208017837",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1414,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074937311544987917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne 不努力就不努力有啥好说的，跟谁不是山里出来的一样，路难走归难走点，努努力去个大城市立足还是一点问题没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2872,
+          "following_count": 1777,
+          "like_count": 7361,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 3811
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T11:23:02.000Z",
+        "description": "",
+        "id": "958661897263329280",
+        "name": "YuLiFLSA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049244912047325184/Eh95s6Ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 147,
+          "like_count": 4119,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "Yukakoiri_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "医学，经济学与人工智能交叉领域段子手研究员🤡\n正在研发能发顶刊的AI Research Workflow👋\n后续会陆续开源😁\n发段子是因为科研很压抑了...😅",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2071575641951252490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52263,
+          "following_count": 765,
+          "like_count": 38642,
+          "listed_count": 269,
+          "media_count": 5938,
+          "tweet_count": 20270
+        },
+        "url": "",
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010985860129497256",
+    "created_at": "2026-01-13T08:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T09:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010990105469862214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1737762819637121024",
+          "start": 0,
+          "username": "sudden__love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010990105469862214",
+    "in_reply_to_user_id": "1737762819637121024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010989884010549637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sudden__love 我天我就这样被人溺爱、、TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010985860129497256",
+        "created_at": "2026-01-13T08:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010990105469862214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1737762819637121024",
+              "start": 0,
+              "username": "sudden__love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010990105469862214",
+        "in_reply_to_user_id": "1737762819637121024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010989884010549637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sudden__love 我天我就这样被人溺爱、、TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737762819637121024",
+        "conversation_id": "2010985860129497256",
+        "created_at": "2026-01-13T08:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010989884010549637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010989884010549637",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010985860129497256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 这个copy今天收了好多钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 302,
+          "like_count": 1767,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 859
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-21T09:13:19.000Z",
+        "description": "07|我的碎碎念",
+        "id": "1737762819637121024",
+        "location": "诶萌",
+        "name": "none",
+        "pinned_tweet_id": "1900716421337973167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974845022760808448/IN7KcNpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 200,
+          "like_count": 7810,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 3312
+        },
+        "username": "sudden__love",
+        "verified": false
+      }
+    ]
+  }
+}

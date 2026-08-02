@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010778335169966393",
+    "created_at": "2026-01-12T19:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T20:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010790588908781963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647268449528446977",
+          "start": 0,
+          "username": "sanshuicun_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010790588908781963",
+    "in_reply_to_user_id": "1647268449528446977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010778335169966393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanshuicun_ 笑死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2230,
+        "media_key": "3_2010778333148278785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-e4PY1a8AErZLR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010778335169966393",
+        "created_at": "2026-01-12T19:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T20:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010790588908781963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647268449528446977",
+              "start": 0,
+              "username": "sanshuicun_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010790588908781963",
+        "in_reply_to_user_id": "1647268449528446977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010778335169966393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanshuicun_ 笑死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010778333148278785"
+          ]
+        },
+        "author_id": "1647268449528446977",
+        "conversation_id": "2010778335169966393",
+        "created_at": "2026-01-12T18:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T19:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010778335169966393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fewDiICDj",
+              "end": 29,
+              "expanded_url": "https://x.com/sanshuicun_/status/2010778335169966393/photo/1",
+              "media_key": "3_2010778333148278785",
+              "start": 6,
+              "url": "https://t.co/2fewDiICDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010778335169966393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日打卡吗 https://t.co/2fewDiICDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 270,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 764
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T16:00:16.000Z",
+        "description": "Muaaaa！女高 🇭🇰 双偏女!!!!! ⁄⁠(⁠⁄⁠ ⁠⁄⁠•⁠⁄⁠-⁠⁄⁠•⁠⁄⁠ ⁠⁄⁠)⁠⁄\n这个号比较杂 不玩4i 不当S 不找主&狗 脾气比较不好 爱口嗨 不约不线下不视频语音 随缘聊天加好友",
+        "id": "1647268449528446977",
+        "name": "小文的无糖豆浆/⁠ᐠ⁠｡⁠ꞈ⁠｡⁠ᐟ⁠\\",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964239454689968128/35b5J-CJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 654,
+          "like_count": 7671,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 502
+        },
+        "username": "sanshuicun_",
+        "verified": false
+      }
+    ]
+  }
+}

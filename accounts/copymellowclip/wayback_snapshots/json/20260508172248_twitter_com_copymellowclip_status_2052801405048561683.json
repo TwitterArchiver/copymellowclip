@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2052786675953357007",
+    "created_at": "2026-05-08T17:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052801405048561683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "621155640",
+          "start": 0,
+          "username": "Ep1c0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052801405048561683",
+    "in_reply_to_user_id": "621155640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052786675953357007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Ep1c0721 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2052786664498712579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz2mGEa0AMSG7M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2052786675953357007",
+        "created_at": "2026-05-08T17:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052801405048561683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "621155640",
+              "start": 0,
+              "username": "Ep1c0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052801405048561683",
+        "in_reply_to_user_id": "621155640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052786675953357007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Ep1c0721 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052786664498712579"
+          ]
+        },
+        "author_id": "621155640",
+        "conversation_id": "2052786675953357007",
+        "created_at": "2026-05-08T16:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052786675953357007"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 2,
+              "tag": "高中生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeababgOrI",
+              "end": 30,
+              "expanded_url": "https://x.com/Ep1c0721/status/2052786675953357007/photo/1",
+              "media_key": "3_2052786664498712579",
+              "start": 7,
+              "url": "https://t.co/QeababgOrI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052786675953357007",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 335,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "👅\n#高中生 https://t.co/QeababgOrI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 1727,
+          "like_count": 6923,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 3156
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-28T15:26:29.000Z",
+        "description": "💤",
+        "id": "621155640",
+        "location": "距离你1.2公里",
+        "name": "uu",
+        "pinned_tweet_id": "2052786675953357007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052004168806916096/BKDFNHLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 44,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 63
+        },
+        "username": "Ep1c0721",
+        "verified": false
+      }
+    ]
+  }
+}

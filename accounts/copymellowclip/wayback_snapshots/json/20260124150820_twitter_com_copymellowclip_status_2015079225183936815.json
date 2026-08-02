@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2014686433387413600",
+    "created_at": "2026-01-24T15:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015079225183936815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1669628758507266049",
+          "start": 0,
+          "username": "jwybg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015079225183936815",
+    "in_reply_to_user_id": "1669628758507266049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015079143348826307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jwybg 太神秘了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2014686433387413600",
+        "created_at": "2026-01-24T15:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015079225183936815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1669628758507266049",
+              "start": 0,
+              "username": "jwybg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015079225183936815",
+        "in_reply_to_user_id": "1669628758507266049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015079143348826307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jwybg 太神秘了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669628758507266049",
+        "conversation_id": "2014686433387413600",
+        "created_at": "2026-01-24T15:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015079143348826307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015079143348826307",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015078907847086562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 对啊搞什么！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 958,
+          "like_count": 5070,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T08:51:49.000Z",
+        "description": "叫我葵就好 分享我的腰…160/80/b  🚪v152 收口令 备注v我看见了加",
+        "id": "1669628758507266049",
+        "location": "远距离",
+        "name": "森本葵",
+        "pinned_tweet_id": "2012296150766833668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012931873618468865/p61-hU2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 62,
+          "like_count": 2355,
+          "listed_count": 7,
+          "media_count": 16,
+          "tweet_count": 120
+        },
+        "username": "jwybg",
+        "verified": true
+      }
+    ]
+  }
+}

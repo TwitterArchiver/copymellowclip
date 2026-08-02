@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013223056177574176",
+    "created_at": "2026-01-19T14:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T15:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013251858627019047"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "萌萌",
+          "probability": 0.6085,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741402065929396224",
+          "start": 0,
+          "username": "yuka_purinlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013251858627019047",
+    "in_reply_to_user_id": "1741402065929396224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013223056177574176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuka_purinlove 萌萌的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013223056177574176",
+        "created_at": "2026-01-19T14:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013251858627019047"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "萌萌",
+              "probability": 0.6085,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741402065929396224",
+              "start": 0,
+              "username": "yuka_purinlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013251858627019047",
+        "in_reply_to_user_id": "1741402065929396224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013223056177574176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuka_purinlove 萌萌的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741402065929396224",
+        "conversation_id": "2013223056177574176",
+        "created_at": "2026-01-19T12:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T13:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013223056177574176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013223056177574176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 626,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不再回私信了好累，除非先给我转100或者你长得和山崎贤人一样帅www\n主页什么都没有的话我们的信息交换根本不平等吧？约炮软件上还知道要写点兴趣爱好呢我凭什么和一个空账号聊天\n别以为现实里找不到人聊天在网上就可以啊w一群社会底层败类就躲在屏幕后面撸一辈子吧，骂你两句都是赏你脸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 667,
+          "like_count": 3835,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-31T10:13:08.000Z",
+        "description": "裏アカ🤍💜🤍20↑ 男的想扩列先给我转100女生可以直接私信我哟",
+        "id": "1741402065929396224",
+        "name": "ゆか",
+        "pinned_tweet_id": "2012866811696713856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012891450338402305/8CM69OSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 60,
+          "like_count": 284,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 265
+        },
+        "username": "yuka_purinlove",
+        "verified": false
+      }
+    ]
+  }
+}

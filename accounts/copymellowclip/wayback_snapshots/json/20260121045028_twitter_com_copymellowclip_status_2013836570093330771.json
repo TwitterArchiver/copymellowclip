@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013793032676745542",
+    "created_at": "2026-01-21T04:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T05:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013836570093330771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013836570093330771",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013793032676745542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 祝box酱现生愉快哦、摸摸摸"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2013793032676745542].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2013793032676745542",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2013793032676745542"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013793032676745542",
+        "created_at": "2026-01-21T04:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013836570093330771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013836570093330771",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013793032676745542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 祝box酱现生愉快哦、摸摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 768,
+          "like_count": 4297,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1683
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/推特当朋友圈发/She&Her/搞开发的/🐱大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629929281810432/W3tlGjqs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 10763,
+          "following_count": 3003,
+          "like_count": 3026,
+          "listed_count": 42,
+          "media_count": 1209,
+          "tweet_count": 6232
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

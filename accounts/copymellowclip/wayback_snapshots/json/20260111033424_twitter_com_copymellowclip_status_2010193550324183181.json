@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009566363187351918",
+    "created_at": "2026-01-11T03:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T04:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010193550324183181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906024483431047168",
+          "start": 0,
+          "username": "Chudokusho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010193550324183181",
+    "in_reply_to_user_id": "1906024483431047168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010193072446156821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chudokusho ww你最萌我亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009566363187351918",
+        "created_at": "2026-01-11T03:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010193550324183181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906024483431047168",
+              "start": 0,
+              "username": "Chudokusho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010193550324183181",
+        "in_reply_to_user_id": "1906024483431047168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010193072446156821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chudokusho ww你最萌我亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906024483431047168",
+        "conversation_id": "2009566363187351918",
+        "created_at": "2026-01-11T03:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010193072446156821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010193072446156821",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010185894138175879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 萌我一个大跟头！一点都不丑！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 133,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 415
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你",
+        "id": "1906024483431047168",
+        "name": "叙春日",
+        "pinned_tweet_id": "2006923818917572943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006905531848601602/DnnroOGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 26,
+          "like_count": 2111,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 387
+        },
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

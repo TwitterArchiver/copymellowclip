@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017046189863305216",
+        "3_2017046189859053568",
+        "3_2017046189850734592",
+        "3_2017046189867507712"
+      ],
+      "media_source_tweet_id": [
+        "2017046213808574738",
+        "2017046213808574738",
+        "2017046213808574738",
+        "2017046213808574738"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2017056217609425173",
+    "created_at": "2026-01-30T02:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T03:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017056217609425173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2004483824122793984",
+          "start": 3,
+          "username": "momocha1599214e"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lGxYKxJIjh",
+          "end": 54,
+          "expanded_url": "https://x.com/momocha1599214e/status/2017046213808574738/photo/1",
+          "media_key": "3_2017046189863305216",
+          "start": 31,
+          "url": "https://t.co/lGxYKxJIjh"
+        },
+        {
+          "display_url": "pic.x.com/lGxYKxJIjh",
+          "end": 54,
+          "expanded_url": "https://x.com/momocha1599214e/status/2017046213808574738/photo/1",
+          "media_key": "3_2017046189859053568",
+          "start": 31,
+          "url": "https://t.co/lGxYKxJIjh"
+        },
+        {
+          "display_url": "pic.x.com/lGxYKxJIjh",
+          "end": 54,
+          "expanded_url": "https://x.com/momocha1599214e/status/2017046213808574738/photo/1",
+          "media_key": "3_2017046189850734592",
+          "start": 31,
+          "url": "https://t.co/lGxYKxJIjh"
+        },
+        {
+          "display_url": "pic.x.com/lGxYKxJIjh",
+          "end": 54,
+          "expanded_url": "https://x.com/momocha1599214e/status/2017046213808574738/photo/1",
+          "media_key": "3_2017046189867507712",
+          "start": 31,
+          "url": "https://t.co/lGxYKxJIjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017056217609425173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017046213808574738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momocha1599214e: 很不高兴为你服务😠 https://t.co/lGxYKxJIjh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017056217609425173].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017056217609425173",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017056217609425173"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017046189863305216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_380qpbgAAONTe.jpg",
+        "width": 1626
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017046189859053568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_380qoaoAADqp8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017046189850734592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_380qmbsAAec8D.jpg",
+        "width": 1446
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017046189867507712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_380qqboAAJOsJ.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017046189863305216",
+            "3_2017046189859053568",
+            "3_2017046189850734592",
+            "3_2017046189867507712"
+          ]
+        },
+        "author_id": "2004483824122793984",
+        "conversation_id": "2017046213808574738",
+        "created_at": "2026-01-30T01:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017046213808574738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGxYKxJIjh",
+              "end": 33,
+              "expanded_url": "https://x.com/momocha1599214e/status/2017046213808574738/photo/1",
+              "media_key": "3_2017046189863305216",
+              "start": 10,
+              "url": "https://t.co/lGxYKxJIjh"
+            },
+            {
+              "display_url": "pic.x.com/lGxYKxJIjh",
+              "end": 33,
+              "expanded_url": "https://x.com/momocha1599214e/status/2017046213808574738/photo/1",
+              "media_key": "3_2017046189859053568",
+              "start": 10,
+              "url": "https://t.co/lGxYKxJIjh"
+            },
+            {
+              "display_url": "pic.x.com/lGxYKxJIjh",
+              "end": 33,
+              "expanded_url": "https://x.com/momocha1599214e/status/2017046213808574738/photo/1",
+              "media_key": "3_2017046189850734592",
+              "start": 10,
+              "url": "https://t.co/lGxYKxJIjh"
+            },
+            {
+              "display_url": "pic.x.com/lGxYKxJIjh",
+              "end": 33,
+              "expanded_url": "https://x.com/momocha1599214e/status/2017046213808574738/photo/1",
+              "media_key": "3_2017046189867507712",
+              "start": 10,
+              "url": "https://t.co/lGxYKxJIjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017046213808574738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很不高兴为你服务😠 https://t.co/lGxYKxJIjh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 1429,
+          "like_count": 5837,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 2141
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T09:26:10.000Z",
+        "description": "可以叫我小璃|压抑女大的黄色废料处理地|超业余女喘|只回复礼貌私信|有🚪|女生互fo大欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/momocha%E5%9D%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/momocha%E5%9D%9A%E6%9E%9C",
+                "start": 0,
+                "url": "https://t.co/UyThplTnDm"
+              }
+            ]
+          }
+        },
+        "id": "2004483824122793984",
+        "location": "互联网幽灵",
+        "name": "momocha坚果",
+        "pinned_tweet_id": "2016917753995911185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004484296803799040/6eMhJDsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 80,
+          "like_count": 3125,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/UyThplTnDm",
+        "username": "momocha1599214e",
+        "verified": false
+      }
+    ]
+  }
+}

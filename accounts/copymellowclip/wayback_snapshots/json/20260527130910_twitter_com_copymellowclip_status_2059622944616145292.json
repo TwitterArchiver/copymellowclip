@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2059618759363752042",
+    "created_at": "2026-05-27T13:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059622944616145292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1254689990753128448",
+          "start": 0,
+          "username": "JinYuanWu000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059622944616145292",
+    "in_reply_to_user_id": "1254689990753128448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059618759363752042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JinYuanWu000 是这个笨蛋软件的人机（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059618756402495490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU8WLwaQAIBaSQ.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2059618759363752042",
+        "created_at": "2026-05-27T13:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059622944616145292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1254689990753128448",
+              "start": 0,
+              "username": "JinYuanWu000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059622944616145292",
+        "in_reply_to_user_id": "1254689990753128448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059618759363752042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JinYuanWu000 是这个笨蛋软件的人机（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059618756402495490"
+          ]
+        },
+        "author_id": "1254689990753128448",
+        "conversation_id": "2059618759363752042",
+        "created_at": "2026-05-27T12:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059618759363752042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B2zbWfBBRa",
+              "end": 48,
+              "expanded_url": "https://x.com/JinYuanWu000/status/2059618759363752042/photo/1",
+              "media_key": "3_2059618756402495490",
+              "start": 25,
+              "url": "https://t.co/B2zbWfBBRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059618759363752042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不敢谈对象了，已经穷过两年了。第二个问题 你是？ https://t.co/B2zbWfBBRa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 1767,
+          "like_count": 7180,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-27T08:33:08.000Z",
+        "description": "江浙/纯人机/清水 /干啥啥不会/游戏低手/模型低手/cos低手/看特摄/沙比二次元/死肥宅/冷群大师\n闲聊游戏群  750982087  不是同好别来了  提问https://t.co/wLxfhb2TkW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinyuanwu0002",
+                "end": 104,
+                "expanded_url": "https://ngl.link/jinyuanwu0002",
+                "start": 81,
+                "url": "https://t.co/wLxfhb2TkW"
+              }
+            ]
+          }
+        },
+        "id": "1254689990753128448",
+        "name": "JingYuanWu",
+        "pinned_tweet_id": "2035723005545119959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058520560003629056/w8tRJaaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 534,
+          "like_count": 32712,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 3154
+        },
+        "username": "JinYuanWu000",
+        "verified": false
+      }
+    ]
+  }
+}

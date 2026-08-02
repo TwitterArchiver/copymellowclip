@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2027776865424101666",
+    "created_at": "2026-02-28T23:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T00:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027892462573035844"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "萌萌",
+          "probability": 0.6085,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953955802341158915",
+          "start": 0,
+          "username": "ucslover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027892462573035844",
+    "in_reply_to_user_id": "1953955802341158915",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027776865424101666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ucslover 萌萌的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027776842179219458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQcS1nbEAIC4Kl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027776842204385282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQcS1tbEAIl1da.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2027776865424101666",
+        "created_at": "2026-02-28T23:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T00:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027892462573035844"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "萌萌",
+              "probability": 0.6085,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953955802341158915",
+              "start": 0,
+              "username": "ucslover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027892462573035844",
+        "in_reply_to_user_id": "1953955802341158915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027776865424101666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ucslover 萌萌的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027776842179219458",
+            "3_2027776842204385282"
+          ]
+        },
+        "author_id": "1953955802341158915",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2027776865424101666",
+        "created_at": "2026-02-28T16:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027776865424101666"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f56xRzXmrp",
+              "end": 51,
+              "expanded_url": "https://x.com/ucslover/status/2027776865424101666/photo/1",
+              "media_key": "3_2027776842179219458",
+              "start": 28,
+              "url": "https://t.co/f56xRzXmrp"
+            },
+            {
+              "display_url": "pic.x.com/f56xRzXmrp",
+              "end": 51,
+              "expanded_url": "https://x.com/ucslover/status/2027776865424101666/photo/1",
+              "media_key": "3_2027776842204385282",
+              "start": 28,
+              "url": "https://t.co/f56xRzXmrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027776865424101666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 280,
+          "impression_count": 28497,
+          "like_count": 1292,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "#BlueArchive  昨天拍的小春…喜欢请点赞呀 https://t.co/f56xRzXmrp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1707,
+          "like_count": 6322,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2432
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T23:05:49.000Z",
+        "description": "不闲聊 盗图自辨 废话小号@wait4foru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "wait4foru"
+              }
+            ]
+          }
+        },
+        "id": "1953955802341158915",
+        "location": "🚪88不线下",
+        "name": "11",
+        "pinned_tweet_id": "2026638607738642679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021241802527997952/B5Cp12y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3253,
+          "following_count": 12,
+          "like_count": 107,
+          "listed_count": 5,
+          "media_count": 22,
+          "tweet_count": 85
+        },
+        "username": "ucslover",
+        "verified": false
+      }
+    ]
+  }
+}

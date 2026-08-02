@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013457418613858779",
+    "created_at": "2026-01-20T03:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T04:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013458036971708500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2006740448719810562",
+          "start": 0,
+          "username": "Cxzccgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013458036971708500",
+    "in_reply_to_user_id": "2006740448719810562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013457835527639055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxzccgd 拉黑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013457418613858779",
+        "created_at": "2026-01-20T03:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013458036971708500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2006740448719810562",
+              "start": 0,
+              "username": "Cxzccgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013458036971708500",
+        "in_reply_to_user_id": "2006740448719810562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013457835527639055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxzccgd 拉黑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006740448719810562",
+        "conversation_id": "2013457418613858779",
+        "created_at": "2026-01-20T03:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013457835527639055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013457835527639055",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013457418613858779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 蹲一個萬達。連鎖酒店。線下姊姊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 708,
+          "like_count": 3977,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T14:55:07.000Z",
+        "description": "歡迎真人🚪哥。🚪姐。互關。我會給你推薦真人。 是真人。我就會關注妳你",
+        "id": "2006740448719810562",
+        "name": "兩黑一白咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013179046583050240/3LVmrj-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 63,
+          "like_count": 673,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 627
+        },
+        "username": "Cxzccgd",
+        "verified": false
+      }
+    ]
+  }
+}

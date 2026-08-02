@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2014007719037128968",
+    "created_at": "2026-01-21T16:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014008391489012219"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014008391489012219",
+    "in_reply_to_user_id": "876363325998678017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014007719037128968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们打米的能不能都告诉我推特名字呀😭我真的很想知道（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 242,
+        "media_key": "3_2014007713379000320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MxWDraIAAGBHf.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2014007719037128968",
+        "created_at": "2026-01-21T16:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014008391489012219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014008391489012219",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014007719037128968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们打米的能不能都告诉我推特名字呀😭我真的很想知道（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014007713379000320"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2014007719037128968",
+        "created_at": "2026-01-21T16:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014007719037128968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lalUoYoNkI",
+              "end": 65,
+              "expanded_url": "https://x.com/copymellowclip/status/2014007719037128968/photo/1",
+              "media_key": "3_2014007713379000320",
+              "start": 42,
+              "url": "https://t.co/lalUoYoNkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014007719037128968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好诶！咪咪咪捏但是不用爆金币也可以和我私信说话呀（）钱暂时不够用就先不要转啦贴贴你 https://t.co/lalUoYoNkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 783,
+          "like_count": 4397,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

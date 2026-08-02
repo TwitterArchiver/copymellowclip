@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2053758289452900692",
+    "created_at": "2026-05-11T10:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053777688297353712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053777688297353712",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053758289452900692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 抱抱你，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053758280091250688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBqRkNbMAAzrO0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2053758289452900692",
+        "created_at": "2026-05-11T10:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053777688297353712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053777688297353712",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053758289452900692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 抱抱你，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053758280091250688"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053758289452900692",
+        "created_at": "2026-05-11T08:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053758289452900692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQEBZzY9Ok",
+              "end": 108,
+              "expanded_url": "https://x.com/doll7799/status/2053758289452900692/photo/1",
+              "media_key": "3_2053758280091250688",
+              "start": 85,
+              "url": "https://t.co/BQEBZzY9Ok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053758289452900692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在上课我直接哭了我难受我不想加人了52太低了我真的遭受了特别多恶心精神污染但我特别缺钱我只能靠这个啊？我能怎么办啊我想从学校顶楼跳下去活着真的太恶心了穷人就应该早点死 https://t.co/BQEBZzY9Ok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 1731,
+          "like_count": 6979,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 3200
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707 \n扩列是听你说话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52聊一辈子天谢谢",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5117,
+          "following_count": 11,
+          "like_count": 1973,
+          "listed_count": 21,
+          "media_count": 201,
+          "tweet_count": 775
+        },
+        "username": "doll7799",
+        "verified": false
+      }
+    ]
+  }
+}

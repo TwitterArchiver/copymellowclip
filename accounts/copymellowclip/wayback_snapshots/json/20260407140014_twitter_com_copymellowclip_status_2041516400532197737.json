@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2041499417707204886",
+    "created_at": "2026-04-07T14:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T15:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041516400532197737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038482519507558400",
+          "start": 0,
+          "username": "jiaojiao330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041516400532197737",
+    "in_reply_to_user_id": "2038482519507558400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041499417707204886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaojiao330 已经和觉觉互关了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2041499417707204886",
+        "created_at": "2026-04-07T14:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041516400532197737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038482519507558400",
+              "start": 0,
+              "username": "jiaojiao330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041516400532197737",
+        "in_reply_to_user_id": "2038482519507558400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041499417707204886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaojiao330 已经和觉觉互关了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038482519507558400",
+        "conversation_id": "2041499417707204886",
+        "created_at": "2026-04-07T12:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041499417707204886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041499417707204886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪个女宝可以跟俺互关🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 1709,
+          "like_count": 6548,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 2802
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T05:04:52.000Z",
+        "description": "有🚪\nswitch\n143cm37kg\n三围66 56 83\n感谢米娜私信评论跟赞赏（划重点）ᰔᩚ/•᷅•᷄\\\\୭\n小事化巧克力 大事化蛋糕 牙齿可以正常咀嚼之后又开始喜欢甜食了捏´༥`\n投喂的米会被我换成房租 电费 如果有剩余的话！就变成了香香奶茶跟麦麦ദ്ദി (⩌ᴗ⩌ )",
+        "id": "2038482519507558400",
+        "location": "喜欢我的话请多多赞赏",
+        "name": "我想睡觉觉•᎔•",
+        "pinned_tweet_id": "2038530916126200231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038485433034985472/f-Q9whUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 19,
+          "like_count": 748,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 151
+        },
+        "username": "jiaojiao330",
+        "verified": false
+      }
+    ]
+  }
+}

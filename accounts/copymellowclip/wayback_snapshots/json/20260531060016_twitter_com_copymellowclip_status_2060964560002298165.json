@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040667043",
+          "name": "CNN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040667043",
+          "name": "CNN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2060964560002298165",
+    "created_at": "2026-05-31T06:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060964560002298165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Abs0lutHydra/s…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/Abs0lutHydra/status/2060637452721918424",
+          "start": 140,
+          "url": "https://t.co/zBY66Pn92C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060964560002298165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060637452721918424",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "初中高中这么压抑的六年都过了，买台电脑上大学放松放松呗，为啥不能用来打游戏呢。图里一些家长没钱就说没钱，买不起就说买不起就好了，不用找一堆借口，你愿意出就给孩子出多少钱，他有能力自己补上，没能力就预算范围内自己挑一个，正好磨练磨练工作和信息收集能力，自己赚钱也不容易上大学乱花钱 https://t.co/zBY66Pn92C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 299,
+        "media_key": "3_2060637444693970944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJja1pXaUAAAylb.jpg",
+        "width": 1206
+      },
+      {
+        "height": 454,
+        "media_key": "3_2060637444715016192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJja1pcbcAAgPnw.jpg",
+        "width": 1026
+      },
+      {
+        "height": 449,
+        "media_key": "3_2060637444706635776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJja1pabkAADMzU.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2060964560002298165",
+        "created_at": "2026-05-31T06:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060964560002298165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Abs0lutHydra/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Abs0lutHydra/status/2060637452721918424",
+              "start": 140,
+              "url": "https://t.co/zBY66Pn92C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060964560002298165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060637452721918424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "初中高中这么压抑的六年都过了，买台电脑上大学放松放松呗，为啥不能用来打游戏呢。图里一些家长没钱就说没钱，买不起就说买不起就好了，不用找一堆借口，你愿意出就给孩子出多少钱，他有能力自己补上，没能力就预算范围内自己挑一个，正好磨练磨练工作和信息收集能力，自己赚钱也不容易上大学乱花钱 https://t.co/zBY66Pn92C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060637444693970944",
+            "3_2060637444715016192",
+            "3_2060637444706635776"
+          ]
+        },
+        "author_id": "2907026474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2060637452721918424",
+        "created_at": "2026-05-30T08:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060637452721918424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CsZvPqDefM",
+              "end": 176,
+              "expanded_url": "https://x.com/Abs0lutHydra/status/2060637452721918424/photo/1",
+              "media_key": "3_2060637444693970944",
+              "start": 153,
+              "url": "https://t.co/CsZvPqDefM"
+            },
+            {
+              "display_url": "pic.x.com/CsZvPqDefM",
+              "end": 176,
+              "expanded_url": "https://x.com/Abs0lutHydra/status/2060637452721918424/photo/1",
+              "media_key": "3_2060637444715016192",
+              "start": 153,
+              "url": "https://t.co/CsZvPqDefM"
+            },
+            {
+              "display_url": "pic.x.com/CsZvPqDefM",
+              "end": 176,
+              "expanded_url": "https://x.com/Abs0lutHydra/status/2060637452721918424/photo/1",
+              "media_key": "3_2060637444706635776",
+              "start": 153,
+              "url": "https://t.co/CsZvPqDefM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060637452721918424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6834,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我很感动的一点是\n我爹至少懂一些计算机\n我高中毕业的时候说可能会用显卡做一些计算之类的东西 然后他就力排家里众议让我买了个显卡还不错的游戏本\n在那个笔记本上我学会了基本的ML也学会了CNN RNN等基础DL 还玩了BERT YOLO 最终把我推向了现在的路\n而且那个笔记本从开始到退役一点也没拖我后腿 https://t.co/CsZvPqDefM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 1776,
+          "like_count": 7222,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3533
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-22T10:47:41.000Z",
+        "description": "MtF, feel free to call me with any pronouns. Electronic engineer, audio and amateur radio. Ph.D student in agentic EDA. Fox AI Lab(FAIL). 亲妹妹@cv41___midway",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 141,
+                "username": "cv41___midway"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pfmrlib.github.io",
+                "end": 23,
+                "expanded_url": "http://pfmrlib.github.io",
+                "start": 0,
+                "url": "https://t.co/7r7dlsRqQe"
+              }
+            ]
+          }
+        },
+        "id": "2907026474",
+        "name": "Hiryuu Concordea e/acc",
+        "pinned_tweet_id": "1828300445972124037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883407152666263552/QWpBbBxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 662,
+          "like_count": 6015,
+          "listed_count": 1,
+          "media_count": 768,
+          "tweet_count": 3682
+        },
+        "url": "https://t.co/7r7dlsRqQe",
+        "username": "Abs0lutHydra",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2043625086914105382",
+    "created_at": "2026-04-18T15:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045517989244793095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1706670398149177344",
+          "start": 0,
+          "username": "yzikn17754"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045517989244793095",
+    "in_reply_to_user_id": "1706670398149177344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045491694884602325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzikn17754 给我玩😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2045491691818471424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGML2zHaUAAEHKE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2043625086914105382",
+        "created_at": "2026-04-18T15:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045517989244793095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706670398149177344",
+              "start": 0,
+              "username": "yzikn17754"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045517989244793095",
+        "in_reply_to_user_id": "1706670398149177344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045491694884602325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzikn17754 给我玩😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045491691818471424"
+          ]
+        },
+        "author_id": "1706670398149177344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043625086914105382",
+        "created_at": "2026-04-18T13:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045491694884602325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U93VF0H2wE",
+              "end": 45,
+              "expanded_url": "https://x.com/yzikn17754/status/2045491694884602325/photo/1",
+              "media_key": "3_2045491691818471424",
+              "start": 22,
+              "url": "https://t.co/U93VF0H2wE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045491694884602325",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043625086914105382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 嘿嘿www https://t.co/U93VF0H2wE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 1694,
+          "like_count": 6682,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2919
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T14:02:17.000Z",
+        "description": "",
+        "id": "1706670398149177344",
+        "name": "xmolly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706671784504995840/EemTrPmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "yzikn17754",
+        "verified": false
+      }
+    ]
+  }
+}

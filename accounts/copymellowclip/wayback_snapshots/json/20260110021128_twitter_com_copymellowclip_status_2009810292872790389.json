@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009691020309737961",
+    "created_at": "2026-01-10T02:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T03:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009810292872790389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999747932573302784",
+          "start": 0,
+          "username": "Tivzy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009810292872790389",
+    "in_reply_to_user_id": "1999747932573302784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009691020309737961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tivzy77 没有啊还是地球第一萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2009691011778523136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-PbU9FasAA4xFL.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009691020309737961",
+        "created_at": "2026-01-10T02:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T03:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009810292872790389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999747932573302784",
+              "start": 0,
+              "username": "Tivzy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009810292872790389",
+        "in_reply_to_user_id": "1999747932573302784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009691020309737961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tivzy77 没有啊还是地球第一萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009691011778523136"
+          ]
+        },
+        "author_id": "1999747932573302784",
+        "conversation_id": "2009691020309737961",
+        "created_at": "2026-01-09T18:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T19:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009691020309737961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Izbt79B9bc",
+              "end": 68,
+              "expanded_url": "https://x.com/Tivzy77/status/2009691020309737961/photo/1",
+              "media_key": "3_2009691011778523136",
+              "start": 45,
+              "url": "https://t.co/Izbt79B9bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009691020309737961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1249,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我等下发张自拍,然后吐槽自己最近变丑了,你们就在底下评论:没有啊还是很萌之类的 ,懂了吗 https://t.co/Izbt79B9bc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 47,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 207
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T07:47:25.000Z",
+        "description": "皮下是非常坏并且玻璃心的小女孩",
+        "id": "1999747932573302784",
+        "name": "谁理你",
+        "pinned_tweet_id": "2009153255864148333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009568818801336320/z9gXXSMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 45,
+          "like_count": 544,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 304
+        },
+        "username": "Tivzy77",
+        "verified": false
+      }
+    ]
+  }
+}

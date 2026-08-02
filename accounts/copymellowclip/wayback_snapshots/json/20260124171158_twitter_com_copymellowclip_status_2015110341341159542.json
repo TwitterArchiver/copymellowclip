@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2015104879120007254",
+    "created_at": "2026-01-24T17:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T18:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015110341341159542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miaooo_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015110341341159542",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015104879120007254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaooo_47 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2015104879120007254",
+        "created_at": "2026-01-24T17:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015110341341159542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miaooo_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015110341341159542",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015104879120007254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaooo_47 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000126709375623168",
+        "conversation_id": "2015104879120007254",
+        "created_at": "2026-01-24T16:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015104879120007254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015104879120007254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我下辈子要变成你的掉 你一躺下我就硬 让你每天都能温柔地摸摸我 但是你一槽币我就软 你只能摸我 不能摸别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 961,
+          "like_count": 5122,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡| infp 双 | ❗️会互fo（但是会查成分）想和妹宝互fo | 当朋友圈发 碎碎念 会存一些自己很有感触的话 | 喜欢我就请我吃小蛋糕 | 匿名📮 https://t.co/K4cJAy1QYM ┆·✦ʚ♡ɞ✦·┆需要互fo请私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cooliya96",
+                "end": 116,
+                "expanded_url": "https://ngl.link/cooliya96",
+                "start": 93,
+                "url": "https://t.co/K4cJAy1QYM"
+              }
+            ]
+          }
+        },
+        "id": "2000126709375623168",
+        "name": "遥",
+        "pinned_tweet_id": "2015080151571399069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010363420365979648/Err54w1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 109,
+          "like_count": 1502,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 503
+        },
+        "username": "Miaooo_47",
+        "verified": false
+      }
+    ]
+  }
+}

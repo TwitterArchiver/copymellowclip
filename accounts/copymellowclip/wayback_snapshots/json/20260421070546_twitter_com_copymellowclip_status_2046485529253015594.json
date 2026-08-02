@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2046472372673507710",
+    "created_at": "2026-04-21T07:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046485529253015594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009636788118433792",
+          "start": 0,
+          "username": "Josiezhou0201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046485529253015594",
+    "in_reply_to_user_id": "2009636788118433792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046472372673507710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Josiezhou0201 看看小的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_2046472367636119552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaHxpOagAABqIC.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2046472372673507710",
+        "created_at": "2026-04-21T07:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046485529253015594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009636788118433792",
+              "start": 0,
+              "username": "Josiezhou0201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046485529253015594",
+        "in_reply_to_user_id": "2009636788118433792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046472372673507710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Josiezhou0201 看看小的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046472367636119552"
+          ]
+        },
+        "author_id": "2009636788118433792",
+        "conversation_id": "2046472372673507710",
+        "created_at": "2026-04-21T06:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046472372673507710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMG5BO4dc6",
+              "end": 34,
+              "expanded_url": "https://x.com/Josiezhou0201/status/2046472372673507710/photo/1",
+              "media_key": "3_2046472367636119552",
+              "start": 11,
+              "url": "https://t.co/wMG5BO4dc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046472372673507710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 732,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些人也太坏了😭 https://t.co/wMG5BO4dc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 1705,
+          "like_count": 6741,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 2983
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T14:42:15.000Z",
+        "description": "可以叫我舟舟/Josie酱｜双性恋｜switch｜还在上高中 学业繁忙 不能及时回复请见谅｜不过门不陪聊 不接线下｜查成分回fo｜主页推广自行分辨｜提问箱➡️https://t.co/0i4f0P0ndT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhou34337",
+                "end": 102,
+                "expanded_url": "https://ngl.link/zhou34337",
+                "start": 79,
+                "url": "https://t.co/0i4f0P0ndT"
+              }
+            ]
+          }
+        },
+        "id": "2009636788118433792",
+        "location": "🚪49/58/88/288/520",
+        "name": "Josie zhou",
+        "pinned_tweet_id": "2015424330998620238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010257622536957952/6l1MhC_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9613,
+          "following_count": 57,
+          "like_count": 873,
+          "listed_count": 10,
+          "media_count": 118,
+          "tweet_count": 606
+        },
+        "username": "Josiezhou0201",
+        "verified": false
+      }
+    ]
+  }
+}

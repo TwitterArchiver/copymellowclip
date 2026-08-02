@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2015305572044943698",
+    "created_at": "2026-01-25T06:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T07:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015310733228331274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1375210133656059909",
+          "start": 0,
+          "username": "Phoebus36356441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015310733228331274",
+    "in_reply_to_user_id": "1375210133656059909",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015305572044943698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phoebus36356441 男生0票（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2015305572044943698",
+        "created_at": "2026-01-25T06:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015310733228331274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1375210133656059909",
+              "start": 0,
+              "username": "Phoebus36356441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015310733228331274",
+        "in_reply_to_user_id": "1375210133656059909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015305572044943698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phoebus36356441 男生0票（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2015305570975350785"
+          ]
+        },
+        "author_id": "1375210133656059909",
+        "conversation_id": "2015305572044943698",
+        "created_at": "2026-01-25T06:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015305572044943698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015305572044943698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家希望菲比的设定是:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 980,
+          "like_count": 5221,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-25T22:17:09.000Z",
+        "description": "这里是一只超H的猫猫/狗狗菲比♡日常性发情期中sex方面几乎全部都会接受和喜欢的喵♡菲比的话会超级渴望被关注着和被了解，想要和更多的人分享自己的欲望，所以也请多多关注菲比～♡\n（悄悄说一下，头像可爱在人家眼中超级加分的！如果是女孩子或是可爱的男孩子请务必私聊人家！现场表白喵！）",
+        "id": "1375210133656059909",
+        "name": "菲比",
+        "pinned_tweet_id": "1862921161459613769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010362692918542336/3_NFIiYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10649,
+          "following_count": 3980,
+          "like_count": 5534,
+          "listed_count": 33,
+          "media_count": 259,
+          "tweet_count": 2234
+        },
+        "username": "Phoebus36356441",
+        "verified": false
+      }
+    ]
+  }
+}

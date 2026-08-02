@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013939124281991395",
+    "created_at": "2026-01-21T18:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T19:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014039589829362067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845786359082135552",
+          "start": 0,
+          "username": "Fluttermori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014039589829362067",
+    "in_reply_to_user_id": "1845786359082135552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013939124281991395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fluttermori 你特别特别萌萌帅，冷萌恋赛高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013939124281991395",
+        "created_at": "2026-01-21T18:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T19:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014039589829362067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845786359082135552",
+              "start": 0,
+              "username": "Fluttermori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014039589829362067",
+        "in_reply_to_user_id": "1845786359082135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013939124281991395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fluttermori 你特别特别萌萌帅，冷萌恋赛高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845786359082135552",
+        "conversation_id": "2013939124281991395",
+        "created_at": "2026-01-21T11:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013939124281991395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013939124281991395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 727,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前很羡慕朋友短短的脸但我现在觉得我长中庭也还行可以又萌又帅😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 788,
+          "like_count": 4446,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1731
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-14T11:19:12.000Z",
+        "description": "碎碎念=ᗜωᗜ= /女孩子欢迎互fo /现生刷到请保持边界感！/讨厌不礼貌的信息我会直接拉黑",
+        "id": "1845786359082135552",
+        "location": "🚪88纯绿越多我越开心！/私信只收口令",
+        "name": "ぷよ",
+        "pinned_tweet_id": "2010715318365348314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005284831522127872/Zk63-t7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 120,
+          "like_count": 2285,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 877
+        },
+        "username": "Fluttermori",
+        "verified": false
+      }
+    ]
+  }
+}

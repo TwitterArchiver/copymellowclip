@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012677602679644487",
+    "created_at": "2026-01-18T00:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T01:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012677602679644487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/hsn8086/status/2012263642461519938",
+          "start": 28,
+          "url": "https://t.co/eUL7ZCUvYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012677602679644487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012263642461519938",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "评论区看得我好无语呀，脑子里除了那个以外什么都不剩了吗 https://t.co/eUL7ZCUvYS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2012263634119049216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-z_HSIaQAA3COL.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012677602679644487",
+        "created_at": "2026-01-18T00:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012677602679644487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hsn8086/status/2012263642461519938",
+              "start": 28,
+              "url": "https://t.co/eUL7ZCUvYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012677602679644487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012263642461519938",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "评论区看得我好无语呀，脑子里除了那个以外什么都不剩了吗 https://t.co/eUL7ZCUvYS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012263634119049216"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2012263642461519938",
+        "created_at": "2026-01-16T20:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T21:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012263642461519938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/baRWXboCbr",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2012263642461519938/photo/1",
+              "media_key": "3_2012263634119049216",
+              "start": 0,
+              "url": "https://t.co/baRWXboCbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012263642461519938",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 1349078,
+          "like_count": 4472,
+          "quote_count": 6,
+          "reply_count": 302,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/baRWXboCbr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 620,
+          "like_count": 3525,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115755,
+          "following_count": 1041,
+          "like_count": 50675,
+          "listed_count": 266,
+          "media_count": 18571,
+          "tweet_count": 28130
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

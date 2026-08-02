@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013431900489293879",
+    "created_at": "2026-01-20T12:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T13:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013590528575865128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1435936139970449409",
+          "start": 0,
+          "username": "uuIeoq5Ui3ZhKgw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013590528575865128",
+    "in_reply_to_user_id": "1435936139970449409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013588373043036260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uuIeoq5Ui3ZhKgw 超级小陶说得对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013431900489293879",
+        "created_at": "2026-01-20T12:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013590528575865128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1435936139970449409",
+              "start": 0,
+              "username": "uuIeoq5Ui3ZhKgw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013590528575865128",
+        "in_reply_to_user_id": "1435936139970449409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013588373043036260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uuIeoq5Ui3ZhKgw 超级小陶说得对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435936139970449409",
+        "conversation_id": "2013431900489293879",
+        "created_at": "2026-01-20T12:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013588373043036260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013588373043036260",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013445645756207503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 因为游戏分类学就是很混乱，总结一类游戏时不是根据它与其他游戏的区别，而是根据它的特点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 746,
+          "like_count": 4188,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1662
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-09T12:01:02.000Z",
+        "description": "",
+        "id": "1435936139970449409",
+        "name": "knowhyd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007799043385421824/aIFvNGRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 311,
+          "like_count": 30,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "uuIeoq5Ui3ZhKgw",
+        "verified": false
+      }
+    ]
+  }
+}

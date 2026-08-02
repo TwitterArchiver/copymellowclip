@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062767496231596032"
+      ],
+      "media_source_tweet_id": [
+        "2062767503500365961"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2064710336897572970",
+    "created_at": "2026-06-10T14:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064710336897572970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945694683545608192",
+          "start": 3,
+          "username": "Izuki_9ly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ujkNnFiJm4",
+          "end": 52,
+          "expanded_url": "https://x.com/Izuki_9ly/status/2062767503500365961/photo/1",
+          "media_key": "3_2062767496231596032",
+          "start": 29,
+          "url": "https://t.co/ujkNnFiJm4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064710336897572970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062767503500365961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Izuki_9ly: 扔一張圖片在這裡什麼也不說 https://t.co/ujkNnFiJm4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 901,
+        "media_key": "3_2062767496231596032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBsG9sbMAABV77.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062767496231596032"
+          ],
+          "media_source_tweet_id": [
+            "2062767503500365961"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2064710336897572970",
+        "created_at": "2026-06-10T14:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064710336897572970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945694683545608192",
+              "start": 3,
+              "username": "Izuki_9ly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujkNnFiJm4",
+              "end": 52,
+              "expanded_url": "https://x.com/Izuki_9ly/status/2062767503500365961/photo/1",
+              "media_key": "3_2062767496231596032",
+              "start": 29,
+              "url": "https://t.co/ujkNnFiJm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064710336897572970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062767503500365961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Izuki_9ly: 扔一張圖片在這裡什麼也不說 https://t.co/ujkNnFiJm4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062767496231596032"
+          ]
+        },
+        "author_id": "1945694683545608192",
+        "conversation_id": "2062767503500365961",
+        "created_at": "2026-06-05T05:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062767503500365961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujkNnFiJm4",
+              "end": 37,
+              "expanded_url": "https://x.com/Izuki_9ly/status/2062767503500365961/photo/1",
+              "media_key": "3_2062767496231596032",
+              "start": 14,
+              "url": "https://t.co/ujkNnFiJm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062767503500365961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "扔一張圖片在這裡什麼也不說 https://t.co/ujkNnFiJm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 1776,
+          "like_count": 7363,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 3649
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T03:59:09.000Z",
+        "description": "🤍💉=izuki/眠\nCN｜JP｜EN ♡低浮上\n成分請見下方",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/izuki_9ly",
+                "end": 23,
+                "expanded_url": "https://lit.link/izuki_9ly",
+                "start": 0,
+                "url": "https://t.co/i7UtiTOpzA"
+              }
+            ]
+          }
+        },
+        "id": "1945694683545608192",
+        "name": "いつき",
+        "pinned_tweet_id": "2062767503500365961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063823266725453824/4OM3Jh5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 58,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/i7UtiTOpzA",
+        "username": "Izuki_9ly",
+        "verified": false
+      }
+    ]
+  }
+}

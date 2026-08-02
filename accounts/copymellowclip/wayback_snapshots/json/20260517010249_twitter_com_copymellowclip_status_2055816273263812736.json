@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2055814411735179283",
+    "created_at": "2026-05-17T01:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T02:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055816273263812736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681716872415440896",
+          "start": 0,
+          "username": "Kirayoumiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055816273263812736",
+    "in_reply_to_user_id": "1681716872415440896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055816019277644130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirayoumiya 可能因为我没心没肺也没有原生家庭吧（）我考了个大专挺开心的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2055814411735179283",
+        "created_at": "2026-05-17T01:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055816273263812736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Kirayoumiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055816273263812736",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055816019277644130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirayoumiya 可能因为我没心没肺也没有原生家庭吧（）我考了个大专挺开心的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681716872415440896",
+        "conversation_id": "2055814411735179283",
+        "created_at": "2026-05-17T01:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055816019277644130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055816019277644130",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055814411735179283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 本质是社会的评判标准太单一了\n成功的人生好像只有一种路径\n这导致卷不过就是一种罪过一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 1739,
+          "like_count": 7091,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 3323
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "遗憾总是贯穿人生始终",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirayoumiya176…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirayoumiya17607",
+                "start": 0,
+                "url": "https://t.co/ClBUr4OW0D"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "location": "精神世界",
+        "name": "Kirayoumiya",
+        "pinned_tweet_id": "2032472045599244684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986630336080650240/V8mqkC1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 1185,
+          "like_count": 28272,
+          "listed_count": 2,
+          "media_count": 860,
+          "tweet_count": 18570
+        },
+        "url": "https://t.co/ClBUr4OW0D",
+        "username": "Kirayoumiya",
+        "verified": false
+      }
+    ]
+  }
+}

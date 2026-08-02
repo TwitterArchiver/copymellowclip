@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009561972413812790",
+    "created_at": "2026-01-10T08:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T09:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009905659173843401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1558346182316896256",
+          "start": 0,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009905659173843401",
+    "in_reply_to_user_id": "1558346182316896256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009561972413812790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoxer15 我天呢我也爱闻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009561972413812790",
+        "created_at": "2026-01-10T08:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T09:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009905659173843401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558346182316896256",
+              "start": 0,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009905659173843401",
+        "in_reply_to_user_id": "1558346182316896256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009561972413812790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoxer15 我天呢我也爱闻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2009561972413812790",
+        "created_at": "2026-01-09T09:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009561972413812790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009561972413812790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1515,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢身上香香的人！每次经过一闻到香香的味道就心情特别好。如果我讨厌的人身上香香的我就会没那么讨厌了。嗯。这算啥。我是一个嗅觉至上主义者。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 59,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 243
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门",
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2009604292475572735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004719214347911168/iAYCnxEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 219,
+          "like_count": 15586,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 8228
+        },
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2053204947374661895",
+    "created_at": "2026-05-10T04:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053328939104510180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1468567542264664067",
+          "start": 0,
+          "username": "Angelica_zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053328939104510180",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053328795038351464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angelica_zj 你最萌了贴贴你！x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2053204947374661895",
+        "created_at": "2026-05-10T04:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053328939104510180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053328939104510180",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053328795038351464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 你最萌了贴贴你！x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2053204947374661895",
+        "created_at": "2026-05-10T04:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053328795038351464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053328795038351464",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053314903273087419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 嘿嘿好耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 1734,
+          "like_count": 6964,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 3185
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25154,
+          "following_count": 1051,
+          "like_count": 14744,
+          "listed_count": 42,
+          "media_count": 1582,
+          "tweet_count": 17087
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

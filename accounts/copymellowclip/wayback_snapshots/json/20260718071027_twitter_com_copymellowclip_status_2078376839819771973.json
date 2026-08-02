@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2078376839819771973",
+    "created_at": "2026-07-18T07:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078376839819771973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1544852936660238336",
+          "start": 3,
+          "username": "chaofandie"
+        },
+        {
+          "end": 26,
+          "id": "1995419766954291200",
+          "start": 16,
+          "username": "886oooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078376839819771973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078044603983478798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chaofandie: @886oooooo 当年喜欢可以看得见 马斯克看黄推点赞被嘲笑之后就没有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2078376839819771973",
+        "created_at": "2026-07-18T07:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078376839819771973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1544852936660238336",
+              "start": 3,
+              "username": "chaofandie"
+            },
+            {
+              "end": 26,
+              "id": "1995419766954291200",
+              "start": 16,
+              "username": "886oooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078376839819771973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078044603983478798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chaofandie: @886oooooo 当年喜欢可以看得见 马斯克看黄推点赞被嘲笑之后就没有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544852936660238336",
+        "conversation_id": "2077935546920567174",
+        "created_at": "2026-07-17T09:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078044603983478798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995419766954291200",
+              "start": 0,
+              "username": "886oooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078044603983478798",
+        "in_reply_to_user_id": "1995419766954291200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9755,
+          "like_count": 296,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077935546920567174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@886oooooo 当年喜欢可以看得见 马斯克看黄推点赞被嘲笑之后就没有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 1775,
+          "like_count": 7380,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 3831
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T01:17:04.000Z",
+        "description": "btc orderflow pa tpo amt",
+        "id": "1544852936660238336",
+        "name": "永雏塔赣",
+        "pinned_tweet_id": "2038967651092070775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061832648633487360/jc2xDkUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 2281,
+          "like_count": 4114,
+          "listed_count": 20,
+          "media_count": 577,
+          "tweet_count": 7688
+        },
+        "url": "",
+        "username": "chaofandie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T09:08:49.000Z",
+        "description": "另一个我@Dsdrdjwmz 性别：神\n很遗憾地告知你 你到访我主页是我的耻辱 以后不要来了我喜欢跟有钱有权有势之人往来 我喜欢美好的事物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "Dsdrdjwmz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9C%A8%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%9C%A8%E5%AD%901",
+                "start": 0,
+                "url": "https://t.co/D9em13eqlh"
+              }
+            ]
+          }
+        },
+        "id": "1995419766954291200",
+        "name": "木子，梦想哭了",
+        "pinned_tweet_id": "2072371260898885873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078196108086677504/OYo06IWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 49,
+          "like_count": 1819,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/D9em13eqlh",
+        "username": "886oooooo",
+        "verified": false
+      }
+    ]
+  }
+}

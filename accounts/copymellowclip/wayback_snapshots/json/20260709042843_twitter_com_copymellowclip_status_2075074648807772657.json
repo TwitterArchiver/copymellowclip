@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2075065612947325285",
+    "created_at": "2026-07-09T04:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075074648807772657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075074648807772657",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075068715901796818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 诶ww每天做饭会花18到20的嘛ww 我大概是一次买肉猪肉/鸡肉 大概10块到15！然后这些肉切成五块左右大概一周能吃完（）会买油菜土豆胡萝卜生菜洋葱豆芽青椒，买很多也花不上五块钱每星期，然后主食吃大米或者玉米，玉米一块五一棒，一棒我能吃两顿（）每顿饭主食半个玉米一些菜肉喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2075065612947325285",
+        "created_at": "2026-07-09T04:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075074648807772657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075074648807772657",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075068715901796818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 诶ww每天做饭会花18到20的嘛ww 我大概是一次买肉猪肉/鸡肉 大概10块到15！然后这些肉切成五块左右大概一周能吃完（）会买油菜土豆胡萝卜生菜洋葱豆芽青椒，买很多也花不上五块钱每星期，然后主食吃大米或者玉米，玉米一块五一棒，一棒我能吃两顿（）每顿饭主食半个玉米一些菜肉喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2075065612947325285",
+        "created_at": "2026-07-09T04:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075068715901796818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075068715901796818",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075066796881891393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我自己做饭也会每天花18-20+🥹都做的什么呀我将严肃学习！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 1777,
+          "like_count": 7347,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 3790
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…\n需要回fo请私信或评论我！",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 210,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 958
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

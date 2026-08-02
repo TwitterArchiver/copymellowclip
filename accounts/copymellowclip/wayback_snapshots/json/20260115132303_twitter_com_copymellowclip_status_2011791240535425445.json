@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011753068178932109",
+    "created_at": "2026-01-15T13:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T14:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011791240535425445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2860821939",
+          "start": 0,
+          "username": "Youzieew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011791240535425445",
+    "in_reply_to_user_id": "2860821939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011761798492598366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Youzieew 其实我就是在外卖上点的（）本来就不算特别贵的原价叠加优惠价后超级有竞争力了……主要是比莫名其妙的店干净"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011753068178932109",
+        "created_at": "2026-01-15T13:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T14:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011791240535425445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2860821939",
+              "start": 0,
+              "username": "Youzieew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011791240535425445",
+        "in_reply_to_user_id": "2860821939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011761798492598366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youzieew 其实我就是在外卖上点的（）本来就不算特别贵的原价叠加优惠价后超级有竞争力了……主要是比莫名其妙的店干净"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2860821939",
+        "conversation_id": "2011753068178932109",
+        "created_at": "2026-01-15T11:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T12:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011761798492598366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011761798492598366",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011753068178932109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 现在便利店盒饭受外卖和拼好饭冲击，很多价格比起前几年还便宜了，量也多了。\n\n不这样做根本竞争不过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 76,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 53,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 512,
+          "like_count": 2581,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-04T15:17:31.000Z",
+        "description": "",
+        "id": "2860821939",
+        "name": "Hydrosya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551459842115702785/s9rXH9jK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 1740,
+          "like_count": 40158,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "Youzieew",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2028639249961308270",
+    "created_at": "2026-03-10T16:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T17:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031410355109585372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194283796314509312",
+          "start": 0,
+          "username": "gana0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031410355109585372",
+    "in_reply_to_user_id": "1194283796314509312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028657578604171440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gana0w0 天呐我才看到，活动还在吗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2028639249961308270",
+        "created_at": "2026-03-10T16:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031410355109585372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194283796314509312",
+              "start": 0,
+              "username": "gana0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031410355109585372",
+        "in_reply_to_user_id": "1194283796314509312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028657578604171440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gana0w0 天呐我才看到，活动还在吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194283796314509312",
+        "conversation_id": "2028639249961308270",
+        "created_at": "2026-03-03T02:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028657578604171440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028657578604171440",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028639249961308270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 1693,
+          "like_count": 6348,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2520
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "中文/四川话/日本語勉強中",
+        "id": "1194283796314509312",
+        "name": "gana",
+        "pinned_tweet_id": "1729047749205893284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028008182497632256/IydH9z06_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65347,
+          "following_count": 33,
+          "like_count": 9502,
+          "listed_count": 199,
+          "media_count": 1545,
+          "tweet_count": 6781
+        },
+        "username": "gana0w0",
+        "verified": false
+      }
+    ]
+  }
+}

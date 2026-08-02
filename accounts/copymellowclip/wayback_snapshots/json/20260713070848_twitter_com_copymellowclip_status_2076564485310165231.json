@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2076544074241433900",
+    "created_at": "2026-07-13T07:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076564485310165231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1468680674458488833",
+          "start": 0,
+          "username": "Doll070707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076564485310165231",
+    "in_reply_to_user_id": "1468680674458488833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076544074241433900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doll070707 最萌的一集！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10316,
+        "height": 720,
+        "media_key": "13_2076543971070001152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076543971070001152/img/NGiiJJH8Z_0fLEBd.jpg",
+        "public_metrics": {
+          "view_count": 539
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076543971070001152/vid/avc1/480x270/JdP5jrpDhA-DujHm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076543971070001152/vid/avc1/640x360/pY13dUoxi8gXjOYs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076543971070001152/vid/avc1/1280x720/wYssL3ST6u_qVuSD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076543971070001152/pl/2CRsJ_7PUER8BmKy.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2076544074241433900",
+        "created_at": "2026-07-13T07:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076564485310165231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468680674458488833",
+              "start": 0,
+              "username": "Doll070707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076564485310165231",
+        "in_reply_to_user_id": "1468680674458488833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076544074241433900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doll070707 最萌的一集！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076543971070001152"
+          ]
+        },
+        "author_id": "1468680674458488833",
+        "conversation_id": "2076544074241433900",
+        "created_at": "2026-07-13T05:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076544074241433900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBmVcfVjHR",
+              "end": 30,
+              "expanded_url": "https://x.com/Doll070707/status/2076544074241433900/video/1",
+              "media_key": "13_2076543971070001152",
+              "start": 7,
+              "url": "https://t.co/PBmVcfVjHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076544074241433900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1994,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的18岁🌚 https://t.co/PBmVcfVjHR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 1777,
+          "like_count": 7370,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 3820
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T20:35:47.000Z",
+        "description": "扩列52谁想加我",
+        "id": "1468680674458488833",
+        "name": "yd",
+        "pinned_tweet_id": "1998762211867766834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893254177893060608/Hu16SB4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 126,
+          "like_count": 858,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "Doll070707",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2015095255796949078",
+    "created_at": "2026-01-24T16:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T17:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015097126892802246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926810561536208897",
+          "start": 0,
+          "username": "Owso6y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015097126892802246",
+    "in_reply_to_user_id": "1926810561536208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015095255796949078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Owso6y_ 气晕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1107,
+        "media_key": "3_2015095242983444480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cOcnKbkAAeR-h.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2015095255796949078",
+        "created_at": "2026-01-24T16:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015097126892802246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926810561536208897",
+              "start": 0,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015097126892802246",
+        "in_reply_to_user_id": "1926810561536208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015095255796949078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owso6y_ 气晕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015095242983444480"
+          ]
+        },
+        "author_id": "1926810561536208897",
+        "conversation_id": "2015095255796949078",
+        "created_at": "2026-01-24T16:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015095255796949078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TgZ8Os4MR",
+              "end": 28,
+              "expanded_url": "https://x.com/Owso6y_/status/2015095255796949078/photo/1",
+              "media_key": "3_2015095242983444480",
+              "start": 5,
+              "url": "https://t.co/1TgZ8Os4MR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015095255796949078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "滚你妈的 https://t.co/1TgZ8Os4MR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 958,
+          "like_count": 5099,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T01:20:18.000Z",
+        "description": "备用号@Owsoy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Owsoy_"
+              }
+            ]
+          }
+        },
+        "id": "1926810561536208897",
+        "name": "ねこ",
+        "pinned_tweet_id": "2013316343412769171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926810632331960320/-llV7JkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8444,
+          "following_count": 5,
+          "like_count": 917,
+          "listed_count": 13,
+          "media_count": 42,
+          "tweet_count": 109
+        },
+        "username": "Owso6y_",
+        "verified": false
+      }
+    ]
+  }
+}

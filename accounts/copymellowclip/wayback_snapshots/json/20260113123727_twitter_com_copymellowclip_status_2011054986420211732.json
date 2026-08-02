@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010980880794435672",
+    "created_at": "2026-01-13T12:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T13:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011054986420211732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1705996511375654912",
+          "start": 0,
+          "username": "TruE_0619101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011054986420211732",
+    "in_reply_to_user_id": "1705996511375654912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011054889036886265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TruE_0619101 好————"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010980880794435672",
+        "created_at": "2026-01-13T12:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T13:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011054986420211732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1705996511375654912",
+              "start": 0,
+              "username": "TruE_0619101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011054986420211732",
+        "in_reply_to_user_id": "1705996511375654912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011054889036886265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TruE_0619101 好————"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705996511375654912",
+        "conversation_id": "2010980880794435672",
+        "created_at": "2026-01-13T12:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T13:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011054889036886265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011054889036886265",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010980880794435672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我一看书就看不进去，copy酱念给我听吧🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 313,
+          "like_count": 1838,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 883
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-24T17:24:06.000Z",
+        "description": "清水推记录生活喵｜点点关注点点赞我会开心一整天的◝(⑅•ᴗ•⑅)◜..°♡｜明明是来学java的怎么变擦边了（）",
+        "id": "1705996511375654912",
+        "location": "上海",
+        "name": "楚奈奈TruE",
+        "pinned_tweet_id": "1881301821815394506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813193850565107714/buW6ryx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8561,
+          "following_count": 354,
+          "like_count": 461,
+          "listed_count": 39,
+          "media_count": 101,
+          "tweet_count": 629
+        },
+        "username": "TruE_0619101",
+        "verified": false
+      }
+    ]
+  }
+}

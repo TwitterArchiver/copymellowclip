@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2026860409693810776",
+    "created_at": "2026-02-26T17:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T18:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027079492104319196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512992652630712323",
+          "start": 0,
+          "username": "douzi67042771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027079492104319196",
+    "in_reply_to_user_id": "1512992652630712323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026860409693810776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@douzi67042771 夸夸她然后趁她开心的时候问问她（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2026860402282557440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDazA9bcAACfPi.jpg",
+        "width": 603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2026860409693810776",
+        "created_at": "2026-02-26T17:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027079492104319196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512992652630712323",
+              "start": 0,
+              "username": "douzi67042771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027079492104319196",
+        "in_reply_to_user_id": "1512992652630712323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026860409693810776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@douzi67042771 夸夸她然后趁她开心的时候问问她（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026860402282557440"
+          ]
+        },
+        "author_id": "1512992652630712323",
+        "conversation_id": "2026860409693810776",
+        "created_at": "2026-02-26T03:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026860409693810776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KiGRDq2bs1",
+              "end": 45,
+              "expanded_url": "https://x.com/douzi67042771/status/2026860409693810776/photo/1",
+              "media_key": "3_2026860402282557440",
+              "start": 22,
+              "url": "https://t.co/KiGRDq2bs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026860409693810776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1031,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想出这个😭老师们有推荐衣服链接么或者自搭 https://t.co/KiGRDq2bs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 1704,
+          "like_count": 6276,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2410
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T03:15:42.000Z",
+        "description": "♂ ｜日音蟑螂｜古力特单推｜f1车迷｜手游只玩明日方舟｜同好都会互关｜喜欢摄影｜主机玩家｜fps苦手｜想吃麦门",
+        "id": "1512992652630712323",
+        "name": "豆梓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754471439904768/BFp3RW2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026,
+          "following_count": 808,
+          "like_count": 1944,
+          "listed_count": 11,
+          "media_count": 157,
+          "tweet_count": 1223
+        },
+        "username": "douzi67042771",
+        "verified": false
+      }
+    ]
+  }
+}

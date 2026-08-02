@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010564661922476165",
+    "created_at": "2026-01-12T10:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010654619966517367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009397592384507904",
+          "start": 0,
+          "username": "long_yu2026"
+        },
+        {
+          "end": 24,
+          "id": "1999504877337395200",
+          "start": 13,
+          "username": "chuan_0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010654619966517367",
+    "in_reply_to_user_id": "2009397592384507904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010654471924376054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@long_yu2026 @chuan_0123 亲亲这个teto"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010564661922476165",
+        "created_at": "2026-01-12T10:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010654619966517367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009397592384507904",
+              "start": 0,
+              "username": "long_yu2026"
+            },
+            {
+              "end": 24,
+              "id": "1999504877337395200",
+              "start": 13,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010654619966517367",
+        "in_reply_to_user_id": "2009397592384507904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010654471924376054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@long_yu2026 @chuan_0123 亲亲这个teto"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009397592384507904",
+        "conversation_id": "2010564661922476165",
+        "created_at": "2026-01-12T10:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010654471924376054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 27,
+              "id": "1999504877337395200",
+              "start": 16,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010654471924376054",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010569194073677859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @chuan_0123 拷贝是神明（双手合十）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 223,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 664
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-08T22:52:05.000Z",
+        "description": "",
+        "id": "2009397592384507904",
+        "name": "龙云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009397934836862977/7XEDvivy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 36,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "long_yu2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/病み垢/无言follow抱歉/直fo＝喜欢你/欢迎互fo我想和你们玩/脑子不好啥都发 有自伤&od内容 图片一般不会直接发/接受不了的可以随意拉黑我😸",
+        "id": "1999504877337395200",
+        "location": "佛在渡你",
+        "name": "虚空薯条教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009954663387541506/RIm7gJMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 20,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 184
+        },
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

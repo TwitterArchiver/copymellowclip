@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2064976652770357297",
+    "created_at": "2026-06-11T12:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065041977050362263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065041977050362263",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064976652770357297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu v 我自拍我看看萌不萌喵🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2064976641810722816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhFUKSbcAAE0x6.jpg",
+        "width": 709
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2064976652770357297",
+        "created_at": "2026-06-11T12:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065041977050362263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065041977050362263",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064976652770357297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu v 我自拍我看看萌不萌喵🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064976641810722816"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2064976652770357297",
+        "created_at": "2026-06-11T07:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064976652770357297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/57VBgfKkQv",
+              "end": 28,
+              "expanded_url": "https://x.com/_ropu/status/2064976652770357297/photo/1",
+              "media_key": "3_2064976641810722816",
+              "start": 5,
+              "url": "https://t.co/57VBgfKkQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064976652770357297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 899,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪咪喵喵 https://t.co/57VBgfKkQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2445,
+          "following_count": 1777,
+          "like_count": 7374,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 3652
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん： @Cchang3243 || CN/JP/EN/KR ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu || 是吗 Bot ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2055435465881538633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31206,
+          "following_count": 4396,
+          "like_count": 15664,
+          "listed_count": 32,
+          "media_count": 4745,
+          "tweet_count": 34942
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

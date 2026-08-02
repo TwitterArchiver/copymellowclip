@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2043201319775982037",
+    "created_at": "2026-04-13T03:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043529605470904353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1635516217200099328",
+          "start": 0,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043529605470904353",
+    "in_reply_to_user_id": "1635516217200099328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043201319775982037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywxqz_sy 抱抱你喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2043201319775982037",
+        "created_at": "2026-04-13T03:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043529605470904353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043529605470904353",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043201319775982037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywxqz_sy 抱抱你喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635516217200099328",
+        "conversation_id": "2043201319775982037",
+        "created_at": "2026-04-12T05:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043201319775982037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043201319775982037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1752,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我也想发唱歌视频。唱日语怕让擅长日语的互关厌蠢，毕竟我只会按罗马音唱，有时候还会口糊乱唱…唱中文的话我平常听中文歌又很少要去积累一下，唱英文我也有种莫名的羞耻……\n而且我声音不好听，还有鼻炎和慢性咽炎，影响到我声带了，感觉有点刺耳😿😿😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 1693,
+          "like_count": 6673,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 2892
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "顺女\n纯自恋\n女生和互关欢迎私信\n联系方式看心情给\n没有🚪，什么都不🈷️，不聊骚。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/kuVq03QEYP"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "name": "朔云",
+        "pinned_tweet_id": "2041771400126722473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000165241905401856/MYfFRFqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 585,
+          "like_count": 10539,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 3030
+        },
+        "url": "https://t.co/kuVq03QEYP",
+        "username": "ywxqz_sy",
+        "verified": false
+      }
+    ]
+  }
+}

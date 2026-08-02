@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2015445807223169051",
+    "created_at": "2026-01-27T01:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T02:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015958815372673509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015958815372673509",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015445807223169051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 做到现在大概率会因为没有米吃了而焦虑（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 664,
+        "media_key": "3_2015435117330640896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hDj5xXMAAQMA-.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2015445807223169051",
+        "created_at": "2026-01-27T01:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T02:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015958815372673509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015958815372673509",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015445807223169051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 做到现在大概率会因为没有米吃了而焦虑（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015435117330640896"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015445807223169051",
+        "created_at": "2026-01-25T15:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015445807223169051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8e13dySNi6",
+              "end": 81,
+              "expanded_url": "https://x.com/amecandy_x/status/2015445807223169051/photo/1",
+              "media_key": "3_2015435117330640896",
+              "start": 58,
+              "url": "https://t.co/8e13dySNi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015445807223169051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 43202,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2020年b站做视频是能养活自己的\n初中放假时发点游戏理论视频\n一个半月赚了八千 三万粉\n如果坚持到现在就好了…… https://t.co/8e13dySNi6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 1033,
+          "like_count": 5428,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 2019
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/She·Her/HRT 2022.7🍥/Fullstack💻/LLM/Vibe Coding/Blogger",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2015800491364803008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5238,
+          "following_count": 1782,
+          "like_count": 23655,
+          "listed_count": 15,
+          "media_count": 1021,
+          "tweet_count": 8173
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

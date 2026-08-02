@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011400035347615780",
+    "created_at": "2026-01-14T11:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T12:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011405078499037281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003081838965960704",
+          "start": 0,
+          "username": "Gatsuue_inf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011405078499037281",
+    "in_reply_to_user_id": "2003081838965960704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011404902837506281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gatsuue_inf 笑死我真不行了，龙少快让我圈圈钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2844,
+        "media_key": "3_2011404866158305280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-nyEaLboAADCXu.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011400035347615780",
+        "created_at": "2026-01-14T11:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011405078499037281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003081838965960704",
+              "start": 0,
+              "username": "Gatsuue_inf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011405078499037281",
+        "in_reply_to_user_id": "2003081838965960704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011404902837506281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gatsuue_inf 笑死我真不行了，龙少快让我圈圈钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011404866158305280"
+          ]
+        },
+        "author_id": "2003081838965960704",
+        "conversation_id": "2011400035347615780",
+        "created_at": "2026-01-14T11:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011404902837506281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWZIzqABXT",
+              "end": 46,
+              "expanded_url": "https://x.com/Gatsuue_inf/status/2011404902837506281/photo/1",
+              "media_key": "3_2011404866158305280",
+              "start": 23,
+              "url": "https://t.co/ZWZIzqABXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011404902837506281",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011403832245584062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 草我还真姓龙 https://t.co/ZWZIzqABXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 80,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 57,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 374,
+          "like_count": 2216,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T12:35:12.000Z",
+        "description": "男的    不是男娘    是正常人\n把推當qq空間使的    因為推沒人認識所以可以肆無忌憚地發    qq空間就不行了",
+        "id": "2003081838965960704",
+        "location": "上海/南宁",
+        "name": "月上Gatsuue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010839571848994817/QmL5F809_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 271,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 327
+        },
+        "username": "Gatsuue_inf",
+        "verified": false
+      }
+    ]
+  }
+}

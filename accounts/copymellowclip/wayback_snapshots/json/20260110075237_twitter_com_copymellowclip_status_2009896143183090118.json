@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009872829999919136",
+    "created_at": "2026-01-10T07:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T08:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009896143183090118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003990629135929345",
+          "start": 0,
+          "username": "zzethldOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009896143183090118",
+    "in_reply_to_user_id": "2003990629135929345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009872829999919136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzethldOfficial 可爱可爱摸摸头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009872829999919136",
+        "created_at": "2026-01-10T07:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T08:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009896143183090118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003990629135929345",
+              "start": 0,
+              "username": "zzethldOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009896143183090118",
+        "in_reply_to_user_id": "2003990629135929345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009872829999919136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzethldOfficial 可爱可爱摸摸头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003990629135929345",
+        "conversation_id": "2009872829999919136",
+        "created_at": "2026-01-10T06:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009872829999919136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009872829999919136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头发蹭到耳朵的时候会感觉自己毛茸茸的w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 57,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 236
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-25T00:46:36.000Z",
+        "description": "泽托德伯爵 | 别名义：Cosmospïka. | プロセカ創作谱面 | 健全b | 现充 | 全自动中文排列组合机器 | 我现在就要玩明日方舟终末地！！！！1",
+        "id": "2003990629135929345",
+        "location": "距你3.7km",
+        "name": "Comte Zzethld de 后面忘了",
+        "pinned_tweet_id": "2009361126224801825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003997640024117254/LDWKEYCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 371,
+          "like_count": 1871,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 532
+        },
+        "username": "zzethldOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

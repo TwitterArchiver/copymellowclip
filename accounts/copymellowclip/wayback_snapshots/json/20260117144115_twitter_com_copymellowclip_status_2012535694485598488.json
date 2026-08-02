@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012151807792074962",
+    "created_at": "2026-01-17T14:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T15:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012535694485598488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1950475198190551040",
+          "start": 0,
+          "username": "NnP1b5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012535694485598488",
+    "in_reply_to_user_id": "1950475198190551040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012151807792074962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NnP1b5 要是好用的话那岂不是又好用然后看着又很心情好呀www买买买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012151807792074962",
+        "created_at": "2026-01-17T14:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012535694485598488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1950475198190551040",
+              "start": 0,
+              "username": "NnP1b5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012535694485598488",
+        "in_reply_to_user_id": "1950475198190551040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012151807792074962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NnP1b5 要是好用的话那岂不是又好用然后看着又很心情好呀www买买买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950475198190551040",
+        "conversation_id": "2012151807792074962",
+        "created_at": "2026-01-16T13:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T14:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012151807792074962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012151807792074962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在思考要不要买一把很贵的梳子……很好用但对一把梳子而言太贵了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢个人主页、推荐收藏！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 608,
+          "like_count": 3448,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1407
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T08:35:31.000Z",
+        "description": "𐌃𐌏𐌍'𐌕 𐌁𐌄 𐌔𐌀𐌃",
+        "id": "1950475198190551040",
+        "location": "距离520米",
+        "name": "所有人都离我而去",
+        "pinned_tweet_id": "2012490557910896654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916308719304704/vND4Cfi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 85,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 134
+        },
+        "username": "NnP1b5",
+        "verified": false
+      }
+    ]
+  }
+}

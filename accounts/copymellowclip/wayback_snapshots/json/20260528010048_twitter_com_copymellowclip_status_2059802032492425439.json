@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2059698239037694343",
+    "created_at": "2026-05-28T01:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T02:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059802032492425439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2001970567193468928",
+          "start": 0,
+          "username": "chuyuling7727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059802032492425439",
+    "in_reply_to_user_id": "2001970567193468928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059801825545683114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuyuling7727 没失效哇而且就算真的失效了上面也有群号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2059698239037694343",
+        "created_at": "2026-05-28T01:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059802032492425439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2001970567193468928",
+              "start": 0,
+              "username": "chuyuling7727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059802032492425439",
+        "in_reply_to_user_id": "2001970567193468928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059801825545683114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuyuling7727 没失效哇而且就算真的失效了上面也有群号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001970567193468928",
+        "conversation_id": "2059698239037694343",
+        "created_at": "2026-05-28T00:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059801825545683114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059801825545683114",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059698239037694343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip copy老师这个二维码已经失效了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 1768,
+          "like_count": 7203,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 3497
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T10:59:22.000Z",
+        "description": "一个脱离低级趣味的人类",
+        "id": "2001970567193468928",
+        "name": "雾月纪室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042631708441481216/PoRipRy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 59,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "username": "chuyuling7727",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009948882701332961",
+    "created_at": "2026-01-11T03:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T04:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010188463338074351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1207281308377858048",
+          "start": 0,
+          "username": "yanya_uxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010188463338074351",
+    "in_reply_to_user_id": "1207281308377858048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010187626167578919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanya_uxu あなたみたいにかわいくなれたらな～…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009948882701332961",
+        "created_at": "2026-01-11T03:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010188463338074351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1207281308377858048",
+              "start": 0,
+              "username": "yanya_uxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010188463338074351",
+        "in_reply_to_user_id": "1207281308377858048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010187626167578919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanya_uxu あなたみたいにかわいくなれたらな～…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1207281308377858048",
+        "conversation_id": "2009948882701332961",
+        "created_at": "2026-01-11T03:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010187626167578919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010187626167578919",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010101543123714499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 勇気を出してしてみて！！✊️💖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 132,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 408
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-18T12:48:07.000Z",
+        "description": "♡彼氏オタク♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/yanya_uxu",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/yanya_uxu",
+                "start": 0,
+                "url": "https://t.co/0znksQsHun"
+              }
+            ]
+          }
+        },
+        "id": "1207281308377858048",
+        "name": "ねこは",
+        "pinned_tweet_id": "2000487492026507664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005208758226665472/pnxdJb7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40602,
+          "following_count": 35,
+          "like_count": 21279,
+          "listed_count": 129,
+          "media_count": 35,
+          "tweet_count": 3659
+        },
+        "url": "https://t.co/0znksQsHun",
+        "username": "yanya_uxu",
+        "verified": false
+      }
+    ]
+  }
+}

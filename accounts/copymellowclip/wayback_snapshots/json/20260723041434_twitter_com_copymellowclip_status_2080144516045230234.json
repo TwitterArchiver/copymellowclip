@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2080020055970951530",
+    "created_at": "2026-07-23T04:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080144516045230234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692047356034953216",
+          "start": 0,
+          "username": "Acriley_zc"
+        },
+        {
+          "end": 21,
+          "id": "1465701247021838341",
+          "start": 12,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080144516045230234",
+    "in_reply_to_user_id": "1692047356034953216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080118313427124274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acriley_zc @show5560 小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2080020055970951530",
+        "created_at": "2026-07-23T04:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080144516045230234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692047356034953216",
+              "start": 0,
+              "username": "Acriley_zc"
+            },
+            {
+              "end": 21,
+              "id": "1465701247021838341",
+              "start": 12,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080144516045230234",
+        "in_reply_to_user_id": "1692047356034953216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080118313427124274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acriley_zc @show5560 小孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692047356034953216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2080020055970951530",
+        "created_at": "2026-07-23T02:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080118313427124274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080118313427124274",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080020055970951530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 不可能的，要么不加要么肯定能被打死，GTA里面就没出现过无法攻击的人物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 1773,
+          "like_count": 7388,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 3849
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T05:35:11.000Z",
+        "description": "雨は気まぐれ。/♂，东方project，galgame萌新，单机游戏爱好者，喜欢摇滚乐，软工在读，轻度cosplay，目前修行中......（不接受涩涩谢谢）",
+        "id": "1692047356034953216",
+        "location": "飞八分钱",
+        "name": "無主物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070421514869166080/pSfnOVfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 229,
+          "like_count": 9800,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2228
+        },
+        "url": "",
+        "username": "Acriley_zc",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5210,
+          "following_count": 1739,
+          "like_count": 32076,
+          "listed_count": 13,
+          "media_count": 2468,
+          "tweet_count": 11408
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

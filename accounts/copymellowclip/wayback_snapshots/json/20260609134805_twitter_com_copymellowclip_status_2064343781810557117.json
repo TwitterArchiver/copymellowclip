@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2064298979752603939",
+    "created_at": "2026-06-09T13:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064343781810557117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        },
+        {
+          "end": 17,
+          "id": "286418121",
+          "start": 7,
+          "username": "CyberHono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064343781810557117",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064298979752603939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu @CyberHono 这么好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2417,
+        "media_key": "3_2064298972383211520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXc-m8a8AA_DX2.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2064298979752603939",
+        "created_at": "2026-06-09T13:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064343781810557117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            },
+            {
+              "end": 17,
+              "id": "286418121",
+              "start": 7,
+              "username": "CyberHono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064343781810557117",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064298979752603939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu @CyberHono 这么好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064298972383211520"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2064298979752603939",
+        "created_at": "2026-06-09T10:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064298979752603939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "286418121",
+              "start": 3,
+              "username": "CyberHono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEObDFR240",
+              "end": 73,
+              "expanded_url": "https://x.com/_ropu/status/2064298979752603939/photo/1",
+              "media_key": "3_2064298972383211520",
+              "start": 50,
+              "url": "https://t.co/yEObDFR240"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064298979752603939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 577,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜 @CyberHono 送了一张esim好开心好开心 还送了一个9esim的小白卡 更开心了🥺 https://t.co/yEObDFR240"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 1778,
+          "like_count": 7339,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 3643
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん： @Cchang3243 || CN/JP/EN/KR ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2055435465881538633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31159,
+          "following_count": 4382,
+          "like_count": 15524,
+          "listed_count": 32,
+          "media_count": 4737,
+          "tweet_count": 34713
+        },
+        "username": "_ropu",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-22T23:51:16.000Z",
+        "description": "Swiss Matchups - https://t.co/umirD0SdsT\nGlobal Travel eSIM - https://t.co/C3f08Y0PKT\nF1 Manager Setup - https://t.co/o2bjbLhx0P\n\n🕘 GMT+9\n🔠 en, zh, ja",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "majors.im",
+                "end": 40,
+                "expanded_url": "https://majors.im",
+                "start": 17,
+                "url": "https://t.co/umirD0SdsT"
+              },
+              {
+                "display_url": "esim.gg",
+                "end": 85,
+                "expanded_url": "https://esim.gg",
+                "start": 62,
+                "url": "https://t.co/C3f08Y0PKT"
+              },
+              {
+                "display_url": "f1setup.it",
+                "end": 128,
+                "expanded_url": "https://f1setup.it",
+                "start": 105,
+                "url": "https://t.co/o2bjbLhx0P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0.td",
+                "end": 23,
+                "expanded_url": "https://0.td/",
+                "start": 0,
+                "url": "https://t.co/i6C0PXlUFN"
+              }
+            ]
+          }
+        },
+        "id": "286418121",
+        "location": "Fukuoka",
+        "name": "ieb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/951073169326026752/Q-vmpzsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 375,
+          "like_count": 2243,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 3887
+        },
+        "url": "https://t.co/i6C0PXlUFN",
+        "username": "CyberHono",
+        "verified": true
+      }
+    ]
+  }
+}

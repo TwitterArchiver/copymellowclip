@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032860077850505216"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2032860080912347586",
+    "created_at": "2026-03-14T16:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032860080912347586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RpYdwJdwq2",
+          "end": 175,
+          "expanded_url": "https://x.com/copymellowclip/status/2032860080912347586/photo/1",
+          "media_key": "3_2032860077850505216",
+          "start": 152,
+          "url": "https://t.co/RpYdwJdwq2"
+        },
+        {
+          "display_url": "x.com/copymellowclip…",
+          "end": 199,
+          "expanded_url": "https://twitter.com/copymellowclip/status/2032675018807849213",
+          "start": 176,
+          "url": "https://t.co/lnuWWLfXZe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032860080912347586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032675018807849213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "换了这个astrbot，代码明显比openclaw好太多，前端的ai味也少了。\n\n好吧我承认这个接到聊天软件的需求还是存在的，因为这个鸿蒙的终端模拟器ssh非常非常卡，不知道为什么。\n\n除此之外我不知道有什么理由不用cc opencode codex这样的cli软件，通过ssh进到自己的主机然后发消息 https://t.co/RpYdwJdwq2 https://t.co/lnuWWLfXZe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2120,
+        "media_key": "3_2032860077850505216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYreGJaMAA2Fcs.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032860077850505216"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2032860080912347586",
+        "created_at": "2026-03-14T16:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032860080912347586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpYdwJdwq2",
+              "end": 175,
+              "expanded_url": "https://x.com/copymellowclip/status/2032860080912347586/photo/1",
+              "media_key": "3_2032860077850505216",
+              "start": 152,
+              "url": "https://t.co/RpYdwJdwq2"
+            },
+            {
+              "display_url": "x.com/copymellowclip…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/copymellowclip/status/2032675018807849213",
+              "start": 176,
+              "url": "https://t.co/lnuWWLfXZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032860080912347586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032675018807849213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "换了这个astrbot，代码明显比openclaw好太多，前端的ai味也少了。\n\n好吧我承认这个接到聊天软件的需求还是存在的，因为这个鸿蒙的终端模拟器ssh非常非常卡，不知道为什么。\n\n除此之外我不知道有什么理由不用cc opencode codex这样的cli软件，通过ssh进到自己的主机然后发消息 https://t.co/RpYdwJdwq2 https://t.co/lnuWWLfXZe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2032675018807849213",
+        "created_at": "2026-03-14T04:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032675018807849213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032675018807849213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1167,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无脑吹捧clawbot的人，感觉老了会被骗去买保健品\n无脑恐惧clawbot说毁电脑是病毒的人更是啥子，感觉会信南极有冰墙地球是平的人类没登上过月球全是阴谋论\n不过clawbot这个东西做的真的很差，前端纯AI写的一坨不说，提示词也烂的不行，token消耗量大费钱是小事，上下文占用多会明显降低ai智商说胡话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 1711,
+          "like_count": 6402,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2604
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      }
+    ]
+  }
+}

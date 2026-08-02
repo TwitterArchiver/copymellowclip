@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2017164210145546559",
+    "created_at": "2026-01-30T15:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017259373496779104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017259373496779104",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017258560783364135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI 也不少啦）——\n这个premium都快过期了x过几天续一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2017164210145546559",
+        "created_at": "2026-01-30T15:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017259373496779104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017259373496779104",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017258560783364135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 也不少啦）——\n这个premium都快过期了x过几天续一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2017164210145546559",
+        "created_at": "2026-01-30T15:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017258560783364135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017258560783364135",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017164210145546559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 也还请老师开了Premium之后还请继续保持自己的日常更新呐\n能坚持自己日常的推油已经不多了呜呜😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1512,
+          "like_count": 6033,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2224
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只MtX🏳️‍⚧️｜请不要屏蔽我🥺｜前世 @ryq59｜本体@yqua_｜点击“查看更多”可以了解我～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 26,
+                "username": "ryq59"
+              },
+              {
+                "end": 41,
+                "start": 35,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPC8bX"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "阿彬秘制羊排饭",
+        "name": "你是要气死铨酱么🍥（二代目）",
+        "pinned_tweet_id": "2010144496995258841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6763,
+          "following_count": 3357,
+          "like_count": 30983,
+          "listed_count": 17,
+          "media_count": 1324,
+          "tweet_count": 5760
+        },
+        "url": "https://t.co/9ZD7jPC8bX",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

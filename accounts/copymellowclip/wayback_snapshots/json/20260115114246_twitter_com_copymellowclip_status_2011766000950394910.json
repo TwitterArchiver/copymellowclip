@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011759776036958654",
+    "created_at": "2026-01-15T11:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T12:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011766000950394910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1635679785132371969",
+          "start": 0,
+          "username": "_Culacc1no_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011766000950394910",
+    "in_reply_to_user_id": "1635679785132371969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011762817343606807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Culacc1no_ 哇塞哇塞x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011762814432755712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-s3nvaawAA7Bjr.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011759776036958654",
+        "created_at": "2026-01-15T11:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T12:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011766000950394910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1635679785132371969",
+              "start": 0,
+              "username": "_Culacc1no_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011766000950394910",
+        "in_reply_to_user_id": "1635679785132371969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011762817343606807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Culacc1no_ 哇塞哇塞x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011762814432755712"
+          ]
+        },
+        "author_id": "1635679785132371969",
+        "conversation_id": "2011759776036958654",
+        "created_at": "2026-01-15T11:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T12:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011762817343606807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfP1Poi7qA",
+              "end": 48,
+              "expanded_url": "https://x.com/_Culacc1no_/status/2011762817343606807/photo/1",
+              "media_key": "3_2011762814432755712",
+              "start": 25,
+              "url": "https://t.co/gfP1Poi7qA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011762817343606807",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011759776036958654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我好像是第五百个 https://t.co/gfP1Poi7qA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 76,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 53,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 497,
+          "like_count": 2544,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-14T16:30:37.000Z",
+        "description": "死にたいわけじゃなくて                                               \n明日を生きるのが辛いだけ",
+        "id": "1635679785132371969",
+        "location": "Meow Town",
+        "name": "和乐 清浅",
+        "pinned_tweet_id": "1944085551961059797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898845031886381056/PIofMUtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 844,
+          "like_count": 12834,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2501
+        },
+        "username": "_Culacc1no_",
+        "verified": false
+      }
+    ]
+  }
+}

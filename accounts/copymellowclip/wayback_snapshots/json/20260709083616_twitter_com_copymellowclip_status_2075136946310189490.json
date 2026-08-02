@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2075128102439842233",
+    "created_at": "2026-07-09T08:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075136946310189490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075136946310189490",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075136399523856636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa 对然后就是进扩列群转发群 qr 码到朋友圈宣群呀，人数够了之后就先加群的人开始发自己自介图，没有雷的话就加（前面几个是花钱扩列的老板 x）然后她们发过自介图之后群就随意了大家可以互相发自介互相加这样，不过大多数人可能会选择一下子全加之后刷到朋友圈发现有雷再删（？）就很那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2075128102439842233",
+        "created_at": "2026-07-09T08:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075136946310189490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075136946310189490",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075136399523856636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 对然后就是进扩列群转发群 qr 码到朋友圈宣群呀，人数够了之后就先加群的人开始发自己自介图，没有雷的话就加（前面几个是花钱扩列的老板 x）然后她们发过自介图之后群就随意了大家可以互相发自介互相加这样，不过大多数人可能会选择一下子全加之后刷到朋友圈发现有雷再删（？）就很那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2075128102439842233",
+        "created_at": "2026-07-09T08:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075136399523856636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075136399523856636",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075130784294564171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 咪的天 竟有此物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 1777,
+          "like_count": 7358,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 3807
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 251,
+          "like_count": 10260,
+          "listed_count": 10,
+          "media_count": 466,
+          "tweet_count": 3917
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

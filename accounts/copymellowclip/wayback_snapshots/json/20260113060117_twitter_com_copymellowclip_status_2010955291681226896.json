@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010937062162100362",
+    "created_at": "2026-01-13T06:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T07:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010955291681226896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009636788118433792",
+          "start": 0,
+          "username": "Josiezhoun0201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010955291681226896",
+    "in_reply_to_user_id": "2009636788118433792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010955176060878985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Josiezhoun0201 咋这样、我吃醋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010937062162100362",
+        "created_at": "2026-01-13T06:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010955291681226896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009636788118433792",
+              "start": 0,
+              "username": "Josiezhoun0201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010955291681226896",
+        "in_reply_to_user_id": "2009636788118433792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010955176060878985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Josiezhoun0201 咋这样、我吃醋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009636788118433792",
+        "conversation_id": "2010937062162100362",
+        "created_at": "2026-01-13T06:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010955176060878985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010955176060878985",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010954965913911767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 其实就是喜欢上了一个有对象的女孩子😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 295,
+          "like_count": 1708,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 840
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T14:42:15.000Z",
+        "description": "我发着玩的 os好想和小女孩互fo",
+        "id": "2009636788118433792",
+        "name": "Josie zhou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010257622536957952/6l1MhC_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 32,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "Josiezhoun0201",
+        "verified": false
+      }
+    ]
+  }
+}

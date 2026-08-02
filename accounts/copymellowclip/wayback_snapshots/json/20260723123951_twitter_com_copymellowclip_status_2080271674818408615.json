@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080271667897716736",
+        "3_2080271668422082560"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2080271674818408615",
+    "created_at": "2026-07-23T12:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080271674818408615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/segj7zw1fu",
+          "end": 61,
+          "expanded_url": "https://x.com/copymellowclip/status/2080271674818408615/photo/1",
+          "media_key": "3_2080271667897716736",
+          "start": 38,
+          "url": "https://t.co/segj7zw1fu"
+        },
+        {
+          "display_url": "pic.x.com/segj7zw1fu",
+          "end": 61,
+          "expanded_url": "https://x.com/copymellowclip/status/2080271674818408615/photo/1",
+          "media_key": "3_2080271668422082560",
+          "start": 38,
+          "url": "https://t.co/segj7zw1fu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080271674818408615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "grok 这到底是什么翻译，好争论的还 18+，雌小鬼是吧，脱序是电波系吗 https://t.co/segj7zw1fu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2080271667897716736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6cD2laUAAEt2t.jpg",
+        "width": 391
+      },
+      {
+        "height": 554,
+        "media_key": "3_2080271668422082560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6cD4ibgAAavJC.jpg",
+        "width": 617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080271667897716736",
+            "3_2080271668422082560"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2080271674818408615",
+        "created_at": "2026-07-23T12:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080271674818408615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/segj7zw1fu",
+              "end": 61,
+              "expanded_url": "https://x.com/copymellowclip/status/2080271674818408615/photo/1",
+              "media_key": "3_2080271667897716736",
+              "start": 38,
+              "url": "https://t.co/segj7zw1fu"
+            },
+            {
+              "display_url": "pic.x.com/segj7zw1fu",
+              "end": 61,
+              "expanded_url": "https://x.com/copymellowclip/status/2080271674818408615/photo/1",
+              "media_key": "3_2080271668422082560",
+              "start": 38,
+              "url": "https://t.co/segj7zw1fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080271674818408615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "grok 这到底是什么翻译，好争论的还 18+，雌小鬼是吧，脱序是电波系吗 https://t.co/segj7zw1fu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 1772,
+          "like_count": 7393,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 3851
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      }
+    ]
+  }
+}

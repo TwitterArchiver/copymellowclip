@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013553081665867889",
+    "created_at": "2026-01-20T12:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T13:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013583011942670576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994727203750514688",
+          "start": 0,
+          "username": "Loveyanouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013583011942670576",
+    "in_reply_to_user_id": "1994727203750514688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013578132071039169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loveyanouo 那小草莓喜欢我吗我们在一起吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013553081665867889",
+        "created_at": "2026-01-20T12:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013583011942670576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994727203750514688",
+              "start": 0,
+              "username": "Loveyanouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013583011942670576",
+        "in_reply_to_user_id": "1994727203750514688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013578132071039169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loveyanouo 那小草莓喜欢我吗我们在一起吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994727203750514688",
+        "conversation_id": "2013553081665867889",
+        "created_at": "2026-01-20T11:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T12:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013578132071039169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013578132071039169",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013571095056785785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip copy酱也是小猫！🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 745,
+          "like_count": 4171,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1656
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-29T11:20:36.000Z",
+        "description": "其实我挺可爱的！",
+        "id": "1994727203750514688",
+        "location": "不和男的闲聊 女生可以₍ᐢ･∀･ᐢ₎",
+        "name": "小草莓",
+        "pinned_tweet_id": "2002296398293750004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008475955535491072/DfR-wLIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 36,
+          "like_count": 232,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 741
+        },
+        "username": "Loveyanouo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2046972215854596302",
+    "created_at": "2026-04-22T15:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046973331141005822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952735136140943360",
+          "start": 0,
+          "username": "Jay575299341215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046973331141005822",
+    "in_reply_to_user_id": "1952735136140943360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046972947282423907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jay575299341215 遥已经是我的老婆了😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2046972215854596302",
+        "created_at": "2026-04-22T15:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046973331141005822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1952735136140943360",
+              "start": 0,
+              "username": "Jay575299341215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046973331141005822",
+        "in_reply_to_user_id": "1952735136140943360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046972947282423907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jay575299341215 遥已经是我的老婆了😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952735136140943360",
+        "conversation_id": "2046972215854596302",
+        "created_at": "2026-04-22T15:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046972947282423907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046972947282423907",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046972215854596302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 难道是一个很喜欢爱莉希雅的萌萌小女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 1704,
+          "like_count": 6772,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3005
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T14:15:18.000Z",
+        "description": "11",
+        "id": "1952735136140943360",
+        "location": "11",
+        "name": "Jay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030567070447104000/QRm6ype-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 90,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 567
+        },
+        "username": "Jay575299341215",
+        "verified": false
+      }
+    ]
+  }
+}

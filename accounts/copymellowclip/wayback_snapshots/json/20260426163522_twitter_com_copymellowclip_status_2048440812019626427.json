@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2047274714956210270",
+    "created_at": "2026-04-26T16:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048440812019626427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699696503122747392",
+          "start": 0,
+          "username": "yx1141253493"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048440812019626427",
+    "in_reply_to_user_id": "1699696503122747392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047282267299684701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yx1141253493 喵喵喵最后装了9600x和5070，核心件我就想一步到位捏，然后以后再有钱再加一根d5内存喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2047274714956210270",
+        "created_at": "2026-04-26T16:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048440812019626427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699696503122747392",
+              "start": 0,
+              "username": "yx1141253493"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048440812019626427",
+        "in_reply_to_user_id": "1699696503122747392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047282267299684701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yx1141253493 喵喵喵最后装了9600x和5070，核心件我就想一步到位捏，然后以后再有钱再加一根d5内存喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699696503122747392",
+        "conversation_id": "2047274714956210270",
+        "created_at": "2026-04-23T11:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047282267299684701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047282267299684701",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047274714956210270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 你想装itx 楼上说那个5060ti不是很合适 小卡价格干的有点高 你可以买个5060萌宠先用着 后续再做升级 上条帖子我发的配置都用不了七千 并且都是全新件 去买二手剩余会更多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 1715,
+          "like_count": 6837,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3068
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T08:10:46.000Z",
+        "description": "你是我的梦想",
+        "id": "1699696503122747392",
+        "name": "疏离",
+        "pinned_tweet_id": "1743850904548421795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983331173163204608/zHWUbosn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 54,
+          "like_count": 1897,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1802
+        },
+        "username": "yx1141253493",
+        "verified": false
+      }
+    ]
+  }
+}

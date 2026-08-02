@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016175066816676160",
+    "created_at": "2026-01-27T15:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016175577900974334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936351595018747904",
+          "start": 0,
+          "username": "Sqqlcyy6037"
+        },
+        {
+          "end": 24,
+          "id": "1823767829465980931",
+          "start": 13,
+          "username": "CaoYu61579"
+        },
+        {
+          "end": 36,
+          "id": "1905566526595629060",
+          "start": 25,
+          "username": "Apipleeeee"
+        },
+        {
+          "end": 50,
+          "id": "1842691989210533888",
+          "start": 37,
+          "username": "AKuma_bamboo"
+        },
+        {
+          "end": 61,
+          "id": "1899976477396918272",
+          "start": 51,
+          "username": "Qiniansea"
+        },
+        {
+          "end": 74,
+          "id": "1736982152531877888",
+          "start": 62,
+          "username": "szvcz338938"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016175577900974334",
+    "in_reply_to_user_id": "1936351595018747904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016175066816676160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sqqlcyy6037 @CaoYu61579 @Apipleeeee @AKuma_bamboo @Qiniansea @szvcz338938 我饿了！都怪你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2016175066816676160",
+        "created_at": "2026-01-27T15:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016175577900974334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936351595018747904",
+              "start": 0,
+              "username": "Sqqlcyy6037"
+            },
+            {
+              "end": 24,
+              "id": "1823767829465980931",
+              "start": 13,
+              "username": "CaoYu61579"
+            },
+            {
+              "end": 36,
+              "id": "1905566526595629060",
+              "start": 25,
+              "username": "Apipleeeee"
+            },
+            {
+              "end": 50,
+              "id": "1842691989210533888",
+              "start": 37,
+              "username": "AKuma_bamboo"
+            },
+            {
+              "end": 61,
+              "id": "1899976477396918272",
+              "start": 51,
+              "username": "Qiniansea"
+            },
+            {
+              "end": 74,
+              "id": "1736982152531877888",
+              "start": 62,
+              "username": "szvcz338938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016175577900974334",
+        "in_reply_to_user_id": "1936351595018747904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016175066816676160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sqqlcyy6037 @CaoYu61579 @Apipleeeee @AKuma_bamboo @Qiniansea @szvcz338938 我饿了！都怪你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936351595018747904",
+        "conversation_id": "2016175066816676160",
+        "created_at": "2026-01-27T15:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016175066816676160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823767829465980931",
+              "start": 0,
+              "username": "CaoYu61579"
+            },
+            {
+              "end": 23,
+              "id": "1905566526595629060",
+              "start": 12,
+              "username": "Apipleeeee"
+            },
+            {
+              "end": 37,
+              "id": "1842691989210533888",
+              "start": 24,
+              "username": "AKuma_bamboo"
+            },
+            {
+              "end": 51,
+              "id": "1842691989210533888",
+              "start": 38,
+              "username": "AKuma_bamboo"
+            },
+            {
+              "end": 67,
+              "id": "876363325998678017",
+              "start": 52,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 78,
+              "id": "1899976477396918272",
+              "start": 68,
+              "username": "Qiniansea"
+            },
+            {
+              "end": 91,
+              "id": "1736982152531877888",
+              "start": 79,
+              "username": "szvcz338938"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2015738988817182902",
+              "start": 92,
+              "url": "https://t.co/Erw8RfLL14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016175066816676160",
+        "in_reply_to_user_id": "1823767829465980931",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015738988817182902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaoYu61579 @Apipleeeee @AKuma_bamboo @AKuma_bamboo @copymellowclip @Qiniansea @szvcz338938 https://t.co/Erw8RfLL14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 1039,
+          "like_count": 5478,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2039
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-21T09:57:06.000Z",
+        "description": "",
+        "id": "1936351595018747904",
+        "name": "某不知名的草蒹www",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936369727829315584/xrME-azk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 1024,
+          "like_count": 2974,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 523
+        },
+        "username": "Sqqlcyy6037",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:05:21.000Z",
+        "description": "你像世界为了我活着抛出的诱饵┋小号@imnotoven只过互关┋取关随意┋没有陪聊的义务┋匿名：https://t.co/EcmAneyOcQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "imnotoven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.83912044",
+                "end": 71,
+                "expanded_url": "http://tellonym.me/user.83912044",
+                "start": 48,
+                "url": "https://t.co/EcmAneyOcQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binyeon_yu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/binyeon_yu",
+                "start": 0,
+                "url": "https://t.co/EiqXcqLYjB"
+              }
+            ]
+          }
+        },
+        "id": "1823767829465980931",
+        "location": "讨厌你 每个小猫你都想摸˃ ˄ ˂",
+        "name": "我烤箱咋滴",
+        "pinned_tweet_id": "2015267232566419931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007159379410464768/ObpktCDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 141,
+          "like_count": 6562,
+          "listed_count": 6,
+          "media_count": 157,
+          "tweet_count": 2723
+        },
+        "url": "https://t.co/EiqXcqLYjB",
+        "username": "CaoYu61579",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "虚室生白",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdZDt"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "location": "🚪 821",
+        "name": "苹果",
+        "pinned_tweet_id": "1936778447273263245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007783323607896064/tHD2doYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9471,
+          "following_count": 5,
+          "like_count": 1500,
+          "listed_count": 32,
+          "media_count": 632,
+          "tweet_count": 2442
+        },
+        "url": "https://t.co/TMmfJOdZDt",
+        "username": "Apipleeeee",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T22:23:07.000Z",
+        "description": "稻荷/小狐🚪52 详情看置顶 |不回特别奇怪的话|不接线下不接线下不接线下|不爱聊天|会屏蔽素质低下的\n本质是来上网的抽象怪 随便发发的ど˶ˊ ᗜ ˋ˶う",
+        "id": "1842691989210533888",
+        "name": "阿玛特拉斯",
+        "pinned_tweet_id": "2008269432582545543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997606846853791745/ayi5XM2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 79,
+          "like_count": 324,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 289
+        },
+        "username": "AKuma_bamboo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T00:11:42.000Z",
+        "description": "在0人认识的地方碎碎念 我需要很多钱 不聊黄不看🐮 骂我先打钱 提问箱链接在下面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qiniansea",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qiniansea",
+                "start": 0,
+                "url": "https://t.co/bDOIWe8TMw"
+              }
+            ]
+          }
+        },
+        "id": "1899976477396918272",
+        "name": "404not found",
+        "pinned_tweet_id": "1981344285292445846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009304352146460672/vmUeur5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 54,
+          "like_count": 10860,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2389
+        },
+        "url": "https://t.co/bDOIWe8TMw",
+        "username": "Qiniansea",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T05:30:02.000Z",
+        "description": "",
+        "id": "1736982152531877888",
+        "name": "克里斯阔以内",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012133385939177473/-cncsxYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 92,
+          "like_count": 4536,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 1659
+        },
+        "username": "szvcz338938",
+        "verified": false
+      }
+    ]
+  }
+}

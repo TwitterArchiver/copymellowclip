@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010654024471871912",
+    "created_at": "2026-01-12T10:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010664989489856732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906024483431047168",
+          "start": 0,
+          "username": "Chudokusho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010664989489856732",
+    "in_reply_to_user_id": "1906024483431047168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010664457828221077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chudokusho 这个小春真的好元气好可爱……被治愈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010654024471871912",
+        "created_at": "2026-01-12T10:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010664989489856732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906024483431047168",
+              "start": 0,
+              "username": "Chudokusho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010664989489856732",
+        "in_reply_to_user_id": "1906024483431047168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010664457828221077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chudokusho 这个小春真的好元气好可爱……被治愈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906024483431047168",
+        "conversation_id": "2010654024471871912",
+        "created_at": "2026-01-12T10:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010664457828221077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010664457828221077",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010654024471871912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 好耶！烤烤酱值得！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 225,
+          "like_count": 1401,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 672
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你",
+        "id": "1906024483431047168",
+        "name": "叙春日",
+        "pinned_tweet_id": "2006923818917572943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006905531848601602/DnnroOGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 52,
+          "like_count": 2169,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 491
+        },
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

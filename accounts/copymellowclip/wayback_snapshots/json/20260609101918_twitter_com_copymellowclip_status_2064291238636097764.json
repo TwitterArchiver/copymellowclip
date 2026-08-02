@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062030442862395392"
+      ],
+      "media_source_tweet_id": [
+        "2062030452031119866"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2064291238636097764",
+    "created_at": "2026-06-09T10:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064291238636097764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1988187586339467264",
+          "start": 3,
+          "username": "Air_Yukiha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q9Zqi9r7oV",
+          "end": 50,
+          "expanded_url": "https://x.com/Air_Yukiha/status/2062030452031119866/photo/1",
+          "media_key": "3_2062030442862395392",
+          "start": 27,
+          "url": "https://t.co/q9Zqi9r7oV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064291238636097764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062030452031119866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Air_Yukiha: 这张很可爱🥹我发一下 https://t.co/q9Zqi9r7oV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2062030442862395392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3Nwz7awAAaKj8.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062030442862395392"
+          ],
+          "media_source_tweet_id": [
+            "2062030452031119866"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2064291238636097764",
+        "created_at": "2026-06-09T10:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064291238636097764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1988187586339467264",
+              "start": 3,
+              "username": "Air_Yukiha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9Zqi9r7oV",
+              "end": 50,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2062030452031119866/photo/1",
+              "media_key": "3_2062030442862395392",
+              "start": 27,
+              "url": "https://t.co/q9Zqi9r7oV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064291238636097764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062030452031119866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Air_Yukiha: 这张很可爱🥹我发一下 https://t.co/q9Zqi9r7oV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062030442862395392"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062030452031119866",
+        "created_at": "2026-06-03T04:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062030452031119866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9Zqi9r7oV",
+              "end": 34,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2062030452031119866/photo/1",
+              "media_key": "3_2062030442862395392",
+              "start": 11,
+              "url": "https://t.co/q9Zqi9r7oV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062030452031119866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5024,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这张很可爱🥹我发一下 https://t.co/q9Zqi9r7oV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 1777,
+          "like_count": 7314,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 3632
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 295,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 363
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

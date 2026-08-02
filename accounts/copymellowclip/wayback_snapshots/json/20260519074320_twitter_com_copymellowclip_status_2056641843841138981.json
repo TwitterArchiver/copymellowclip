@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2056529046419431737",
+    "created_at": "2026-05-19T07:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056641843841138981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828632343680294916",
+          "start": 0,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056641843841138981",
+    "in_reply_to_user_id": "1828632343680294916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056529046419431737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvya 挨骂骗互动是吧（）这么会玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2056529043961573376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpCRP-acAAvcfg.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2056529046419431737",
+        "created_at": "2026-05-19T07:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056641843841138981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056641843841138981",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056529046419431737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 挨骂骗互动是吧（）这么会玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056529043961573376"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2056529046419431737",
+        "created_at": "2026-05-19T00:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056529046419431737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/epAVVmegzJ",
+              "end": 38,
+              "expanded_url": "https://x.com/jianlvya/status/2056529046419431737/photo/1",
+              "media_key": "3_2056529043961573376",
+              "start": 15,
+              "url": "https://t.co/epAVVmegzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056529046419431737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 112280,
+          "like_count": 281,
+          "quote_count": 0,
+          "reply_count": 279,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "她为什么要穿成这样坐地铁呀？ https://t.co/epAVVmegzJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 1741,
+          "like_count": 7124,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3363
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "私信互关 会点赞 INTJ 欢迎交流 \n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2056529046419431737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6056,
+          "following_count": 1024,
+          "like_count": 24135,
+          "listed_count": 16,
+          "media_count": 1045,
+          "tweet_count": 1956
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

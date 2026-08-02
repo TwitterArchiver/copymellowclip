@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012601894359720237",
+    "created_at": "2026-01-17T23:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T00:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012673674789429432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808604308163940352",
+          "start": 0,
+          "username": "cici20120712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012673674789429432",
+    "in_reply_to_user_id": "1808604308163940352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012601894359720237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cici20120712 好色哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1944,
+        "media_key": "3_2012601890316460033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4ywYqXoAEr7Bi.jpg",
+        "width": 1944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012601894359720237",
+        "created_at": "2026-01-17T23:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T00:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012673674789429432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808604308163940352",
+              "start": 0,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012673674789429432",
+        "in_reply_to_user_id": "1808604308163940352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012601894359720237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cici20120712 好色哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012601890316460033"
+          ]
+        },
+        "author_id": "1808604308163940352",
+        "conversation_id": "2012601894359720237",
+        "created_at": "2026-01-17T19:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T20:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012601894359720237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGsE19GGKq",
+              "end": 65,
+              "expanded_url": "https://x.com/cici20120712/status/2012601894359720237/photo/1",
+              "media_key": "3_2012601890316460033",
+              "start": 42,
+              "url": "https://t.co/hGsE19GGKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012601894359720237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3611,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你不想和我抱抱然后摁着我操吗\n难道我不是好猫娘吗\n为什么不和我做喵\n我掐爆你牛子喵 https://t.co/hGsE19GGKq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 619,
+          "like_count": 3511,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1425
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "门槛68zfb口令就行了喵\n底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2006526827796586753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70738,
+          "following_count": 95,
+          "like_count": 803,
+          "listed_count": 179,
+          "media_count": 675,
+          "tweet_count": 1210
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010240627901116554",
+    "created_at": "2026-01-12T16:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010745809059594301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808883154083852288",
+          "start": 0,
+          "username": "lipuxizi7071638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010745809059594301",
+    "in_reply_to_user_id": "1808883154083852288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010609728389599647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipuxizi7071638 就借这个萌萌小鱼块吉言…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010240627901116554",
+        "created_at": "2026-01-12T16:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010745809059594301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808883154083852288",
+              "start": 0,
+              "username": "lipuxizi7071638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010745809059594301",
+        "in_reply_to_user_id": "1808883154083852288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010609728389599647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lipuxizi7071638 就借这个萌萌小鱼块吉言…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808883154083852288",
+        "conversation_id": "2010240627901116554",
+        "created_at": "2026-01-12T07:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010609728389599647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010609728389599647",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010240627901116554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip copy老师这么萌一定会火的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 252,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 710
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-04T15:18:59.000Z",
+        "description": "小猫电台，祝泥今日鱼块\n不接寄拍/推广",
+        "id": "1808883154083852288",
+        "name": "小鱼块",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959441187561259009/aHiEBrnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6047,
+          "following_count": 545,
+          "like_count": 10560,
+          "listed_count": 20,
+          "media_count": 102,
+          "tweet_count": 3380
+        },
+        "username": "lipuxizi7071638",
+        "verified": false
+      }
+    ]
+  }
+}

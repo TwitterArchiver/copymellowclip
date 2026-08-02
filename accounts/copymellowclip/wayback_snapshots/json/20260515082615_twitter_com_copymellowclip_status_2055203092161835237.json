@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2055203092161835237",
+    "created_at": "2026-05-15T08:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055203092161835237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aa0_uvu444/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/aa0_uvu444/status/2055021214322802782",
+          "start": 4,
+          "url": "https://t.co/B45d2Ub4EN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055203092161835237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055021214322802782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "萌萌萌 https://t.co/B45d2Ub4EN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055021211902681088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITm531aIAAWVJ2.jpg",
+        "width": 1618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2055203092161835237",
+        "created_at": "2026-05-15T08:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055203092161835237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aa0_uvu444/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/aa0_uvu444/status/2055021214322802782",
+              "start": 4,
+              "url": "https://t.co/B45d2Ub4EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055203092161835237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055021214322802782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萌萌萌 https://t.co/B45d2Ub4EN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055021211902681088"
+          ]
+        },
+        "author_id": "2010069857149349888",
+        "conversation_id": "2055021214322802782",
+        "created_at": "2026-05-14T20:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T21:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055021214322802782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4XL8HvSaot",
+              "end": 23,
+              "expanded_url": "https://x.com/aa0_uvu444/status/2055021214322802782/photo/1",
+              "media_key": "3_2055021211902681088",
+              "start": 0,
+              "url": "https://t.co/4XL8HvSaot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055021214322802782",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 5475,
+          "like_count": 533,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4XL8HvSaot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 1737,
+          "like_count": 7063,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3301
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T19:23:01.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/aa0_uvu444",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/aa0_uvu444",
+                "start": 0,
+                "url": "https://t.co/ql4zqzyquk"
+              }
+            ]
+          }
+        },
+        "id": "2010069857149349888",
+        "location": "-♡",
+        "name": "엘",
+        "pinned_tweet_id": "2013260288003653716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021667061425221718/NpHJtKaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 35,
+          "like_count": 250,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/ql4zqzyquk",
+        "username": "aa0_uvu444",
+        "verified": false
+      }
+    ]
+  }
+}

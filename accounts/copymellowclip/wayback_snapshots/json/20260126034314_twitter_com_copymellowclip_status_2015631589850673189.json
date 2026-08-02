@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2015629224829497347",
+    "created_at": "2026-01-26T03:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T04:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015631589850673189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014321172591349760",
+          "start": 0,
+          "username": "sy1756288153554"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015631589850673189",
+    "in_reply_to_user_id": "2014321172591349760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015630892543439126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sy1756288153554 那很好喝了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2015629224829497347",
+        "created_at": "2026-01-26T03:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015631589850673189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014321172591349760",
+              "start": 0,
+              "username": "sy1756288153554"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015631589850673189",
+        "in_reply_to_user_id": "2014321172591349760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015630892543439126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sy1756288153554 那很好喝了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014321172591349760",
+        "conversation_id": "2015629224829497347",
+        "created_at": "2026-01-26T03:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015630892543439126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015630892543439126",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015629224829497347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip ！好耶 令人开心的消息 我将喝一杯橙汁庆祝🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1018,
+          "like_count": 5314,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1984
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-22T12:56:14.000Z",
+        "description": "谁愿意倾听我的原生家庭...算了，直接脱吧\n                                 匿名👉🏻  https://t.co/kPNTj6slFC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sy1756288153554",
+                "end": 84,
+                "expanded_url": "https://ngl.link/sy1756288153554",
+                "start": 61,
+                "url": "https://t.co/kPNTj6slFC"
+              }
+            ]
+          }
+        },
+        "id": "2014321172591349760",
+        "location": "1.2km",
+        "name": "谁来安慰破碎男大",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014505590480044032/fuxEBrPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 72,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 100
+        },
+        "username": "sy1756288153554",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2017268511324905526",
+    "created_at": "2026-01-30T17:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T18:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017288833071779971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012588146043551744",
+          "start": 0,
+          "username": "_xiaowxxiao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017288833071779971",
+    "in_reply_to_user_id": "2012588146043551744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017268511324905526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_xiaowxxiao_ 摸摸、才不会呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2017268511324905526",
+        "created_at": "2026-01-30T17:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017288833071779971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012588146043551744",
+              "start": 0,
+              "username": "_xiaowxxiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017288833071779971",
+        "in_reply_to_user_id": "2012588146043551744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017268511324905526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_xiaowxxiao_ 摸摸、才不会呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012588146043551744",
+        "conversation_id": "2017268511324905526",
+        "created_at": "2026-01-30T16:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017268511324905526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017268511324905526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我純賤b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 1532,
+          "like_count": 6067,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2234
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T18:09:56.000Z",
+        "description": "电子小筱在线营业中 躁郁|hk|09|泛|繩藝|bdsm|sw|",
+        "id": "2012588146043551744",
+        "location": "🚪188 288 388 业务表请看置顶",
+        "name": "电子小筱",
+        "pinned_tweet_id": "2014805508386115614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012590669257166848/qwlM1HJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 232,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 346
+        },
+        "username": "_xiaowxxiao_",
+        "verified": false
+      }
+    ]
+  }
+}

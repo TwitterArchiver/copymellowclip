@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2062780678484394089",
+    "created_at": "2026-06-06T11:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063216440711532880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061450593617563649",
+          "start": 0,
+          "username": "minesavior0311"
+        },
+        {
+          "end": 26,
+          "id": "1980410903850885120",
+          "start": 16,
+          "username": "mmshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063216440711532880",
+    "in_reply_to_user_id": "2061450593617563649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062780678484394089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minesavior0311 @mmshuxing 宝宝妈妈妹妹姐姐老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2062780663494053888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKB4FZkbkAAEkMd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062780663460405248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKB4FZcaIAAiYOt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2062780663485575168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKB4FZiaMAA60tM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2062780663439458305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKB4FZXagAEAXJc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2062780678484394089",
+        "created_at": "2026-06-06T11:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063216440711532880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061450593617563649",
+              "start": 0,
+              "username": "minesavior0311"
+            },
+            {
+              "end": 26,
+              "id": "1980410903850885120",
+              "start": 16,
+              "username": "mmshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063216440711532880",
+        "in_reply_to_user_id": "2061450593617563649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062780678484394089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minesavior0311 @mmshuxing 宝宝妈妈妹妹姐姐老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062780663494053888",
+            "3_2062780663460405248",
+            "3_2062780663485575168",
+            "3_2062780663439458305"
+          ]
+        },
+        "author_id": "2061450593617563649",
+        "conversation_id": "2062780678484394089",
+        "created_at": "2026-06-05T06:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062780678484394089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 32,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663494053888",
+              "start": 9,
+              "url": "https://t.co/wu2oNeArqt"
+            },
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 32,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663460405248",
+              "start": 9,
+              "url": "https://t.co/wu2oNeArqt"
+            },
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 32,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663485575168",
+              "start": 9,
+              "url": "https://t.co/wu2oNeArqt"
+            },
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 32,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663439458305",
+              "start": 9,
+              "url": "https://t.co/wu2oNeArqt"
+            },
+            {
+              "display_url": "x.com/minesavior0311…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/minesavior0311/status/2061838185421029827",
+              "start": 33,
+              "url": "https://t.co/1aC4t085Ek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062780678484394089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 993,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061838185421029827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发四张呆萌的我。 https://t.co/wu2oNeArqt https://t.co/1aC4t085Ek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 1772,
+          "like_count": 7236,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3590
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T14:15:47.000Z",
+        "description": "前世可颂\n我割我o 随便发发低脂小视频\n🚪52纯绿\n欢迎来找我玩\n防炸/雪兔https://t.co/UoBIc9JrtE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/keso1314sxh?s=…",
+                "end": 61,
+                "expanded_url": "https://x.com/keso1314sxh?s=21",
+                "start": 38,
+                "url": "https://t.co/UoBIc9JrtE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/E3FFBNW55n"
+              }
+            ]
+          }
+        },
+        "id": "2061450593617563649",
+        "location": "提问👉🏻",
+        "name": "Choke（Croissant5.0）",
+        "pinned_tweet_id": "2062780678484394089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062124667041959936/umI--rr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 157,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/E3FFBNW55n",
+        "username": "minesavior0311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T23:09:07.000Z",
+        "description": "幼幼 我喜欢@MmeTuT\n喜欢哥哥 餐券 抑焦 割手\n11年 INTP-T 顺女 友跨（🏳️‍🌈）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "MmeTuT"
+              }
+            ]
+          }
+        },
+        "id": "1980410903850885120",
+        "location": "好友位88 纯绿128 288",
+        "name": "死罪绝命",
+        "pinned_tweet_id": "2060845788561825969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061479349182664704/wC0Xoy_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 107,
+          "like_count": 3873,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 61
+        },
+        "username": "mmshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

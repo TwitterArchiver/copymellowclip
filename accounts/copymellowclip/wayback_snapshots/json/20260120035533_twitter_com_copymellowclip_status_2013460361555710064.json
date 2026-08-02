@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013213890830635113",
+    "created_at": "2026-01-20T03:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T04:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013460361555710064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926785911011811328",
+          "start": 0,
+          "username": "rAi9Nobi5m57545"
+        }
+      ],
+      "urls": [
+        {
+          "description": "CROSS†CHANNEL汉化项目从2012年11月开始启动，目前已完成PC复刻版本汉化，并进行了全平台的移植，全部可以下载！汉化组：群青学院放送部",
+          "display_url": "crosschannel.games",
+          "end": 55,
+          "expanded_url": "https://www.crosschannel.games/",
+          "start": 32,
+          "status": 200,
+          "title": "CROSS†CHANNEL 汉化项目 + 汉化补丁发布 | 群青学院放送部",
+          "unwound_url": "https://www.crosschannel.games/",
+          "url": "https://t.co/SAiT69kL6T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013460361555710064",
+    "in_reply_to_user_id": "1926785911011811328",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013213890830635113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rAi9Nobi5m57545 cross+channel！\nhttps://t.co/SAiT69kL6T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013213890830635113",
+        "created_at": "2026-01-20T03:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013460361555710064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926785911011811328",
+              "start": 0,
+              "username": "rAi9Nobi5m57545"
+            }
+          ],
+          "urls": [
+            {
+              "description": "CROSS†CHANNEL汉化项目从2012年11月开始启动，目前已完成PC复刻版本汉化，并进行了全平台的移植，全部可以下载！汉化组：群青学院放送部",
+              "display_url": "crosschannel.games",
+              "end": 55,
+              "expanded_url": "https://www.crosschannel.games/",
+              "start": 32,
+              "status": 200,
+              "title": "CROSS†CHANNEL 汉化项目 + 汉化补丁发布 | 群青学院放送部",
+              "unwound_url": "https://www.crosschannel.games/",
+              "url": "https://t.co/SAiT69kL6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013460361555710064",
+        "in_reply_to_user_id": "1926785911011811328",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013213890830635113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rAi9Nobi5m57545 cross+channel！\nhttps://t.co/SAiT69kL6T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926785911011811328",
+        "conversation_id": "2013213890830635113",
+        "created_at": "2026-01-19T11:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013213890830635113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013213890830635113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 558,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么看完会感叹人类真的好厉害的作品吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 709,
+          "like_count": 3988,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1591
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-25T23:42:23.000Z",
+        "description": "无人在意",
+        "id": "1926785911011811328",
+        "location": "6.3km",
+        "name": "止痛劑",
+        "pinned_tweet_id": "1979463473794027616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005163018292994048/eaBK6sMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 212,
+          "like_count": 2278,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1351
+        },
+        "username": "rAi9Nobi5m57545",
+        "verified": false
+      }
+    ]
+  }
+}

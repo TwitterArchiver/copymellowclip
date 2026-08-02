@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059140787326320641"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2058700304548511790",
+    "created_at": "2026-05-26T05:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059140790107116022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1852168574485565446",
+          "start": 0,
+          "username": "mynew_X"
+        },
+        {
+          "end": 18,
+          "id": "1999143875689271296",
+          "start": 9,
+          "username": "iiii0iio"
+        },
+        {
+          "end": 28,
+          "id": "126581934",
+          "start": 19,
+          "username": "dearemon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZFGWWIJBnQ",
+          "end": 131,
+          "expanded_url": "https://x.com/copymellowclip/status/2059140790107116022/photo/1",
+          "media_key": "3_2059140787326320641",
+          "start": 108,
+          "url": "https://t.co/ZFGWWIJBnQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059140790107116022",
+    "in_reply_to_user_id": "1852168574485565446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059139361887899929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mynew_X @iiii0iio @dearemon 这个时代我觉得你稍微学习一下LLM相关知识比较好，都报的systemprompt被设置的非常魅user，你发的提示词里本身就已经带有一种倾向了，没有任何意义 https://t.co/ZFGWWIJBnQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1762,
+        "media_key": "3_2059140787326320641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOJouMagAEIGLu.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059139351792250880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOIVKaa8AAiM1R.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059140787326320641"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2058700304548511790",
+        "created_at": "2026-05-26T05:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059140790107116022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1852168574485565446",
+              "start": 0,
+              "username": "mynew_X"
+            },
+            {
+              "end": 18,
+              "id": "1999143875689271296",
+              "start": 9,
+              "username": "iiii0iio"
+            },
+            {
+              "end": 28,
+              "id": "126581934",
+              "start": 19,
+              "username": "dearemon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZFGWWIJBnQ",
+              "end": 131,
+              "expanded_url": "https://x.com/copymellowclip/status/2059140790107116022/photo/1",
+              "media_key": "3_2059140787326320641",
+              "start": 108,
+              "url": "https://t.co/ZFGWWIJBnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059140790107116022",
+        "in_reply_to_user_id": "1852168574485565446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059139361887899929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mynew_X @iiii0iio @dearemon 这个时代我觉得你稍微学习一下LLM相关知识比较好，都报的systemprompt被设置的非常魅user，你发的提示词里本身就已经带有一种倾向了，没有任何意义 https://t.co/ZFGWWIJBnQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059139351792250880"
+          ]
+        },
+        "author_id": "1852168574485565446",
+        "conversation_id": "2058700304548511790",
+        "created_at": "2026-05-26T05:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059139361887899929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 25,
+              "id": "1999143875689271296",
+              "start": 16,
+              "username": "iiii0iio"
+            },
+            {
+              "end": 35,
+              "id": "126581934",
+              "start": 26,
+              "username": "dearemon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qEvfXlZ3AZ",
+              "end": 198,
+              "expanded_url": "https://x.com/mynew_X/status/2059139361887899929/photo/1",
+              "media_key": "3_2059139351792250880",
+              "start": 175,
+              "url": "https://t.co/qEvfXlZ3AZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059139361887899929",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059135952174583904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @iiii0iio @dearemon 呵呵 自己看，如图。可以说动物园猛兽吃的肉比市场上绝大多数肉都干净。你在街边饭店平时吃到的肉很难保证激素没超标，特别养殖鸡。更不用说很多烧烤摊也会用的病死鸡了。你但凡有点常识也不会说出这种话来。中国食品安全是个什么样子，你不知道？各种水果都敢加药，但动物园动物吃的水果绝对没有 https://t.co/qEvfXlZ3AZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 1767,
+          "like_count": 7162,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 3428
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T02:00:07.000Z",
+        "description": "",
+        "id": "1852168574485565446",
+        "location": "Georgia, USA",
+        "name": "Allen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014304637466378240/0rsS5437_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 54,
+          "like_count": 4906,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 2223
+        },
+        "username": "mynew_X",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T15:47:14.000Z",
+        "description": "是我，原账号@iiiioioi已被冻结~😵‍💫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "iiiioioi"
+              }
+            ]
+          }
+        },
+        "id": "1999143875689271296",
+        "name": "🔟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008099256922730496/2fq4L99q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 111,
+          "like_count": 4348,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 3902
+        },
+        "username": "iiii0iio",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59292,
+          "following_count": 696,
+          "like_count": 5857,
+          "listed_count": 224,
+          "media_count": 30298,
+          "tweet_count": 393881
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

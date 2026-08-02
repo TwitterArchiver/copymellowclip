@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011113631422038406",
+    "created_at": "2026-01-13T16:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T17:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011115750657048627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960385041806344192",
+          "start": 0,
+          "username": "kuu55239"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011115750657048627",
+    "in_reply_to_user_id": "1960385041806344192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011113631422038406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuu55239 乱说你最漂亮了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011113631422038406",
+        "created_at": "2026-01-13T16:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011115750657048627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960385041806344192",
+              "start": 0,
+              "username": "kuu55239"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011115750657048627",
+        "in_reply_to_user_id": "1960385041806344192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011113631422038406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuu55239 乱说你最漂亮了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960385041806344192",
+        "conversation_id": "2011113631422038406",
+        "created_at": "2026-01-13T16:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011113631422038406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011113631422038406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚想自拍 打开前置 感觉自己像那个猪头肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜脆与ins也是copymellowclip（用来防走失）\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 108,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 85,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 323,
+          "like_count": 1927,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 919
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T16:54:16.000Z",
+        "description": "",
+        "id": "1960385041806344192",
+        "name": "ig",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009990848768028676/eWVPKlRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 60,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "kuu55239",
+        "verified": false
+      }
+    ]
+  }
+}

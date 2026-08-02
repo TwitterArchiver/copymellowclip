@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2042180307055722592",
+    "created_at": "2026-04-09T10:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042186325005046193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1253292430792839174",
+          "start": 0,
+          "username": "Suzushirochika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042186325005046193",
+    "in_reply_to_user_id": "1253292430792839174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042180307055722592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suzushirochika 吗哇路"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2042180304857939968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdIKtZbQAAbDz5.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2042180307055722592",
+        "created_at": "2026-04-09T10:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042186325005046193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042186325005046193",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042180307055722592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 吗哇路"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042180304857939968"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042180307055722592",
+        "created_at": "2026-04-09T09:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042180307055722592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkKiOtnrSN",
+              "end": 28,
+              "expanded_url": "https://x.com/Suzushirochika/status/2042180307055722592/photo/1",
+              "media_key": "3_2042180304857939968",
+              "start": 5,
+              "url": "https://t.co/xkKiOtnrSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042180307055722592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "マワルー https://t.co/xkKiOtnrSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 1705,
+          "like_count": 6590,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 2825
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14802,
+          "following_count": 747,
+          "like_count": 83757,
+          "listed_count": 14,
+          "media_count": 923,
+          "tweet_count": 17290
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

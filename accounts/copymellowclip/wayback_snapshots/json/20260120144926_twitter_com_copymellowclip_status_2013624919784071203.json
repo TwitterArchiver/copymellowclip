@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013569308467790194",
+    "created_at": "2026-01-20T14:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T15:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013624919784071203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1833947636396929024",
+          "start": 0,
+          "username": "Zhi0120_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013624919784071203",
+    "in_reply_to_user_id": "1833947636396929024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013569308467790194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhi0120_ 生日快乐呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013569297033912322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Gim3hW4AICa1q.jpg",
+        "width": 1718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013569308467790194",
+        "created_at": "2026-01-20T14:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013624919784071203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1833947636396929024",
+              "start": 0,
+              "username": "Zhi0120_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013624919784071203",
+        "in_reply_to_user_id": "1833947636396929024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013569308467790194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhi0120_ 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013569297033912322"
+          ]
+        },
+        "author_id": "1833947636396929024",
+        "conversation_id": "2013569308467790194",
+        "created_at": "2026-01-20T11:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T12:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013569308467790194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Atdbhc8mlV",
+              "end": 41,
+              "expanded_url": "https://x.com/Zhi0120_/status/2013569308467790194/photo/1",
+              "media_key": "3_2013569297033912322",
+              "start": 18,
+              "url": "https://t.co/Atdbhc8mlV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013569308467790194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 46647,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 151,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在我可以说自己20年没做过爱了🤣 https://t.co/Atdbhc8mlV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 755,
+          "like_count": 4209,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1664
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-11T19:16:11.000Z",
+        "description": "私はとても可愛いですよ",
+        "id": "1833947636396929024",
+        "name": "做个梦",
+        "pinned_tweet_id": "2007974728380870913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009971069973868544/pu8_8bVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11960,
+          "following_count": 0,
+          "like_count": 23,
+          "listed_count": 21,
+          "media_count": 17,
+          "tweet_count": 74
+        },
+        "username": "Zhi0120_",
+        "verified": false
+      }
+    ]
+  }
+}

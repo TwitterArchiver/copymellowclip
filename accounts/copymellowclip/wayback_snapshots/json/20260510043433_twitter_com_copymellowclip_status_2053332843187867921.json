@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2053324398749454344",
+    "created_at": "2026-05-10T04:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053332843187867921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652200117494231043",
+          "start": 0,
+          "username": "OuO_QwQg"
+        },
+        {
+          "end": 24,
+          "id": "1390652924481527810",
+          "start": 10,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053332843187867921",
+    "in_reply_to_user_id": "1652200117494231043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053328671415660952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO_QwQg @zqtlovekris99 函数图像x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2053324398749454344",
+        "created_at": "2026-05-10T04:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053332843187867921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "OuO_QwQg"
+            },
+            {
+              "end": 24,
+              "id": "1390652924481527810",
+              "start": 10,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053332843187867921",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053328671415660952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO_QwQg @zqtlovekris99 函数图像x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2053324398749454344",
+        "created_at": "2026-05-10T04:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053328671415660952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053328671415660952",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053324398749454344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 为什么？没看懂（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 1733,
+          "like_count": 6964,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 3186
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxian1527\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "maoxian1527"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 116,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 93,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2020621499112272132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 66,
+          "like_count": 9257,
+          "listed_count": 3,
+          "media_count": 300,
+          "tweet_count": 3384
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "OuO_QwQg",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2053331651892335097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12865,
+          "following_count": 1584,
+          "like_count": 25650,
+          "listed_count": 18,
+          "media_count": 4894,
+          "tweet_count": 27905
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

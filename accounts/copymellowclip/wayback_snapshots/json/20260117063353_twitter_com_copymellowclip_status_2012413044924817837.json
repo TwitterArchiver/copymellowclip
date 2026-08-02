@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012374310724530447",
+    "created_at": "2026-01-17T06:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T07:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012413044924817837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012413044924817837",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012374310724530447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban 会不会是妈妈想和你一起吃呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012374310724530447",
+        "created_at": "2026-01-17T06:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012413044924817837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012413044924817837",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012374310724530447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 会不会是妈妈想和你一起吃呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420072716963520520",
+        "conversation_id": "2012374310724530447",
+        "created_at": "2026-01-17T03:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012374310724530447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012374310724530447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了，为啥每次回家我妈就在12点把我叫起来吃饭，前一天晚上睡的晚，根本不够睡，就不能让我一觉睡到下午自然醒么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 84,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "喵",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 592,
+          "like_count": 3216,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "2005599456377667826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007094270436753408/CIZOasT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 831,
+          "like_count": 15542,
+          "listed_count": 1,
+          "media_count": 1314,
+          "tweet_count": 7550
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

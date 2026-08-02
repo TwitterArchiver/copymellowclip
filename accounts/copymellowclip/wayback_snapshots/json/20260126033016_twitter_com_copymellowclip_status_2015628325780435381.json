@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015628320528818176",
+        "3_2015628319878963201",
+        "3_2015628319694438400",
+        "3_2015628319874768896"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2015628325780435381",
+    "created_at": "2026-01-26T03:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T04:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015628325780435381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YshgkW44vG",
+          "end": 167,
+          "expanded_url": "https://x.com/copymellowclip/status/2015628325780435381/photo/1",
+          "media_key": "3_2015628320528818176",
+          "start": 144,
+          "url": "https://t.co/YshgkW44vG"
+        },
+        {
+          "display_url": "pic.x.com/YshgkW44vG",
+          "end": 167,
+          "expanded_url": "https://x.com/copymellowclip/status/2015628325780435381/photo/1",
+          "media_key": "3_2015628319878963201",
+          "start": 144,
+          "url": "https://t.co/YshgkW44vG"
+        },
+        {
+          "display_url": "pic.x.com/YshgkW44vG",
+          "end": 167,
+          "expanded_url": "https://x.com/copymellowclip/status/2015628325780435381/photo/1",
+          "media_key": "3_2015628319694438400",
+          "start": 144,
+          "url": "https://t.co/YshgkW44vG"
+        },
+        {
+          "display_url": "pic.x.com/YshgkW44vG",
+          "end": 167,
+          "expanded_url": "https://x.com/copymellowclip/status/2015628325780435381/photo/1",
+          "media_key": "3_2015628319874768896",
+          "start": 144,
+          "url": "https://t.co/YshgkW44vG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015628325780435381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "变成美少女（）\n\n拉低对比度（不是） 主要就还是尽可能保持背景不被调色失真尽可能和iPhone直出不偏离太多，但是人物精修吧，不开磨皮手动用图章去修皮肤，然后我人本来就有种莫名其妙的死感可能是表情之类的吧，我朋友也说我动起来感觉挺呆的不太聪明、、\n\n不想要孩子\n\n好耶！你也可爱我贴贴贴\n\n好吧（）\n\n没在用imessage"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "变成美少女（）\n\n拉低对比度（不是） 主要就还是尽可能保持背景不被调色失真尽可能和iPhone直出不偏离太多，但是人物精修吧，不开磨皮手动用图章去修皮肤，然后我人本来就有种莫名其妙的死感可能是表情之类的吧，我朋友也说我动起来感觉挺呆的不太聪明、、\n\n不想要孩子\n\n好耶！你也可爱我贴贴贴 https://t.co/YshgkW44vG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1223,
+        "media_key": "3_2015628320528818176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jzRzxWYAAAcXg.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1301,
+        "media_key": "3_2015628319878963201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jzRxWaYAEXau6.jpg",
+        "width": 1320
+      },
+      {
+        "height": 722,
+        "media_key": "3_2015628319694438400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jzRwqawAAioaJ.jpg",
+        "width": 1316
+      },
+      {
+        "height": 1307,
+        "media_key": "3_2015628319874768896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jzRxVaYAAL10i.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015628320528818176",
+            "3_2015628319878963201",
+            "3_2015628319694438400",
+            "3_2015628319874768896"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2015628325780435381",
+        "created_at": "2026-01-26T03:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015628325780435381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YshgkW44vG",
+              "end": 167,
+              "expanded_url": "https://x.com/copymellowclip/status/2015628325780435381/photo/1",
+              "media_key": "3_2015628320528818176",
+              "start": 144,
+              "url": "https://t.co/YshgkW44vG"
+            },
+            {
+              "display_url": "pic.x.com/YshgkW44vG",
+              "end": 167,
+              "expanded_url": "https://x.com/copymellowclip/status/2015628325780435381/photo/1",
+              "media_key": "3_2015628319878963201",
+              "start": 144,
+              "url": "https://t.co/YshgkW44vG"
+            },
+            {
+              "display_url": "pic.x.com/YshgkW44vG",
+              "end": 167,
+              "expanded_url": "https://x.com/copymellowclip/status/2015628325780435381/photo/1",
+              "media_key": "3_2015628319694438400",
+              "start": 144,
+              "url": "https://t.co/YshgkW44vG"
+            },
+            {
+              "display_url": "pic.x.com/YshgkW44vG",
+              "end": 167,
+              "expanded_url": "https://x.com/copymellowclip/status/2015628325780435381/photo/1",
+              "media_key": "3_2015628319874768896",
+              "start": 144,
+              "url": "https://t.co/YshgkW44vG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015628325780435381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "变成美少女（）\n\n拉低对比度（不是） 主要就还是尽可能保持背景不被调色失真尽可能和iPhone直出不偏离太多，但是人物精修吧，不开磨皮手动用图章去修皮肤，然后我人本来就有种莫名其妙的死感可能是表情之类的吧，我朋友也说我动起来感觉挺呆的不太聪明、、\n\n不想要孩子\n\n好耶！你也可爱我贴贴贴\n\n好吧（）\n\n没在用imessage"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "变成美少女（）\n\n拉低对比度（不是） 主要就还是尽可能保持背景不被调色失真尽可能和iPhone直出不偏离太多，但是人物精修吧，不开磨皮手动用图章去修皮肤，然后我人本来就有种莫名其妙的死感可能是表情之类的吧，我朋友也说我动起来感觉挺呆的不太聪明、、\n\n不想要孩子\n\n好耶！你也可爱我贴贴贴 https://t.co/YshgkW44vG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1018,
+          "like_count": 5306,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

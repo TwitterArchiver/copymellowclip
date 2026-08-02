@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2080273406961062363",
+    "created_at": "2026-07-23T22:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T23:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080422159030407531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1227490130216095744",
+          "start": 0,
+          "username": "WN_Lulu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080422159030407531",
+    "in_reply_to_user_id": "1227490130216095744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080350572700700971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WN_Lulu 一般人租房子都不会买大件家具吧，周围人搬家没看到有几个花钱的，日式搬家应该完全没有必要，毕竟我可能半年就搬一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2080273406961062363",
+        "created_at": "2026-07-23T22:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080422159030407531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1227490130216095744",
+              "start": 0,
+              "username": "WN_Lulu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080422159030407531",
+        "in_reply_to_user_id": "1227490130216095744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080350572700700971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WN_Lulu 一般人租房子都不会买大件家具吧，周围人搬家没看到有几个花钱的，日式搬家应该完全没有必要，毕竟我可能半年就搬一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227490130216095744",
+        "conversation_id": "2080273406961062363",
+        "created_at": "2026-07-23T17:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080350572700700971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080350572700700971",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080273406961062363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 这是觉得贵的办法……真觉得累找日式搬家单人3k左右全给你安排了 你完全不用动手动脑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2876,
+          "following_count": 1771,
+          "like_count": 7396,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 3856
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T07:10:36.000Z",
+        "description": "好色 贪财 不可爱‖化妆师（接男娘变装看置顶）\n\n男的",
+        "id": "1227490130216095744",
+        "location": "Shenzhen, China",
+        "name": "鹿鹿 つ♡⊂",
+        "pinned_tweet_id": "1976899521545486830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818973567914303488/LXFa2Iuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30741,
+          "following_count": 423,
+          "like_count": 16238,
+          "listed_count": 124,
+          "media_count": 2334,
+          "tweet_count": 33393
+        },
+        "url": "",
+        "username": "WN_Lulu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013292893172113752",
+    "created_at": "2026-01-19T17:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T18:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013305980151570664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279738200626466816",
+          "start": 0,
+          "username": "Rain76318015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013305980151570664",
+    "in_reply_to_user_id": "1279738200626466816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013305806091890817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain76318015 我想吃水煮过的软软的然后蘸料汁（）天呐这不就是沙县吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013292893172113752",
+        "created_at": "2026-01-19T17:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013305980151570664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279738200626466816",
+              "start": 0,
+              "username": "Rain76318015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013305980151570664",
+        "in_reply_to_user_id": "1279738200626466816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013305806091890817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain76318015 我想吃水煮过的软软的然后蘸料汁（）天呐这不就是沙县吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279738200626466816",
+        "conversation_id": "2013292893172113752",
+        "created_at": "2026-01-19T17:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013305806091890817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013305806091890817",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013305224421589367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 但是真的很难吃。之前我是当小零食放在桌子边上想起来了就抓一把。。。然后至少两天得吃完一包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 683,
+          "like_count": 3903,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1538
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-05T11:25:50.000Z",
+        "description": "顺直男\n当前时区GMT＋0\n好想交可以聊天的朋友🥲\n如果有人互动会很开心🥹\n无人在意的角落碎碎念💔\n🚪68888888太阳系可飞",
+        "id": "1279738200626466816",
+        "name": "U",
+        "pinned_tweet_id": "1997079425351864588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011921258062233600/Jst0woaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 124,
+          "like_count": 2817,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 610
+        },
+        "username": "Rain76318015",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2051595368459333949",
+    "created_at": "2026-05-05T19:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T20:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051745935173275885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194283796314509312",
+          "start": 0,
+          "username": "gana0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051745935173275885",
+    "in_reply_to_user_id": "1194283796314509312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051595368459333949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gana0w0 好想亲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2051595357117911040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHi7G4PakAAWxwv.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2051595368459333949",
+        "created_at": "2026-05-05T19:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051745935173275885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194283796314509312",
+              "start": 0,
+              "username": "gana0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051745935173275885",
+        "in_reply_to_user_id": "1194283796314509312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051595368459333949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gana0w0 好想亲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051595357117911040"
+          ]
+        },
+        "author_id": "1194283796314509312",
+        "conversation_id": "2051595368459333949",
+        "created_at": "2026-05-05T09:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051595368459333949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsgD5hcgao",
+              "end": 23,
+              "expanded_url": "https://x.com/gana0w0/status/2051595368459333949/photo/1",
+              "media_key": "3_2051595357117911040",
+              "start": 0,
+              "url": "https://t.co/rsgD5hcgao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051595368459333949",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1204,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rsgD5hcgao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 1721,
+          "like_count": 6863,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 3113
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "自用🪜 https://t.co/ySp7utCzxL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=axvMQjmh",
+                "start": 4,
+                "url": "https://t.co/ySp7utCzxL"
+              }
+            ]
+          }
+        },
+        "id": "1194283796314509312",
+        "location": "🚪188",
+        "name": "gana",
+        "pinned_tweet_id": "2049753087682981935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042639893378273280/vPmJfapa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67115,
+          "following_count": 63,
+          "like_count": 9781,
+          "listed_count": 201,
+          "media_count": 1579,
+          "tweet_count": 6736
+        },
+        "username": "gana0w0",
+        "verified": false
+      }
+    ]
+  }
+}

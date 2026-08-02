@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2059145820939878757",
+    "created_at": "2026-05-26T09:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059210923513196940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059210923513196940",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059207261118251206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 硬要说的话，qq限制非常大，其他的基本上没有吧，google服务也能正常用出境易内建的谷歌服务"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2059145820939878757",
+        "created_at": "2026-05-26T09:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059210923513196940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059210923513196940",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059207261118251206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 硬要说的话，qq限制非常大，其他的基本上没有吧，google服务也能正常用出境易内建的谷歌服务"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763034943599607808",
+        "conversation_id": "2059145820939878757",
+        "created_at": "2026-05-26T09:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059207261118251206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059207261118251206",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059203898615988570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 鸿蒙没有限制吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 1767,
+          "like_count": 7172,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 3447
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜not trans｜friendly to trans｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1763034943599607808",
+        "location": "🚪50🉑date✈️｜鄂｜埼玉｜蓝v必回请私信｜DM",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2058418322090373297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7446,
+          "following_count": 360,
+          "like_count": 1052,
+          "listed_count": 18,
+          "media_count": 160,
+          "tweet_count": 1960
+        },
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

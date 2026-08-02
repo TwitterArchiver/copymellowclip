@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009935999615545683",
+    "created_at": "2026-01-10T16:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T17:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010022680452559117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1653712846943821824",
+          "start": 0,
+          "username": "hxtqu66624311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010022680452559117",
+    "in_reply_to_user_id": "1653712846943821824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010022239308288209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxtqu66624311 ////好会夸夸呀我亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009935999615545683",
+        "created_at": "2026-01-10T16:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010022680452559117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1653712846943821824",
+              "start": 0,
+              "username": "hxtqu66624311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010022680452559117",
+        "in_reply_to_user_id": "1653712846943821824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010022239308288209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxtqu66624311 ////好会夸夸呀我亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653712846943821824",
+        "conversation_id": "2009935999615545683",
+        "created_at": "2026-01-10T16:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010022239308288209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010022239308288209",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010021801984921912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 不擅长交往，是因为你有一颗很细腻的心，更多的感受着自己，但是不妨碍你的美好，你是含苞待放，内里很饱和的美丽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 94,
+          "like_count": 477,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 341
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-03T10:47:38.000Z",
+        "description": "爱让人疯狂长出血肉★\n开心能够遇见，也希望我能带给你一点力量\n愿你健康，也祝你勇敢，幸福一定在下一个瞬间，请坚定爱你自己",
+        "id": "1653712846943821824",
+        "name": "南亭晚",
+        "pinned_tweet_id": "1982683272632258725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009628870073610240/JRwTy4uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 16,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1318
+        },
+        "username": "hxtqu66624311",
+        "verified": false
+      }
+    ]
+  }
+}

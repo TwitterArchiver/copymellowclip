@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2015082808637841915",
+    "created_at": "2026-01-24T15:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015085523921162647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666329123223121922",
+          "start": 0,
+          "username": "chuanxiduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015085523921162647",
+    "in_reply_to_user_id": "1666329123223121922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015083887274377303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuanxiduo 好哦——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2015082808637841915",
+        "created_at": "2026-01-24T15:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015085523921162647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666329123223121922",
+              "start": 0,
+              "username": "chuanxiduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015085523921162647",
+        "in_reply_to_user_id": "1666329123223121922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015083887274377303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuanxiduo 好哦——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666329123223121922",
+        "conversation_id": "2015082808637841915",
+        "created_at": "2026-01-24T15:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015083887274377303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015083887274377303",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015083482591220123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 手拉手那种吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 958,
+          "like_count": 5081,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1934
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T06:20:03.000Z",
+        "description": "分享自己的汉服cos穿搭足控日常，推上只发清水，搞抽象，碎碎念\n🍉关于我: https://t.co/coVv9BHgT7  \n ✉ @duoxichuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "duoxichuan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bio.site/chuanxiduo",
+                "end": 61,
+                "expanded_url": "https://bio.site/chuanxiduo",
+                "start": 38,
+                "url": "https://t.co/coVv9BHgT7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiduochuanss",
+                "end": 23,
+                "expanded_url": "http://t.me/xiduochuanss",
+                "start": 0,
+                "url": "https://t.co/kXKI71kTWo"
+              }
+            ]
+          }
+        },
+        "id": "1666329123223121922",
+        "location": "我的频道:",
+        "name": "喜多川💕",
+        "pinned_tweet_id": "2015034845903335552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763576092928192512/M8JQsMgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93554,
+          "following_count": 691,
+          "like_count": 6427,
+          "listed_count": 294,
+          "media_count": 360,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/kXKI71kTWo",
+        "username": "chuanxiduo",
+        "verified": true
+      }
+    ]
+  }
+}

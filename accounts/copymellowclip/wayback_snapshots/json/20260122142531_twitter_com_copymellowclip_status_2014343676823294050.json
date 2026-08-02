@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2014336734084104250",
+    "created_at": "2026-01-22T14:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T15:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014343676823294050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2006740448719810562",
+          "start": 0,
+          "username": "Cxzccgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014343676823294050",
+    "in_reply_to_user_id": "2006740448719810562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014343376485900485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxzccgd 你的最好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014343326447861761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RilTyagAElZGz.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2014336734084104250",
+        "created_at": "2026-01-22T14:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014343676823294050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2006740448719810562",
+              "start": 0,
+              "username": "Cxzccgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014343676823294050",
+        "in_reply_to_user_id": "2006740448719810562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014343376485900485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxzccgd 你的最好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014343326447861761"
+          ]
+        },
+        "author_id": "2006740448719810562",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014336734084104250",
+        "created_at": "2026-01-22T14:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014343376485900485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gTayD7vLAP",
+              "end": 48,
+              "expanded_url": "https://x.com/Cxzccgd/status/2014343376485900485/photo/1",
+              "media_key": "3_2014343326447861761",
+              "start": 25,
+              "url": "https://t.co/gTayD7vLAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014343376485900485",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014336734084104250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我的最好吃  哼 https://t.co/gTayD7vLAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 813,
+          "like_count": 4579,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1779
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T14:55:07.000Z",
+        "description": "欢迎真人🚪哥。🚪姐。互关。我会给你推荐真人。 是真人。我就会关注妳你。我也很喜欢跟人家谈天说地。私讯不分男女。常分享日常。还有食物遗照。你妳们发的文都会转推。二次元濃度 中",
+        "id": "2006740448719810562",
+        "location": "臺灣",
+        "name": "兩黑一白咪",
+        "pinned_tweet_id": "2014282484247376173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013179046583050240/3LVmrj-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 97,
+          "like_count": 1261,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1308
+        },
+        "username": "Cxzccgd",
+        "verified": false
+      }
+    ]
+  }
+}

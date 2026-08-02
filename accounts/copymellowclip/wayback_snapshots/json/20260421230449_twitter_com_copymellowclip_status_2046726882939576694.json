@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2046636556694265996",
+    "created_at": "2026-04-21T23:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T00:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046726882939576694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046726882939576694",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046636556694265996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 摸摸摸gal还是冷了点真不好出（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2046636556694265996",
+        "created_at": "2026-04-21T23:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T00:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046726882939576694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046726882939576694",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046636556694265996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 摸摸摸gal还是冷了点真不好出（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779774601100189696",
+        "conversation_id": "2046636556694265996",
+        "created_at": "2026-04-21T17:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046636556694265996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doll7799/statu…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/doll7799/status/2046245117900529791",
+              "start": 70,
+              "url": "https://t.co/f64u1wOErk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046636556694265996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3568,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046245117900529791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠真的四万浏览没有一个来问我衣服的真的很贵吗这些全是我花快五六百定制的全新几乎就拍了几分钟，后面两个三百块有人要不？别关注我闲鱼了没啥用 https://t.co/f64u1wOErk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1704,
+          "like_count": 6748,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 2987
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/34943724…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/3494372435823118",
+                "start": 0,
+                "url": "https://t.co/7Xlu3pAhG1"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52聊一辈子天谢谢",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4628,
+          "following_count": 8,
+          "like_count": 1699,
+          "listed_count": 19,
+          "media_count": 185,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/7Xlu3pAhG1",
+        "username": "doll7799",
+        "verified": false
+      }
+    ]
+  }
+}

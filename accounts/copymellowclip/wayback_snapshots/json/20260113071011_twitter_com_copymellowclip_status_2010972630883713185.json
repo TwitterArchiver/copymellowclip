@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010871734681932131",
+    "created_at": "2026-01-13T07:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T08:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010972630883713185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754694323113693184",
+          "start": 0,
+          "username": "a1yssaTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010972630883713185",
+    "in_reply_to_user_id": "1754694323113693184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010871734681932131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1yssaTvT 那很有精力了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010871734681932131",
+        "created_at": "2026-01-13T07:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T08:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010972630883713185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754694323113693184",
+              "start": 0,
+              "username": "a1yssaTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010972630883713185",
+        "in_reply_to_user_id": "1754694323113693184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010871734681932131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1yssaTvT 那很有精力了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754694323113693184",
+        "conversation_id": "2010871734681932131",
+        "created_at": "2026-01-13T00:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T01:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010871734681932131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010871734681932131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3533,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就继续这样一天扣八次吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 298,
+          "like_count": 1721,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 845
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-06T02:31:53.000Z",
+        "description": "08丨可以找我打瓦喵喵天丨玩x只是为了发废话和找片丨小女孩直fo我会回丨被骂不会爽 我会还嘴",
+        "id": "1754694323113693184",
+        "name": "小兔饼",
+        "pinned_tweet_id": "2010617083470488035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010264334706880512/1DKsm_vT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 35,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 157
+        },
+        "username": "a1yssaTvT",
+        "verified": false
+      }
+    ]
+  }
+}

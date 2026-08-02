@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2063263172275155022",
+    "created_at": "2026-06-08T05:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063856306059088239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063856306059088239",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063855404090884262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban 等 17e 变成 2 开头的话我选 17e，3500 左右的话，感觉不如 4000 出头的二手 air\n\n只买新的话就只推荐 air 了（）我以前用过 13 pm，air 的续航感觉比 13 pm 更好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2063263172275155022",
+        "created_at": "2026-06-08T05:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063856306059088239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063856306059088239",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063855404090884262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 等 17e 变成 2 开头的话我选 17e，3500 左右的话，感觉不如 4000 出头的二手 air\n\n只买新的话就只推荐 air 了（）我以前用过 13 pm，air 的续航感觉比 13 pm 更好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420072716963520520",
+        "conversation_id": "2063263172275155022",
+        "created_at": "2026-06-08T05:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063855404090884262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063855404090884262",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063263172275155022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我副机还在用se3，还在考虑下个苹果买16e/17e还是air（选择困难症拿不准，主要我对性能要求不高，有骁龙765g的水平就够我用（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 1774,
+          "like_count": 7284,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 3617
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、古董数码、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！提问箱点下方链接（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meiqinyuban8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meiqinyuban8",
+                "start": 0,
+                "url": "https://t.co/dvlWzpleAX"
+              }
+            ]
+          }
+        },
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "2005599456377667826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035389972740739072/zyUO7hv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 893,
+          "like_count": 20246,
+          "listed_count": 1,
+          "media_count": 1765,
+          "tweet_count": 9383
+        },
+        "url": "https://t.co/dvlWzpleAX",
+        "username": "meiqinyuban",
+        "verified": true
+      }
+    ]
+  }
+}

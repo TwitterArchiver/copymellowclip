@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012490557910896654",
+    "created_at": "2026-01-17T13:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T14:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012510337627799722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1950475198190551040",
+          "start": 0,
+          "username": "NnP1b5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012510337627799722",
+    "in_reply_to_user_id": "1950475198190551040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012490557910896654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NnP1b5 好可爱呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012490503585968128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3Nc0wWsAAR5uW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012490557910896654",
+        "created_at": "2026-01-17T13:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012510337627799722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1950475198190551040",
+              "start": 0,
+              "username": "NnP1b5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012510337627799722",
+        "in_reply_to_user_id": "1950475198190551040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012490557910896654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NnP1b5 好可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012490503585968128"
+          ]
+        },
+        "author_id": "1950475198190551040",
+        "conversation_id": "2012490557910896654",
+        "created_at": "2026-01-17T11:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012490557910896654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQjZxgEYzU",
+              "end": 55,
+              "expanded_url": "https://x.com/NnP1b5/status/2012490557910896654/photo/1",
+              "media_key": "3_2012490503585968128",
+              "start": 32,
+              "url": "https://t.co/qQjZxgEYzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012490557910896654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的新自介！终于被我搓出来了哼哼哼(&gt;^ω^&lt;)！ https://t.co/qQjZxgEYzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢个人主页、推荐收藏！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 605,
+          "like_count": 3402,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1394
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T08:35:31.000Z",
+        "description": "𐌃𐌏𐌍'𐌕 𐌁𐌄 𐌔𐌀𐌃",
+        "id": "1950475198190551040",
+        "location": "距离520米",
+        "name": "所有人都离我而去",
+        "pinned_tweet_id": "2012490557910896654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916308719304704/vND4Cfi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 84,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 133
+        },
+        "username": "NnP1b5",
+        "verified": false
+      }
+    ]
+  }
+}

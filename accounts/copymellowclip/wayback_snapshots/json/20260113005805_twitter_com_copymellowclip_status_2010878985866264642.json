@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010585784018161803",
+    "created_at": "2026-01-13T00:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T01:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010878985866264642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1443389276654223363",
+          "start": 0,
+          "username": "C6QYBVSScQNBeI2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010878985866264642",
+    "in_reply_to_user_id": "1443389276654223363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010871829716701555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C6QYBVSScQNBeI2 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010585784018161803",
+        "created_at": "2026-01-13T00:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T01:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010878985866264642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1443389276654223363",
+              "start": 0,
+              "username": "C6QYBVSScQNBeI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010878985866264642",
+        "in_reply_to_user_id": "1443389276654223363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010871829716701555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C6QYBVSScQNBeI2 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443389276654223363",
+        "conversation_id": "2010585784018161803",
+        "created_at": "2026-01-13T00:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T01:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010871829716701555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010871829716701555",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010585784018161803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 唔，好可爱的说（偷偷抱走喵！~~~）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 275,
+          "like_count": 1598,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 769
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-30T01:36:48.000Z",
+        "description": "生产日期2005.11.7。山东潍坊，苦逼大一学生党，穷苦💊💊一只，社恐二次元一枚喵，欢迎姐妹贴贴喵！喜欢大肉棒和小钱钱喵，正在努力学习cos中喵，没建模没经济的哥布林一枚喵，呜呜呜",
+        "id": "1443389276654223363",
+        "name": "折翼的笼中鸟 🏳‍⚧🍥～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870164687511490560/gnjHxcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 691,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 668
+        },
+        "username": "C6QYBVSScQNBeI2",
+        "verified": false
+      }
+    ]
+  }
+}

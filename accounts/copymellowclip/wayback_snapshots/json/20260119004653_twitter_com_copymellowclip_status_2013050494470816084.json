@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012872947095261651",
+    "created_at": "2026-01-19T00:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T01:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013050494470816084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1990100963911421953",
+          "start": 0,
+          "username": "mae_18e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013050494470816084",
+    "in_reply_to_user_id": "1990100963911421953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012872947095261651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mae_18e タイトル画面、懐かしいね！楽しんでね〜♪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_2012872939046084608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8pRf3WoAAlVYp.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012872947095261651",
+        "created_at": "2026-01-19T00:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T01:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013050494470816084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1990100963911421953",
+              "start": 0,
+              "username": "mae_18e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013050494470816084",
+        "in_reply_to_user_id": "1990100963911421953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012872947095261651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mae_18e タイトル画面、懐かしいね！楽しんでね〜♪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012872939046084608"
+          ]
+        },
+        "author_id": "1990100963911421953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012872947095261651",
+        "created_at": "2026-01-18T13:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012872947095261651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jb01CYfcKW",
+              "end": 38,
+              "expanded_url": "https://x.com/mae_18e/status/2012872947095261651/photo/1",
+              "media_key": "3_2012872939046084608",
+              "start": 15,
+              "url": "https://t.co/jb01CYfcKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012872947095261651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 12240,
+          "like_count": 799,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "｢素晴らしき日々｣始めます！ https://t.co/jb01CYfcKW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 649,
+          "like_count": 3701,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1477
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T16:53:51.000Z",
+        "description": "成人済/無言フォローすみません/プレイ中→「素晴らしき日々」/ノベルゲー初心者です。読んだり進めるの遅いです/絵とかアニメも好きです",
+        "id": "1990100963911421953",
+        "name": "たなま",
+        "pinned_tweet_id": "1998278933251514812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998276638052864001/B2Y9-ubK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 106,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 54
+        },
+        "username": "mae_18e",
+        "verified": false
+      }
+    ]
+  }
+}

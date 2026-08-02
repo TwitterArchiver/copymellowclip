@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2078882668482265401",
+    "created_at": "2026-07-20T13:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079192370470633486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1468680674458488833",
+          "start": 0,
+          "username": "Doll070707"
+        },
+        {
+          "end": 28,
+          "id": "2074909659056746496",
+          "start": 12,
+          "username": "WohaoxiangniTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079192370470633486",
+    "in_reply_to_user_id": "1468680674458488833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079169662055801164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doll070707 @WohaoxiangniTvT 小猫 yd 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2078882668482265401",
+        "created_at": "2026-07-20T13:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079192370470633486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468680674458488833",
+              "start": 0,
+              "username": "Doll070707"
+            },
+            {
+              "end": 28,
+              "id": "2074909659056746496",
+              "start": 12,
+              "username": "WohaoxiangniTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079192370470633486",
+        "in_reply_to_user_id": "1468680674458488833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079169662055801164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doll070707 @WohaoxiangniTvT 小猫 yd 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468680674458488833",
+        "conversation_id": "2078882668482265401",
+        "created_at": "2026-07-20T11:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079169662055801164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2074909659056746496",
+              "start": 0,
+              "username": "WohaoxiangniTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079169662055801164",
+        "in_reply_to_user_id": "2074909659056746496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078882668482265401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WohaoxiangniTvT 万用猫猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 1769,
+          "like_count": 7391,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 3844
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T20:35:47.000Z",
+        "description": "",
+        "id": "1468680674458488833",
+        "location": "扩列52",
+        "name": "yd",
+        "pinned_tweet_id": "1998762211867766834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077115310587691008/0C-rLCFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 128,
+          "like_count": 979,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 434
+        },
+        "url": "",
+        "username": "Doll070707",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-08T17:33:51.000Z",
+        "description": "世界上有两个我 @xiaoxidawang_66",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "xiaoxidawang_66"
+              }
+            ]
+          }
+        },
+        "id": "2074909659056746496",
+        "location": "天空你是否知晓一切",
+        "name": "x.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077029124791840768/dyQQcy0x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 12,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "WohaoxiangniTvT",
+        "verified": false
+      }
+    ]
+  }
+}

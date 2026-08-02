@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2059635998024196209",
+    "created_at": "2026-05-27T14:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059635998024196209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fadai202202/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/fadai202202/status/2059423533718188113",
+          "start": 16,
+          "url": "https://t.co/y4Q2YC8GjA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059635998024196209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059423533718188113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喵喵喵好像我没有什么怨气吧（） https://t.co/y4Q2YC8GjA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2059635998024196209",
+        "created_at": "2026-05-27T14:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059635998024196209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fadai202202/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/fadai202202/status/2059423533718188113",
+              "start": 16,
+              "url": "https://t.co/y4Q2YC8GjA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059635998024196209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059423533718188113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵喵喵好像我没有什么怨气吧（） https://t.co/y4Q2YC8GjA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2059423533718188113",
+        "created_at": "2026-05-26T23:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059423533718188113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059423533718188113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 36382,
+          "like_count": 442,
+          "quote_count": 5,
+          "reply_count": 220,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得那些不发朋友圈也不聊天也不发推特也不更新任何动态平台的人好神奇 你们真的对这个世界没有怨气吗 你们的怨气没有出口的吗 你们不需要发泄的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 1767,
+          "like_count": 7187,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 3478
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你\n盗我图你全家死光\n小号@berrybun_04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "berrybun_04"
+              }
+            ]
+          }
+        },
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15917,
+          "following_count": 2,
+          "like_count": 1105,
+          "listed_count": 13,
+          "media_count": 146,
+          "tweet_count": 1062
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2031410744303169809",
+    "created_at": "2026-03-10T16:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T17:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031410744303169809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/copymellowclip…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/copymellowclip/status/2028639249961308270",
+          "start": 74,
+          "url": "https://t.co/hjZs1HgU5E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031410744303169809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028639249961308270",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有门槛是说没有这个陪聊的义务（）我特别喜欢不回消息果咩捏x\n然后就是现在我qq一直在被加好友感觉要爆了，搜qq号也搜不到了，也没办法主动加别人😡 https://t.co/hjZs1HgU5E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2031410744303169809",
+        "created_at": "2026-03-10T16:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031410744303169809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/copymellowclip…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/copymellowclip/status/2028639249961308270",
+              "start": 74,
+              "url": "https://t.co/hjZs1HgU5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031410744303169809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028639249961308270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有门槛是说没有这个陪聊的义务（）我特别喜欢不回消息果咩捏x\n然后就是现在我qq一直在被加好友感觉要爆了，搜qq号也搜不到了，也没办法主动加别人😡 https://t.co/hjZs1HgU5E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2028639249961308270",
+        "created_at": "2026-03-03T01:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028639249961308270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028639249961308270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 25800,
+          "like_count": 157,
+          "quote_count": 1,
+          "reply_count": 98,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无互关想和我扩qq（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 1693,
+          "like_count": 6349,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2521
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      }
+    ]
+  }
+}

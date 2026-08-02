@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2047300515659444401",
+    "created_at": "2026-04-24T09:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047614828215157166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1436380709925502978",
+          "start": 0,
+          "username": "pkwang20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047614828215157166",
+    "in_reply_to_user_id": "1436380709925502978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047569094602584188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pkwang20 我真一块钱也加不起了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-24T09:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047614828215157166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1436380709925502978",
+              "start": 0,
+              "username": "pkwang20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047614828215157166",
+        "in_reply_to_user_id": "1436380709925502978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047569094602584188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pkwang20 我真一块钱也加不起了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436380709925502978",
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-24T06:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047569094602584188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047569094602584188",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047300515659444401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 以及，都买铭瑄的主板了，要不考虑看看铭瑄的bkb方案呢？b850i bkb也才卖九百多。延长线这个东西到了pcie5.0的时代真是有些如履薄冰。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 1705,
+          "like_count": 6805,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3038
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T17:27:26.000Z",
+        "description": "Computer engineering, lived in Chongqing, China for 25 years",
+        "id": "1436380709925502978",
+        "name": "S.L.Wang",
+        "pinned_tweet_id": "1716451383904280844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866440287188606976/pP_Qm5Ha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 761,
+          "like_count": 2148,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 961
+        },
+        "username": "pkwang20",
+        "verified": false
+      }
+    ]
+  }
+}

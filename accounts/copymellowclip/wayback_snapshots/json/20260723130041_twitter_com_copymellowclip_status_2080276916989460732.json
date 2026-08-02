@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2080273406961062363",
+    "created_at": "2026-07-23T13:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080276916989460732"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080276916989460732",
+    "in_reply_to_user_id": "876363325998678017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080273406961062363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过快递中转袋适合把所有货物压缩一起一起发送，拿我来说的话基本上就是小家电、厨具、床垫、衣服，这些东西全都包在一个袋子里\n\n运费可能有大几十这样，在目的地再找送水工说把东西送上楼并一起帮忙简单打扫一下房子，可以稍微多给一点钱，\n总开销有一百块左右就可以几乎无痛搬家了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2080273406961062363",
+        "created_at": "2026-07-23T13:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080276916989460732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080276916989460732",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080273406961062363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过快递中转袋适合把所有货物压缩一起一起发送，拿我来说的话基本上就是小家电、厨具、床垫、衣服，这些东西全都包在一个袋子里\n\n运费可能有大几十这样，在目的地再找送水工说把东西送上楼并一起帮忙简单打扫一下房子，可以稍微多给一点钱，\n总开销有一百块左右就可以几乎无痛搬家了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2080273406961062363",
+        "created_at": "2026-07-23T12:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080273406961062363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080273406961062363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对租房搬家觉得累的人一些小建议，\n\n网购快递中转袋、泡沫纸和胶带自行打包，比纸箱便宜\n\n难以将快递搬运上下楼的，可以去找小区或附近的桶装水店铺，搬水工一般搬一次上楼大概只需要 5～20 左右。\n\n也可以去当地人力市场找力工（稍贵）\n\n电子产品和几天衣物放在行李箱，剩下都发快递是比较轻松的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 1772,
+          "like_count": 7394,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 3854
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      }
+    ]
+  }
+}

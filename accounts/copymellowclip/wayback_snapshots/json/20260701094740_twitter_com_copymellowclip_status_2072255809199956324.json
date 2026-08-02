@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2071932176531345741",
+    "created_at": "2026-07-01T09:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072255809199956324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1973004111374401537",
+          "start": 0,
+          "username": "chance10997788"
+        },
+        {
+          "end": 31,
+          "id": "1701955117597995008",
+          "start": 16,
+          "username": "kusowaroutawww"
+        },
+        {
+          "end": 41,
+          "id": "1975500696427581440",
+          "start": 32,
+          "username": "TReverie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072255809199956324",
+    "in_reply_to_user_id": "1973004111374401537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072093108670472464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chance10997788 @kusowaroutawww @TReverie 咋可能是机器人，就类似当年砸宝马的那种人现在也不少啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2071932176531345741",
+        "created_at": "2026-07-01T09:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072255809199956324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1973004111374401537",
+              "start": 0,
+              "username": "chance10997788"
+            },
+            {
+              "end": 31,
+              "id": "1701955117597995008",
+              "start": 16,
+              "username": "kusowaroutawww"
+            },
+            {
+              "end": 41,
+              "id": "1975500696427581440",
+              "start": 32,
+              "username": "TReverie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072255809199956324",
+        "in_reply_to_user_id": "1973004111374401537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072093108670472464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chance10997788 @kusowaroutawww @TReverie 咋可能是机器人，就类似当年砸宝马的那种人现在也不少啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973004111374401537",
+        "conversation_id": "2071932176531345741",
+        "created_at": "2026-06-30T23:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072093108670472464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1701955117597995008",
+              "start": 0,
+              "username": "kusowaroutawww"
+            },
+            {
+              "end": 25,
+              "id": "1975500696427581440",
+              "start": 16,
+              "username": "TReverie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072093108670472464",
+        "in_reply_to_user_id": "1701955117597995008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4820,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071951758473957532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusowaroutawww @TReverie 攻击性的人都是ccp请的类似机器人的狗杂种在抹黑中日普通群众的友好交流而已 ，我蛮喜欢日本 ，发达国家肯定有值得学习的地方，再就是我在欧洲所以不怕 中国的政府"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 1775,
+          "like_count": 7320,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 3736
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T12:37:01.000Z",
+        "description": "没有共产党 才有新中国",
+        "id": "1973004111374401537",
+        "location": "Germany",
+        "name": "bruce jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973004301607034880/0aBfRLMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 68,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "chance10997788",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T13:47:25.000Z",
+        "description": "Japanese,Pediatric Dr,like: animation,comic,football,world foods dislike:racist,ネトウヨ,パヨク,\n\nI watch world Twitter land with laughing",
+        "id": "1701955117597995008",
+        "location": "日本",
+        "name": "Japanese strange pediatric Doctor",
+        "pinned_tweet_id": "2071550331880669383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047123070549458944/2ufbQsTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 957,
+          "like_count": 34767,
+          "listed_count": 16,
+          "media_count": 84,
+          "tweet_count": 59778
+        },
+        "url": "",
+        "username": "kusowaroutawww",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "No matter how impossible the problem may seem, there's always a solution... somewhere",
+        "id": "1975500696427581440",
+        "location": "China",
+        "name": "Tiny Reverie🇺🇸✝️",
+        "pinned_tweet_id": "2048649828381626554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512815920816128/fYfZceu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12544,
+          "following_count": 1868,
+          "like_count": 24737,
+          "listed_count": 97,
+          "media_count": 1930,
+          "tweet_count": 5644
+        },
+        "url": "",
+        "username": "TReverie",
+        "verified": true
+      }
+    ]
+  }
+}

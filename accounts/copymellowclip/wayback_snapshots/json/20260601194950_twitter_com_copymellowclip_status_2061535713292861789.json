@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2061485434472165690",
+    "created_at": "2026-06-01T19:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T20:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061535713292861789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061535713292861789",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061485434472165690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 yd的萌还是被发现了！（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_2061485423155896320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJveEfTaYAAgdI2.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061485423126519808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJveEfMaIAAV3XJ.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2061485434472165690",
+        "created_at": "2026-06-01T19:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T20:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061535713292861789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061535713292861789",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061485434472165690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 yd的萌还是被发现了！（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061485423155896320",
+            "3_2061485423126519808"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2061485434472165690",
+        "created_at": "2026-06-01T16:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061485434472165690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5JN1LvOIr",
+              "end": 113,
+              "expanded_url": "https://x.com/doll7799/status/2061485434472165690/photo/1",
+              "media_key": "3_2061485423155896320",
+              "start": 90,
+              "url": "https://t.co/y5JN1LvOIr"
+            },
+            {
+              "display_url": "pic.x.com/y5JN1LvOIr",
+              "end": 113,
+              "expanded_url": "https://x.com/doll7799/status/2061485434472165690/photo/1",
+              "media_key": "3_2061485423126519808",
+              "start": 90,
+              "url": "https://t.co/y5JN1LvOIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061485434472165690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1701,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂吗去年在学校看见的夏日口袋痛车，她完全不知道是跟我一个学校的然后跟我抖音扩列了，然后直接跑我宿舍门口送零食，好有缘好美好的女孩子😭💓💓而且网上现实我都不社交不认识人真的好巧 https://t.co/y5JN1LvOIr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 1776,
+          "like_count": 7274,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3571
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707 \n扩列不是门槛，能不能就当成正常交朋友😂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5222,
+          "following_count": 10,
+          "like_count": 2274,
+          "listed_count": 20,
+          "media_count": 227,
+          "tweet_count": 908
+        },
+        "username": "doll7799",
+        "verified": true
+      }
+    ]
+  }
+}

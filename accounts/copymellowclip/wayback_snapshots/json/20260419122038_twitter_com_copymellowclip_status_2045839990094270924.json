@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2045502735265444172",
+    "created_at": "2026-04-19T12:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045839990094270924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045839990094270924",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045502735265444172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 该连个chrome devstool mcp让他自己看页面了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2045502723705954304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMV48GWYAAgiv3.jpg",
+        "width": 913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2045502735265444172",
+        "created_at": "2026-04-19T12:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045839990094270924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045839990094270924",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045502735265444172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 该连个chrome devstool mcp让他自己看页面了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045502723705954304"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "2045502735265444172",
+        "created_at": "2026-04-18T14:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045502735265444172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SnTRCXza9J",
+              "end": 48,
+              "expanded_url": "https://x.com/liujiayi1111/status/2045502735265444172/photo/1",
+              "media_key": "3_2045502723705954304",
+              "start": 25,
+              "url": "https://t.co/SnTRCXza9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045502735265444172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7506,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真是给我气笑了，解决问题的方式就是删除这个问题？ https://t.co/SnTRCXza9J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 1699,
+          "like_count": 6687,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 2929
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "被Tauri伤透两回，再也不喜欢Tauri了！LOL游戏主播。擅长TS/JS/React/Node.js/Python",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2040299131344749005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878217807000657921/ZweBzy0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7607,
+          "following_count": 32,
+          "like_count": 4406,
+          "listed_count": 16,
+          "media_count": 43,
+          "tweet_count": 248
+        },
+        "username": "liujiayi1111",
+        "verified": false
+      }
+    ]
+  }
+}

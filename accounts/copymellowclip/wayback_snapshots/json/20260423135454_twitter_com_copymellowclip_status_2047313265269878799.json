@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2047300515659444401",
+    "created_at": "2026-04-23T13:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047313265269878799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "YuSuQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047313265269878799",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047305644479598913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuSuQAQ 毕竟工作了喵然后还把之前的电脑卖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-23T13:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047313265269878799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "YuSuQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047313265269878799",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047305644479598913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuSuQAQ 毕竟工作了喵然后还把之前的电脑卖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-23T13:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047305644479598913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047305644479598913",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047300515659444401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 这么有钱？！！😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 1704,
+          "like_count": 6784,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3023
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "男的，主页都是负能，请谨慎接触。会偶尔转发一点点🔞。",
+        "id": "1758428820045189120",
+        "location": "距离你325m",
+        "name": "空白（负能量大王）",
+        "pinned_tweet_id": "2035888462847771098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002097716051259393/7M3q9Is9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 572,
+          "like_count": 11600,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 10724
+        },
+        "username": "YuSuQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

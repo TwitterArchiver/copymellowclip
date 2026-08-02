@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2055860154869203059",
+    "created_at": "2026-05-17T05:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055876960350535957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872393211207114752",
+          "start": 0,
+          "username": "bella241227"
+        },
+        {
+          "end": 27,
+          "id": "1622066090074607616",
+          "start": 13,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055876960350535957",
+    "in_reply_to_user_id": "1872393211207114752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055876062480105958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bella241227 @hoshinofujivy 官网app的systemprompt对user谄媚行为非常严重，几乎只是一个用户输入的放大器，除了复述其搜索api的内容以外，大多时候构不成任何可用论述，\n比如你可以做到让他说出杀人是合乎道德法律的。\n另就你这张图来说是想让gemini说说dmca被滥用的例子，本案完全不符合其中任意一个例子，意义不明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2055860154869203059",
+        "created_at": "2026-05-17T05:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055876960350535957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872393211207114752",
+              "start": 0,
+              "username": "bella241227"
+            },
+            {
+              "end": 27,
+              "id": "1622066090074607616",
+              "start": 13,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055876960350535957",
+        "in_reply_to_user_id": "1872393211207114752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055876062480105958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bella241227 @hoshinofujivy 官网app的systemprompt对user谄媚行为非常严重，几乎只是一个用户输入的放大器，除了复述其搜索api的内容以外，大多时候构不成任何可用论述，\n比如你可以做到让他说出杀人是合乎道德法律的。\n另就你这张图来说是想让gemini说说dmca被滥用的例子，本案完全不符合其中任意一个例子，意义不明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872393211207114752",
+        "conversation_id": "2055860154869203059",
+        "created_at": "2026-05-17T05:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055876062480105958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 30,
+              "id": "1622066090074607616",
+              "start": 16,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055876062480105958",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055875667267604845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @hoshinofujivy 我也没指望你这些恶意碰瓷的文盲废物能看懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 1739,
+          "like_count": 7092,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 3327
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T21:25:15.000Z",
+        "description": "you know who I am. lol",
+        "id": "1872393211207114752",
+        "name": "bella",
+        "pinned_tweet_id": "1889467216233644404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872534364875329536/Fjc4hMoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 14,
+          "like_count": 720,
+          "listed_count": 4,
+          "media_count": 807,
+          "tweet_count": 1217
+        },
+        "username": "bella241227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10896,
+          "following_count": 4302,
+          "like_count": 46160,
+          "listed_count": 36,
+          "media_count": 2284,
+          "tweet_count": 13982
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

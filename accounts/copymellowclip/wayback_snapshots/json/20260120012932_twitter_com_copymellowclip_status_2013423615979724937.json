@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013423142287618166",
+    "created_at": "2026-01-20T01:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T02:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013423615979724937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013423615979724937",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013423142287618166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 即将长出唧唧然后对mio告白"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013423142287618166",
+        "created_at": "2026-01-20T01:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T02:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013423615979724937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013423615979724937",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013423142287618166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 即将长出唧唧然后对mio告白"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944679199358570496",
+        "conversation_id": "2013423142287618166",
+        "created_at": "2026-01-20T01:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T02:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013423142287618166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013423142287618166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我配得感很低。不是说觉得自己不值得被喜欢只是觉得被人喜欢这种小概率的事情不会发生在我身上。尤其是异性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 697,
+          "like_count": 3927,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1549
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0kadami0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0kadami0",
+                "start": 0,
+                "url": "https://t.co/K7lD9UABTb"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "ミオ没睡醒",
+        "pinned_tweet_id": "2011472330870907217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 149,
+          "like_count": 7482,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1497
+        },
+        "url": "https://t.co/K7lD9UABTb",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

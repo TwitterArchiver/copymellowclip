@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013649059077333115",
+    "created_at": "2026-01-20T16:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T17:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013649059077333115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0kada_Mi0/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/0kada_Mi0/status/2013635815843504139",
+          "start": 21,
+          "url": "https://t.co/NfEBs2G3yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013649059077333115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013635815843504139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老婆级别妈妈级别主人级别、mio天使下凡 https://t.co/NfEBs2G3yu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2013635804824805376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HfGIWXIAAKMOo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013649059077333115",
+        "created_at": "2026-01-20T16:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013649059077333115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0kada_Mi0/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/0kada_Mi0/status/2013635815843504139",
+              "start": 21,
+              "url": "https://t.co/NfEBs2G3yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013649059077333115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013635815843504139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老婆级别妈妈级别主人级别、mio天使下凡 https://t.co/NfEBs2G3yu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013635804824805376"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2013635815843504139",
+        "created_at": "2026-01-20T15:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013635815843504139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVT4IbAxlD",
+              "end": 41,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2013635815843504139/photo/1",
+              "media_key": "3_2013635804824805376",
+              "start": 18,
+              "url": "https://t.co/oVT4IbAxlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013635815843504139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡前突然觉得自己这个妆有点萌.. https://t.co/oVT4IbAxlD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 756,
+          "like_count": 4244,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0kadami0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0kadami0",
+                "start": 0,
+                "url": "https://t.co/K7lD9UABTb"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "ミオ没睡醒",
+        "pinned_tweet_id": "2011472330870907217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 149,
+          "like_count": 7545,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1521
+        },
+        "url": "https://t.co/K7lD9UABTb",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

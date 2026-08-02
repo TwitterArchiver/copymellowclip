@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009878933488239100",
+    "created_at": "2026-01-10T11:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T12:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009948181686370800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875640415015337984",
+          "start": 0,
+          "username": "chusuiyouzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009948181686370800",
+    "in_reply_to_user_id": "1875640415015337984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009878933488239100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chusuiyouzi 萌萌的、好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009878930296320005",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-SGPQHasAUNNrc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009878933488239100",
+        "created_at": "2026-01-10T11:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009948181686370800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875640415015337984",
+              "start": 0,
+              "username": "chusuiyouzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009948181686370800",
+        "in_reply_to_user_id": "1875640415015337984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009878933488239100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chusuiyouzi 萌萌的、好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009878930296320005"
+          ]
+        },
+        "author_id": "1875640415015337984",
+        "conversation_id": "2009878933488239100",
+        "created_at": "2026-01-10T06:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009878933488239100"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "妹1"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "女高中生"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "小狗日记"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8Hc1v46Xj",
+              "end": 39,
+              "expanded_url": "https://x.com/chusuiyouzi/status/2009878933488239100/photo/1",
+              "media_key": "3_2009878930296320005",
+              "start": 16,
+              "url": "https://t.co/r8Hc1v46Xj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009878933488239100",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3692,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#妹1 #女高中生 #小狗日记 https://t.co/r8Hc1v46Xj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 64,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 264
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-04T20:28:24.000Z",
+        "description": "1i 女高 Switch 170 休学中 不谈恋爱 不线下 爱我请给钱 二次死宅。。 出原🚪48/131.4 我爱发啥就发啥！梦想是做一个幸福的碎碎 神秘小号",
+        "id": "1875640415015337984",
+        "location": "傻逼",
+        "name": "碎",
+        "pinned_tweet_id": "2009518564009759114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000229949853335552/cLisYrsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 17,
+          "like_count": 997,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 37
+        },
+        "username": "chusuiyouzi",
+        "verified": false
+      }
+    ]
+  }
+}

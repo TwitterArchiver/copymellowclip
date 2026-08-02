@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2054922990425686204",
+    "created_at": "2026-05-16T02:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055479717919355362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1696523690366971904",
+          "start": 0,
+          "username": "JLw_0693"
+        },
+        {
+          "end": 26,
+          "id": "1575765089030139905",
+          "start": 10,
+          "username": "wodanggangqiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055479717919355362",
+    "in_reply_to_user_id": "1696523690366971904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055153344784847340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JLw_0693 @wodanggangqiang 本来就是ai，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2054922990425686204",
+        "created_at": "2026-05-16T02:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055479717919355362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1696523690366971904",
+              "start": 0,
+              "username": "JLw_0693"
+            },
+            {
+              "end": 26,
+              "id": "1575765089030139905",
+              "start": 10,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055479717919355362",
+        "in_reply_to_user_id": "1696523690366971904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055153344784847340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLw_0693 @wodanggangqiang 本来就是ai，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696523690366971904",
+        "conversation_id": "2054922990425686204",
+        "created_at": "2026-05-15T05:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055153344784847340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575765089030139905",
+              "start": 0,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055153344784847340",
+        "in_reply_to_user_id": "1575765089030139905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 496,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054922990425686204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodanggangqiang 好恶心好吓人 像 ai 生成一样的诡异"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 1740,
+          "like_count": 7081,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 3308
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T14:03:09.000Z",
+        "description": "🌨️   09 我的电子日记本📝\n可以喊我小 y",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/w.y71445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/w.y71445",
+                "start": 0,
+                "url": "https://t.co/YwgncnGhvJ"
+              }
+            ]
+          }
+        },
+        "id": "1696523690366971904",
+        "location": "翻斗大街翻斗花园二号楼1001室",
+        "name": "w.y",
+        "pinned_tweet_id": "1836234078766666068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050240057936932864/AMzTF2XH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 617,
+          "like_count": 24444,
+          "listed_count": 4,
+          "media_count": 2038,
+          "tweet_count": 15318
+        },
+        "url": "https://t.co/YwgncnGhvJ",
+        "username": "JLw_0693",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29203,
+          "following_count": 562,
+          "like_count": 35873,
+          "listed_count": 90,
+          "media_count": 10050,
+          "tweet_count": 27563
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

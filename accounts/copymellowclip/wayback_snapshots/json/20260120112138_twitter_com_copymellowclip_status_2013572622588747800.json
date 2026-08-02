@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013535734721028580",
+    "created_at": "2026-01-20T11:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T12:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013572622588747800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1557939997797482497",
+          "start": 0,
+          "username": "ynyngchn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013572622588747800",
+    "in_reply_to_user_id": "1557939997797482497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013535734721028580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynyngchn1 发型好萌呀身材好好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013535713644449793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GEEDpXEAEzMqS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013535734721028580",
+        "created_at": "2026-01-20T11:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T12:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013572622588747800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557939997797482497",
+              "start": 0,
+              "username": "ynyngchn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013572622588747800",
+        "in_reply_to_user_id": "1557939997797482497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013535734721028580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynyngchn1 发型好萌呀身材好好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013535713644449793"
+          ]
+        },
+        "author_id": "1557939997797482497",
+        "conversation_id": "2013535734721028580",
+        "created_at": "2026-01-20T08:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013535734721028580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUeiHGpzBQ",
+              "end": 25,
+              "expanded_url": "https://x.com/ynyngchn1/status/2013535734721028580/photo/1",
+              "media_key": "3_2013535713644449793",
+              "start": 2,
+              "url": "https://t.co/WUeiHGpzBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013535734721028580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4205,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喵 https://t.co/WUeiHGpzBQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 743,
+          "like_count": 4146,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1648
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-12T04:00:23.000Z",
+        "description": "英专生 | 死宅晚期 |07 | M | 45kg | 赚够钱去考雅思！考研 | 希望大家天天开心（呜呜呜专四专八好难）",
+        "id": "1557939997797482497",
+        "location": "🚪52  | 88| 128| 口令or赞赏码",
+        "name": "我一直在哭",
+        "pinned_tweet_id": "2012909814041710608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972689173330251776/yYDEMVMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 77,
+          "like_count": 247,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 186
+        },
+        "username": "ynyngchn1",
+        "verified": false
+      }
+    ]
+  }
+}

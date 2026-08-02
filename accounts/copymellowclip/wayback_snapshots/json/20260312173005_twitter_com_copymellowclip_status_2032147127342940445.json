@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2032114708669759576",
+    "created_at": "2026-03-12T17:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032147127342940445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032147127342940445",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032114708669759576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu th和t不是同一个音节呀（）th是那个像咬着舌头的ch一样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2032114708669759576",
+        "created_at": "2026-03-12T17:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032147127342940445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032147127342940445",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032114708669759576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu th和t不是同一个音节呀（）th是那个像咬着舌头的ch一样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2032114708669759576",
+        "created_at": "2026-03-12T15:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032114708669759576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032114708669759576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2166,
+          "like_count": 57,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说个好笑的：我分不清Thursday和Tuesday🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 1706,
+          "like_count": 6417,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2588
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/推特当朋友圈发/搞开发的/building @memoh_ai /🐱大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "memoh_ai"
+              },
+              {
+                "end": 64,
+                "start": 50,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629929281810432/W3tlGjqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11303,
+          "following_count": 3029,
+          "like_count": 3193,
+          "listed_count": 50,
+          "media_count": 1285,
+          "tweet_count": 6640
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

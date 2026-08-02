@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009627099502682175",
+    "created_at": "2026-01-10T07:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T08:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009895848545841385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911055843715682304",
+          "start": 0,
+          "username": "Huang_Yut1ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009895848545841385",
+    "in_reply_to_user_id": "1911055843715682304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009627099502682175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huang_Yut1ng （摸摸头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009627099502682175",
+        "created_at": "2026-01-10T07:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T08:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009895848545841385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911055843715682304",
+              "start": 0,
+              "username": "Huang_Yut1ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009895848545841385",
+        "in_reply_to_user_id": "1911055843715682304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009627099502682175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huang_Yut1ng （摸摸头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911055843715682304",
+        "conversation_id": "2009627099502682175",
+        "created_at": "2026-01-09T14:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009627099502682175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huang_yut1ng/s…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/huang_yut1ng/status/2009127668344869242",
+              "start": 124,
+              "url": "https://t.co/CBUa7zepkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009627099502682175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8041,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009127668344869242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个世界究竟怎么了…\n下课又有同学拉我…我用书护住胸部了…但还是按到了…疼痛+1…\n两分钟后…另一个同学见到我又是开玩笑朝我胸打一拳…我都准备好疼了…幸亏他打歪了…\n这打胸什么时候成了一种风尚了…\n我跟他们说“滚”他们还觉得我开玩笑…\n😡😡😡😡😡 https://t.co/CBUa7zepkb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 57,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 235
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-12T13:56:54.000Z",
+        "description": "🏳️‍⚧️MTF/出厂日期07.10.30/HRT.2025.11.7/山东/高三牲/有证含糖/抑郁/Web开发/INFP/社交老鼠人/不政不黄/不割手/咱不管你是友跨反跨还是什么 都不要发任何攻击 引战的内容 不要在咱的评论区里吵架 咱看到都会block的 咱不会拒绝任何一个心诚的宝宝 欢迎私信要咱qq喵",
+        "id": "1911055843715682304",
+        "location": "在你心中",
+        "name": "Huang_Yut1ng🍥",
+        "pinned_tweet_id": "1995501596621582588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911055933926776832/W8nW0Db6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 740,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 280
+        },
+        "username": "Huang_Yut1ng",
+        "verified": true
+      }
+    ]
+  }
+}

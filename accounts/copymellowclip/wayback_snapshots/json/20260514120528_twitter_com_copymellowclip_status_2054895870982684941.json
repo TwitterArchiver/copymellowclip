@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2054624793589322167",
+    "created_at": "2026-05-14T12:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054895870982684941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781621357014286336",
+          "start": 0,
+          "username": "0rbital_obit"
+        },
+        {
+          "end": 25,
+          "id": "1813768883540725760",
+          "start": 14,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054895870982684941",
+    "in_reply_to_user_id": "1781621357014286336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054718031180279874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0rbital_obit @ye_and_yae 考上清华肯定可以吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2054624793589322167",
+        "created_at": "2026-05-14T12:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054895870982684941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781621357014286336",
+              "start": 0,
+              "username": "0rbital_obit"
+            },
+            {
+              "end": 25,
+              "id": "1813768883540725760",
+              "start": 14,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054895870982684941",
+        "in_reply_to_user_id": "1781621357014286336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054718031180279874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0rbital_obit @ye_and_yae 考上清华肯定可以吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2054624793589322167",
+        "created_at": "2026-05-14T00:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054718031180279874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054718031180279874",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2184,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054624793589322167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 羡慕怪异发型 奇装异服能出现在学校的册子里。我们班连学生自己出钱做的毕业册的设计和放的照片都得经过班主任 年级部门 学校高层的层层审查，只允许千篇一律的仿若国旗下讲话一样的复制人寄语和劳改头立正照片。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 1737,
+          "like_count": 7054,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 3292
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 288,
+          "like_count": 1196,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09/01/26  快到期的高三mtx 有时含糖   喜欢航天 二次元   \n主人 @yesterdayorange         \n   \n                                                 恋人 @gcjl9188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "yesterdayorange"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "gcjl9188"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "Starbase TX",
+        "name": "爱晔🍥",
+        "pinned_tweet_id": "2052819802876723249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044867199542886400/5KCU5S6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 920,
+          "like_count": 4473,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2649
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

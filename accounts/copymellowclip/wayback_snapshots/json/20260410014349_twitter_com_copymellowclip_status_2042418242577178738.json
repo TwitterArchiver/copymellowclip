@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2042307249788633566",
+    "created_at": "2026-04-10T01:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T02:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042418242577178738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761601564962426880",
+          "start": 0,
+          "username": "2828yy123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042418242577178738",
+    "in_reply_to_user_id": "1761601564962426880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042307249788633566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2828yy123 为什么直接买两把（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 983,
+        "media_key": "3_2042307241228058624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFe7nYObQAAKMgQ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2042307249788633566",
+        "created_at": "2026-04-10T01:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042418242577178738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761601564962426880",
+              "start": 0,
+              "username": "2828yy123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042418242577178738",
+        "in_reply_to_user_id": "1761601564962426880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042307249788633566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2828yy123 为什么直接买两把（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042307241228058624"
+          ]
+        },
+        "author_id": "1761601564962426880",
+        "conversation_id": "2042307249788633566",
+        "created_at": "2026-04-09T18:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042307249788633566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieuVpISdCe",
+              "end": 34,
+              "expanded_url": "https://x.com/2828yy123/status/2042307249788633566/photo/1",
+              "media_key": "3_2042307241228058624",
+              "start": 11,
+              "url": "https://t.co/ieuVpISdCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042307249788633566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1124,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对喜欢的人就是这么宠 https://t.co/ieuVpISdCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 1707,
+          "like_count": 6631,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 2845
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:58:46.000Z",
+        "description": "自用蜂鸟VPN：https://t.co/uM0GstQXdu 推广自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=WOQXa1Vk",
+                "start": 8,
+                "url": "https://t.co/uM0GstQXdu"
+              }
+            ]
+          }
+        },
+        "id": "1761601564962426880",
+        "name": "布丁大炮",
+        "pinned_tweet_id": "1933161393060290795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997712288418258944/Ezv73PhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11050,
+          "following_count": 565,
+          "like_count": 37506,
+          "listed_count": 16,
+          "media_count": 1744,
+          "tweet_count": 19391
+        },
+        "username": "2828yy123",
+        "verified": false
+      }
+    ]
+  }
+}

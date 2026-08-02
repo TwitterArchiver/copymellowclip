@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010615873359479211",
+    "created_at": "2026-01-12T07:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T08:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010615873359479211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nameiccc/statu…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/Nameiccc/status/2010353252278378605",
+          "start": 81,
+          "url": "https://t.co/sFPIN0Hvus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010615873359479211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010353252278378605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我其实特别讨厌这个梗，感觉会有人本来很难过想和人说说、但是想到这个梗又没办法说出口了。和前几年包括现在公关滥用抑郁症一样，对抑郁症嘲讽比同情都要更正确了.... https://t.co/sFPIN0Hvus"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_2010353245659783168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Y1oCia4AAgklj.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010615873359479211",
+        "created_at": "2026-01-12T07:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010615873359479211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nameiccc/statu…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Nameiccc/status/2010353252278378605",
+              "start": 81,
+              "url": "https://t.co/sFPIN0Hvus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010615873359479211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010353252278378605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我其实特别讨厌这个梗，感觉会有人本来很难过想和人说说、但是想到这个梗又没办法说出口了。和前几年包括现在公关滥用抑郁症一样，对抑郁症嘲讽比同情都要更正确了.... https://t.co/sFPIN0Hvus"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010353245659783168"
+          ]
+        },
+        "author_id": "1749798935357767680",
+        "conversation_id": "2010353252278378605",
+        "created_at": "2026-01-11T14:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010353252278378605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tm8Bgx12EU",
+              "end": 25,
+              "expanded_url": "https://x.com/Nameiccc/status/2010353252278378605/photo/1",
+              "media_key": "3_2010353245659783168",
+              "start": 2,
+              "url": "https://t.co/Tm8Bgx12EU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010353252278378605",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 70300,
+          "like_count": 487,
+          "quote_count": 5,
+          "reply_count": 104,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/Tm8Bgx12EU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 203,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 645
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T14:19:18.000Z",
+        "description": "",
+        "id": "1749798935357767680",
+        "location": "🚪42",
+        "name": "海克斯科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884611841625890816/fNfl7BWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60681,
+          "following_count": 15,
+          "like_count": 504,
+          "listed_count": 123,
+          "media_count": 263,
+          "tweet_count": 355
+        },
+        "username": "Nameiccc",
+        "verified": false
+      }
+    ]
+  }
+}

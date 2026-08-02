@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012004462190284800",
+        "3_2012004475867971587",
+        "3_2012004487289061377",
+        "3_2012004499645431808"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2012004512446447670",
+    "created_at": "2026-01-16T03:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T04:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012004512446447670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/copymellowclip",
+          "end": 56,
+          "expanded_url": "http://ngl.link/copymellowclip",
+          "start": 33,
+          "status": 200,
+          "title": "@copymellowclip: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/copymellowclip",
+          "url": "https://t.co/M4QLwOT2hF"
+        },
+        {
+          "display_url": "pic.x.com/lOZW2RYZB0",
+          "end": 152,
+          "expanded_url": "https://x.com/copymellowclip/status/2012004512446447670/photo/1",
+          "media_key": "3_2012004462190284800",
+          "start": 129,
+          "url": "https://t.co/lOZW2RYZB0"
+        },
+        {
+          "display_url": "pic.x.com/lOZW2RYZB0",
+          "end": 152,
+          "expanded_url": "https://x.com/copymellowclip/status/2012004512446447670/photo/1",
+          "media_key": "3_2012004475867971587",
+          "start": 129,
+          "url": "https://t.co/lOZW2RYZB0"
+        },
+        {
+          "display_url": "pic.x.com/lOZW2RYZB0",
+          "end": 152,
+          "expanded_url": "https://x.com/copymellowclip/status/2012004512446447670/photo/1",
+          "media_key": "3_2012004487289061377",
+          "start": 129,
+          "url": "https://t.co/lOZW2RYZB0"
+        },
+        {
+          "display_url": "pic.x.com/lOZW2RYZB0",
+          "end": 152,
+          "expanded_url": "https://x.com/copymellowclip/status/2012004512446447670/photo/1",
+          "media_key": "3_2012004499645431808",
+          "start": 129,
+          "url": "https://t.co/lOZW2RYZB0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012004512446447670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "✦･ﾟ: ✧･ﾟ: copymellowclip ･ﾟ✧:･ﾟ✦\nhttps://t.co/M4QLwOT2hF\n至今没找到什么回复ngl比较方便的方法、、\n我要写个小程序帮我自动截图然后用方便的界面输入文字而不是每次都调整一遍位置大小样式....算了好懒 https://t.co/lOZW2RYZB0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_2012004462190284800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wTZfdaUAAhVYe.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1021,
+        "media_key": "3_2012004475867971587",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wTaSabQAM40Pj.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1064,
+        "media_key": "3_2012004487289061377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wTa89bQAEB4Zb.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2012004499645431808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wTbq_agAAArQH.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012004462190284800",
+            "3_2012004475867971587",
+            "3_2012004487289061377",
+            "3_2012004499645431808"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2012004512446447670",
+        "created_at": "2026-01-16T03:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T04:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012004512446447670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/copymellowclip",
+              "end": 56,
+              "expanded_url": "http://ngl.link/copymellowclip",
+              "start": 33,
+              "status": 200,
+              "title": "@copymellowclip: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/copymellowclip",
+              "url": "https://t.co/M4QLwOT2hF"
+            },
+            {
+              "display_url": "pic.x.com/lOZW2RYZB0",
+              "end": 152,
+              "expanded_url": "https://x.com/copymellowclip/status/2012004512446447670/photo/1",
+              "media_key": "3_2012004462190284800",
+              "start": 129,
+              "url": "https://t.co/lOZW2RYZB0"
+            },
+            {
+              "display_url": "pic.x.com/lOZW2RYZB0",
+              "end": 152,
+              "expanded_url": "https://x.com/copymellowclip/status/2012004512446447670/photo/1",
+              "media_key": "3_2012004475867971587",
+              "start": 129,
+              "url": "https://t.co/lOZW2RYZB0"
+            },
+            {
+              "display_url": "pic.x.com/lOZW2RYZB0",
+              "end": 152,
+              "expanded_url": "https://x.com/copymellowclip/status/2012004512446447670/photo/1",
+              "media_key": "3_2012004487289061377",
+              "start": 129,
+              "url": "https://t.co/lOZW2RYZB0"
+            },
+            {
+              "display_url": "pic.x.com/lOZW2RYZB0",
+              "end": 152,
+              "expanded_url": "https://x.com/copymellowclip/status/2012004512446447670/photo/1",
+              "media_key": "3_2012004499645431808",
+              "start": 129,
+              "url": "https://t.co/lOZW2RYZB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012004512446447670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✦･ﾟ: ✧･ﾟ: copymellowclip ･ﾟ✧:･ﾟ✦\nhttps://t.co/M4QLwOT2hF\n至今没找到什么回复ngl比较方便的方法、、\n我要写个小程序帮我自动截图然后用方便的界面输入文字而不是每次都调整一遍位置大小样式....算了好懒 https://t.co/lOZW2RYZB0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 78,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 56,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢网址请收藏ovo",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 536,
+          "like_count": 2761,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1213
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

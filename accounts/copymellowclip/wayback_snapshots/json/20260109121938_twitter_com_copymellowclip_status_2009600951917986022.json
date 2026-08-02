@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009585728783790335",
+    "created_at": "2026-01-09T12:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T13:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009600951917986022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "722430818421858304",
+          "start": 0,
+          "username": "Rimomochan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009600951917986022",
+    "in_reply_to_user_id": "722430818421858304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009585728783790335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimomochan 摸摸你的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009585726212722688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-N7khya0AAtGlD.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009585728783790335",
+        "created_at": "2026-01-09T12:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T13:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009600951917986022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "722430818421858304",
+              "start": 0,
+              "username": "Rimomochan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009600951917986022",
+        "in_reply_to_user_id": "722430818421858304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009585728783790335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimomochan 摸摸你的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009585726212722688"
+          ]
+        },
+        "author_id": "722430818421858304",
+        "conversation_id": "2009585728783790335",
+        "created_at": "2026-01-09T11:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009585728783790335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hW7ms9RLQi",
+              "end": 30,
+              "expanded_url": "https://x.com/Rimomochan/status/2009585728783790335/photo/1",
+              "media_key": "3_2009585726212722688",
+              "start": 7,
+              "url": "https://t.co/hW7ms9RLQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009585728783790335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 480,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（又摸了！） https://t.co/hW7ms9RLQi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 37,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 175
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-19T14:25:04.000Z",
+        "description": "Love And Peace",
+        "id": "722430818421858304",
+        "name": "Rimorimo",
+        "pinned_tweet_id": "1929076733069713827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797600501837750273/OIuX18U1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41321,
+          "following_count": 392,
+          "like_count": 488,
+          "listed_count": 158,
+          "media_count": 144,
+          "tweet_count": 1853
+        },
+        "username": "Rimomochan",
+        "verified": false
+      }
+    ]
+  }
+}

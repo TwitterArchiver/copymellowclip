@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2056583337704325599",
+    "created_at": "2026-05-19T07:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056643554106392624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476258725010759689",
+          "start": 0,
+          "username": "EvaldoO09822790"
+        },
+        {
+          "end": 31,
+          "id": "1754843908524376064",
+          "start": 17,
+          "username": "huajiliefushi"
+        },
+        {
+          "end": 45,
+          "id": "1593799138893873152",
+          "start": 32,
+          "username": "Fuugetsu_808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056643554106392624",
+    "in_reply_to_user_id": "1476258725010759689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056624056347324675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvaldoO09822790 @huajiliefushi @Fuugetsu_808 你想说你去别的地方说啊，这是不准老师做的十件事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2056583337704325599",
+        "created_at": "2026-05-19T07:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056643554106392624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476258725010759689",
+              "start": 0,
+              "username": "EvaldoO09822790"
+            },
+            {
+              "end": 31,
+              "id": "1754843908524376064",
+              "start": 17,
+              "username": "huajiliefushi"
+            },
+            {
+              "end": 45,
+              "id": "1593799138893873152",
+              "start": 32,
+              "username": "Fuugetsu_808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056643554106392624",
+        "in_reply_to_user_id": "1476258725010759689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056624056347324675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvaldoO09822790 @huajiliefushi @Fuugetsu_808 你想说你去别的地方说啊，这是不准老师做的十件事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476258725010759689",
+        "conversation_id": "2056583337704325599",
+        "created_at": "2026-05-19T06:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056624056347324675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754843908524376064",
+              "start": 0,
+              "username": "huajiliefushi"
+            },
+            {
+              "end": 28,
+              "id": "1593799138893873152",
+              "start": 15,
+              "username": "Fuugetsu_808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056624056347324675",
+        "in_reply_to_user_id": "1754843908524376064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056604532394901594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajiliefushi @Fuugetsu_808 国家不是人民的国家？人人皆可议政！为何堵住人的嘴？？你是山东人吧？跪久了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 1741,
+          "like_count": 7124,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3364
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T18:28:32.000Z",
+        "description": "",
+        "id": "1476258725010759689",
+        "name": "Evaldo Oliveira",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046833909707743232/e-sNiZg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 1,
+          "like_count": 349,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1021
+        },
+        "username": "EvaldoO09822790",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T12:26:17.000Z",
+        "description": "颓废高中生 网络蛆虫  酒精入眠重度依赖  欢迎互fo互发乐子唠嗑",
+        "id": "1754843908524376064",
+        "location": "沃尔库塔—5",
+        "name": "diaonansfz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047123885615968256/ZU38SmS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 76,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 433
+        },
+        "username": "huajiliefushi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5402,
+          "following_count": 1897,
+          "like_count": 56843,
+          "listed_count": 11,
+          "media_count": 1389,
+          "tweet_count": 11170
+        },
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

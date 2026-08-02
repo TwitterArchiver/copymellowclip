@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016720132505292862",
+    "created_at": "2026-01-29T03:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T04:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/copymellowclip…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/copymellowclip/status/2016572277471776783",
+          "start": 13,
+          "url": "https://t.co/HeBR8ECR73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016720132505292862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016572277471776783",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这条引来好多蓝v互关（） https://t.co/HeBR8ECR73"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2016572277471776783",
+        "created_at": "2026-01-28T18:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/copymellowclip…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/copymellowclip/status/2016570403045671418",
+              "start": 104,
+              "url": "https://t.co/zrbxNOSHev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016572277471776783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1775,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016570403045671418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会回关所有关注我的人、这样做能给我一种“大家都是活生生的一个人”的感觉。而且我也不感觉关注我的人是粉丝或者什么的，我也没什么特殊的技能能让人崇拜，也感觉高高在上的样子不太好，互关了就像扩列一样有实感www https://t.co/zrbxNOSHev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 1120,
+          "like_count": 5716,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 2100
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

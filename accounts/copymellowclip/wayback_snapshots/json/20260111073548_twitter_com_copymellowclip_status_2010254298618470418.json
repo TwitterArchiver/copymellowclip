@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010253126130110914",
+    "created_at": "2026-01-11T07:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T08:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010254298618470418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994727203750514688",
+          "start": 0,
+          "username": "Loveyanouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010254298618470418",
+    "in_reply_to_user_id": "1994727203750514688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010253126130110914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loveyanouo 我就这样、、不鸟我我就偷偷取关了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010253126130110914",
+        "created_at": "2026-01-11T07:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010254298618470418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994727203750514688",
+              "start": 0,
+              "username": "Loveyanouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010254298618470418",
+        "in_reply_to_user_id": "1994727203750514688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010253126130110914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loveyanouo 我就这样、、不鸟我我就偷偷取关了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994727203750514688",
+        "conversation_id": "2010253126130110914",
+        "created_at": "2026-01-11T07:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010253126130110914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010253126130110914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼓起勇气给一个我感觉很有趣的妹子评论关注结果对方鸟都不鸟我🌚😭我又默默取关了。我再也不主动了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 141,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 438
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-29T11:20:36.000Z",
+        "description": "其实我挺可爱的！",
+        "id": "1994727203750514688",
+        "name": "小草莓",
+        "pinned_tweet_id": "2002296398293750004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008475955535491072/DfR-wLIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 19,
+          "like_count": 147,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 455
+        },
+        "username": "Loveyanouo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010761288847421719",
+    "created_at": "2026-01-12T17:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T18:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010764227636838914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736982152531877888",
+          "start": 0,
+          "username": "szvcz338938"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010764227636838914",
+    "in_reply_to_user_id": "1736982152531877888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010762327860396406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szvcz338938 你沙益丝！叉出去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010761288847421719",
+        "created_at": "2026-01-12T17:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010764227636838914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736982152531877888",
+              "start": 0,
+              "username": "szvcz338938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010764227636838914",
+        "in_reply_to_user_id": "1736982152531877888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010762327860396406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szvcz338938 你沙益丝！叉出去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736982152531877888",
+        "conversation_id": "2010761288847421719",
+        "created_at": "2026-01-12T17:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010762327860396406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010762327860396406",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010761288847421719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15.\n16.\n17.\n18.\n19.\n20.\n21.\n22.\n23.\n24.\n25.\n26.\n27.\n28.\n29.\n30.\n31.\n32.\n33.\n34.\n35.\n36.\n37.\n38.\n39.\n40.\n41.\n42.\n43.\n44.\n45.\n46.\n47.\n48.\n49.\n50.\n51.\n52.\n53.\n54.\n55.\n56.\n57.\n58.\n59.\n60.\n61.\n62.\n63.\n64.\n65.\n66.\n67.\n68.\n69.\n70.\n71.\n72."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 258,
+          "like_count": 1539,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 732
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-19T05:30:02.000Z",
+        "description": "",
+        "id": "1736982152531877888",
+        "name": "没意思",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736982591016935424/mBzKaDTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 87,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 128
+        },
+        "username": "szvcz338938",
+        "verified": false
+      }
+    ]
+  }
+}

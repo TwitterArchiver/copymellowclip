@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2019454362053959949",
+    "created_at": "2026-02-06T17:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T18:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019830729350476169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018518550185656321",
+          "start": 0,
+          "username": "TakumiiiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019830729350476169",
+    "in_reply_to_user_id": "2018518550185656321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019454362053959949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TakumiiiJ 这个好可爱ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019454339316961280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAaLBacb0AAeqNS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2019454362053959949",
+        "created_at": "2026-02-06T17:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019830729350476169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018518550185656321",
+              "start": 0,
+              "username": "TakumiiiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019830729350476169",
+        "in_reply_to_user_id": "2018518550185656321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019454362053959949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakumiiiJ 这个好可爱ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019454339316961280"
+          ]
+        },
+        "author_id": "2018518550185656321",
+        "conversation_id": "2019454362053959949",
+        "created_at": "2026-02-05T16:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019454362053959949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 6,
+              "tag": "luckystar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bjzvhbszhr",
+              "end": 40,
+              "expanded_url": "https://x.com/TakumiiiJ/status/2019454362053959949/photo/1",
+              "media_key": "3_2019454339316961280",
+              "start": 17,
+              "url": "https://t.co/Bjzvhbszhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019454362053959949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2092,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "梦情回家🤤 #luckystar https://t.co/Bjzvhbszhr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 1638,
+          "like_count": 6285,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2345
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-03T02:56:28.000Z",
+        "description": "大号没了别问了",
+        "id": "2018518550185656321",
+        "location": "🚪88 不露脸",
+        "name": "一点点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018520028535234561/vYOSbT3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 2,
+          "like_count": 5,
+          "listed_count": 8,
+          "media_count": 8,
+          "tweet_count": 12
+        },
+        "username": "TakumiiiJ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2081056591152136260",
+    "created_at": "2026-07-26T04:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081230582885859834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081230582885859834",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081056591152136260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 好可爱 ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2081056578929836032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFl7sCaQAAGf8n.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2081056591152136260",
+        "created_at": "2026-07-26T04:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081230582885859834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081230582885859834",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081056591152136260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 好可爱 ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081056578929836032"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081056591152136260",
+        "created_at": "2026-07-25T16:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081056591152136260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VHMIKhSx4e",
+              "end": 32,
+              "expanded_url": "https://x.com/doll7799/status/2081056591152136260/photo/1",
+              "media_key": "3_2081056578929836032",
+              "start": 9,
+              "url": "https://t.co/VHMIKhSx4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081056591152136260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2060,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想跟奶龙结婚哦 https://t.co/VHMIKhSx4e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 1774,
+          "like_count": 7406,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 3867
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707 \n匿名提问 https://t.co/2lBKx6Awd7\n没卖惨没装穷 纯自言自语宣泄情绪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ydd67887",
+                "end": 41,
+                "expanded_url": "https://ngl.link/ydd67887",
+                "start": 18,
+                "url": "https://t.co/2lBKx6Awd7"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52聊一辈子天=(^.^)=",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5534,
+          "following_count": 8,
+          "like_count": 3109,
+          "listed_count": 22,
+          "media_count": 286,
+          "tweet_count": 1292
+        },
+        "url": "",
+        "username": "doll7799",
+        "verified": true
+      }
+    ]
+  }
+}

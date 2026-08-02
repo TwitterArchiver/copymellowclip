@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2054506618230866055",
+    "created_at": "2026-05-13T10:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054506618230866055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Seo_miaa_/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Seo_miaa_/status/2054466870930252037",
+          "start": 4,
+          "url": "https://t.co/8dcrQ1hIvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054506618230866055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054466870930252037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "萌晕了 https://t.co/8dcrQ1hIvU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054466852315963392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILut5cboAAiGG6.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2054506618230866055",
+        "created_at": "2026-05-13T10:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054506618230866055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Seo_miaa_/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Seo_miaa_/status/2054466870930252037",
+              "start": 4,
+              "url": "https://t.co/8dcrQ1hIvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054506618230866055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054466870930252037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萌晕了 https://t.co/8dcrQ1hIvU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054466852315963392"
+          ]
+        },
+        "author_id": "1582889727694295041",
+        "conversation_id": "2054466870930252037",
+        "created_at": "2026-05-13T07:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054466870930252037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/euS4uvzhJZ",
+              "end": 23,
+              "expanded_url": "https://x.com/Seo_miaa_/status/2054466870930252037/photo/1",
+              "media_key": "3_2054466852315963392",
+              "start": 0,
+              "url": "https://t.co/euS4uvzhJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054466870930252037",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 7269,
+          "like_count": 673,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/euS4uvzhJZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2216,
+          "following_count": 1736,
+          "like_count": 7040,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 3277
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T00:23:01.000Z",
+        "description": "＾ω＾",
+        "id": "1582889727694295041",
+        "name": "小包包一枚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892525705927299072/yEGOGu05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38473,
+          "following_count": 166,
+          "like_count": 3295,
+          "listed_count": 138,
+          "media_count": 166,
+          "tweet_count": 227
+        },
+        "username": "Seo_miaa_",
+        "verified": false
+      }
+    ]
+  }
+}

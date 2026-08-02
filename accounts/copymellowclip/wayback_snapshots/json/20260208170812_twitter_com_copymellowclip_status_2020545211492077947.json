@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2020532533772103874",
+    "created_at": "2026-02-08T17:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T18:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020545211492077947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429328211180023810",
+          "start": 0,
+          "username": "XiaoXiaohcgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020545211492077947",
+    "in_reply_to_user_id": "1429328211180023810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020532533772103874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoXiaohcgz 可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2020532523970027520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApfoBRbYAATcu_.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2020532533772103874",
+        "created_at": "2026-02-08T17:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T18:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020545211492077947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429328211180023810",
+              "start": 0,
+              "username": "XiaoXiaohcgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020545211492077947",
+        "in_reply_to_user_id": "1429328211180023810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020532533772103874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoXiaohcgz 可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020532523970027520"
+          ]
+        },
+        "author_id": "1429328211180023810",
+        "conversation_id": "2020532533772103874",
+        "created_at": "2026-02-08T16:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020532533772103874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KT5BE6Mjo",
+              "end": 29,
+              "expanded_url": "https://x.com/XiaoXiaohcgz/status/2020532533772103874/photo/1",
+              "media_key": "3_2020532523970027520",
+              "start": 6,
+              "url": "https://t.co/5KT5BE6Mjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020532533772103874",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 279,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "saba🦈 https://t.co/5KT5BE6Mjo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 1651,
+          "like_count": 6346,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2371
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-22T06:23:07.000Z",
+        "description": "入门不退谢谢喵 50+v纯绿喵",
+        "id": "1429328211180023810",
+        "location": "50+V",
+        "name": "关关",
+        "pinned_tweet_id": "1982385418495738032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012301021817749508/bingO7W-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36336,
+          "following_count": 252,
+          "like_count": 3424,
+          "listed_count": 14,
+          "media_count": 972,
+          "tweet_count": 3503
+        },
+        "username": "XiaoXiaohcgz",
+        "verified": false
+      }
+    ]
+  }
+}

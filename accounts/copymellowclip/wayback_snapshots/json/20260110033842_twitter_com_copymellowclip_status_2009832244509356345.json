@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009639068255375810",
+    "created_at": "2026-01-10T03:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T04:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009832244509356345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820666793817686016",
+          "start": 0,
+          "username": "utwtu_xixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009832244509356345",
+    "in_reply_to_user_id": "1820666793817686016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009639068255375810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utwtu_xixi 天呐好可爱、、"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11933,
+        "height": 1280,
+        "media_key": "13_2009638936201895937",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009638936201895937/img/UCwvD0cesTAvhWnP.jpg",
+        "public_metrics": {
+          "view_count": 2148
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009638936201895937/vid/avc1/320x568/YLxkxMGtTklPac_E.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009638936201895937/vid/avc1/480x852/zKhMV47honLy5YKB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009638936201895937/vid/avc1/720x1280/N3exPaBYBGx2Ih6G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009638936201895937/pl/nLUnpaHZs9i9Cazp.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009639068255375810",
+        "created_at": "2026-01-10T03:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009832244509356345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820666793817686016",
+              "start": 0,
+              "username": "utwtu_xixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009832244509356345",
+        "in_reply_to_user_id": "1820666793817686016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009639068255375810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utwtu_xixi 天呐好可爱、、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009638936201895937"
+          ]
+        },
+        "author_id": "1820666793817686016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2009639068255375810",
+        "created_at": "2026-01-09T14:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009639068255375810"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "jk"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "水手服"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "肉腿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J6hn2VGILR",
+              "end": 46,
+              "expanded_url": "https://x.com/utwtu_xixi/status/2009639068255375810/video/1",
+              "media_key": "13_2009638936201895937",
+              "start": 23,
+              "url": "https://t.co/J6hn2VGILR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009639068255375810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7211,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想你(´･ω･`) #jk #水手服 #肉腿 https://t.co/J6hn2VGILR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 50,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 213
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T03:42:54.000Z",
+        "description": "🚪99",
+        "id": "1820666793817686016",
+        "location": "Japan",
+        "name": "草嘻嘻",
+        "pinned_tweet_id": "1995723746133368900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942261490393796608/x_hOBGMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 67,
+          "like_count": 710,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 406
+        },
+        "username": "utwtu_xixi",
+        "verified": false
+      }
+    ]
+  }
+}

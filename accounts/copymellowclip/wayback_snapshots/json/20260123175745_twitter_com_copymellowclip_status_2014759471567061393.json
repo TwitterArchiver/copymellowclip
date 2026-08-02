@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2014401344371884254",
+    "created_at": "2026-01-23T17:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T18:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014759471567061393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618557658163970049",
+          "start": 0,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014759471567061393",
+    "in_reply_to_user_id": "1618557658163970049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014401344371884254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf5 脏ip还是会封的，封号是百分百退订阅费（pro和max都全款退）哪怕只剩一天了也退，要是比较没道德的话也可以故意用奇怪的ip来轮询访问并尝试限制内容来白嫖（不建议这么做）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2014401344371884254",
+        "created_at": "2026-01-23T17:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014759471567061393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014759471567061393",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014401344371884254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 脏ip还是会封的，封号是百分百退订阅费（pro和max都全款退）哪怕只剩一天了也退，要是比较没道德的话也可以故意用奇怪的ip来轮询访问并尝试限制内容来白嫖（不建议这么做）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618557658163970049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2014401344371884254",
+        "created_at": "2026-01-22T18:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T19:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014401344371884254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014401344371884254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11363,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想问问各位现在CLAUDE网页版的封号情况怎么样了\n会不会不退款，以及+44 + U卡能付款吗?\n怕封号\n我想买个Pro日常聊天试试,Gemini和ChatGPT说实话不太好用,但是怕封号不退钱...()\n刚买了US家宽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 864,
+          "like_count": 4908,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手不恶俗\n爱发梗图和生活日常 ｜ 偶尔爆照\n欢迎私信投稿内容\nPython/Rust/JS后端个人开发者 | 学生\nAI | 量化 | 交易\nGithub求follow\n逃生舱:@qqqqqf_\n个人网站(博客):https://t.co/FF4XPq1mIy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 97,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 138,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 115,
+                "url": "https://t.co/FF4XPq1mIy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2013835813071790433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6478,
+          "following_count": 2042,
+          "like_count": 12236,
+          "listed_count": 14,
+          "media_count": 1620,
+          "tweet_count": 4169
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

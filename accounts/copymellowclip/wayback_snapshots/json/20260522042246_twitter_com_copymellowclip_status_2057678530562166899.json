@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057678487339855872"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2057678530562166899",
+    "created_at": "2026-05-22T04:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057678530562166899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P71yg5Jjyk",
+          "end": 41,
+          "expanded_url": "https://x.com/copymellowclip/status/2057678530562166899/photo/1",
+          "media_key": "3_2057678487339855872",
+          "start": 18,
+          "url": "https://t.co/P71yg5Jjyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057678530562166899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢笨笨请我喝牛奶喵明天我就去买！ https://t.co/P71yg5Jjyk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 258,
+        "media_key": "3_2057678487339855872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5XrqPa8AAgBLy.png",
+        "width": 529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057678487339855872"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2057678530562166899",
+        "created_at": "2026-05-22T04:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057678530562166899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P71yg5Jjyk",
+              "end": 41,
+              "expanded_url": "https://x.com/copymellowclip/status/2057678530562166899/photo/1",
+              "media_key": "3_2057678487339855872",
+              "start": 18,
+              "url": "https://t.co/P71yg5Jjyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057678530562166899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢笨笨请我喝牛奶喵明天我就去买！ https://t.co/P71yg5Jjyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 1767,
+          "like_count": 7144,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 3396
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      }
+    ]
+  }
+}

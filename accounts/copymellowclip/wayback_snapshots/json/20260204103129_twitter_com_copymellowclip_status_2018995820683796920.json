@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2018713695660941653",
+    "created_at": "2026-02-04T10:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T11:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018995820683796920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miaooo_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018995820683796920",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018713695660941653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaooo_8964 小水母好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1253,
+        "media_key": "3_2018713686895190016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPpZxKbYAADPlY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2018713695660941653",
+        "created_at": "2026-02-04T10:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018995820683796920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miaooo_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018995820683796920",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018713695660941653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaooo_8964 小水母好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018713686895190016"
+          ]
+        },
+        "author_id": "2000126709375623168",
+        "conversation_id": "2018713695660941653",
+        "created_at": "2026-02-03T15:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018713695660941653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMvYwU6bss",
+              "end": 43,
+              "expanded_url": "https://x.com/Miaooo_8964/status/2018713695660941653/photo/1",
+              "media_key": "3_2018713686895190016",
+              "start": 20,
+              "url": "https://t.co/XMvYwU6bss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018713695660941653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2926,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一说一 我现在有一个炸裂的抽象发型。 https://t.co/XMvYwU6bss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 1627,
+          "like_count": 6246,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "就一破发抽象文案碎碎念的。别性骚扰我。 | 心的距離是遙不可及。| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡|",
+        "id": "2000126709375623168",
+        "name": "夢遙",
+        "pinned_tweet_id": "2018398587890409558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015483655137918976/sU1eoINa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 157,
+          "like_count": 4081,
+          "listed_count": 4,
+          "media_count": 107,
+          "tweet_count": 1110
+        },
+        "username": "Miaooo_8964",
+        "verified": false
+      }
+    ]
+  }
+}

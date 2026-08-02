@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016875341034508390",
+    "created_at": "2026-01-31T13:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T14:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017589489720562160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972597669588852736",
+          "start": 0,
+          "username": "Itadaki7772"
+        },
+        {
+          "end": 29,
+          "id": "1650122572573601792",
+          "start": 13,
+          "username": "rYXLkmKecy97184"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017589489720562160",
+    "in_reply_to_user_id": "1972597669588852736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017583711144099916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Itadaki7772 @rYXLkmKecy97184 有品！我也喜欢这个萌萌凛酱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2016875341034508390",
+        "created_at": "2026-01-31T13:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T14:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017589489720562160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972597669588852736",
+              "start": 0,
+              "username": "Itadaki7772"
+            },
+            {
+              "end": 29,
+              "id": "1650122572573601792",
+              "start": 13,
+              "username": "rYXLkmKecy97184"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017589489720562160",
+        "in_reply_to_user_id": "1972597669588852736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017583711144099916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Itadaki7772 @rYXLkmKecy97184 有品！我也喜欢这个萌萌凛酱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972597669588852736",
+        "conversation_id": "2016875341034508390",
+        "created_at": "2026-01-31T13:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T14:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017583711144099916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650122572573601792",
+              "start": 0,
+              "username": "rYXLkmKecy97184"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017583711144099916",
+        "in_reply_to_user_id": "1650122572573601792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017571660107559416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rYXLkmKecy97184 我可以接受吗🥹谢谢你..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 1575,
+          "like_count": 6123,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2256
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-29T09:42:03.000Z",
+        "description": "发着玩 可以叫我凛酱/小凛凛 欢迎女孩直接来互fo☺️",
+        "id": "1972597669588852736",
+        "name": "我们走吧",
+        "pinned_tweet_id": "2008130784159576455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004903617904750592/7WGbEJRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 19,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 22
+        },
+        "username": "Itadaki7772",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T13:01:17.000Z",
+        "description": "",
+        "id": "1650122572573601792",
+        "name": "光猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006448446522486784/tM9qAoqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "rYXLkmKecy97184",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2059498365419954530",
+    "created_at": "2026-05-27T04:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059499759472427270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850587533924876288",
+          "start": 0,
+          "username": "NewYear_NewYear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059499759472427270",
+    "in_reply_to_user_id": "1850587533924876288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059498365419954530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NewYear_NewYear 谁的群这么厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059498355856908288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTO18xaIAAmMjC.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2059498365419954530",
+        "created_at": "2026-05-27T04:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059499759472427270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059499759472427270",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059498365419954530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 谁的群这么厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059498355856908288"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059498365419954530",
+        "created_at": "2026-05-27T04:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059498365419954530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrlyQMyzxs",
+              "end": 61,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2059498365419954530/photo/1",
+              "media_key": "3_2059498355856908288",
+              "start": 38,
+              "url": "https://t.co/jrlyQMyzxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059498365419954530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播火了😭😭😭\n突然看到有一个群发了主播视频的截图，一去小号看，哎呦咋火了 https://t.co/jrlyQMyzxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 1767,
+          "like_count": 7158,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 3459
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 420,
+          "like_count": 7821,
+          "listed_count": 1,
+          "media_count": 825,
+          "tweet_count": 5017
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

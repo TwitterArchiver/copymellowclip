@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2060945338438148302",
+    "created_at": "2026-05-31T11:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061053522167377953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "771705332703735808",
+          "start": 0,
+          "username": "XLionc"
+        },
+        {
+          "end": 16,
+          "id": "1552213521253150720",
+          "start": 8,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061053522167377953",
+    "in_reply_to_user_id": "771705332703735808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061052753871573470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XLionc @acnekot chrome即使没有连到keyring，也不会明文存吧？另外浏览器在中国大陆的支持情况……所有软件几乎都不支持浏览器使用必须下载桌面端软件或者APP吧，比如大陆用的微信、支付宝、QQ之类的，我要担心的话可能就只有x了？中国大陆也不可能有人为了盗你的国外社交软件，也没有什么盈利场景"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2060945338438148302",
+        "created_at": "2026-05-31T11:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061053522167377953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "771705332703735808",
+              "start": 0,
+              "username": "XLionc"
+            },
+            {
+              "end": 16,
+              "id": "1552213521253150720",
+              "start": 8,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061053522167377953",
+        "in_reply_to_user_id": "771705332703735808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061052753871573470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XLionc @acnekot chrome即使没有连到keyring，也不会明文存吧？另外浏览器在中国大陆的支持情况……所有软件几乎都不支持浏览器使用必须下载桌面端软件或者APP吧，比如大陆用的微信、支付宝、QQ之类的，我要担心的话可能就只有x了？中国大陆也不可能有人为了盗你的国外社交软件，也没有什么盈利场景"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "771705332703735808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2060945338438148302",
+        "created_at": "2026-05-31T11:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061052753871573470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 24,
+              "id": "1552213521253150720",
+              "start": 16,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061052753871573470",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061051907179979135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @acnekot 我說的瀏覽器包含 session cookies 以及所有儲存的密碼\n\n一旦你不用 keyring \n\n所有程式都可以把你的 session cookies 盜走\n\n就像 Windows 一樣\n\n這就是macOS, Linux 的 keyring 機制存在的小小原因之一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 1776,
+          "like_count": 7242,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3554
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-02T13:44:23.000Z",
+        "description": "@ xlionjuan on most Git platforms",
+        "id": "771705332703735808",
+        "name": "XLion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/863732386495737856/whFL9t-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 894,
+          "like_count": 8996,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1993
+        },
+        "username": "XLionc",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 798,
+          "like_count": 93280,
+          "listed_count": 10,
+          "media_count": 3946,
+          "tweet_count": 16757
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

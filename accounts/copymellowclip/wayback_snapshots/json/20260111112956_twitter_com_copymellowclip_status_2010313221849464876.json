@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010300591080452166",
+    "created_at": "2026-01-11T11:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T12:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010313221849464876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999747932573302784",
+          "start": 0,
+          "username": "Tivzy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010313221849464876",
+    "in_reply_to_user_id": "1999747932573302784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010300591080452166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tivzy77 手冲停步下来肿么办"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010300581068599297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YFujpa8AE77XS.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010300581106331648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YFujyasAArMUg.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010300581114793984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YFuj0b0AAGl3x.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010300581110579200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YFujzbgAA5jjt.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010300591080452166",
+        "created_at": "2026-01-11T11:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T12:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010313221849464876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999747932573302784",
+              "start": 0,
+              "username": "Tivzy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010313221849464876",
+        "in_reply_to_user_id": "1999747932573302784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010300591080452166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tivzy77 手冲停步下来肿么办"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010300581068599297",
+            "3_2010300581106331648",
+            "3_2010300581114793984",
+            "3_2010300581110579200"
+          ]
+        },
+        "author_id": "1999747932573302784",
+        "conversation_id": "2010300591080452166",
+        "created_at": "2026-01-11T10:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010300591080452166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/tivzy77",
+              "end": 23,
+              "expanded_url": "https://ngl.link/tivzy77",
+              "start": 0,
+              "status": 200,
+              "title": "@tivzy77: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/tivzy77",
+              "url": "https://t.co/kPlXfePXcb"
+            },
+            {
+              "display_url": "pic.x.com/hWB8LRTPzL",
+              "end": 66,
+              "expanded_url": "https://x.com/Tivzy77/status/2010300591080452166/photo/1",
+              "media_key": "3_2010300581068599297",
+              "start": 43,
+              "url": "https://t.co/hWB8LRTPzL"
+            },
+            {
+              "display_url": "pic.x.com/hWB8LRTPzL",
+              "end": 66,
+              "expanded_url": "https://x.com/Tivzy77/status/2010300591080452166/photo/1",
+              "media_key": "3_2010300581106331648",
+              "start": 43,
+              "url": "https://t.co/hWB8LRTPzL"
+            },
+            {
+              "display_url": "pic.x.com/hWB8LRTPzL",
+              "end": 66,
+              "expanded_url": "https://x.com/Tivzy77/status/2010300591080452166/photo/1",
+              "media_key": "3_2010300581114793984",
+              "start": 43,
+              "url": "https://t.co/hWB8LRTPzL"
+            },
+            {
+              "display_url": "pic.x.com/hWB8LRTPzL",
+              "end": 66,
+              "expanded_url": "https://x.com/Tivzy77/status/2010300591080452166/photo/1",
+              "media_key": "3_2010300581110579200",
+              "start": 43,
+              "url": "https://t.co/hWB8LRTPzL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010300591080452166",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kPlXfePXcb所有人立刻停下手中的事情来我的提问箱！ https://t.co/hWB8LRTPzL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 140,
+          "like_count": 922,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 480
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T07:47:25.000Z",
+        "description": "皮下是非常坏并且玻璃心的小女孩",
+        "id": "1999747932573302784",
+        "name": "谁理你",
+        "pinned_tweet_id": "2009153255864148333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009568818801336320/z9gXXSMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 55,
+          "like_count": 742,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 460
+        },
+        "username": "Tivzy77",
+        "verified": false
+      }
+    ]
+  }
+}

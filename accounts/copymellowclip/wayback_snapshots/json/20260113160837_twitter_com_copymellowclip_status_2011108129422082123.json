@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011104349599252587",
+    "created_at": "2026-01-13T16:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T17:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011108129422082123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009153444133896192",
+          "start": 0,
+          "username": "teoronlit18654"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011108129422082123",
+    "in_reply_to_user_id": "2009153444133896192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011107885737275902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teoronlit18654 哎，卖东西好可怕很烦人，害得我不太想卖掉x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011104349599252587",
+        "created_at": "2026-01-13T16:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011108129422082123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009153444133896192",
+              "start": 0,
+              "username": "teoronlit18654"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011108129422082123",
+        "in_reply_to_user_id": "2009153444133896192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011107885737275902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teoronlit18654 哎，卖东西好可怕很烦人，害得我不太想卖掉x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009153444133896192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Nintendo Switch",
+              "id": "856739783577554949",
+              "name": "Nintendo Switch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nintendo Switch",
+              "id": "856739783577554949",
+              "name": "Nintendo Switch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2011104349599252587",
+        "created_at": "2026-01-13T16:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011107885737275902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011107885737275902",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011104349599252587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我最近手里有了一千块刚买了一台三星zfold4用了两天卖了又买了一台switch lite，感觉有些电子产品真的很好，就买了不喜欢出掉基本不会亏钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 321,
+          "like_count": 1912,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 907
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-08T06:41:36.000Z",
+        "description": "还没想好/男",
+        "id": "2009153444133896192",
+        "location": "原来是这样",
+        "name": "树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010594339605688320/I2a_5xiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 36,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 89
+        },
+        "username": "teoronlit18654",
+        "verified": false
+      }
+    ]
+  }
+}

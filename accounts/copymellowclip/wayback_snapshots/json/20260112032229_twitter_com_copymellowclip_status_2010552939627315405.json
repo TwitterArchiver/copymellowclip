@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010550787743609225",
+    "created_at": "2026-01-12T03:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T04:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010552939627315405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800101206184144896",
+          "start": 0,
+          "username": "XIAOYUAN_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010552939627315405",
+    "in_reply_to_user_id": "1800101206184144896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010550787743609225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOYUAN_qwq 小怜怎么了呀..！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010550787743609225",
+        "created_at": "2026-01-12T03:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T04:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010552939627315405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800101206184144896",
+              "start": 0,
+              "username": "XIAOYUAN_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010552939627315405",
+        "in_reply_to_user_id": "1800101206184144896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010550787743609225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOYUAN_qwq 小怜怎么了呀..！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800101206184144896",
+        "conversation_id": "2010550787743609225",
+        "created_at": "2026-01-12T03:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T04:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010550787743609225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010550787743609225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好崩溃呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 177,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 582
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-10T09:42:35.000Z",
+        "description": "🚪52好友位｜08｜磕药壁｜血图｜支持喜欢我就给我钱吧！\n我不得劲 我就发推我就磕药，无理由。想交朋友...",
+        "id": "1800101206184144896",
+        "location": "极乐净土",
+        "name": "小怜",
+        "pinned_tweet_id": "1995395289302389023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003039469910609920/oNoMtF6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 95,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 300
+        },
+        "username": "XIAOYUAN_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

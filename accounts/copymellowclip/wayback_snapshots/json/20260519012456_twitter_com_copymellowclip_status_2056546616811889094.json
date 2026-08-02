@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2056273095024050543",
+    "created_at": "2026-05-19T01:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056546616811889094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1299376598852882432",
+          "start": 0,
+          "username": "XavierSUMALAMA"
+        },
+        {
+          "end": 26,
+          "id": "1727308453692207105",
+          "start": 16,
+          "username": "nekooechi"
+        },
+        {
+          "end": 37,
+          "id": "1454643456769282055",
+          "start": 27,
+          "username": "3changxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056546616811889094",
+    "in_reply_to_user_id": "1299376598852882432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056529146227105798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XavierSUMALAMA @nekooechi @3changxin 之前豆包手机没看过吗（）显然不做不是因为做不了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2056273095024050543",
+        "created_at": "2026-05-19T01:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056546616811889094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1299376598852882432",
+              "start": 0,
+              "username": "XavierSUMALAMA"
+            },
+            {
+              "end": 26,
+              "id": "1727308453692207105",
+              "start": 16,
+              "username": "nekooechi"
+            },
+            {
+              "end": 37,
+              "id": "1454643456769282055",
+              "start": 27,
+              "username": "3changxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056546616811889094",
+        "in_reply_to_user_id": "1299376598852882432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056529146227105798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XavierSUMALAMA @nekooechi @3changxin 之前豆包手机没看过吗（）显然不做不是因为做不了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1299376598852882432",
+        "conversation_id": "2056273095024050543",
+        "created_at": "2026-05-19T00:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056529146227105798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1727308453692207105",
+              "start": 0,
+              "username": "nekooechi"
+            },
+            {
+              "end": 21,
+              "id": "1454643456769282055",
+              "start": 11,
+              "username": "3changxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056529146227105798",
+        "in_reply_to_user_id": "1727308453692207105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056376194426392617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekooechi @3changxin 豆包这个智力如果开放面向不懂ai的普通大众的涉及金钱操控的agent，我都不敢想会捅出多大的篓子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 1741,
+          "like_count": 7123,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3357
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T16:01:45.000Z",
+        "description": "",
+        "id": "1299376598852882432",
+        "name": "Xavier",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795499596011225088/wD_9re0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 79,
+          "like_count": 1075,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 241
+        },
+        "username": "XavierSUMALAMA",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T12:50:18.000Z",
+        "description": "trilingual · 中日英 \nWeb3 believer · AI agent 探索者\n二次元 · 游戏 · 贝斯 · 穿孔爱好者\n秩序敏感 · 搞笑女",
+        "id": "1727308453692207105",
+        "location": "美国",
+        "name": "neeko",
+        "pinned_tweet_id": "2055269174444982425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049526894178242565/JOcL9hfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 286,
+          "like_count": 1103,
+          "listed_count": 8,
+          "media_count": 22,
+          "tweet_count": 470
+        },
+        "username": "nekooechi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-31T02:56:54.000Z",
+        "description": "一切众生皆有如来智慧德相，只因妄想执着而不能证得",
+        "id": "1454643456769282055",
+        "name": "Pcx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976472638928388096/Jsh6Ac1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 1705,
+          "like_count": 1344,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 206
+        },
+        "username": "3changxin",
+        "verified": true
+      }
+    ]
+  }
+}

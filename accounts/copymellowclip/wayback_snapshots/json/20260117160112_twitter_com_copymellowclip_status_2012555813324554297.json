@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012361000067158526",
+    "created_at": "2026-01-17T16:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012555813324554297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926115911276146688",
+          "start": 0,
+          "username": "minmax2330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012555813324554297",
+    "in_reply_to_user_id": "1926115911276146688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012361000067158526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minmax2330 如果真实际要在南方集体供暖的话，落到每个人头上肯定要比空调贵的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012361000067158526",
+        "created_at": "2026-01-17T16:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012555813324554297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926115911276146688",
+              "start": 0,
+              "username": "minmax2330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012555813324554297",
+        "in_reply_to_user_id": "1926115911276146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012361000067158526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minmax2330 如果真实际要在南方集体供暖的话，落到每个人头上肯定要比空调贵的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926115911276146688",
+        "conversation_id": "2012361000067158526",
+        "created_at": "2026-01-17T03:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012361000067158526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012361000067158526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4158,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没懂江浙沪和南方这边为什么都不愿意装地暖，广东早起好冷，虽然现在已经十一点了。但是还是好冷，我只带了夏天的睡衣，江苏冬天的室内更不是人呆的地方，跟冰窖有0个区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢个人主页、推荐收藏！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 609,
+          "like_count": 3485,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "一个很坏的小女孩 我没任何私下联系方式 不想认识任何人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=08aSNhb3",
+                "start": 0,
+                "url": "https://t.co/ODft3qzJ6w"
+              }
+            ]
+          }
+        },
+        "id": "1926115911276146688",
+        "name": "ivee",
+        "pinned_tweet_id": "2007697673340760195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7593,
+          "following_count": 35,
+          "like_count": 9931,
+          "listed_count": 13,
+          "media_count": 44,
+          "tweet_count": 2097
+        },
+        "url": "https://t.co/ODft3qzJ6w",
+        "username": "minmax2330",
+        "verified": false
+      }
+    ]
+  }
+}

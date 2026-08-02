@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016228512487620608",
+    "created_at": "2026-01-28T10:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T11:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016461669581689212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1539230388190519296",
+          "start": 0,
+          "username": "zhangl96888608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016461669581689212",
+    "in_reply_to_user_id": "1539230388190519296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016228512487620608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangl96888608 好色哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016228473405067264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_sVHTdWUAA-ZI7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2016228512487620608",
+        "created_at": "2026-01-28T10:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016461669581689212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1539230388190519296",
+              "start": 0,
+              "username": "zhangl96888608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016461669581689212",
+        "in_reply_to_user_id": "1539230388190519296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016228512487620608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangl96888608 好色哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016228473405067264"
+          ]
+        },
+        "author_id": "1539230388190519296",
+        "conversation_id": "2016228512487620608",
+        "created_at": "2026-01-27T19:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T20:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016228512487620608"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGfg2tFFap",
+              "end": 47,
+              "expanded_url": "https://x.com/zhangl96888608/status/2016228512487620608/photo/1",
+              "media_key": "3_2016228473405067264",
+              "start": 24,
+              "url": "https://t.co/iGfg2tFFap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016228512487620608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 590,
+          "impression_count": 63692,
+          "like_count": 3583,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "捅一肚量衡❤️\n#kigurumi #着ぐるみ https://t.co/iGfg2tFFap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 1057,
+          "like_count": 5603,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-21T12:55:03.000Z",
+        "description": "kiger ｜《takt op.Destiny 》珂赛特｜流萤｜常驻昆明&中山｜中文/English.欢迎私信呀🐳",
+        "id": "1539230388190519296",
+        "location": "昆明/中山",
+        "name": "酱紫🐳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782663529696514049/Vl0sjKAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7978,
+          "following_count": 106,
+          "like_count": 1319,
+          "listed_count": 48,
+          "media_count": 139,
+          "tweet_count": 191
+        },
+        "username": "zhangl96888608",
+        "verified": false
+      }
+    ]
+  }
+}

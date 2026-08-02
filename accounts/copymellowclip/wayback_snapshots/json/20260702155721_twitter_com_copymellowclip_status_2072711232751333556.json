@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2072696344712724717",
+    "created_at": "2026-07-02T15:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072711232751333556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646454241324830720",
+          "start": 0,
+          "username": "tube1925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072711232751333556",
+    "in_reply_to_user_id": "1646454241324830720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072707204873097350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tube1925 可能是吧但是快煮也要半个小时来着而且我觉得精煮一小时好吃一点（）我到家喝点冰水就把周末提前备好的菜们拿出来炒，十分钟可能也用不上就出锅了，吃完给热水器插上电然后去打游戏，打一局就可以洗澡然后美美享受晚上了，下班后标准 sop 说是（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2072696344712724717",
+        "created_at": "2026-07-02T15:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072711232751333556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646454241324830720",
+              "start": 0,
+              "username": "tube1925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072711232751333556",
+        "in_reply_to_user_id": "1646454241324830720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072707204873097350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tube1925 可能是吧但是快煮也要半个小时来着而且我觉得精煮一小时好吃一点（）我到家喝点冰水就把周末提前备好的菜们拿出来炒，十分钟可能也用不上就出锅了，吃完给热水器插上电然后去打游戏，打一局就可以洗澡然后美美享受晚上了，下班后标准 sop 说是（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646454241324830720",
+        "conversation_id": "2072696344712724717",
+        "created_at": "2026-07-02T15:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072707204873097350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072707204873097350",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072706649102688488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 不缺这点时间吧，等饭煮熟之前还能摸个鱼，而且做个菜的时间，也差不多能好了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2807,
+          "following_count": 1777,
+          "like_count": 7340,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 3751
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T10:04:33.000Z",
+        "description": "Hola!你好,我是一只也可以叫我will/男性/高中生(休学)/NEET/友跨🏳️‍⚧️/酒精依赖🥃/信仰天主✝️/爱好:撸猫🐱/摄影📷/文学📖使用的语言:中文🇨🇳英语🇺🇸西语🇲🇽/适度涉政/主要发点碎碎念和日常/一个在人间凑数的废柴\n除常互动的推友以外不会主动回fo，回fo请私信🥺",
+        "id": "1646454241324830720",
+        "location": "小马利亚,坎特洛特城",
+        "name": "一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015852408648458240/Ho5VfcNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 113,
+          "like_count": 30296,
+          "listed_count": 3,
+          "media_count": 387,
+          "tweet_count": 14556
+        },
+        "url": "",
+        "username": "tube1925",
+        "verified": false
+      }
+    ]
+  }
+}

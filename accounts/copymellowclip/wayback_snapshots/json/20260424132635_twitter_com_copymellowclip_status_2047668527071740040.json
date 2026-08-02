@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2047300515659444401",
+    "created_at": "2026-04-24T13:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047668527071740040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1996833900816224262",
+          "start": 0,
+          "username": "AnneJenkin92858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047668527071740040",
+    "in_reply_to_user_id": "1996833900816224262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047656606612291839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnneJenkin92858 手里有好几条（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-24T13:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047668527071740040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1996833900816224262",
+              "start": 0,
+              "username": "AnneJenkin92858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047668527071740040",
+        "in_reply_to_user_id": "1996833900816224262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047656606612291839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnneJenkin92858 手里有好几条（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996833900816224262",
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-24T12:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047656606612291839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047656606612291839",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047300515659444401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 硬盘0素？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 1705,
+          "like_count": 6805,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3039
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T06:48:07.000Z",
+        "description": "06/183/羽毛球+gym/0757+0755/直男（求求男同别来烦我）\nISTJ\n防封号https://t.co/DLwyQU0ArV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AOX7878",
+                "end": 69,
+                "expanded_url": "https://t.me/AOX7878",
+                "start": 46,
+                "url": "https://t.co/DLwyQU0ArV"
+              }
+            ]
+          }
+        },
+        "id": "1996833900816224262",
+        "location": "重生之在残月当老鼠偷分",
+        "name": "Aox114514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031000518936657920/HH5a1r9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 286,
+          "like_count": 3076,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1436
+        },
+        "username": "AnneJenkin92858",
+        "verified": false
+      }
+    ]
+  }
+}

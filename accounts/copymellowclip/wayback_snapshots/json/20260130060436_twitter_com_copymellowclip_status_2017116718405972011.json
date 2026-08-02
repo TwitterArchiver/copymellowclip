@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2017108990468247974",
+    "created_at": "2026-01-30T06:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T07:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017116718405972011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926810561536208897",
+          "start": 0,
+          "username": "Owso6y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017116718405972011",
+    "in_reply_to_user_id": "1926810561536208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017108990468247974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Owso6y_ 其实是可以选择显不显示名字来着ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017108980020236289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_417iNbUAESjuJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2017108990468247974",
+        "created_at": "2026-01-30T06:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017116718405972011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926810561536208897",
+              "start": 0,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017116718405972011",
+        "in_reply_to_user_id": "1926810561536208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017108990468247974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owso6y_ 其实是可以选择显不显示名字来着ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017108980020236289"
+          ]
+        },
+        "author_id": "1926810561536208897",
+        "conversation_id": "2017108990468247974",
+        "created_at": "2026-01-30T05:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017108990468247974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVHXYKAZbf",
+              "end": 54,
+              "expanded_url": "https://x.com/Owso6y_/status/2017108990468247974/photo/1",
+              "media_key": "3_2017108980020236289",
+              "start": 31,
+              "url": "https://t.co/qVHXYKAZbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017108990468247974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底谁在给我钱，昨天二十现在三十，没显示名字就不是我的好友吧 https://t.co/qVHXYKAZbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 1438,
+          "like_count": 5861,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 2157
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T01:20:18.000Z",
+        "description": "备用号@Owsoy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Owsoy_"
+              }
+            ]
+          }
+        },
+        "id": "1926810561536208897",
+        "name": "ねこ",
+        "pinned_tweet_id": "2013316343412769171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926810632331960320/-llV7JkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10070,
+          "following_count": 5,
+          "like_count": 1771,
+          "listed_count": 20,
+          "media_count": 70,
+          "tweet_count": 210
+        },
+        "username": "Owso6y_",
+        "verified": false
+      }
+    ]
+  }
+}

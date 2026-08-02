@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2014749200844718443",
+    "created_at": "2026-01-23T17:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T18:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014756541375905864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593267144803901445",
+          "start": 0,
+          "username": "bb60040873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014756541375905864",
+    "in_reply_to_user_id": "1593267144803901445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014751712863821860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bb60040873 你就这么捧我ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2014749200844718443",
+        "created_at": "2026-01-23T17:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014756541375905864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593267144803901445",
+              "start": 0,
+              "username": "bb60040873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014756541375905864",
+        "in_reply_to_user_id": "1593267144803901445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014751712863821860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bb60040873 你就这么捧我ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593267144803901445",
+        "conversation_id": "2014749200844718443",
+        "created_at": "2026-01-23T17:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014751712863821860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014751712863821860",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014749200844718443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 虽然看不太懂，但是感觉用起来好方便👍🏻👍🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 863,
+          "like_count": 4892,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-17T15:39:09.000Z",
+        "description": "爱碎碎念胡言乱语，间歇性发疯，bl，混的圈子杂啥都能吃一口，恋乳，绝望的直女",
+        "id": "1593267144803901445",
+        "name": ".",
+        "pinned_tweet_id": "2012934830733090985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013094892193382400/6-yy9Ldp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 301,
+          "like_count": 1355,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 93
+        },
+        "username": "bb60040873",
+        "verified": false
+      }
+    ]
+  }
+}

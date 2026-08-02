@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2057461032545825206",
+    "created_at": "2026-05-21T14:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057468002774421580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057468002774421580",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057461032545825206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 抚摸抚摸（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7160,
+        "height": 882,
+        "media_key": "13_2057460945598005248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057460945598005248/img/liQGyPHVr0nTqJ1T.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057460945598005248/vid/avc1/320x320/hrKzZnQEfhqSjlOB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057460945598005248/pl/_05tPwRb66tiNHlt.m3u8"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057460945598005248/vid/avc1/882x882/MUCxCHHS5lk6pmyQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057460945598005248/vid/avc1/540x540/aayu7YaYht39fUeg.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057460945598005248/vid/avc1/720x720/t3SM3Y45Js5MTtUs.mp4"
+          }
+        ],
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2057461032545825206",
+        "created_at": "2026-05-21T14:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057468002774421580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057468002774421580",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057461032545825206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 抚摸抚摸（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057460945598005248"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2057461032545825206",
+        "created_at": "2026-05-21T13:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057461032545825206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MkCGmG6atZ",
+              "end": 23,
+              "expanded_url": "https://x.com/doll7799/status/2057461032545825206/video/1",
+              "media_key": "13_2057460945598005248",
+              "start": 0,
+              "url": "https://t.co/MkCGmG6atZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057461032545825206",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MkCGmG6atZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 1766,
+          "like_count": 7137,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3389
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707 \n扩列不是门槛，能不能就当成正常交朋友😂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5179,
+          "following_count": 10,
+          "like_count": 2141,
+          "listed_count": 20,
+          "media_count": 217,
+          "tweet_count": 875
+        },
+        "username": "doll7799",
+        "verified": true
+      }
+    ]
+  }
+}

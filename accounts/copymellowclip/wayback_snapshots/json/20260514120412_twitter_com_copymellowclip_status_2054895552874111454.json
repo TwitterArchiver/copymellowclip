@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2054838681735954496",
+    "created_at": "2026-05-14T12:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054895552874111454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "yv_amerain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054895552874111454",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054838681735954496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yv_amerain 好女人三元素："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2054838669383704576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRA4f9aIAAwd19.jpg",
+        "width": 1492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2054838681735954496",
+        "created_at": "2026-05-14T12:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054895552874111454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054895552874111454",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054838681735954496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 好女人三元素："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054838669383704576"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2054838681735954496",
+        "created_at": "2026-05-14T08:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054838681735954496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPiISXz3E9",
+              "end": 23,
+              "expanded_url": "https://x.com/yv_amerain/status/2054838681735954496/photo/1",
+              "media_key": "3_2054838669383704576",
+              "start": 0,
+              "url": "https://t.co/kPiISXz3E9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054838681735954496",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 429,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kPiISXz3E9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 1737,
+          "like_count": 7053,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 3291
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2054107599151542362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054130028745732096/mmU3HJTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4546,
+          "following_count": 455,
+          "like_count": 8622,
+          "listed_count": 7,
+          "media_count": 343,
+          "tweet_count": 4104
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

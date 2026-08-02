@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2055949077054116158",
+    "created_at": "2026-05-18T08:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056290676711788640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892143528140267520",
+          "start": 0,
+          "username": "fufu1367612"
+        },
+        {
+          "end": 28,
+          "id": "1918274202580467713",
+          "start": 13,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056290676711788640",
+    "in_reply_to_user_id": "1892143528140267520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055961752186261571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@fufu1367612 @CyberKanjousen 肯定干净啊，但是他们那一辈人最能接受新鲜事物的时候，外面几乎没什么干净的店"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2055949077054116158",
+        "created_at": "2026-05-18T08:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056290676711788640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "fufu1367612"
+            },
+            {
+              "end": 28,
+              "id": "1918274202580467713",
+              "start": 13,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056290676711788640",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055961752186261571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@fufu1367612 @CyberKanjousen 肯定干净啊，但是他们那一辈人最能接受新鲜事物的时候，外面几乎没什么干净的店"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892143528140267520",
+        "conversation_id": "2055949077054116158",
+        "created_at": "2026-05-17T10:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055961752186261571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055961752186261571",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055949077054116158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 麦当劳肯德基为啥能不干净？第一次听这说法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 1742,
+          "like_count": 7119,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3351
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu",
+        "id": "1892143528140267520",
+        "name": "0xfufu",
+        "pinned_tweet_id": "1931049737731616886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 416,
+          "like_count": 6068,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 2036
+        },
+        "username": "fufu1367612",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3604,
+          "following_count": 835,
+          "like_count": 20563,
+          "listed_count": 8,
+          "media_count": 1089,
+          "tweet_count": 6117
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

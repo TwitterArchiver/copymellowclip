@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016528290580935063",
+    "created_at": "2026-01-29T03:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T04:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1968225364163141632",
+          "start": 0,
+          "username": "Deborah90330371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016719637636141139",
+    "in_reply_to_user_id": "1968225364163141632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016528290580935063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deborah90330371 好可爱，贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968225364163141632",
+        "conversation_id": "2016528290580935063",
+        "created_at": "2026-01-28T15:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {},
+        "geo": {},
+        "id": "2016528290580935063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 738,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是一个18岁的女孩呀，我初中高中基本上是没有网络的。我也才刚刚出社会半年吧……我能做到这样已经很棒了吧……哪怕我一直听播客，我也做不到有这么多的见识，毕竟我今年才学会坐地铁……还要一步一步来。好想知道自己24 25岁是什么样子的。但是如果是14岁的我看到现在的自己。应该算是满意的吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 1120,
+          "like_count": 5716,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 2099
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-17T08:07:54.000Z",
+        "description": "我素绑带结or小若 双/不完全健全/女宝全认可/善良邪恶人格乱切/友好私信欢迎！（私信有些收不到/互fo看成分。聊天找小号！大号私信吞信息！看不到看不到看不到最好直接发评论@dai7831",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "dai7831"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A528546",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A528546",
+                "start": 0,
+                "url": "https://t.co/RuKjS3cCHG"
+              }
+            ]
+          }
+        },
+        "id": "1968225364163141632",
+        "location": "无🚪的意思是 想认识我门都没有。只和喜欢的人玩",
+        "name": "感觉自己很呆萌",
+        "pinned_tweet_id": "2013821916587430219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002613646657216514/c_8H58pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 228,
+          "like_count": 4199,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 2420
+        },
+        "url": "https://t.co/RuKjS3cCHG",
+        "username": "Deborah90330371",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2042593885818622056",
+    "created_at": "2026-04-10T16:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042636775307256071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1375210133656059909",
+          "start": 0,
+          "username": "Phoebus36356441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042636775307256071",
+    "in_reply_to_user_id": "1375210133656059909",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042593885818622056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phoebus36356441 discord（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_2042593882748391425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjAUHGakAEf0HO.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2042593885818622056",
+        "created_at": "2026-04-10T16:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042636775307256071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1375210133656059909",
+              "start": 0,
+              "username": "Phoebus36356441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042636775307256071",
+        "in_reply_to_user_id": "1375210133656059909",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042593885818622056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phoebus36356441 discord（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042593882748391425"
+          ]
+        },
+        "author_id": "1375210133656059909",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042593885818622056",
+        "created_at": "2026-04-10T13:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042593885818622056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2odKxAwHb",
+              "end": 94,
+              "expanded_url": "https://x.com/Phoebus36356441/status/2042593885818622056/photo/1",
+              "media_key": "3_2042593882748391425",
+              "start": 71,
+              "url": "https://t.co/c2odKxAwHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042593885818622056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想直播玩色色的游戏！比如说塞雷卡2初见开荒！但是不知道哪里可以方便直播的呜呜呜。。。有人可以给推荐嘛（直播的游戏推荐，平台推荐等都欢迎喵！） https://t.co/c2odKxAwHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 1704,
+          "like_count": 6646,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 2873
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-25T22:17:09.000Z",
+        "description": "这里是一只纯良系的猫猫/狗狗菲比！♡SEX次数目前月平均:100+（休息日次数更多）♡菲比会超级渴望被关注着和被了解，想要和更多的人分享自己小脑袋里乱糟糟的想法，如果喜欢菲比的话请多多关注菲比喵～谢谢你喵！♡\n（悄悄说一下，头像的可爱在人家眼中超级加分的！超级喜欢喵！现场表白喵！）（社交方面是超级吃第一印象的菲比！）",
+        "id": "1375210133656059909",
+        "location": "距离你 5.20KM",
+        "name": "菲比",
+        "pinned_tweet_id": "1862921161459613769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042487423918333952/-g6XoVQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10387,
+          "following_count": 4156,
+          "like_count": 6595,
+          "listed_count": 30,
+          "media_count": 265,
+          "tweet_count": 2279
+        },
+        "username": "Phoebus36356441",
+        "verified": false
+      }
+    ]
+  }
+}

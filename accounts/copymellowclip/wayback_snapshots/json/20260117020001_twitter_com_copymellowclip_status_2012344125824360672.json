@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012193230293758351",
+    "created_at": "2026-01-17T02:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T03:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012344125824360672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003081838965960704",
+          "start": 0,
+          "username": "Gatsuue_inf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012344125824360672",
+    "in_reply_to_user_id": "2003081838965960704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012343687401841111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gatsuue_inf 被攻击了吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012193230293758351",
+        "created_at": "2026-01-17T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012344125824360672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003081838965960704",
+              "start": 0,
+              "username": "Gatsuue_inf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012344125824360672",
+        "in_reply_to_user_id": "2003081838965960704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012343687401841111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gatsuue_inf 被攻击了吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003081838965960704",
+        "conversation_id": "2012193230293758351",
+        "created_at": "2026-01-17T01:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T02:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012343687401841111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012343687401841111",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012196721561108861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我也以为是梯子问题    这么大个软件在国内咋可能那么容易崩    一个月崩几次的😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 78,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 56,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢网址请收藏ovo",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 576,
+          "like_count": 3132,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1324
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T12:35:12.000Z",
+        "description": "男的    不是男娘    是正常人\n把推當qq空間使的    因為推沒人認識所以可以肆無忌憚地發    qq空間就不行了",
+        "id": "2003081838965960704",
+        "location": "上海/南宁",
+        "name": "月上Gatsuue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010839571848994817/QmL5F809_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 273,
+          "like_count": 269,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 409
+        },
+        "username": "Gatsuue_inf",
+        "verified": false
+      }
+    ]
+  }
+}

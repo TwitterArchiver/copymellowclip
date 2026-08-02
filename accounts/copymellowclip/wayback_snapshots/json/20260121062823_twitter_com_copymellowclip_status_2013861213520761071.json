@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013842956428681320",
+    "created_at": "2026-01-21T06:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T07:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013861213520761071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1455803047850905606",
+          "start": 0,
+          "username": "hiroki_honoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013861213520761071",
+    "in_reply_to_user_id": "1455803047850905606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013860258649682265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiroki_honoka 雌小鬼语言（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2013860258649682265].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2013860258649682265",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2013860258649682265"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013842956428681320",
+        "created_at": "2026-01-21T06:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013861213520761071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455803047850905606",
+              "start": 0,
+              "username": "hiroki_honoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013861213520761071",
+        "in_reply_to_user_id": "1455803047850905606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013860258649682265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiroki_honoka 雌小鬼语言（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 769,
+          "like_count": 4318,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-03T07:44:52.000Z",
+        "description": "不必在意",
+        "id": "1455803047850905606",
+        "location": "哪都行",
+        "name": "灰骑士",
+        "pinned_tweet_id": "2010757660979904664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618095344600121344/so3bKGIS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 200
+        },
+        "username": "hiroki_honoka",
+        "verified": false
+      }
+    ]
+  }
+}

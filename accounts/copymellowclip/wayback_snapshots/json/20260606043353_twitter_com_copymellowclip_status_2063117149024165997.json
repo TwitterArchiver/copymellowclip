@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2063065907182829570",
+    "created_at": "2026-06-06T04:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063117149024165997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1679858508467159041",
+          "start": 0,
+          "username": "Amiartisan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063117149024165997",
+    "in_reply_to_user_id": "1679858508467159041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063093405664924123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amiartisan 我买了云白色，我是只买基础颜色的（）但是这个白色也很好看很☁️（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2063065907182829570",
+        "created_at": "2026-06-06T04:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063117149024165997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1679858508467159041",
+              "start": 0,
+              "username": "Amiartisan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063117149024165997",
+        "in_reply_to_user_id": "1679858508467159041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063093405664924123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amiartisan 我买了云白色，我是只买基础颜色的（）但是这个白色也很好看很☁️（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679858508467159041",
+        "conversation_id": "2063065907182829570",
+        "created_at": "2026-06-06T02:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063093405664924123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063093405664924123",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063065907182829570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip Air确实算好看的那档（\n问问copy买的是什么颜色的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 1774,
+          "like_count": 7249,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3589
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T14:20:59.000Z",
+        "description": "🏳️‍⚧️｜She/Her｜烤｜mai｜mzk推｜计算机｜Mac｜Linux｜Smartisan大好き｜试着去成为这个世界美好的那部分吧",
+        "id": "1679858508467159041",
+        "name": "夕子",
+        "pinned_tweet_id": "1980666621510451487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017219721939357696/Ioed0US1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 113,
+          "like_count": 2590,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 753
+        },
+        "username": "Amiartisan",
+        "verified": false
+      }
+    ]
+  }
+}

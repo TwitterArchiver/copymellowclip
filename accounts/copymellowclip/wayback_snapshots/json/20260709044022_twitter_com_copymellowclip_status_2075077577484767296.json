@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2074769247889449243",
+    "created_at": "2026-07-09T04:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075077577484767296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "987866655127752704",
+          "start": 0,
+          "username": "Hoshiumi_Rin321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075077577484767296",
+    "in_reply_to_user_id": "987866655127752704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074769247889449243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshiumi_Rin321 已经超级可爱了吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2074769238771081216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsPoUvboAA9qw4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2074769247889449243",
+        "created_at": "2026-07-09T04:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075077577484767296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "987866655127752704",
+              "start": 0,
+              "username": "Hoshiumi_Rin321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075077577484767296",
+        "in_reply_to_user_id": "987866655127752704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074769247889449243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshiumi_Rin321 已经超级可爱了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074769238771081216"
+          ]
+        },
+        "author_id": "987866655127752704",
+        "conversation_id": "2074769247889449243",
+        "created_at": "2026-07-08T08:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074769247889449243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjLaaRuwau",
+              "end": 39,
+              "expanded_url": "https://x.com/Hoshiumi_Rin321/status/2074769247889449243/photo/1",
+              "media_key": "3_2074769238771081216",
+              "start": 16,
+              "url": "https://t.co/KjLaaRuwau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074769247889449243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 7490,
+          "like_count": 223,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自己要是能再可爱些就好了... https://t.co/KjLaaRuwau"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 1777,
+          "like_count": 7349,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 3797
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-22T01:32:19.000Z",
+        "description": "She/Her | HRTing",
+        "id": "987866655127752704",
+        "location": "Eden",
+        "name": "Rin🍧🍹",
+        "pinned_tweet_id": "1670890825272946688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009182311255064576/EjM-b6Sa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5242,
+          "following_count": 2876,
+          "like_count": 60803,
+          "listed_count": 14,
+          "media_count": 113,
+          "tweet_count": 4923
+        },
+        "url": "",
+        "username": "Hoshiumi_Rin321",
+        "verified": false
+      }
+    ]
+  }
+}

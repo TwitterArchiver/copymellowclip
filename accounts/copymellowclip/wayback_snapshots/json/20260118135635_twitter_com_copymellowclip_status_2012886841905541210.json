@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012886838407503872",
+        "3_2012886839238012929"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2012886841905541210",
+    "created_at": "2026-01-18T13:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T14:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012886841905541210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R0qtZLCwnr",
+          "end": 127,
+          "expanded_url": "https://x.com/copymellowclip/status/2012886841905541210/photo/1",
+          "media_key": "3_2012886838407503872",
+          "start": 104,
+          "url": "https://t.co/R0qtZLCwnr"
+        },
+        {
+          "display_url": "pic.x.com/R0qtZLCwnr",
+          "end": 127,
+          "expanded_url": "https://x.com/copymellowclip/status/2012886841905541210/photo/1",
+          "media_key": "3_2012886839238012929",
+          "start": 104,
+          "url": "https://t.co/R0qtZLCwnr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012886841905541210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇贴贴pap喵原来问我喜欢吃什么是要请我吃，早知道说更便宜一点的好了、！贴贴你呀照片拍的超级好看特别厉害\n\n天呐sable喵，你x也是这个嘛！是同一个人要是没认错的话我要夸夸你照片特别特别美！萌我一大跳ww https://t.co/R0qtZLCwnr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 463,
+        "media_key": "3_2012886838407503872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-816jBWoAAo_C9.jpg",
+        "width": 1320
+      },
+      {
+        "height": 470,
+        "media_key": "3_2012886839238012929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-816mHXMAETTJ2.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012886838407503872",
+            "3_2012886839238012929"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2012886841905541210",
+        "created_at": "2026-01-18T13:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012886841905541210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0qtZLCwnr",
+              "end": 127,
+              "expanded_url": "https://x.com/copymellowclip/status/2012886841905541210/photo/1",
+              "media_key": "3_2012886838407503872",
+              "start": 104,
+              "url": "https://t.co/R0qtZLCwnr"
+            },
+            {
+              "display_url": "pic.x.com/R0qtZLCwnr",
+              "end": 127,
+              "expanded_url": "https://x.com/copymellowclip/status/2012886841905541210/photo/1",
+              "media_key": "3_2012886839238012929",
+              "start": 104,
+              "url": "https://t.co/R0qtZLCwnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012886841905541210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇贴贴pap喵原来问我喜欢吃什么是要请我吃，早知道说更便宜一点的好了、！贴贴你呀照片拍的超级好看特别厉害\n\n天呐sable喵，你x也是这个嘛！是同一个人要是没认错的话我要夸夸你照片特别特别美！萌我一大跳ww https://t.co/R0qtZLCwnr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 632,
+          "like_count": 3634,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

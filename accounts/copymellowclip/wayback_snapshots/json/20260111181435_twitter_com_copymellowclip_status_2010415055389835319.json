@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010410669276094754",
+    "created_at": "2026-01-11T18:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T19:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010415055389835319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009397592384507904",
+          "start": 0,
+          "username": "long_yu2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010415055389835319",
+    "in_reply_to_user_id": "2009397592384507904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010411900237152519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@long_yu2026 亲亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010410669276094754",
+        "created_at": "2026-01-11T18:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T19:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010415055389835319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009397592384507904",
+              "start": 0,
+              "username": "long_yu2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010415055389835319",
+        "in_reply_to_user_id": "2009397592384507904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010411900237152519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@long_yu2026 亲亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009397592384507904",
+        "conversation_id": "2010410669276094754",
+        "created_at": "2026-01-11T18:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T19:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010411900237152519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010411900237152519",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010410669276094754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 拷贝酱天天开心！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 157,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 553
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-08T22:52:05.000Z",
+        "description": "",
+        "id": "2009397592384507904",
+        "name": "龙云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009397934836862977/7XEDvivy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 36,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "long_yu2026",
+        "verified": false
+      }
+    ]
+  }
+}

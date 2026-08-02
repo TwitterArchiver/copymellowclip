@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009566306727796915",
+    "created_at": "2026-01-09T14:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T15:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009628972695654608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963404765150552064",
+          "start": 0,
+          "username": "mozzsillust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009628972695654608",
+    "in_reply_to_user_id": "1963404765150552064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009566306727796915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mozzsillust 絵の雰囲気、すごくさっぱりしてて好きわー！ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009566301761789952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Np54EbYAAdBYJ.jpg",
+        "width": 1740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009566306727796915",
+        "created_at": "2026-01-09T14:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009628972695654608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963404765150552064",
+              "start": 0,
+              "username": "mozzsillust"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009628972695654608",
+        "in_reply_to_user_id": "1963404765150552064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009566306727796915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mozzsillust 絵の雰囲気、すごくさっぱりしてて好きわー！ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009566301761789952"
+          ]
+        },
+        "author_id": "1963404765150552064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2009566306727796915",
+        "created_at": "2026-01-09T10:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009566306727796915"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3TqTv1PQ8",
+              "end": 65,
+              "expanded_url": "https://x.com/mozzsillust/status/2009566306727796915/photo/1",
+              "media_key": "3_2009566301761789952",
+              "start": 42,
+              "url": "https://t.co/t3TqTv1PQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009566306727796915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 12993,
+          "like_count": 1410,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば二次創作\n久しぶりにｱﾝｱﾝちゃん落書きしてたらﾒｽｶﾞｷっぽくなった… https://t.co/t3TqTv1PQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 40,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 194
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T00:52:42.000Z",
+        "description": "絵を描いてます🎨┊︎雑多┊︎各種リンク▶︎https://t.co/gxZP2iiOFj┊︎skeb▶︎https://t.co/GEgPS9gD1D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/mozzsillust",
+                "end": 44,
+                "expanded_url": "https://lit.link/mozzsillust",
+                "start": 21,
+                "url": "https://t.co/gxZP2iiOFj"
+              },
+              {
+                "display_url": "skeb.jp/@mozzsillust",
+                "end": 75,
+                "expanded_url": "http://skeb.jp/@mozzsillust",
+                "start": 52,
+                "url": "https://t.co/GEgPS9gD1D"
+              }
+            ]
+          }
+        },
+        "id": "1963404765150552064",
+        "location": "無断転載・無断使用✖️",
+        "name": "moᶻᶻs (もーぜ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978110575587520512/3rxTlZBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 82,
+          "like_count": 2455,
+          "listed_count": 17,
+          "media_count": 63,
+          "tweet_count": 528
+        },
+        "username": "mozzsillust",
+        "verified": true
+      }
+    ]
+  }
+}

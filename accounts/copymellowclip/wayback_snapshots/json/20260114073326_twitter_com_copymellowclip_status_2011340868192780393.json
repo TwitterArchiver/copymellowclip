@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011340868192780393",
+    "created_at": "2026-01-14T07:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T08:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011340868192780393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chudokusho/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Chudokusho/status/2011262640539279814",
+          "start": 14,
+          "url": "https://t.co/jbSVlK42JR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011340868192780393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011262640539279814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给你们看全世界最好的小女孩 https://t.co/jbSVlK42JR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011262633492824066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-lwtYNbQAIBpB6.jpg",
+        "width": 983
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011340868192780393",
+        "created_at": "2026-01-14T07:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T08:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011340868192780393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chudokusho/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Chudokusho/status/2011262640539279814",
+              "start": 14,
+              "url": "https://t.co/jbSVlK42JR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011340868192780393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011262640539279814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给你们看全世界最好的小女孩 https://t.co/jbSVlK42JR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011262633492824066"
+          ]
+        },
+        "author_id": "1906024483431047168",
+        "conversation_id": "2011262640539279814",
+        "created_at": "2026-01-14T02:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T03:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011262640539279814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VA0iMq61vP",
+              "end": 69,
+              "expanded_url": "https://x.com/Chudokusho/status/2011262640539279814/photo/1",
+              "media_key": "3_2011262633492824066",
+              "start": 46,
+              "url": "https://t.co/VA0iMq61vP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011262640539279814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1488,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被宠了！炫耀一下！同时展示一下苯人的高风亮节！(有没有掏别人兜无负罪感教程嘿嘿 我好坏吧。 https://t.co/VA0iMq61vP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 80,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 57,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 357,
+          "like_count": 2079,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 977
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你",
+        "id": "1906024483431047168",
+        "name": "叙春日",
+        "pinned_tweet_id": "2006923818917572943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006905531848601602/DnnroOGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 62,
+          "like_count": 2240,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 664
+        },
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

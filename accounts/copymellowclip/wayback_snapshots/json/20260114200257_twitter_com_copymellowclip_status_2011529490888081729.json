@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011484645951750660",
+    "created_at": "2026-01-14T20:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T21:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011529490888081729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1707613939130126336",
+          "start": 0,
+          "username": "wwwyqcq"
+        },
+        {
+          "end": 20,
+          "id": "1906024483431047168",
+          "start": 9,
+          "username": "Chudokusho"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Markdown paste service with preview, custom urls and editing.",
+          "display_url": "rentry.co",
+          "end": 53,
+          "expanded_url": "https://rentry.co/",
+          "images": [
+            {
+              "height": 512,
+              "url": "https://pbs.twimg.com/news_img/2009894551255953408/535lgLyg?format=png&name=orig",
+              "width": 512
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2009894551255953408/535lgLyg?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 30,
+          "status": 200,
+          "title": "Rentry.co - Markdown Paste",
+          "unwound_url": "https://rentry.co/",
+          "url": "https://t.co/JILSr3HV5j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011529490888081729",
+    "in_reply_to_user_id": "1707613939130126336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011500498860589153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwyqcq @Chudokusho 用一下这个网站吧！https://t.co/JILSr3HV5j\n中间可以写文字、右下角可以设置链接和编辑密码、左下角 GO 是确认。\n把链接设置成自己的推特ID 然后如果炸号的话可以在那边发通知 ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011484645951750660",
+        "created_at": "2026-01-14T20:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T21:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011529490888081729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1707613939130126336",
+              "start": 0,
+              "username": "wwwyqcq"
+            },
+            {
+              "end": 20,
+              "id": "1906024483431047168",
+              "start": 9,
+              "username": "Chudokusho"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Markdown paste service with preview, custom urls and editing.",
+              "display_url": "rentry.co",
+              "end": 53,
+              "expanded_url": "https://rentry.co/",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/2009894551255953408/535lgLyg?format=png&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009894551255953408/535lgLyg?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "Rentry.co - Markdown Paste",
+              "unwound_url": "https://rentry.co/",
+              "url": "https://t.co/JILSr3HV5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011529490888081729",
+        "in_reply_to_user_id": "1707613939130126336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011500498860589153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwyqcq @Chudokusho 用一下这个网站吧！https://t.co/JILSr3HV5j\n中间可以写文字、右下角可以设置链接和编辑密码、左下角 GO 是确认。\n把链接设置成自己的推特ID 然后如果炸号的话可以在那边发通知 ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707613939130126336",
+        "conversation_id": "2011484645951750660",
+        "created_at": "2026-01-14T18:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T19:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011500498860589153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906024483431047168",
+              "start": 0,
+              "username": "Chudokusho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011500498860589153",
+        "in_reply_to_user_id": "1906024483431047168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011484645951750660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chudokusho 我有想過和大家的ig也互關 但是感覺會好麻煩 和每一個寶寶墻內也加好友又不太現實TvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 76,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 53,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 434,
+          "like_count": 2395,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1098
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-29T04:31:10.000Z",
+        "description": "童言無忌 你跟我這個剛上學的小女孩計較什麼！",
+        "id": "1707613939130126336",
+        "location": "MARS CONCERT",
+        "name": "yu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569598450458624/Xx5-gYbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 80,
+          "like_count": 2103,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 113
+        },
+        "username": "wwwyqcq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你",
+        "id": "1906024483431047168",
+        "name": "叙春日",
+        "pinned_tweet_id": "2006923818917572943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006905531848601602/DnnroOGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 62,
+          "like_count": 2259,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 731
+        },
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

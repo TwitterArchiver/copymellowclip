@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013552898295374168",
+    "created_at": "2026-01-20T11:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T12:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013567683548315911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1868968470517555200",
+          "start": 0,
+          "username": "BailiKoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013567683548315911",
+    "in_reply_to_user_id": "1868968470517555200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013552898295374168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BailiKoi 那还是骂爽了x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013552894373507072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GTsG2XsAAUq9s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013552898295374168",
+        "created_at": "2026-01-20T11:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T12:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013567683548315911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1868968470517555200",
+              "start": 0,
+              "username": "BailiKoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013567683548315911",
+        "in_reply_to_user_id": "1868968470517555200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013552898295374168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BailiKoi 那还是骂爽了x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013552894373507072"
+          ]
+        },
+        "author_id": "1868968470517555200",
+        "conversation_id": "2013552898295374168",
+        "created_at": "2026-01-20T10:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013552898295374168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwt4KhXpG4",
+              "end": 54,
+              "expanded_url": "https://x.com/BailiKoi/status/2013552898295374168/photo/1",
+              "media_key": "3_2013552894373507072",
+              "start": 31,
+              "url": "https://t.co/fwt4KhXpG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013552898295374168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 3088,
+          "like_count": 320,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "怎么又有私信说他很久没挨骂了，那我就不骂😡什么没用东西这么欠 https://t.co/fwt4KhXpG4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 740,
+          "like_count": 4109,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 1634
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-17T10:36:41.000Z",
+        "description": "谢谢喜欢，我是女生，不喜欢开性别玩笑。私信随缘看，当我是精神问题严重吧，不喜欢被指指点点，一直在努力做更好。拍的照片您喜欢的话可以夸夸点个赞转发，我会很开心！最后祝您天天开心。\n多余人格：@BaiShirly\n图包以及杂谈@HeiliKoi\nfanbox：https://t.co/kPgcl55yf7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "BaiShirly"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "HeiliKoi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bailikoi.fanbox.cc",
+                "end": 151,
+                "expanded_url": "http://bailikoi.fanbox.cc",
+                "start": 128,
+                "url": "https://t.co/kPgcl55yf7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/yun/core?wid=3…",
+                "end": 23,
+                "expanded_url": "https://www.hedaoapp.com/yun/core?wid=32073",
+                "start": 0,
+                "url": "https://t.co/CldpJfOnIA"
+              }
+            ]
+          }
+        },
+        "id": "1868968470517555200",
+        "location": "紅魔館",
+        "name": "白栎Shirly",
+        "pinned_tweet_id": "2011692999127015882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008888161116782592/dxqquPNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176743,
+          "following_count": 244,
+          "like_count": 315,
+          "listed_count": 597,
+          "media_count": 451,
+          "tweet_count": 705
+        },
+        "url": "https://t.co/CldpJfOnIA",
+        "username": "BailiKoi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2047269261639553188",
+    "created_at": "2026-04-23T13:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047301849024516211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767201221671313408",
+          "start": 0,
+          "username": "mikanjuice_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047301849024516211",
+    "in_reply_to_user_id": "1767201221671313408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047301449353416925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikanjuice_ovo 橘子喵看我神秘配置单8000块钱配5070（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2047269261639553188",
+        "created_at": "2026-04-23T13:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047301849024516211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767201221671313408",
+              "start": 0,
+              "username": "mikanjuice_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047301849024516211",
+        "in_reply_to_user_id": "1767201221671313408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047301449353416925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanjuice_ovo 橘子喵看我神秘配置单8000块钱配5070（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767201221671313408",
+        "conversation_id": "2047269261639553188",
+        "created_at": "2026-04-23T13:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047301449353416925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047301449353416925",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047269261639553188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 8k可以搞相当甜点的配置了，正好在研究装电脑。ddr5插单根16g就够了ddr4得插两根。但是ddr5一根1000多，ddr4一根500所以本质一样（\n比较甜点的配置是9600x➕b850m大概1500-2000\n5060ti最低需要2400\n1t固态硬盘800\n16g内存1000\n750w电源需要400\n机箱500\n加上一些风冷水冷，总价格可以控制在8000以内"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 1704,
+          "like_count": 6785,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3014
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T14:50:04.000Z",
+        "description": "nsfw裸体警告/叫我橘子/卑尔维斯糕手/kiger/百合厨/洗澡和裸睡爱好者/想练绳子和搞tk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanovo",
+                "start": 0,
+                "url": "https://t.co/pLLYQPbVGk"
+              }
+            ]
+          }
+        },
+        "id": "1767201221671313408",
+        "location": "南京（？）周边",
+        "name": "橘子罐头🍊多汁大橘瓣版",
+        "pinned_tweet_id": "2007396669240029250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980185494647341056/ROH7bWN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22427,
+          "following_count": 1628,
+          "like_count": 27263,
+          "listed_count": 103,
+          "media_count": 221,
+          "tweet_count": 6959
+        },
+        "url": "https://t.co/pLLYQPbVGk",
+        "username": "mikanjuice_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

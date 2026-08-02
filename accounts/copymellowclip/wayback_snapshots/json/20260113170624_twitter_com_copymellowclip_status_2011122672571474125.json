@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011105956009296256",
+    "created_at": "2026-01-13T17:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T18:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011122672571474125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011122672571474125",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011105956009296256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 萌晕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18500,
+        "height": 1280,
+        "media_key": "13_2011105811083427840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011105811083427840/img/2HG01sNkhSxlbCvG.jpg",
+        "public_metrics": {
+          "view_count": 64
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011105811083427840/vid/avc1/320x568/o5E1ZyVnMaXJmwgM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011105811083427840/vid/avc1/480x852/lvoJQvAnd_UoEO7f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011105811083427840/vid/avc1/720x1280/y73bnAqAsVnfNpJc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011105811083427840/pl/Vca4E3ZAFniHsZ0y.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011105956009296256",
+        "created_at": "2026-01-13T17:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T18:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011122672571474125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011122672571474125",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011105956009296256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 萌晕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011105811083427840"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2011105956009296256",
+        "created_at": "2026-01-13T15:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011105956009296256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0amLuVFwWn",
+              "end": 37,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2011105956009296256/video/1",
+              "media_key": "13_2011105811083427840",
+              "start": 14,
+              "url": "https://t.co/0amLuVFwWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011105956009296256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记不住动作试图萌混过关，， https://t.co/0amLuVFwWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜脆与ins也是copymellowclip（用来防走失）\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 108,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 85,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 328,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 923
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0kadami0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0kadami0",
+                "start": 0,
+                "url": "https://t.co/K7lD9UABTb"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "ミオ没睡醒",
+        "pinned_tweet_id": "1977444582653935861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 133,
+          "like_count": 6271,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/K7lD9UABTb",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

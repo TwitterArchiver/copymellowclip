@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2051733291611680792",
+    "created_at": "2026-05-05T18:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T19:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051733291611680792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xianzhong_1953…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Xianzhong_1953/status/2051442517556777016",
+          "start": 19,
+          "url": "https://t.co/Vl3ALhCLfP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051733291611680792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051442517556777016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "写个脚本用正则捕捉然后批量屏蔽举报😡 https://t.co/Vl3ALhCLfP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051442514822144000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgwGSUboAAkhvv.jpg",
+        "width": 340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2051733291611680792",
+        "created_at": "2026-05-05T18:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051733291611680792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xianzhong_1953…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Xianzhong_1953/status/2051442517556777016",
+              "start": 19,
+              "url": "https://t.co/Vl3ALhCLfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051733291611680792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051442517556777016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "写个脚本用正则捕捉然后批量屏蔽举报😡 https://t.co/Vl3ALhCLfP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051442514822144000"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "conversation_id": "2051442517556777016",
+        "created_at": "2026-05-04T23:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051442517556777016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BVTGbxpOlI",
+              "end": 60,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/2051442517556777016/photo/1",
+              "media_key": "3_2051442514822144000",
+              "start": 37,
+              "url": "https://t.co/BVTGbxpOlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051442517556777016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 78189,
+          "like_count": 376,
+          "quote_count": 2,
+          "reply_count": 60,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "最近官府的AI生成账号都是两个字+表情符号，是哪个领导有什么特殊癖好吗？ https://t.co/BVTGbxpOlI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 1721,
+          "like_count": 6862,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 3108
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "极度厌蠢！揭露一切反智行为！年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人，不是汉奸。",
+        "id": "912623216899715072",
+        "location": "Los Angeles, CA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108267,
+          "following_count": 825,
+          "like_count": 265320,
+          "listed_count": 353,
+          "media_count": 24360,
+          "tweet_count": 47864
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

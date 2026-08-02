@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2038938232889708825",
+    "created_at": "2026-04-01T00:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T01:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039134324289945681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1517495312948277248",
+          "start": 0,
+          "username": "MachineGun____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039134324289945681",
+    "in_reply_to_user_id": "1517495312948277248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038938232889708825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MachineGun____ 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9233,
+        "height": 2880,
+        "media_key": "13_2038937566880350208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038937566880350208/img/JIwij-y9brEqgQAM.jpg",
+        "public_metrics": {
+          "view_count": 2391
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038937566880350208/vid/avc1/2160x2880/cHCSiAMBjKsRMeI5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038937566880350208/pl/fSKrQRZWOZQLd67V.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038937566880350208/vid/avc1/720x960/WWXHBpnPwp6nsj2C.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038937566880350208/vid/avc1/1080x1440/LHYf9dxdrO58sH8f.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038937566880350208/vid/avc1/320x426/bj4KsfNZrLxXTBQI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038937566880350208/vid/avc1/480x640/h5qDK0VDwaKo0VnA.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2038938232889708825",
+        "created_at": "2026-04-01T00:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039134324289945681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1517495312948277248",
+              "start": 0,
+              "username": "MachineGun____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039134324289945681",
+        "in_reply_to_user_id": "1517495312948277248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038938232889708825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MachineGun____ 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038937566880350208"
+          ]
+        },
+        "author_id": "1517495312948277248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2038938232889708825",
+        "created_at": "2026-03-31T11:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038938232889708825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "MyGO"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "千早愛音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9IJOxj7mzm",
+              "end": 43,
+              "expanded_url": "https://x.com/MachineGun____/status/2038938232889708825/video/1",
+              "media_key": "13_2038937566880350208",
+              "start": 20,
+              "url": "https://t.co/9IJOxj7mzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038938232889708825",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 12537,
+          "like_count": 997,
+          "quote_count": 8,
+          "reply_count": 14,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "#バンドリ \n#MyGO \n#千早愛音 https://t.co/9IJOxj7mzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 1710,
+          "like_count": 6480,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2729
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T13:27:37.000Z",
+        "description": "想当一只自由的小鸟 ｜cosplayer",
+        "id": "1517495312948277248",
+        "location": "德国",
+        "name": "Charlotte",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626270851879555073/4FJCVhPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32467,
+          "following_count": 699,
+          "like_count": 11260,
+          "listed_count": 67,
+          "media_count": 89,
+          "tweet_count": 1090
+        },
+        "username": "MachineGun____",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2042555420351291578",
+    "created_at": "2026-04-10T10:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042555420351291578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LVTGW666/statu…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/LVTGW666/status/2042484315133788477",
+          "start": 40,
+          "url": "https://t.co/QuOCdVVw1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042555420351291578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042484315133788477",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "60我都不说一句话，6块确实廉价了吧，，，\n除非你俩是小学生，只有这么多零花钱 https://t.co/QuOCdVVw1e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1761,
+        "media_key": "3_2042484307781173248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhcqAibQAAi78x.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2042555420351291578",
+        "created_at": "2026-04-10T10:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042555420351291578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LVTGW666/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/LVTGW666/status/2042484315133788477",
+              "start": 40,
+              "url": "https://t.co/QuOCdVVw1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042555420351291578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042484315133788477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "60我都不说一句话，6块确实廉价了吧，，，\n除非你俩是小学生，只有这么多零花钱 https://t.co/QuOCdVVw1e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042484307781173248"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2042484315133788477",
+        "created_at": "2026-04-10T06:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042484315133788477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MQVZaOZElE",
+              "end": 27,
+              "expanded_url": "https://x.com/LVTGW666/status/2042484315133788477/photo/1",
+              "media_key": "3_2042484307781173248",
+              "start": 4,
+              "url": "https://t.co/MQVZaOZElE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042484315133788477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 36596,
+          "like_count": 97,
+          "quote_count": 1,
+          "reply_count": 58,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "廉价吗 https://t.co/MQVZaOZElE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 1706,
+          "like_count": 6643,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 2867
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 想投稿直接私信 求求腊畜别来恶心我 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77lTAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 105,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 82,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68207,
+          "following_count": 893,
+          "like_count": 14288,
+          "listed_count": 291,
+          "media_count": 4468,
+          "tweet_count": 11666
+        },
+        "url": "https://t.co/wPvV77lTAw",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

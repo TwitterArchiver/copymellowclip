@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2052266875074248780",
+    "created_at": "2026-05-07T07:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052284369042337893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "yv_amerain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052284369042337893",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052266875074248780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yv_amerain 摸摸头、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2052266875074248780",
+        "created_at": "2026-05-07T07:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052284369042337893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052284369042337893",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052266875074248780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 摸摸头、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2052266875074248780",
+        "created_at": "2026-05-07T05:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052266875074248780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052266875074248780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会以为我真好吧，我置顶那都是为了讨饭，都是为了被人喜欢才放那几张，我不喜欢我讨厌我的一切，也讨厌我是男娘，男生，吃这个b药，我也不喜欢一直cos女角色，我想陪朋友那些女生出同IP男角色，只是想被爱被喜欢被接受，我不在意性别，可是我身边认识的异性恋，女同多，我讨厌这样，加上这次出轨我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 1729,
+          "like_count": 6903,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 3143
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//欧坤呀叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "我活不过十八",
+        "pinned_tweet_id": "2052266875074248780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4509,
+          "following_count": 451,
+          "like_count": 8420,
+          "listed_count": 9,
+          "media_count": 332,
+          "tweet_count": 4061
+        },
+        "url": "",
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

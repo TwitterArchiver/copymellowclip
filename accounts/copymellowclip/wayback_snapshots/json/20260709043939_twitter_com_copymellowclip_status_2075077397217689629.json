@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2075065612947325285",
+    "created_at": "2026-07-09T04:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075077397217689629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1314081408982290432",
+          "start": 0,
+          "username": "Irelia7376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075077397217689629",
+    "in_reply_to_user_id": "1314081408982290432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075077112999075980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irelia7376 可能因为是男生食量大吧 ww 我点沙县的鸭腿饭满打满算能解决三顿饭（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2075065612947325285",
+        "created_at": "2026-07-09T04:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075077397217689629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1314081408982290432",
+              "start": 0,
+              "username": "Irelia7376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075077397217689629",
+        "in_reply_to_user_id": "1314081408982290432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075077112999075980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irelia7376 可能因为是男生食量大吧 ww 我点沙县的鸭腿饭满打满算能解决三顿饭（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314081408982290432",
+        "conversation_id": "2075065612947325285",
+        "created_at": "2026-07-09T04:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075077112999075980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075077112999075980",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075076042369429796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我也是自己做饭，周末才出去吃，还是我吃太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 1777,
+          "like_count": 7349,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 3796
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-08T05:53:23.000Z",
+        "description": "",
+        "id": "1314081408982290432",
+        "name": "人生とはとこしえのうらみのみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985665308015935488/6_OPfP1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 124,
+          "like_count": 4141,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1791
+        },
+        "url": "",
+        "username": "Irelia7376",
+        "verified": false
+      }
+    ]
+  }
+}

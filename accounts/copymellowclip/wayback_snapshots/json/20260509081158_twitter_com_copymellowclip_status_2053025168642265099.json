@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2053025168642265099",
+    "created_at": "2026-05-09T08:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053025168642265099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LVTGW666/statu…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/LVTGW666/status/2052725296777085174",
+          "start": 25,
+          "url": "https://t.co/gjp8phuP1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053025168642265099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052725296777085174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "11条中5条的女孩子请立刻私我，有个婚和我结一下 https://t.co/gjp8phuP1e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_2052725282222788609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy-xLRaUAEkMcm.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2053025168642265099",
+        "created_at": "2026-05-09T08:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053025168642265099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LVTGW666/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/LVTGW666/status/2052725296777085174",
+              "start": 25,
+              "url": "https://t.co/gjp8phuP1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053025168642265099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052725296777085174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "11条中5条的女孩子请立刻私我，有个婚和我结一下 https://t.co/gjp8phuP1e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052725282222788609"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2052725296777085174",
+        "created_at": "2026-05-08T12:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052725296777085174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Nt1RHhvc7",
+              "end": 34,
+              "expanded_url": "https://x.com/LVTGW666/status/2052725296777085174/photo/1",
+              "media_key": "3_2052725282222788609",
+              "start": 11,
+              "url": "https://t.co/0Nt1RHhvc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052725296777085174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 58403,
+          "like_count": 878,
+          "quote_count": 0,
+          "reply_count": 142,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "感觉九成九成九是男的 https://t.co/0Nt1RHhvc7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 1728,
+          "like_count": 6928,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 3165
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 想投稿直接私信 求求腊畜别来恶心我 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77lTAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 105,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 82,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70185,
+          "following_count": 897,
+          "like_count": 14440,
+          "listed_count": 305,
+          "media_count": 4864,
+          "tweet_count": 12113
+        },
+        "url": "https://t.co/wPvV77lTAw",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2035603568682803357",
+    "created_at": "2026-03-22T06:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T07:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035603568682803357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KKaWSB/status/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/KKaWSB/status/2030541477110325576",
+          "start": 53,
+          "url": "https://t.co/jXFQ6UXey6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035603568682803357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030541477110325576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心疼合并代码的人，但话说回来了OpenClaw就连这种代码都并吗，真是吓哭了，那并代码的也不一定是人类了 https://t.co/jXFQ6UXey6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2030540760039452672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3uECAacAAmUo7.jpg",
+        "width": 1224
+      },
+      {
+        "height": 1190,
+        "media_key": "3_2030540782961385472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3uFXZbYAARpVa.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2035603568682803357",
+        "created_at": "2026-03-22T06:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035603568682803357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KKaWSB/status/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/KKaWSB/status/2030541477110325576",
+              "start": 53,
+              "url": "https://t.co/jXFQ6UXey6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035603568682803357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030541477110325576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心疼合并代码的人，但话说回来了OpenClaw就连这种代码都并吗，真是吓哭了，那并代码的也不一定是人类了 https://t.co/jXFQ6UXey6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030540760039452672",
+            "3_2030540782961385472"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2030541477110325576",
+        "created_at": "2026-03-08T07:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030541477110325576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XPo96AltJ5",
+              "end": 155,
+              "expanded_url": "https://x.com/KKaWSB/status/2030541477110325576/photo/1",
+              "media_key": "3_2030540760039452672",
+              "start": 132,
+              "url": "https://t.co/XPo96AltJ5"
+            },
+            {
+              "display_url": "pic.x.com/XPo96AltJ5",
+              "end": 155,
+              "expanded_url": "https://x.com/KKaWSB/status/2030541477110325576/photo/1",
+              "media_key": "3_2030540782961385472",
+              "start": 132,
+              "url": "https://t.co/XPo96AltJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030541477110325576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个金融文科生，72小时杀入OpenClaw项目贡献者榜前30。\n\n他叫杨天润，本硕都是金融，做并购投资的。几天前才知道PR是什么。\n\n他没写一行代码，组了支AI军团：Echo管协调，Elon写代码，Henry跑GitHub上@维护者搞社交。\n但故事没那么光鲜。\n知乎网友扒出来：134次提交，113次被拒，通过率16%。AI军团一度因疯狂@人、发垃圾评论，被项目封禁。\n\n然后呢？他吸取教训，放慢节奏，专注修PR。通过率升到27%。\n\n这才是真实的AI时代：代码门槛确实降了，但踩坑、被打脸、爬起来继续干——这过程没变。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 135940,
+          "like_count": 446,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "一个金融文科生，72小时杀入OpenClaw项目贡献者榜前30。\n\n他叫杨天润，本硕都是金融，做并购投资的。几天前才知道PR是什么。\n\n他没写一行代码，组了支AI军团：Echo管协调，Elon写代码，Henry跑GitHub上@维护者搞社交。\n但故事没那么光鲜。 https://t.co/XPo96AltJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 1707,
+          "like_count": 6447,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观 | 招募工程师（可兼职）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 23,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 0,
+                "url": "https://t.co/QsTW1lrCWR"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71024,
+          "following_count": 2826,
+          "like_count": 9013,
+          "listed_count": 611,
+          "media_count": 5053,
+          "tweet_count": 10496
+        },
+        "url": "https://t.co/QsTW1lrCWR",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

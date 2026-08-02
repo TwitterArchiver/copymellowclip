@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2062893509632536704",
+    "created_at": "2026-06-06T12:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063237412898370041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063237412898370041",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062893509632536704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu 我也想吃但是不知道这样的肉怎么买，而且也可能买不起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1110,
+        "media_key": "3_2062893498811154432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDetR4aAAAX_mE.jpg",
+        "width": 1917
+      },
+      {
+        "height": 263,
+        "media_key": "3_2062893498781880320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDetRxbUAAiUPM.jpg",
+        "width": 358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2062893509632536704",
+        "created_at": "2026-06-06T12:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063237412898370041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063237412898370041",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062893509632536704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu 我也想吃但是不知道这样的肉怎么买，而且也可能买不起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062893498811154432",
+            "3_2062893498781880320"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062893509632536704",
+        "created_at": "2026-06-05T13:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062893509632536704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qxps58CpIf",
+              "end": 27,
+              "expanded_url": "https://x.com/_ropu/status/2062893509632536704/photo/1",
+              "media_key": "3_2062893498811154432",
+              "start": 4,
+              "url": "https://t.co/Qxps58CpIf"
+            },
+            {
+              "display_url": "pic.x.com/Qxps58CpIf",
+              "end": 27,
+              "expanded_url": "https://x.com/_ropu/status/2062893509632536704/photo/1",
+              "media_key": "3_2062893498781880320",
+              "start": 4,
+              "url": "https://t.co/Qxps58CpIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062893509632536704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1553,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃 https://t.co/Qxps58CpIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 1772,
+          "like_count": 7245,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 3597
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん： @Cchang3243 || CN/JP/EN/KR ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2055435465881538633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31144,
+          "following_count": 4381,
+          "like_count": 15349,
+          "listed_count": 32,
+          "media_count": 4727,
+          "tweet_count": 34580
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

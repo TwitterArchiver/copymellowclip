@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012451042768941236",
+    "created_at": "2026-01-18T12:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T13:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012866068570570929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1061274849375531008",
+          "start": 0,
+          "username": "Pasukalu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012866068570570929",
+    "in_reply_to_user_id": "1061274849375531008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012451042768941236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pasukalu0 好可爱www想摸摸头"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10866,
+        "height": 1280,
+        "media_key": "13_2012450979741065216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012450979741065216/img/Nt8nK1s4vg77KAw2.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012450979741065216/vid/avc1/320x568/vqSl6Z6D4E_BYSwN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012450979741065216/vid/avc1/480x852/ODqiiHVKe5VyxX7k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012450979741065216/vid/avc1/720x1280/54S4QSKXwU8iOVYI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012450979741065216/pl/EdfXZ5tmxoRO8HEy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012451042768941236",
+        "created_at": "2026-01-18T12:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012866068570570929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1061274849375531008",
+              "start": 0,
+              "username": "Pasukalu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012866068570570929",
+        "in_reply_to_user_id": "1061274849375531008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012451042768941236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pasukalu0 好可爱www想摸摸头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012450979741065216"
+          ]
+        },
+        "author_id": "1061274849375531008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2012451042768941236",
+        "created_at": "2026-01-17T09:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012451042768941236"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "Kigurumi"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "原神"
+            },
+            {
+              "end": 58,
+              "start": 44,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LzVv57rqZI",
+              "end": 82,
+              "expanded_url": "https://x.com/Pasukalu0/status/2012451042768941236/video/1",
+              "media_key": "13_2012450979741065216",
+              "start": 59,
+              "url": "https://t.co/LzVv57rqZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012451042768941236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 406,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "靠窗的位置，耳机里的歌，还有去往你心间的路。\n\n#Kigurumi #着ぐるみ #原神 #GenshinImpact https://t.co/LzVv57rqZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 632,
+          "like_count": 3625,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-10T15:10:16.000Z",
+        "description": "（日本語/ ENG/ 中文/ 廣東話OK）帕苏卡露（パスカル）｜ボカロ/ 百合/ 美少女ゲーム/ VRChat/ Kigurumi｜日常垢 负能垢：@ChidoriNya 愛されたいの 我没有其他X账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "ChidoriNya"
+              }
+            ]
+          }
+        },
+        "id": "1061274849375531008",
+        "location": "帕维度",
+        "name": "帕苏卡露の秘密花園",
+        "pinned_tweet_id": "1852647793883787567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687913795698716672/CwGHV9y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4160,
+          "following_count": 1509,
+          "like_count": 37207,
+          "listed_count": 7,
+          "media_count": 1142,
+          "tweet_count": 5112
+        },
+        "username": "Pasukalu0",
+        "verified": false
+      }
+    ]
+  }
+}

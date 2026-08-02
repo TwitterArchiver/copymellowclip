@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013558034337788104",
+    "created_at": "2026-01-20T12:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T13:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013582692764532780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1914699065037873153",
+          "start": 0,
+          "username": "zhngsn161230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013582692764532780",
+    "in_reply_to_user_id": "1914699065037873153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013582464414036352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngsn161230 也太疼了吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2013582458952855554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Guk_fXsAIoIbn.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2013582458189492228",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Guk8pXsAQR2WG.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013558034337788104",
+        "created_at": "2026-01-20T12:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013582692764532780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1914699065037873153",
+              "start": 0,
+              "username": "zhngsn161230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013582692764532780",
+        "in_reply_to_user_id": "1914699065037873153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013582464414036352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngsn161230 也太疼了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013582458952855554",
+            "3_2013582458189492228"
+          ]
+        },
+        "author_id": "1914699065037873153",
+        "conversation_id": "2013558034337788104",
+        "created_at": "2026-01-20T12:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013582464414036352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqNfiuyuZo",
+              "end": 39,
+              "expanded_url": "https://x.com/zhngsn161230/status/2013582464414036352/photo/1",
+              "media_key": "3_2013582458952855554",
+              "start": 16,
+              "url": "https://t.co/oqNfiuyuZo"
+            },
+            {
+              "display_url": "pic.x.com/oqNfiuyuZo",
+              "end": 39,
+              "expanded_url": "https://x.com/zhngsn161230/status/2013582464414036352/photo/1",
+              "media_key": "3_2013582458189492228",
+              "start": 16,
+              "url": "https://t.co/oqNfiuyuZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013582464414036352",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013558034337788104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip https://t.co/oqNfiuyuZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 745,
+          "like_count": 4171,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1655
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-22T15:13:42.000Z",
+        "description": "",
+        "id": "1914699065037873153",
+        "name": "い墨鱼か",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011505570227109894/dk7Sw8yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "zhngsn161230",
+        "verified": false
+      }
+    ]
+  }
+}

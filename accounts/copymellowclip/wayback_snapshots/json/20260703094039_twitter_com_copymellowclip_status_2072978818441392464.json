@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2072967411570204796",
+    "created_at": "2026-07-03T09:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072978818441392464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072978818441392464",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072976275120197978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban 我可以引用回复吗我想再水个帖（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2072967411570204796",
+        "created_at": "2026-07-03T09:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072978818441392464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072978818441392464",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072976275120197978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 我可以引用回复吗我想再水个帖（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420072716963520520",
+        "conversation_id": "2072967411570204796",
+        "created_at": "2026-07-03T09:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072976275120197978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072976275120197978",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实算是我花钱比较有连锁反应吧，按我妈的话说就是花钱没把门，我在数码产品开销这块比我买衣服都要多的多，消费等级里面排个名的话买衣服只能排在第二（）\n影响最深的还是高考完的时候想在家里唱K，于是买了视易的点歌机，然后发现视易有一些自己想唱的歌点不到，于是就把一二三线品牌的机器至少买了一台放在家里，碰见想唱却没有的就拔线插别的品牌机器（）\n其次就是玩电子古董了，有的时候想玩一个东西，然后就买回来，碰见问题了就去外网查各种资料自己摸索，假若折腾成了或者是把坏的东西修好了就有很强的成就感，但是烧钱也是真烧钱，我在家里的卧室是我家面积最大的卧室，就这样房间都快被我塞满了，以至于我只能将那些头脑一热买回来的东西放在闲鱼抛售......\n不知道怎么办了（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072969935866007942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 其实算是我花钱比较有连锁反应吧，按我妈的话说就是花钱没把门，我在数码产品开销这块比我买衣服都要多的多，消费等级里面排个名的话买衣服只能排在第二（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2818,
+          "following_count": 1778,
+          "like_count": 7347,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 3756
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、古董数码、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！提问箱点下方链接（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meiqinyuban8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meiqinyuban8",
+                "start": 0,
+                "url": "https://t.co/dvlWzpleAX"
+              }
+            ]
+          }
+        },
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "2005599456377667826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035389972740739072/zyUO7hv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 910,
+          "like_count": 21750,
+          "listed_count": 1,
+          "media_count": 1901,
+          "tweet_count": 10002
+        },
+        "url": "https://t.co/dvlWzpleAX",
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

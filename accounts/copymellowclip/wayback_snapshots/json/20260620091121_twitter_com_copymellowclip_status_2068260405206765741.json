@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064746449632706560",
+        "3_2064746462907703296"
+      ],
+      "media_source_tweet_id": [
+        "2064746468951617802",
+        "2064746468951617802"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2068260405206765741",
+    "created_at": "2026-06-20T09:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068260405206765741"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "互转"
+        },
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "互fo"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "交友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2064742493271576576",
+          "start": 3,
+          "username": "mizukiFuyugumom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1IgplSKYwo",
+          "end": 75,
+          "expanded_url": "https://x.com/mizukiFuyugumom/status/2064746468951617802/photo/1",
+          "media_key": "3_2064746449632706560",
+          "start": 52,
+          "url": "https://t.co/1IgplSKYwo"
+        },
+        {
+          "display_url": "pic.x.com/1IgplSKYwo",
+          "end": 75,
+          "expanded_url": "https://x.com/mizukiFuyugumom/status/2064746468951617802/photo/1",
+          "media_key": "3_2064746462907703296",
+          "start": 52,
+          "url": "https://t.co/1IgplSKYwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068260405206765741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064746468951617802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizukiFuyugumom: 走过路过不要错过\n请和我交朋友吧？\n#互转 #互fo #交友 https://t.co/1IgplSKYwo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_2064746449632706560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdz9NmbQAANVbB.png",
+        "width": 1260
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064746462907703296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdz9_DboAA6V8n.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064746449632706560",
+            "3_2064746462907703296"
+          ],
+          "media_source_tweet_id": [
+            "2064746468951617802",
+            "2064746468951617802"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2068260405206765741",
+        "created_at": "2026-06-20T09:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068260405206765741"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "互转"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "互fo"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "交友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2064742493271576576",
+              "start": 3,
+              "username": "mizukiFuyugumom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1IgplSKYwo",
+              "end": 75,
+              "expanded_url": "https://x.com/mizukiFuyugumom/status/2064746468951617802/photo/1",
+              "media_key": "3_2064746449632706560",
+              "start": 52,
+              "url": "https://t.co/1IgplSKYwo"
+            },
+            {
+              "display_url": "pic.x.com/1IgplSKYwo",
+              "end": 75,
+              "expanded_url": "https://x.com/mizukiFuyugumom/status/2064746468951617802/photo/1",
+              "media_key": "3_2064746462907703296",
+              "start": 52,
+              "url": "https://t.co/1IgplSKYwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068260405206765741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064746468951617802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizukiFuyugumom: 走过路过不要错过\n请和我交朋友吧？\n#互转 #互fo #交友 https://t.co/1IgplSKYwo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064746449632706560",
+            "3_2064746462907703296"
+          ]
+        },
+        "author_id": "2064742493271576576",
+        "conversation_id": "2064746468951617802",
+        "created_at": "2026-06-10T16:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064746468951617802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "互转"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "互fo"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "交友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1IgplSKYwo",
+              "end": 54,
+              "expanded_url": "https://x.com/mizukiFuyugumom/status/2064746468951617802/photo/1",
+              "media_key": "3_2064746449632706560",
+              "start": 31,
+              "url": "https://t.co/1IgplSKYwo"
+            },
+            {
+              "display_url": "pic.x.com/1IgplSKYwo",
+              "end": 54,
+              "expanded_url": "https://x.com/mizukiFuyugumom/status/2064746468951617802/photo/1",
+              "media_key": "3_2064746462907703296",
+              "start": 31,
+              "url": "https://t.co/1IgplSKYwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064746468951617802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "走过路过不要错过\n请和我交朋友吧？\n#互转 #互fo #交友 https://t.co/1IgplSKYwo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 1780,
+          "like_count": 7305,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 3693
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T16:13:53.000Z",
+        "description": "LGBTQ+‖迷思‖语言障碍且匮乏之人‖骑士之誓‖恋爱中‖⚢‖短暂的前身  @Fuyugumomizuki ‖恋人  @moontidebemoth",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "Fuyugumomizuki"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "moontidebemoth"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fuyugumomizuki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fuyugumomizuki",
+                "start": 0,
+                "url": "https://t.co/9MNyN3xXl7"
+              }
+            ]
+          }
+        },
+        "id": "2064742493271576576",
+        "location": "翌日",
+        "name": "ºₒmizuki˖Ი𐑼ֶָ֢݁ ☁︎",
+        "pinned_tweet_id": "2064746468951617802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064743188649381888/7Y8fiHH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/9MNyN3xXl7",
+        "username": "mizukiFuyugumom",
+        "verified": false
+      }
+    ]
+  }
+}

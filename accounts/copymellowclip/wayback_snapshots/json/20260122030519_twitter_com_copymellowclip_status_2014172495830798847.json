@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2014045136427327630",
+    "created_at": "2026-01-22T03:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T04:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014172495830798847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1999321725163732992",
+          "start": 0,
+          "username": "mbp9w2azda59733"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014172495830798847",
+    "in_reply_to_user_id": "1999321725163732992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014045136427327630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mbp9w2azda59733 太萌了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2014044911390330880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NTLREakAA9zXR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2014044911557877760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NTLRsXIAAXLgb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2014045136427327630",
+        "created_at": "2026-01-22T03:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T04:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014172495830798847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1999321725163732992",
+              "start": 0,
+              "username": "mbp9w2azda59733"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014172495830798847",
+        "in_reply_to_user_id": "1999321725163732992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014045136427327630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mbp9w2azda59733 太萌了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014044911390330880",
+            "3_2014044911557877760"
+          ]
+        },
+        "author_id": "1999321725163732992",
+        "conversation_id": "2014045136427327630",
+        "created_at": "2026-01-21T18:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T19:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014045136427327630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFumLZ0Eio",
+              "end": 39,
+              "expanded_url": "https://x.com/mbp9w2azda59733/status/2014045136427327630/photo/1",
+              "media_key": "3_2014044911390330880",
+              "start": 16,
+              "url": "https://t.co/uFumLZ0Eio"
+            },
+            {
+              "display_url": "pic.x.com/uFumLZ0Eio",
+              "end": 39,
+              "expanded_url": "https://x.com/mbp9w2azda59733/status/2014045136427327630/photo/1",
+              "media_key": "3_2014044911557877760",
+              "start": 16,
+              "url": "https://t.co/uFumLZ0Eio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014045136427327630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男孩子哦当时第1次女装出门拍的 https://t.co/uFumLZ0Eio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 802,
+          "like_count": 4453,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1733
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-12T03:33:45.000Z",
+        "description": "",
+        "id": "1999321725163732992",
+        "name": "浅早家爱音QAQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013891555216777216/QvZGTc6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "mbp9w2azda59733",
+        "verified": false
+      }
+    ]
+  }
+}

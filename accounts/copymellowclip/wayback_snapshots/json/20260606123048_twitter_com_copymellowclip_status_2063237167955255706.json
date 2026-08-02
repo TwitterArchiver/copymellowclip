@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063237162007752704"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2063237167955255706",
+    "created_at": "2026-06-06T12:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063237167955255706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dj6x6kim3u",
+          "end": 69,
+          "expanded_url": "https://x.com/copymellowclip/status/2063237167955255706/photo/1",
+          "media_key": "3_2063237162007752704",
+          "start": 46,
+          "url": "https://t.co/Dj6x6kim3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063237167955255706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家人们你们说我三个月能有5M吗，我之前开过蓝勾没续还能拿收益吗，我刷到过有人说拿不到了（？ https://t.co/Dj6x6kim3u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 573,
+        "media_key": "3_2063237162007752704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIXRHDbcAAG9eb.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063237162007752704"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2063237167955255706",
+        "created_at": "2026-06-06T12:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063237167955255706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dj6x6kim3u",
+              "end": 69,
+              "expanded_url": "https://x.com/copymellowclip/status/2063237167955255706/photo/1",
+              "media_key": "3_2063237162007752704",
+              "start": 46,
+              "url": "https://t.co/Dj6x6kim3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063237167955255706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们你们说我三个月能有5M吗，我之前开过蓝勾没续还能拿收益吗，我刷到过有人说拿不到了（？ https://t.co/Dj6x6kim3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 1772,
+          "like_count": 7244,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 3596
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      }
+    ]
+  }
+}

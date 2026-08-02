@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013307326867087598",
+    "created_at": "2026-01-24T15:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015079010221584406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1669628758507266049",
+          "start": 0,
+          "username": "jwybg"
+        },
+        {
+          "end": 13,
+          "id": "1478962175947390976",
+          "start": 7,
+          "username": "cxb2b"
+        },
+        {
+          "end": 21,
+          "id": "1548584567375745025",
+          "start": 14,
+          "username": "Xzhibb"
+        },
+        {
+          "end": 29,
+          "id": "1338836540185665539",
+          "start": 22,
+          "username": "0xnmhs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015079010221584406",
+    "in_reply_to_user_id": "1669628758507266049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013307326867087598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jwybg @cxb2b @Xzhibb @0xnmhs 天呐好美味（？）我贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2645,
+        "height": 720,
+        "media_key": "13_2013307310488064000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013307310488064000/img/zcDkf_Gab3jrwy_H.jpg",
+        "public_metrics": {
+          "view_count": 1305
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013307310488064000/vid/avc1/480x270/Oo9Ap474ORjjAMxu.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013307310488064000/vid/avc1/640x360/YWD54V4e6LSNIw1u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013307310488064000/vid/avc1/1280x720/ivP7ao4XZFlkbUKD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013307310488064000/pl/kEf5sp5LS9d2ZZMs.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013307326867087598",
+        "created_at": "2026-01-24T15:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015079010221584406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1669628758507266049",
+              "start": 0,
+              "username": "jwybg"
+            },
+            {
+              "end": 13,
+              "id": "1478962175947390976",
+              "start": 7,
+              "username": "cxb2b"
+            },
+            {
+              "end": 21,
+              "id": "1548584567375745025",
+              "start": 14,
+              "username": "Xzhibb"
+            },
+            {
+              "end": 29,
+              "id": "1338836540185665539",
+              "start": 22,
+              "username": "0xnmhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015079010221584406",
+        "in_reply_to_user_id": "1669628758507266049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013307326867087598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jwybg @cxb2b @Xzhibb @0xnmhs 天呐好美味（？）我贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013307310488064000"
+          ]
+        },
+        "author_id": "1669628758507266049",
+        "conversation_id": "2013307326867087598",
+        "created_at": "2026-01-19T17:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013307326867087598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1478962175947390976",
+              "start": 5,
+              "username": "cxb2b"
+            },
+            {
+              "end": 20,
+              "id": "1548584567375745025",
+              "start": 13,
+              "username": "Xzhibb"
+            },
+            {
+              "end": 29,
+              "id": "1338836540185665539",
+              "start": 22,
+              "username": "0xnmhs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUteYnOcK4",
+              "end": 53,
+              "expanded_url": "https://x.com/jwybg/status/2013307326867087598/video/1",
+              "media_key": "13_2013307310488064000",
+              "start": 30,
+              "url": "https://t.co/sUteYnOcK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013307326867087598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 11220,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "谁想看腰\n@cxb2b \n@Xzhibb \n@0xnmhs https://t.co/sUteYnOcK4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 958,
+          "like_count": 5065,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T08:51:49.000Z",
+        "description": "叫我葵就好 分享我的腰…160/80/b  🚪v152 收口令 备注v我看见了加",
+        "id": "1669628758507266049",
+        "location": "远距离",
+        "name": "森本葵",
+        "pinned_tweet_id": "2012296150766833668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012931873618468865/p61-hU2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 62,
+          "like_count": 2355,
+          "listed_count": 7,
+          "media_count": 16,
+          "tweet_count": 117
+        },
+        "username": "jwybg",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-06T05:30:52.000Z",
+        "description": "金辰@jinchen166｜三岁@sansuicos5｜小葵@ex_13kanaoto｜小熊@Mnk02cos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "jinchen166"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "sansuicos5"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "ex_13kanaoto"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Mnk02cos"
+              }
+            ]
+          }
+        },
+        "id": "1478962175947390976",
+        "name": "好色仙人",
+        "pinned_tweet_id": "1651254071129686017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682674704879087617/7MVBqgLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41162,
+          "following_count": 241,
+          "like_count": 3492,
+          "listed_count": 138,
+          "media_count": 1,
+          "tweet_count": 3995
+        },
+        "username": "cxb2b",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T08:25:22.000Z",
+        "description": "💫每日转推优质福利姬🥇｜简介位推广招商",
+        "id": "1548584567375745025",
+        "location": "▫️首次投稿请私信验证▫️",
+        "name": "星之比比",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593179963166900224/FwSuv3tL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207381,
+          "following_count": 561,
+          "like_count": 4476,
+          "listed_count": 369,
+          "media_count": 0,
+          "tweet_count": 4483
+        },
+        "username": "Xzhibb",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-15T13:21:39.000Z",
+        "description": "金辰@jinchen166｜三岁@sansuicos5｜小葵@ex_13kanaoto｜小熊@Mnk02cos｜广告位招商🎀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "jinchen166"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "sansuicos5"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "ex_13kanaoto"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Mnk02cos"
+              }
+            ]
+          }
+        },
+        "id": "1338836540185665539",
+        "name": "CC嫩妹会所",
+        "pinned_tweet_id": "1781678597687968179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518857661412184064/RehwPERl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461676,
+          "following_count": 633,
+          "like_count": 10374,
+          "listed_count": 502,
+          "media_count": 1,
+          "tweet_count": 8810
+        },
+        "username": "0xnmhs",
+        "verified": false
+      }
+    ]
+  }
+}

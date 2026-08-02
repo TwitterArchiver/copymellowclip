@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010182371161878737",
+    "created_at": "2026-01-11T03:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T04:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010197087527563652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1926313840557355008",
+          "start": 0,
+          "username": "yepa41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010197087527563652",
+    "in_reply_to_user_id": "1926313840557355008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010196479739396229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yepa41 一脚踢飞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010182371161878737",
+        "created_at": "2026-01-11T03:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010197087527563652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1926313840557355008",
+              "start": 0,
+              "username": "yepa41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010197087527563652",
+        "in_reply_to_user_id": "1926313840557355008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010196479739396229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yepa41 一脚踢飞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926313840557355008",
+        "conversation_id": "2010182371161878737",
+        "created_at": "2026-01-11T03:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010196479739396229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010196479739396229",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010182371161878737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 又在做梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 133,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 418
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "さよならだ人類、みんな吹き飛んじまえ，",
+        "id": "1926313840557355008",
+        "location": "百味轩",
+        "name": "斯德哥尔摩第二吉他手",
+        "pinned_tweet_id": "1990480589112422835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998174458197245952/_6TPH7JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 749,
+          "like_count": 77303,
+          "listed_count": 3,
+          "media_count": 720,
+          "tweet_count": 4866
+        },
+        "username": "yepa41",
+        "verified": false
+      }
+    ]
+  }
+}

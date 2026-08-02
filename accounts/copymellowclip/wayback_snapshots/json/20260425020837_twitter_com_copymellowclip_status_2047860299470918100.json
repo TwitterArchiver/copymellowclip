@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2047300515659444401",
+    "created_at": "2026-04-25T02:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T03:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047860299470918100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1705996511375654912",
+          "start": 0,
+          "username": "TruE_0619101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047860299470918100",
+    "in_reply_to_user_id": "1705996511375654912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047796849952845888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TruE_0619101 ai的话会影响，游戏应该不影响吧 用不上那么多带宽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-25T02:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047860299470918100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1705996511375654912",
+              "start": 0,
+              "username": "TruE_0619101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047860299470918100",
+        "in_reply_to_user_id": "1705996511375654912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047796849952845888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TruE_0619101 ai的话会影响，游戏应该不影响吧 用不上那么多带宽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705996511375654912",
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-24T21:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T22:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047796849952845888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047796849952845888",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047300515659444401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 这个b650i支持pcie5.0吗？5070是5.0✖️16吧，如果走4.0会有百分之2/3损失的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 1706,
+          "like_count": 6810,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3044
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T17:24:06.000Z",
+        "description": "清水推记录生活喵｜点点关注点点赞我会开心一整天的◝(⑅•ᴗ•⑅)◜..°♡｜学计算机会变得不幸👉👈",
+        "id": "1705996511375654912",
+        "location": "上海",
+        "name": "楚奈奈TruE",
+        "pinned_tweet_id": "1881301821815394506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813193850565107714/buW6ryx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8050,
+          "following_count": 347,
+          "like_count": 454,
+          "listed_count": 33,
+          "media_count": 101,
+          "tweet_count": 633
+        },
+        "username": "TruE_0619101",
+        "verified": false
+      }
+    ]
+  }
+}

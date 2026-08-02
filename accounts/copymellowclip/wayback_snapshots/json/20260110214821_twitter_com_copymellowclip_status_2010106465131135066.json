@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010064131140006063",
+    "created_at": "2026-01-10T21:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T22:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010106465131135066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009833989243297792",
+          "start": 0,
+          "username": "zixun1433223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010106465131135066",
+    "in_reply_to_user_id": "2009833989243297792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010064131140006063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zixun1433223 （超近距离看神颜...！）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1584,
+        "media_key": "3_2010064128291823616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-UurMaW4AAxf1S.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010064131140006063",
+        "created_at": "2026-01-10T21:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T22:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010106465131135066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009833989243297792",
+              "start": 0,
+              "username": "zixun1433223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010106465131135066",
+        "in_reply_to_user_id": "2009833989243297792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010064131140006063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixun1433223 （超近距离看神颜...！）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010064128291823616"
+          ]
+        },
+        "author_id": "2009833989243297792",
+        "conversation_id": "2010064131140006063",
+        "created_at": "2026-01-10T19:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T20:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010064131140006063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wBTRsV0NKL",
+              "end": 33,
+              "expanded_url": "https://x.com/zixun1433223/status/2010064131140006063/photo/1",
+              "media_key": "3_2010064128291823616",
+              "start": 10,
+              "url": "https://t.co/wBTRsV0NKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010064131140006063",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2393,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我知道你真的太累了 https://t.co/wBTRsV0NKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 124,
+          "like_count": 625,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 386
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-10T03:45:46.000Z",
+        "description": "",
+        "id": "2009833989243297792",
+        "name": "萱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009835753111719936/kWSK2Wo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 18,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "zixun1433223",
+        "verified": false
+      }
+    ]
+  }
+}

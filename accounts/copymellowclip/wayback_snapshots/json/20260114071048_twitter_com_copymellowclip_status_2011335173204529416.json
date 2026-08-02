@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010980880794435672",
+    "created_at": "2026-01-14T07:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T08:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011335173204529416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003887333112975360",
+          "start": 0,
+          "username": "AntoniAnto63779"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011335173204529416",
+    "in_reply_to_user_id": "2003887333112975360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011154439831495147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AntoniAnto63779 百合小说来着x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010980880794435672",
+        "created_at": "2026-01-14T07:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T08:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011335173204529416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003887333112975360",
+              "start": 0,
+              "username": "AntoniAnto63779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011335173204529416",
+        "in_reply_to_user_id": "2003887333112975360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011154439831495147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntoniAnto63779 百合小说来着x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003887333112975360",
+        "conversation_id": "2010980880794435672",
+        "created_at": "2026-01-13T19:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T20:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011154439831495147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011154439831495147",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010980880794435672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 在看的是什么书呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 80,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 57,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 352,
+          "like_count": 2062,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-24T17:56:30.000Z",
+        "description": "A merchant who buys crystals in China",
+        "id": "2003887333112975360",
+        "name": "Citrine Half-frame glasses",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003888227418312704/wnWJBJjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 219,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 236
+        },
+        "username": "AntoniAnto63779",
+        "verified": false
+      }
+    ]
+  }
+}

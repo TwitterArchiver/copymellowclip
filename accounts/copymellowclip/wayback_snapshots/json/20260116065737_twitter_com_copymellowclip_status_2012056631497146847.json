@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012019311607791775",
+    "created_at": "2026-01-16T06:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T07:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012056631497146847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1991764562924957697",
+          "start": 0,
+          "username": "q3qxy111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012056631497146847",
+    "in_reply_to_user_id": "1991764562924957697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012019311607791775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q3qxy111 我笑得不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012019299515580417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wg5IzbQAEBoF5.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012019311607791775",
+        "created_at": "2026-01-16T06:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T07:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012056631497146847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1991764562924957697",
+              "start": 0,
+              "username": "q3qxy111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012056631497146847",
+        "in_reply_to_user_id": "1991764562924957697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012019311607791775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q3qxy111 我笑得不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012019299515580417"
+          ]
+        },
+        "author_id": "1991764562924957697",
+        "conversation_id": "2012019311607791775",
+        "created_at": "2026-01-16T04:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012019311607791775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2uApNY2Sc1",
+              "end": 23,
+              "expanded_url": "https://x.com/q3qxy111/status/2012019311607791775/photo/1",
+              "media_key": "3_2012019299515580417",
+              "start": 0,
+              "url": "https://t.co/2uApNY2Sc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012019311607791775",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 630,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2uApNY2Sc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 78,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 56,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢网址请收藏ovo",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 555,
+          "like_count": 2822,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1234
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-21T07:04:20.000Z",
+        "description": "钱性恋 没有善良人格 不回关 圈地自萌 发私信前先打钱 提问：https://t.co/HyZbTYl92S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwq45705",
+                "end": 54,
+                "expanded_url": "https://ngl.link/qwq45705",
+                "start": 31,
+                "url": "https://t.co/HyZbTYl92S"
+              }
+            ]
+          }
+        },
+        "id": "1991764562924957697",
+        "location": "🚪188",
+        "name": "宅",
+        "pinned_tweet_id": "2011454630002307393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005495543334838272/ADvMSpRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 45,
+          "like_count": 1505,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 3607
+        },
+        "username": "q3qxy111",
+        "verified": false
+      }
+    ]
+  }
+}

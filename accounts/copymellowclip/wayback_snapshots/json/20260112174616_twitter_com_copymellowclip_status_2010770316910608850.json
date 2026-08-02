@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010726219046867198",
+    "created_at": "2026-01-12T17:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T18:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010770316910608850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800101206184144896",
+          "start": 0,
+          "username": "XIAOYUAN_qwq"
+        },
+        {
+          "end": 26,
+          "id": "2009397592384507904",
+          "start": 14,
+          "username": "long_yu2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010770316910608850",
+    "in_reply_to_user_id": "1800101206184144896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010770135519506936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOYUAN_qwq @long_yu2026 坏死了……咋这样\n摸摸萌萌小怜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010726219046867198",
+        "created_at": "2026-01-12T17:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010770316910608850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800101206184144896",
+              "start": 0,
+              "username": "XIAOYUAN_qwq"
+            },
+            {
+              "end": 26,
+              "id": "2009397592384507904",
+              "start": 14,
+              "username": "long_yu2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010770316910608850",
+        "in_reply_to_user_id": "1800101206184144896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010770135519506936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOYUAN_qwq @long_yu2026 坏死了……咋这样\n摸摸萌萌小怜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800101206184144896",
+        "conversation_id": "2010726219046867198",
+        "created_at": "2026-01-12T17:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010770135519506936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009397592384507904",
+              "start": 0,
+              "username": "long_yu2026"
+            },
+            {
+              "end": 28,
+              "id": "876363325998678017",
+              "start": 13,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010770135519506936",
+        "in_reply_to_user_id": "2009397592384507904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010768769312784826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@long_yu2026 @copymellowclip 其实我也是，那几个维持表面关系的我一走就给我删了，还有几个玩的可能还行的给我留下了😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 260,
+          "like_count": 1566,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 746
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-10T09:42:35.000Z",
+        "description": "🚪52好友位｜08｜磕药壁｜血图｜支持喜欢我就给我钱吧！\n我不得劲 我就发推我就磕药，无理由。想交朋友...",
+        "id": "1800101206184144896",
+        "location": "极乐净土",
+        "name": "小怜",
+        "pinned_tweet_id": "1995395289302389023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003039469910609920/oNoMtF6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 95,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 322
+        },
+        "username": "XIAOYUAN_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T22:52:05.000Z",
+        "description": "",
+        "id": "2009397592384507904",
+        "name": "龙云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009397934836862977/7XEDvivy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 40,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 60
+        },
+        "username": "long_yu2026",
+        "verified": false
+      }
+    ]
+  }
+}

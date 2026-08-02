@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2032020617470623806",
+    "created_at": "2026-03-13T16:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T17:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032498506846609759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1580044363807145984",
+          "start": 0,
+          "username": "qwqsin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032498506846609759",
+    "in_reply_to_user_id": "1580044363807145984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032020617470623806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwqsin 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2032020617470623806",
+        "created_at": "2026-03-13T16:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032498506846609759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1580044363807145984",
+              "start": 0,
+              "username": "qwqsin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032498506846609759",
+        "in_reply_to_user_id": "1580044363807145984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032020617470623806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqsin 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580044363807145984",
+        "conversation_id": "2032020617470623806",
+        "created_at": "2026-03-12T09:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032020617470623806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032020617470623806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4207,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没有人在意我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 1709,
+          "like_count": 6416,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2593
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T03:55:23.000Z",
+        "description": "",
+        "id": "1580044363807145984",
+        "name": "u",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027586645684588549/8ZaLEP-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 2,
+          "like_count": 1014,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 308
+        },
+        "username": "qwqsin",
+        "verified": false
+      }
+    ]
+  }
+}

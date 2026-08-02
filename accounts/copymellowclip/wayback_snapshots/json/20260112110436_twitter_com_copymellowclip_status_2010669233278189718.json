@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010386801643712575",
+    "created_at": "2026-01-12T11:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T12:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010669233278189718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010669233278189718",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010386801643712575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 好温柔的小女孩、！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010386801643712575",
+        "created_at": "2026-01-12T11:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010669233278189718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010669233278189718",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010386801643712575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 好温柔的小女孩、！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2010386801643712575",
+        "created_at": "2026-01-11T16:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010386801643712575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010386801643712575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1175,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很溺爱亲朋好友互关，我很讨厌别人读不懂我的话反驳我（我说出了错误的知识 反驳纠正我OK 我分享我的恶劣思想 反驳我打咩）\n每次都准备阴阳怪气回去了，一看是亲友一看是互关，只能忍气吞声表示“这是我的思想哦我也尊重你的想法爱你宝贝”\n意思是暗示不要和我掰扯思想立场……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 229,
+          "like_count": 1409,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 673
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关宝宝们(っ˘зʕ•̫͡•ʔ纯血精神病-同类回fo-爱点赞爱评论-讨厌私信请勿扰♡喜欢sex & drug♡不提供任何咨询解答♡non-binary友全部🏳️‍🌈🏳️‍⚧️popo🎣4️⃣⭕➕",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 1541,
+          "like_count": 5044,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 4965
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

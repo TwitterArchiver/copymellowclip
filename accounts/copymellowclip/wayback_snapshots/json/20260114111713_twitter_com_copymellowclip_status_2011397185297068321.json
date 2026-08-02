@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011392863838605683",
+    "created_at": "2026-01-14T11:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T12:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011397185297068321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011397185297068321",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011396995899093111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 被橄榄前的幻想罢了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011392863838605683",
+        "created_at": "2026-01-14T11:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011397185297068321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011397185297068321",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011396995899093111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 被橄榄前的幻想罢了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2011392863838605683",
+        "created_at": "2026-01-14T11:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011396995899093111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011396995899093111",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011396524413243405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我直接一个反客为主😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 80,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 57,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 368,
+          "like_count": 2194,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1014
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3838,
+          "following_count": 275,
+          "like_count": 5815,
+          "listed_count": 16,
+          "media_count": 101,
+          "tweet_count": 2820
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2066390463066898736",
+    "created_at": "2026-06-15T11:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066485565868957775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026708454258409472",
+          "start": 0,
+          "username": "Sweet_XiaoYin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066485565868957775",
+    "in_reply_to_user_id": "2026708454258409472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066390463066898736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sweet_XiaoYin 爱好女"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 253,
+        "media_key": "3_2066390450894958592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1LKrjacAAL6sa.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2066390463066898736",
+        "created_at": "2026-06-15T11:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066485565868957775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026708454258409472",
+              "start": 0,
+              "username": "Sweet_XiaoYin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066485565868957775",
+        "in_reply_to_user_id": "2026708454258409472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066390463066898736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sweet_XiaoYin 爱好女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066390450894958592"
+          ]
+        },
+        "author_id": "2026708454258409472",
+        "conversation_id": "2066390463066898736",
+        "created_at": "2026-06-15T05:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066390463066898736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrFk68lKqX",
+              "end": 27,
+              "expanded_url": "https://x.com/Sweet_XiaoYin/status/2066390463066898736/photo/1",
+              "media_key": "3_2066390450894958592",
+              "start": 4,
+              "url": "https://t.co/VrFk68lKqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066390463066898736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 26079,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 68,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我笑得 https://t.co/VrFk68lKqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 1776,
+          "like_count": 7308,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 3679
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T17:18:58.000Z",
+        "description": "碎碎念 ｜ 这里是我的pyq ｜ 173/105 ｜ infp ｜ 头像是本人 ｜脾气很糟 跟我说话做好挨骂准备 ｜ 妹宝找我互关呀",
+        "id": "2026708454258409472",
+        "location": "非要加好友🚪520/1314纯绿无福利",
+        "name": "Sweet",
+        "pinned_tweet_id": "2061702923315556444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062146083896336385/gFfULE77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3408,
+          "following_count": 21,
+          "like_count": 386,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 353
+        },
+        "username": "Sweet_XiaoYin",
+        "verified": false
+      }
+    ]
+  }
+}

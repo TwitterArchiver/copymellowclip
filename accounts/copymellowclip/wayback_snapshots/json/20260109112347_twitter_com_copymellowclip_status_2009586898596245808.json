@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009568079748165658",
+    "created_at": "2026-01-09T11:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T12:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009586898596245808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1386461344124133376",
+          "start": 0,
+          "username": "Reno_3tomato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009586898596245808",
+    "in_reply_to_user_id": "1386461344124133376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009586323120877747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reno_3tomato めっちゃエロい/////"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009568079748165658",
+        "created_at": "2026-01-09T11:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009586898596245808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386461344124133376",
+              "start": 0,
+              "username": "Reno_3tomato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009586898596245808",
+        "in_reply_to_user_id": "1386461344124133376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009586323120877747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reno_3tomato めっちゃエロい/////"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386461344124133376",
+        "conversation_id": "2009568079748165658",
+        "created_at": "2026-01-09T11:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009586323120877747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009586323120877747",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009583114541314267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip ほんとは舌も出させたかったの。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 35,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 151
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-25T23:25:29.000Z",
+        "description": "色んなお絵描きしてます。 まどマギが好き。フォローしてくれると嬉しいな！",
+        "id": "1386461344124133376",
+        "name": "リノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971873788884361216/VGPet0pN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8460,
+          "following_count": 191,
+          "like_count": 2532,
+          "listed_count": 52,
+          "media_count": 681,
+          "tweet_count": 1597
+        },
+        "username": "Reno_3tomato",
+        "verified": false
+      }
+    ]
+  }
+}

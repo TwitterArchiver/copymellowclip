@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016461553772769417",
+    "created_at": "2026-01-28T11:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T12:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016470055605964829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1941014934734909440",
+          "start": 0,
+          "username": "Errt59319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016470055605964829",
+    "in_reply_to_user_id": "1941014934734909440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016461553772769417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Errt59319 被机器人团建了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016461542880116736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vpFu6bAAAbYTg.jpg",
+        "width": 1112
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016461543097909248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vpFvuWQAAXGkW.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2016461553772769417",
+        "created_at": "2026-01-28T11:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016470055605964829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1941014934734909440",
+              "start": 0,
+              "username": "Errt59319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016470055605964829",
+        "in_reply_to_user_id": "1941014934734909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016461553772769417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Errt59319 被机器人团建了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016461542880116736",
+            "3_2016461543097909248"
+          ]
+        },
+        "author_id": "1941014934734909440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016461553772769417",
+        "created_at": "2026-01-28T10:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016461553772769417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xvNQuMeXCU",
+              "end": 38,
+              "expanded_url": "https://x.com/Errt59319/status/2016461553772769417/photo/1",
+              "media_key": "3_2016461542880116736",
+              "start": 15,
+              "url": "https://t.co/xvNQuMeXCU"
+            },
+            {
+              "display_url": "pic.x.com/xvNQuMeXCU",
+              "end": 38,
+              "expanded_url": "https://x.com/Errt59319/status/2016461553772769417/photo/1",
+              "media_key": "3_2016461543097909248",
+              "start": 15,
+              "url": "https://t.co/xvNQuMeXCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016461553772769417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈呀发了个帖子这是什么情况… https://t.co/xvNQuMeXCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 1057,
+          "like_count": 5624,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-04T06:03:26.000Z",
+        "description": "这里是芙芙 ｜双｜08/164/46kg｜sub｜看到消息会回 我很好相处不用担心w｜过门我会很开心 🚪68/98 口令红包就好｜欢迎来找我玩🥹",
+        "id": "1941014934734909440",
+        "name": "舒芙蕾能不能天天吃😋",
+        "pinned_tweet_id": "1954016666708533581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954009752570404864/8GfLeD-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 177,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 359
+        },
+        "username": "Errt59319",
+        "verified": false
+      }
+    ]
+  }
+}

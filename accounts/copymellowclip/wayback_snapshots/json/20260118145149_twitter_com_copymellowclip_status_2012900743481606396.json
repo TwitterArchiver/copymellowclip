@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012806024697184504",
+    "created_at": "2026-01-18T14:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012900743481606396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903347327445897217",
+          "start": 0,
+          "username": "mngxiomng131328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012900743481606396",
+    "in_reply_to_user_id": "1903347327445897217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012900188772278512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mngxiomng131328 哇！好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012806024697184504",
+        "created_at": "2026-01-18T14:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012900743481606396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903347327445897217",
+              "start": 0,
+              "username": "mngxiomng131328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012900743481606396",
+        "in_reply_to_user_id": "1903347327445897217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012900188772278512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mngxiomng131328 哇！好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903347327445897217",
+        "conversation_id": "2012806024697184504",
+        "created_at": "2026-01-18T14:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012900188772278512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012900188772278512",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012806024697184504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 宝宝直接搜不干胶贴纸和防水贴纸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 632,
+          "like_count": 3652,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1465
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-22T07:26:44.000Z",
+        "description": "168身高|体重96|欢迎来看我的碎碎念|宝宝们和我互关",
+        "id": "1903347327445897217",
+        "name": "可我明媚",
+        "pinned_tweet_id": "2012156709406703805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010376449707106304/drTMIjoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 33,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 134
+        },
+        "username": "mngxiomng131328",
+        "verified": false
+      }
+    ]
+  }
+}

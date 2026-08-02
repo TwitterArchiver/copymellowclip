@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010375365181809064",
+    "created_at": "2026-01-11T15:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T16:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010379631875305658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003081838965960704",
+          "start": 0,
+          "username": "Gatsuue_inf"
+        },
+        {
+          "end": 22,
+          "id": "1991764562924957697",
+          "start": 13,
+          "username": "q3qxy111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010379631875305658",
+    "in_reply_to_user_id": "2003081838965960704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010375968830242837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gatsuue_inf @q3qxy111 速度会越来越快的吧、！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010375365181809064",
+        "created_at": "2026-01-11T15:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010379631875305658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003081838965960704",
+              "start": 0,
+              "username": "Gatsuue_inf"
+            },
+            {
+              "end": 22,
+              "id": "1991764562924957697",
+              "start": 13,
+              "username": "q3qxy111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010379631875305658",
+        "in_reply_to_user_id": "2003081838965960704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010375968830242837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gatsuue_inf @q3qxy111 速度会越来越快的吧、！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003081838965960704",
+        "conversation_id": "2010375365181809064",
+        "created_at": "2026-01-11T15:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010375968830242837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1991764562924957697",
+              "start": 0,
+              "username": "q3qxy111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010375968830242837",
+        "in_reply_to_user_id": "1991764562924957697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010375365181809064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q3qxy111 化妆真的那么快吗     一直想学化妆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 155,
+          "like_count": 1028,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 522
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T12:35:12.000Z",
+        "description": "男的    不是男娘    是正常人",
+        "id": "2003081838965960704",
+        "location": "上海",
+        "name": "月上Gatsuue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009347754141814784/ctBSfWQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 243,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 166
+        },
+        "username": "Gatsuue_inf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T07:04:20.000Z",
+        "description": "钱性恋 没有善良人格 不回关 圈地自萌 发私信前先打钱 提问：https://t.co/HyZbTYl92S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwq45705",
+                "end": 54,
+                "expanded_url": "https://ngl.link/qwq45705",
+                "start": 31,
+                "url": "https://t.co/HyZbTYl92S"
+              }
+            ]
+          }
+        },
+        "id": "1991764562924957697",
+        "location": "🚪188",
+        "name": "宅",
+        "pinned_tweet_id": "2010020675327799635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005495543334838272/ADvMSpRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 44,
+          "like_count": 889,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 3127
+        },
+        "username": "q3qxy111",
+        "verified": false
+      }
+    ]
+  }
+}

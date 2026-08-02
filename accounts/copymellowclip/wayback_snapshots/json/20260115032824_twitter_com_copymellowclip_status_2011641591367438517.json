@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011382262638706688"
+      ],
+      "media_source_tweet_id": [
+        "2011382265566372287"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2011641591367438517",
+    "created_at": "2026-01-15T03:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T04:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011641591367438517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009949504699822081",
+          "start": 3,
+          "username": "longmo0422"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fmW5PaSUmg",
+          "end": 54,
+          "expanded_url": "https://x.com/longmo0422/status/2011382265566372287/photo/1",
+          "media_key": "3_2011382262638706688",
+          "start": 31,
+          "url": "https://t.co/fmW5PaSUmg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011641591367438517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011382265566372287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @longmo0422: 老大，我们这样真的会涨粉丝吗 https://t.co/fmW5PaSUmg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2011641591367438517].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2011641591367438517",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2011641591367438517"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_2011382262638706688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ndgtgaAAAJT7X.jpg",
+        "width": 1244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011382262638706688"
+          ]
+        },
+        "author_id": "2009949504699822081",
+        "conversation_id": "2011382265566372287",
+        "created_at": "2026-01-14T10:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T11:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011382265566372287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmW5PaSUmg",
+              "end": 38,
+              "expanded_url": "https://x.com/longmo0422/status/2011382265566372287/photo/1",
+              "media_key": "3_2011382262638706688",
+              "start": 15,
+              "url": "https://t.co/fmW5PaSUmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011382265566372287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老大，我们这样真的会涨粉丝吗 https://t.co/fmW5PaSUmg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 76,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 53,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 446,
+          "like_count": 2471,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-10T11:24:53.000Z",
+        "description": "infj/06/168/喜欢碎碎念的小女孩，爱发一些乱七八糟的东西，吐槽任何事，少管我！互关私信。很爱聊天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/longmo0422",
+                "end": 23,
+                "expanded_url": "https://ngl.link/longmo0422",
+                "start": 0,
+                "url": "https://t.co/vkYRWx7Rp8"
+              }
+            ]
+          }
+        },
+        "id": "2009949504699822081",
+        "name": "珑墨",
+        "pinned_tweet_id": "2010185743323554183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009951151555522561/aBfSw5XJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/vkYRWx7Rp8",
+        "username": "longmo0422",
+        "verified": false
+      }
+    ]
+  }
+}

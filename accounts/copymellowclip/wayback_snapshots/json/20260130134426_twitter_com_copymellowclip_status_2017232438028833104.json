@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2017229732761489833",
+    "created_at": "2026-01-30T13:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T14:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017232438028833104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779050262969417728",
+          "start": 0,
+          "username": "zephyrf9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017232438028833104",
+    "in_reply_to_user_id": "1779050262969417728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017232259066282134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zephyrf9527 不要（）好累（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2017229732761489833",
+        "created_at": "2026-01-30T13:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017232438028833104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779050262969417728",
+              "start": 0,
+              "username": "zephyrf9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017232438028833104",
+        "in_reply_to_user_id": "1779050262969417728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017232259066282134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zephyrf9527 不要（）好累（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779050262969417728",
+        "conversation_id": "2017229732761489833",
+        "created_at": "2026-01-30T13:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017232259066282134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017232259066282134",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017229732761489833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 那就刚好学日语啊）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1500,
+          "like_count": 5947,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 2191
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T07:33:53.000Z",
+        "description": "这是发疯号，个人生活号找我私信要",
+        "id": "1779050262969417728",
+        "name": "Z",
+        "pinned_tweet_id": "1886003884008812700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006576935619674112/9X0w2y3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 175,
+          "like_count": 1030,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 309
+        },
+        "username": "zephyrf9527",
+        "verified": false
+      }
+    ]
+  }
+}

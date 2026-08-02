@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060313288542691328",
+        "3_2060313289566179328"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2060313292342755553",
+    "created_at": "2026-05-29T10:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060313292342755553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/37IjLqHVHq",
+          "end": 34,
+          "expanded_url": "https://x.com/copymellowclip/status/2060313292342755553/photo/1",
+          "media_key": "3_2060313288542691328",
+          "start": 11,
+          "url": "https://t.co/37IjLqHVHq"
+        },
+        {
+          "display_url": "pic.x.com/37IjLqHVHq",
+          "end": 34,
+          "expanded_url": "https://x.com/copymellowclip/status/2060313292342755553/photo/1",
+          "media_key": "3_2060313289566179328",
+          "start": 11,
+          "url": "https://t.co/37IjLqHVHq"
+        },
+        {
+          "display_url": "x.com/yeke7788/statu…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/yeke7788/status/2060182665903706136",
+          "start": 35,
+          "url": "https://t.co/KZiEoRc7Gk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060313292342755553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060182665903706136",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特开发者你是人类吗 https://t.co/37IjLqHVHq https://t.co/KZiEoRc7Gk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 573,
+        "media_key": "3_2060313288542691328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe0BRmaoAApj1e.jpg",
+        "width": 1058
+      },
+      {
+        "height": 2120,
+        "media_key": "3_2060313289566179328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe0BVab0AAMHL9.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060313288542691328",
+            "3_2060313289566179328"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2060313292342755553",
+        "created_at": "2026-05-29T10:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060313292342755553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37IjLqHVHq",
+              "end": 34,
+              "expanded_url": "https://x.com/copymellowclip/status/2060313292342755553/photo/1",
+              "media_key": "3_2060313288542691328",
+              "start": 11,
+              "url": "https://t.co/37IjLqHVHq"
+            },
+            {
+              "display_url": "pic.x.com/37IjLqHVHq",
+              "end": 34,
+              "expanded_url": "https://x.com/copymellowclip/status/2060313292342755553/photo/1",
+              "media_key": "3_2060313289566179328",
+              "start": 11,
+              "url": "https://t.co/37IjLqHVHq"
+            },
+            {
+              "display_url": "x.com/yeke7788/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/yeke7788/status/2060182665903706136",
+              "start": 35,
+              "url": "https://t.co/KZiEoRc7Gk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060313292342755553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060182665903706136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特开发者你是人类吗 https://t.co/37IjLqHVHq https://t.co/KZiEoRc7Gk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619713452976766978",
+        "conversation_id": "2060039256547230013",
+        "created_at": "2026-05-29T02:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060182665903706136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "831495289441628160",
+              "start": 0,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060182665903706136",
+        "in_reply_to_user_id": "831495289441628160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 522,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060039256547230013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changwei1006 俺不中嘞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 1776,
+          "like_count": 7211,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 3515
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T15:06:15.000Z",
+        "description": "非著名捧哏，喜欢网上冲浪。\n我在非洲修过水坝🧱在美国吃过炸鸡🍗在俄罗斯种过大豆🫛在中国当过医生👨‍⚕️偶玩推特儿就事儿论事儿🔥以实干者的脚法猛踩油门儿🚗如果我是捧哏你会爱我吗？",
+        "id": "1619713452976766978",
+        "name": "百草枯拿铁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978101773656047616/WGmHYa1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 106,
+          "like_count": 2301,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 3801
+        },
+        "username": "yeke7788",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009939437980135634",
+    "created_at": "2026-01-10T10:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T11:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009940142723944526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999747932573302784",
+          "start": 0,
+          "username": "Tivzy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009940142723944526",
+    "in_reply_to_user_id": "1999747932573302784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009939437980135634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tivzy77 谁敢不回这个小女孩 是不是想吃copy的紫弹了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009939437980135634",
+        "created_at": "2026-01-10T10:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T11:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009940142723944526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999747932573302784",
+              "start": 0,
+              "username": "Tivzy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009940142723944526",
+        "in_reply_to_user_id": "1999747932573302784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009939437980135634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tivzy77 谁敢不回这个小女孩 是不是想吃copy的紫弹了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999747932573302784",
+        "conversation_id": "2009939437980135634",
+        "created_at": "2026-01-10T10:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T11:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009939437980135634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009939437980135634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别害怕别人不回我评论，尤其是回了很多人但是没有回我。我会失去和他互动的欲望。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 62,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 262
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T07:47:25.000Z",
+        "description": "皮下是非常坏并且玻璃心的小女孩",
+        "id": "1999747932573302784",
+        "name": "谁理你",
+        "pinned_tweet_id": "2009153255864148333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009568818801336320/z9gXXSMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 46,
+          "like_count": 579,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 329
+        },
+        "username": "Tivzy77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2082667989141483950",
+    "created_at": "2026-07-31T11:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083159078763728909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083159078763728909",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082667989141483950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 好萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_2082667950830673920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082667950830673920/img/xhMNbFcFDysQMK-u.jpg",
+        "public_metrics": {
+          "view_count": 632
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082667950830673920/vid/avc1/320x568/bPW-V8_o8uPLGxsW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082667950830673920/vid/avc1/480x852/T23HSE1VU9y-lrtq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082667950830673920/vid/avc1/720x1280/H8Crws4IGw8oGpAG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082667950830673920/pl/Ck_3-ATks0oFEcg5.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2082667989141483950",
+        "created_at": "2026-07-31T11:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083159078763728909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083159078763728909",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082667989141483950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082667950830673920"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2082667989141483950",
+        "created_at": "2026-07-30T03:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082667989141483950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zgn72TtvIz",
+              "end": 23,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2082667989141483950/video/1",
+              "media_key": "13_2082667950830673920",
+              "start": 0,
+              "url": "https://t.co/Zgn72TtvIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082667989141483950",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3544,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zgn72TtvIz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2872,
+          "following_count": 1769,
+          "like_count": 7422,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 3878
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "miovo",
+        "pinned_tweet_id": "2011472330870907217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 241,
+          "like_count": 20229,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 3610
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

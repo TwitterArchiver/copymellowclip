@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2017249311676064114",
+    "created_at": "2026-01-30T15:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017258261444256239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433833820810211332",
+          "start": 0,
+          "username": "Ettf_Cabage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017258261444256239",
+    "in_reply_to_user_id": "1433833820810211332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017258027683074210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ettf_Cabage 就是贵贵的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2017249311676064114",
+        "created_at": "2026-01-30T15:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017258261444256239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433833820810211332",
+              "start": 0,
+              "username": "Ettf_Cabage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017258261444256239",
+        "in_reply_to_user_id": "1433833820810211332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017258027683074210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ettf_Cabage 就是贵贵的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433833820810211332",
+        "conversation_id": "2017249311676064114",
+        "created_at": "2026-01-30T15:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017258027683074210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017258027683074210",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017249311676064114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 5片23的话好像还好但是感觉又有点贵（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1512,
+          "like_count": 6031,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2222
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T16:46:52.000Z",
+        "description": "中文/English 双性恋 男孩子！活动范围以泉州／厦门为主 现在是18岁想可爱的180cm 90kg性压抑肥猪 - Citroen C4 Coupe车主 - 坚定的伊蕾娜厨 r18转发bot（x）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ettfcabage.airrice.cn",
+                "end": 23,
+                "expanded_url": "http://ettfcabage.airrice.cn",
+                "start": 0,
+                "url": "https://t.co/p5B0lrW8mH"
+              }
+            ]
+          }
+        },
+        "id": "1433833820810211332",
+        "location": "Airrice space center",
+        "name": "Ettf Cabage @什么都只会一点的废物人生",
+        "pinned_tweet_id": "1996166985517031758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617749411005857793/1ffSoHVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 1772,
+          "like_count": 52771,
+          "listed_count": 8,
+          "media_count": 327,
+          "tweet_count": 13558
+        },
+        "url": "https://t.co/p5B0lrW8mH",
+        "username": "Ettf_Cabage",
+        "verified": false
+      }
+    ]
+  }
+}

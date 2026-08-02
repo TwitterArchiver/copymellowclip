@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009937727584907459",
+    "created_at": "2026-01-10T21:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T22:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010103307663278229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2008464765354733568",
+          "start": 0,
+          "username": "sanasanaero1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010103307663278229",
+    "in_reply_to_user_id": "2008464765354733568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009937727584907459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanasanaero1 超かわいい...!! ちゅっ♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2009937720186163200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-S7tRha0AAggFQ.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009937727584907459",
+        "created_at": "2026-01-10T21:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T22:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010103307663278229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2008464765354733568",
+              "start": 0,
+              "username": "sanasanaero1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010103307663278229",
+        "in_reply_to_user_id": "2008464765354733568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009937727584907459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanasanaero1 超かわいい...!! ちゅっ♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009937720186163200"
+          ]
+        },
+        "author_id": "2008464765354733568",
+        "conversation_id": "2009937727584907459",
+        "created_at": "2026-01-10T10:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T11:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009937727584907459"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "裏アカ女子"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "JC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBvpWkcmqo",
+              "end": 51,
+              "expanded_url": "https://x.com/sanasanaero1/status/2009937727584907459/photo/1",
+              "media_key": "3_2009937720186163200",
+              "start": 28,
+              "url": "https://t.co/QBvpWkcmqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009937727584907459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 12091,
+          "like_count": 527,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "いいねとコメントは義務です笑　\n#裏アカ女子　\n#JC https://t.co/QBvpWkcmqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 122,
+          "like_count": 605,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 382
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T09:05:22.000Z",
+        "description": "infj　ラブタイプわかんない\n次高1なります！\n首絞め💕好き💖\nコスプレすき！コミケいきたい！\n有料鍵垢🗝️@sanasanaero2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "sanasanaero2"
+              }
+            ]
+          }
+        },
+        "id": "2008464765354733568",
+        "name": "さな",
+        "pinned_tweet_id": "2009224295487308000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009851753290969093/VwXMo8YC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 133,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 138
+        },
+        "username": "sanasanaero1",
+        "verified": false
+      }
+    ]
+  }
+}

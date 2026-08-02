@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074562076559962112"
+      ],
+      "media_source_tweet_id": [
+        "2074562079697281117"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2075157834174812628",
+    "created_at": "2026-07-09T09:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075157834174812628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2019069006649667584",
+          "start": 3,
+          "username": "shunyuTvT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/33rx26CPJw",
+          "end": 42,
+          "expanded_url": "https://x.com/shunyuTvT/status/2074562079697281117/photo/1",
+          "media_key": "3_2074562076559962112",
+          "start": 19,
+          "url": "https://t.co/33rx26CPJw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075157834174812628",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074562079697281117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shunyuTvT: 自介！ https://t.co/33rx26CPJw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074562076559962112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpTN5XacAAB888.jpg",
+        "width": 1574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074562076559962112"
+          ],
+          "media_source_tweet_id": [
+            "2074562079697281117"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2075157834174812628",
+        "created_at": "2026-07-09T09:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075157834174812628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019069006649667584",
+              "start": 3,
+              "username": "shunyuTvT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/33rx26CPJw",
+              "end": 42,
+              "expanded_url": "https://x.com/shunyuTvT/status/2074562079697281117/photo/1",
+              "media_key": "3_2074562076559962112",
+              "start": 19,
+              "url": "https://t.co/33rx26CPJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075157834174812628",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074562079697281117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shunyuTvT: 自介！ https://t.co/33rx26CPJw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074562076559962112"
+          ]
+        },
+        "author_id": "2019069006649667584",
+        "conversation_id": "2074562079697281117",
+        "created_at": "2026-07-07T18:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074562079697281117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/33rx26CPJw",
+              "end": 27,
+              "expanded_url": "https://x.com/shunyuTvT/status/2074562079697281117/photo/1",
+              "media_key": "3_2074562076559962112",
+              "start": 4,
+              "url": "https://t.co/33rx26CPJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074562079697281117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10925,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自介！ https://t.co/33rx26CPJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 1778,
+          "like_count": 7360,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 3809
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T15:22:28.000Z",
+        "description": "11年｜♀｜中抑中焦｜戒割中...不od｜想多交点朋友但是内向喵｜会查成分回fo｜更多属性指路置顶～",
+        "id": "2019069006649667584",
+        "name": "瞬雨",
+        "pinned_tweet_id": "2074562079697281117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074263947969216512/ltPefXnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 128,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "shunyuTvT",
+        "verified": false
+      }
+    ]
+  }
+}

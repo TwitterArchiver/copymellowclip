@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010299228766314634",
+    "created_at": "2026-01-12T05:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T06:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010583194882740686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000060779056492544",
+          "start": 0,
+          "username": "kakou0026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010583194882740686",
+    "in_reply_to_user_id": "2000060779056492544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010299228766314634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakou0026 我在左下角、！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2010299222873296896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YEff-bUAAXM0_.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010299228766314634",
+        "created_at": "2026-01-12T05:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T06:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010583194882740686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000060779056492544",
+              "start": 0,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010583194882740686",
+        "in_reply_to_user_id": "2000060779056492544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010299228766314634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakou0026 我在左下角、！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010299222873296896"
+          ]
+        },
+        "author_id": "2000060779056492544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2010299228766314634",
+        "created_at": "2026-01-11T10:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010299228766314634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2010190159309090816/uuNyQexR?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010190159309090816/uuNyQexR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/3STAEYxYwG"
+            },
+            {
+              "display_url": "pic.x.com/CXItr0OB4L",
+              "end": 64,
+              "expanded_url": "https://x.com/kakou0026/status/2010299228766314634/photo/1",
+              "media_key": "3_2010299222873296896",
+              "start": 41,
+              "url": "https://t.co/CXItr0OB4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010299228766314634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4554,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/3STAEYxYwG https://t.co/CXItr0OB4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 188,
+          "like_count": 1250,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 616
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-14T04:30:32.000Z",
+        "description": "07｜女｜switch｜双｜单身｜ 回关看主页！｜防走丢1579218791",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/HmMHXfI5vl"
+              }
+            ]
+          }
+        },
+        "id": "2000060779056492544",
+        "location": "这里是Kakou 喜欢你来＞_＜",
+        "name": "Kakou",
+        "pinned_tweet_id": "2008049528918671858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010569778847764480/DepEpZBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 140,
+          "like_count": 2039,
+          "listed_count": 5,
+          "media_count": 172,
+          "tweet_count": 1721
+        },
+        "url": "https://t.co/HmMHXfI5vl",
+        "username": "kakou0026",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016494071406051766",
+    "created_at": "2026-01-29T04:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004483824122793984",
+          "start": 0,
+          "username": "momocha1599214e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016732058119524557",
+    "in_reply_to_user_id": "2004483824122793984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016494071406051766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momocha1599214e 我也要吃（张嘴）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2016493960647065600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wGksgWwAA_tCb.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016493960647065600"
+          ]
+        },
+        "author_id": "2004483824122793984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016494071406051766",
+        "created_at": "2026-01-28T12:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T13:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6AMnYCIQ6",
+              "end": 46,
+              "expanded_url": "https://x.com/momocha1599214e/status/2016494071406051766/photo/1",
+              "media_key": "3_2016493960647065600",
+              "start": 23,
+              "url": "https://t.co/w6AMnYCIQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016494071406051766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1949,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次吃鸡柳大人！好好吃世间居然有这种美味😋 https://t.co/w6AMnYCIQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1144,
+          "like_count": 5735,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T09:26:10.000Z",
+        "description": "可以叫我小璃|压抑女大的黄色废料处理地|超业余女喘|关注才回复私信，但不一定一定回|无🚪|女生互fo大欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/momocha%E5%9D%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/momocha%E5%9D%9A%E6%9E%9C",
+                "start": 0,
+                "url": "https://t.co/UyThplTnDm"
+              }
+            ]
+          }
+        },
+        "id": "2004483824122793984",
+        "location": "互联网幽灵",
+        "name": "momocha坚果",
+        "pinned_tweet_id": "2012093995208638567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004484296803799040/6eMhJDsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 79,
+          "like_count": 2949,
+          "listed_count": 3,
+          "media_count": 31,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/UyThplTnDm",
+        "username": "momocha1599214e",
+        "verified": false
+      }
+    ]
+  }
+}

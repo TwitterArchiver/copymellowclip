@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2060216306671235202",
+    "created_at": "2026-05-29T13:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060360089891209706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029348710019416064",
+          "start": 0,
+          "username": "RydaSabrin21361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060360089891209706",
+    "in_reply_to_user_id": "2029348710019416064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060216306671235202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RydaSabrin21361 还以为是网吧单间"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_2060216294490923008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdbzemaYAA9ZQG.jpg",
+        "width": 474
+      },
+      {
+        "height": 712,
+        "media_key": "3_2060216297531817984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdbzp7awAA20Ha.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2060216306671235202",
+        "created_at": "2026-05-29T13:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060360089891209706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029348710019416064",
+              "start": 0,
+              "username": "RydaSabrin21361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060360089891209706",
+        "in_reply_to_user_id": "2029348710019416064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060216306671235202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RydaSabrin21361 还以为是网吧单间"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060216294490923008",
+            "3_2060216297531817984"
+          ]
+        },
+        "author_id": "2029348710019416064",
+        "conversation_id": "2060216306671235202",
+        "created_at": "2026-05-29T04:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060216306671235202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lugofid8Fh",
+              "end": 56,
+              "expanded_url": "https://x.com/RydaSabrin21361/status/2060216306671235202/photo/1",
+              "media_key": "3_2060216294490923008",
+              "start": 33,
+              "url": "https://t.co/Lugofid8Fh"
+            },
+            {
+              "display_url": "pic.x.com/Lugofid8Fh",
+              "end": 56,
+              "expanded_url": "https://x.com/RydaSabrin21361/status/2060216306671235202/photo/1",
+              "media_key": "3_2060216297531817984",
+              "start": 33,
+              "url": "https://t.co/Lugofid8Fh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060216306671235202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 25302,
+          "like_count": 161,
+          "quote_count": 2,
+          "reply_count": 55,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "時給5000円で私の汚部屋掃除してくれるオス様いないですか💢📷💕 https://t.co/Lugofid8Fh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 1775,
+          "like_count": 7216,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 3523
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T00:10:34.000Z",
+        "description": "さぶ👉@mpp7u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "mpp7u"
+              }
+            ]
+          }
+        },
+        "id": "2029348710019416064",
+        "name": "めめ",
+        "pinned_tweet_id": "2057433552367825192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055191493460299776/iJQjb0ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 4,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "username": "RydaSabrin21361",
+        "verified": false
+      }
+    ]
+  }
+}

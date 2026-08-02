@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011366687610913140",
+    "created_at": "2026-01-14T11:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T12:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011404023161848313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1357661747243483138",
+          "start": 0,
+          "username": "Xiaojuan24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011404023161848313",
+    "in_reply_to_user_id": "1357661747243483138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011366687610913140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaojuan24 我来加1！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011366687610913140",
+        "created_at": "2026-01-14T11:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011404023161848313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1357661747243483138",
+              "start": 0,
+              "username": "Xiaojuan24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011404023161848313",
+        "in_reply_to_user_id": "1357661747243483138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011366687610913140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaojuan24 我来加1！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357661747243483138",
+        "conversation_id": "2011366687610913140",
+        "created_at": "2026-01-14T09:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011366687610913140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011366687610913140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1256,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发自拍掉了二十个粉丝…何意味…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 80,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 57,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 374,
+          "like_count": 2213,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-05T12:06:12.000Z",
+        "description": "补药取关我😭/纯绿 纯绿/爱发点没营养的废话/互关可以加v/私信礼貌的看见都会回/宝宝@jxcc515 ‼️置顶关评推广自辨‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "jxcc515"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=2W9iFUUM&from=XiaoJuan",
+                "start": 0,
+                "url": "https://t.co/bYVjtJpkmC"
+              }
+            ]
+          }
+        },
+        "id": "1357661747243483138",
+        "location": "自用VPN 有需要的可以试试⬇️",
+        "name": "小卷",
+        "pinned_tweet_id": "1953692145933857040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983936643041259520/cVCfEdzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3969,
+          "following_count": 316,
+          "like_count": 7805,
+          "listed_count": 5,
+          "media_count": 220,
+          "tweet_count": 3129
+        },
+        "url": "https://t.co/bYVjtJpkmC",
+        "username": "Xiaojuan24",
+        "verified": false
+      }
+    ]
+  }
+}

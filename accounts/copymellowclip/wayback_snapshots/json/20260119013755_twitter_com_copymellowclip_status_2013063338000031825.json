@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012414327350087742",
+    "created_at": "2026-01-19T01:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T02:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013063338000031825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725534917201645568",
+          "start": 0,
+          "username": "chuan_ao77311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013063338000031825",
+    "in_reply_to_user_id": "1725534917201645568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012414327350087742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_ao77311 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2012414324263022592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2IKmqa8AAvBvu.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012414327350087742",
+        "created_at": "2026-01-19T01:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T02:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013063338000031825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1725534917201645568",
+              "start": 0,
+              "username": "chuan_ao77311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013063338000031825",
+        "in_reply_to_user_id": "1725534917201645568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012414327350087742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_ao77311 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012414324263022592"
+          ]
+        },
+        "author_id": "1725534917201645568",
+        "conversation_id": "2012414327350087742",
+        "created_at": "2026-01-17T06:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012414327350087742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmv5P8cinQ",
+              "end": 42,
+              "expanded_url": "https://x.com/chuan_ao77311/status/2012414327350087742/photo/1",
+              "media_key": "3_2012414324263022592",
+              "start": 19,
+              "url": "https://t.co/dmv5P8cinQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012414327350087742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 647,
+          "impression_count": 708868,
+          "like_count": 5965,
+          "quote_count": 22,
+          "reply_count": 95,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "还有这个表情૮ ´͈ ᗜ `͈ ა♡ https://t.co/dmv5P8cinQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 651,
+          "like_count": 3713,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-17T15:23:01.000Z",
+        "description": "17/直男/intp/狮子座/185  75 16/Switch偏S一点\n可以叫我小叶🍁/互fo哦！主页正常哒！\n✉️https://t.co/JVdXa0bqOJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyiqiuxie/",
+                "end": 82,
+                "expanded_url": "https://ngl.link/diyiqiuxie/",
+                "start": 59,
+                "url": "https://t.co/JVdXa0bqOJ"
+              }
+            ]
+          }
+        },
+        "id": "1725534917201645568",
+        "name": "第一秋叶",
+        "pinned_tweet_id": "1976878577418436830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000006817481637889/7d7u4a2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 241,
+          "like_count": 5518,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1350
+        },
+        "username": "chuan_ao77311",
+        "verified": false
+      }
+    ]
+  }
+}

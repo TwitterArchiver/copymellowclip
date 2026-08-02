@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2045868786113499587",
+    "created_at": "2026-04-19T17:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T18:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045912365783552340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677673534607466497",
+          "start": 0,
+          "username": "qeiyeu7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045912365783552340",
+    "in_reply_to_user_id": "1677673534607466497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045904264783180104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qeiyeu7777 喵喵喵私信请求还是有的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2045868786113499587",
+        "created_at": "2026-04-19T17:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T18:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045912365783552340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677673534607466497",
+              "start": 0,
+              "username": "qeiyeu7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045912365783552340",
+        "in_reply_to_user_id": "1677673534607466497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045904264783180104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qeiyeu7777 喵喵喵私信请求还是有的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677673534607466497",
+        "conversation_id": "2045868786113499587",
+        "created_at": "2026-04-19T16:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045904264783180104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045904264783180104",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045868786113499587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我在中推透明到都没有机器人找我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 1702,
+          "like_count": 6703,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 2951
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T13:38:47.000Z",
+        "description": "Mementomori",
+        "id": "1677673534607466497",
+        "location": "水星（suisei）",
+        "name": "qeuyei",
+        "pinned_tweet_id": "1942593764540965339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032871359236419584/zJiP5Pr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 195,
+          "like_count": 14550,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3293
+        },
+        "username": "qeiyeu7777",
+        "verified": false
+      }
+    ]
+  }
+}

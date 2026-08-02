@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012381868684140789",
+    "created_at": "2026-01-17T06:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T07:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012412797888688329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1637160135771697152",
+          "start": 0,
+          "username": "OTO3HIBI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012412797888688329",
+    "in_reply_to_user_id": "1637160135771697152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012381868684140789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTO3HIBI 天呐、神技……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011980697813336066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-v9yOQbQAIj7tl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012381868684140789",
+        "created_at": "2026-01-17T06:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012412797888688329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1637160135771697152",
+              "start": 0,
+              "username": "OTO3HIBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012412797888688329",
+        "in_reply_to_user_id": "1637160135771697152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012381868684140789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTO3HIBI 天呐、神技……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011980697813336066"
+          ]
+        },
+        "author_id": "1637160135771697152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2012381868684140789",
+        "created_at": "2026-01-17T04:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T05:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012381868684140789"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "音無彩名"
+            },
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQefbNz16K",
+              "end": 61,
+              "expanded_url": "https://x.com/OTO3HIBI/status/2012381868684140789/photo/1",
+              "media_key": "3_2011980697813336066",
+              "start": 38,
+              "url": "https://t.co/rQefbNz16K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012381868684140789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 348,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "去往那万象伊始之地……\n#素晴らしき日々 \n#音無彩名 \n#cosplay https://t.co/rQefbNz16K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 84,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "喵",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 592,
+          "like_count": 3214,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1353
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-18T18:32:56.000Z",
+        "description": "我是响响/Xiang 🇨🇳10.7天秤INTP，算个coser 毛娘 以及视频编辑🤔gal比较喜欢樱之诗 Umineko 去人 ChaosChild，角色偏爱小木曾雪菜 川内野优美 立华奏 Arcueid。",
+        "id": "1637160135771697152",
+        "location": "六轩岛",
+        "name": "月代神奈OTO3HIBI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005826011817205760/3yGGrfoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 20,
+          "like_count": 326,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 161
+        },
+        "username": "OTO3HIBI",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016804653481283856",
+    "created_at": "2026-01-29T09:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T10:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016806125417746619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014321172591349760",
+          "start": 0,
+          "username": "sy1756288153554"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016806125417746619",
+    "in_reply_to_user_id": "2014321172591349760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016805889584615672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sy1756288153554 那你圈米（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2016804653481283856",
+        "created_at": "2026-01-29T09:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016806125417746619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014321172591349760",
+              "start": 0,
+              "username": "sy1756288153554"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016806125417746619",
+        "in_reply_to_user_id": "2014321172591349760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016805889584615672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sy1756288153554 那你圈米（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014321172591349760",
+        "conversation_id": "2016804653481283856",
+        "created_at": "2026-01-29T09:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016805889584615672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016805889584615672",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016804653481283856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip copy老师我的邮箱里问我有没有🚪 俺咋整😶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 1293,
+          "like_count": 5769,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-22T12:56:14.000Z",
+        "description": "谁愿意倾听我的原生家庭...算了，直接脱吧\n                                 匿名👉🏻  https://t.co/kPNTj6slFC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sy1756288153554",
+                "end": 84,
+                "expanded_url": "https://ngl.link/sy1756288153554",
+                "start": 61,
+                "url": "https://t.co/kPNTj6slFC"
+              }
+            ]
+          }
+        },
+        "id": "2014321172591349760",
+        "location": "1.2km",
+        "name": "谁来安慰破碎男大",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014505590480044032/fuxEBrPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 76,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 135
+        },
+        "username": "sy1756288153554",
+        "verified": false
+      }
+    ]
+  }
+}

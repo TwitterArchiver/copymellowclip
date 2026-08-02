@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013431900489293879",
+    "created_at": "2026-01-20T03:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T04:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013456907881853198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1455803047850905606",
+          "start": 0,
+          "username": "hiroki_honoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013456907881853198",
+    "in_reply_to_user_id": "1455803047850905606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013456271329108217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiroki_honoka 摸摸摸！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013431900489293879",
+        "created_at": "2026-01-20T03:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013456907881853198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455803047850905606",
+              "start": 0,
+              "username": "hiroki_honoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013456907881853198",
+        "in_reply_to_user_id": "1455803047850905606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013456271329108217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiroki_honoka 摸摸摸！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455803047850905606",
+        "conversation_id": "2013431900489293879",
+        "created_at": "2026-01-20T03:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013456271329108217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013456271329108217",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013455961911107634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 这样吗，那很奇怪了，不过玩的开心就行！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 708,
+          "like_count": 3976,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1580
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-03T07:44:52.000Z",
+        "description": "不必在意",
+        "id": "1455803047850905606",
+        "location": "哪都行",
+        "name": "灰骑士",
+        "pinned_tweet_id": "2013274807580737918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618095344600121344/so3bKGIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 13,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 195
+        },
+        "username": "hiroki_honoka",
+        "verified": false
+      }
+    ]
+  }
+}

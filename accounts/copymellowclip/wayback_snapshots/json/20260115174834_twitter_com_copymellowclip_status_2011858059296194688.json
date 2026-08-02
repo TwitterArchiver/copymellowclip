@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011476380224274894",
+    "created_at": "2026-01-15T17:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T18:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011858059296194688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009673611918110720",
+          "start": 0,
+          "username": "PotatoD6480"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011858059296194688",
+    "in_reply_to_user_id": "2009673611918110720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011481633271267827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PotatoD6480 i18n优秀实践（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011476380224274894",
+        "created_at": "2026-01-15T17:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T18:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011858059296194688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009673611918110720",
+              "start": 0,
+              "username": "PotatoD6480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011858059296194688",
+        "in_reply_to_user_id": "2009673611918110720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011481633271267827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PotatoD6480 i18n优秀实践（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009673611918110720",
+        "conversation_id": "2011476380224274894",
+        "created_at": "2026-01-14T16:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T17:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011481633271267827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011481633271267827",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011476380224274894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 国际大腕ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 76,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 53,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 532,
+          "like_count": 2736,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1204
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T17:08:42.000Z",
+        "description": "Male 05 INFP/非同非跨/有负能内容/请原谅我的意淫/某人小号，常发碎碎念🥺涩涩压抑用，如果打扰到泥了不要讨厌窝，窝会自己滚蛋。。",
+        "id": "2009673611918110720",
+        "name": "PotatoD",
+        "pinned_tweet_id": "2009689435143844051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009674189729615872/zBr2Czrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 51,
+          "like_count": 1647,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 363
+        },
+        "username": "PotatoD6480",
+        "verified": false
+      }
+    ]
+  }
+}

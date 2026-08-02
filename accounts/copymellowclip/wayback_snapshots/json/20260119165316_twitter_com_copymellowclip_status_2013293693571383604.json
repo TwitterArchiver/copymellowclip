@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013292893172113752",
+    "created_at": "2026-01-19T16:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T17:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013293693571383604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1379837206165086214",
+          "start": 0,
+          "username": "LwMOjd9TbVAk4fP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013293693571383604",
+    "in_reply_to_user_id": "1379837206165086214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013293318973870362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwMOjd9TbVAk4fP 怎么是饭店（）是说在家吃饭来着！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013292893172113752",
+        "created_at": "2026-01-19T16:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013293693571383604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1379837206165086214",
+              "start": 0,
+              "username": "LwMOjd9TbVAk4fP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013293693571383604",
+        "in_reply_to_user_id": "1379837206165086214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013293318973870362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwMOjd9TbVAk4fP 怎么是饭店（）是说在家吃饭来着！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1379837206165086214",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2013292893172113752",
+        "created_at": "2026-01-19T16:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013293318973870362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013293318973870362",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013292893172113752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 沙县小吃 很健康"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 681,
+          "like_count": 3874,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-07T16:43:33.000Z",
+        "description": "ip四川 很好说话 略懂心理学 欢迎和我互fo",
+        "id": "1379837206165086214",
+        "name": "真心为你",
+        "pinned_tweet_id": "2011847282614997122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011860551761346563/riG9hiLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 48,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 392
+        },
+        "username": "LwMOjd9TbVAk4fP",
+        "verified": false
+      }
+    ]
+  }
+}

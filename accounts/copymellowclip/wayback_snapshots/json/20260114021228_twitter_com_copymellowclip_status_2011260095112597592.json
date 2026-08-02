@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010906164951990439",
+    "created_at": "2026-01-14T02:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T03:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011260095112597592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1982331713188732930",
+          "start": 0,
+          "username": "chenwu52099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011260095112597592",
+    "in_reply_to_user_id": "1982331713188732930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010906164951990439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenwu52099 一瞬间还以为是瑞幸在推上发广告、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010906158283046914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gsfykbQAI8Y7u.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010906164951990439",
+        "created_at": "2026-01-14T02:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T03:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011260095112597592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1982331713188732930",
+              "start": 0,
+              "username": "chenwu52099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011260095112597592",
+        "in_reply_to_user_id": "1982331713188732930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010906164951990439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenwu52099 一瞬间还以为是瑞幸在推上发广告、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010906158283046914"
+          ]
+        },
+        "author_id": "1982331713188732930",
+        "conversation_id": "2010906164951990439",
+        "created_at": "2026-01-13T02:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T03:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010906164951990439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXmVeyim34",
+              "end": 60,
+              "expanded_url": "https://x.com/chenwu52099/status/2010906164951990439/photo/1",
+              "media_key": "3_2010906158283046914",
+              "start": 37,
+              "url": "https://t.co/nXmVeyim34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010906164951990439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 46554,
+          "like_count": 235,
+          "quote_count": 0,
+          "reply_count": 97,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说好不入门，但是遇到合拍的又忍不住，天天卖身入门姐属于是_(:з」∠)_ https://t.co/nXmVeyim34"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜脆与ins也是copymellowclip（用来防走失）\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 108,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 85,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 347,
+          "like_count": 2021,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 960
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T06:22:00.000Z",
+        "description": "我将视奸每一个点赞我的人",
+        "id": "1982331713188732930",
+        "name": "瑞幸咖啡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982365458570334208/btjrEdOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 240,
+          "like_count": 1447,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 407
+        },
+        "username": "chenwu52099",
+        "verified": false
+      }
+    ]
+  }
+}

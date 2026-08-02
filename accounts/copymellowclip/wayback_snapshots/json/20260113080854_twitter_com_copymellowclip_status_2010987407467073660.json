@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010985860129497256",
+    "created_at": "2026-01-13T08:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T09:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010987407467073660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "YuSuQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010987407467073660",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010986939563008402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuSuQAQ 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010985860129497256",
+        "created_at": "2026-01-13T08:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010987407467073660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "YuSuQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010987407467073660",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010986939563008402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuSuQAQ 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "2010985860129497256",
+        "created_at": "2026-01-13T08:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010986939563008402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010986939563008402",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010985860129497256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 298,
+          "like_count": 1747,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 857
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "我是一个又爱色色又想死的傻逼",
+        "id": "1758428820045189120",
+        "name": "空白（想认识很多人）",
+        "pinned_tweet_id": "2007176838620295505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002097716051259393/7M3q9Is9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 425,
+          "like_count": 5777,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 7305
+        },
+        "username": "YuSuQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

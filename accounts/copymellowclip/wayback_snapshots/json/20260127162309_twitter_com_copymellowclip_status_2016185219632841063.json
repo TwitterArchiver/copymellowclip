@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016165613157417056",
+    "created_at": "2026-01-27T16:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T17:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016185219632841063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741402065929396224",
+          "start": 0,
+          "username": "yuka_purinlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016185219632841063",
+    "in_reply_to_user_id": "1741402065929396224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016184424174584172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuka_purinlove 我喜欢你我喜欢你我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2016165613157417056",
+        "created_at": "2026-01-27T16:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016185219632841063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741402065929396224",
+              "start": 0,
+              "username": "yuka_purinlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016185219632841063",
+        "in_reply_to_user_id": "1741402065929396224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016184424174584172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuka_purinlove 我喜欢你我喜欢你我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741402065929396224",
+        "conversation_id": "2016165613157417056",
+        "created_at": "2026-01-27T16:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016184424174584172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016184424174584172",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016165613157417056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 好可爱！！！小宝宝我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 1039,
+          "like_count": 5497,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2045
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-31T10:13:08.000Z",
+        "description": "裏アカ🤍💜🤍20↑ 男的想扩列先给我转100女生可以直接私信我哟",
+        "id": "1741402065929396224",
+        "name": "ゆか",
+        "pinned_tweet_id": "2014492729443778934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013302042358390785/x0LJOy2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 57,
+          "like_count": 356,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 365
+        },
+        "username": "yuka_purinlove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013540342164070520",
+    "created_at": "2026-01-20T10:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T11:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013562745644298431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845786359082135552",
+          "start": 0,
+          "username": "Fluttermori"
+        },
+        {
+          "end": 26,
+          "id": "1755481615864872960",
+          "start": 13,
+          "username": "sjjsjq135000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013562745644298431",
+    "in_reply_to_user_id": "1845786359082135552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013540949100765322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fluttermori @sjjsjq135000 笑死我了你俩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013540342164070520",
+        "created_at": "2026-01-20T10:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013562745644298431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845786359082135552",
+              "start": 0,
+              "username": "Fluttermori"
+            },
+            {
+              "end": 26,
+              "id": "1755481615864872960",
+              "start": 13,
+              "username": "sjjsjq135000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013562745644298431",
+        "in_reply_to_user_id": "1845786359082135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013540949100765322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fluttermori @sjjsjq135000 笑死我了你俩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845786359082135552",
+        "conversation_id": "2013540342164070520",
+        "created_at": "2026-01-20T09:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T10:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013540949100765322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755481615864872960",
+              "start": 0,
+              "username": "sjjsjq135000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013540949100765322",
+        "in_reply_to_user_id": "1755481615864872960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013540688034459866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjjsjq135000 呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 739,
+          "like_count": 4080,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 1618
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-14T11:19:12.000Z",
+        "description": "碎碎念=ᗜωᗜ= /女孩子欢迎互fo /现生刷到请保持边界感！/讨厌不礼貌的信息我会直接拉黑",
+        "id": "1845786359082135552",
+        "location": "🚪88纯绿越多我越开心！/私信只收口令",
+        "name": "ぷよ",
+        "pinned_tweet_id": "2010715318365348314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005284831522127872/Zk63-t7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 111,
+          "like_count": 1885,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 763
+        },
+        "username": "Fluttermori",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T06:40:20.000Z",
+        "description": "cn晓风笑",
+        "id": "1755481615864872960",
+        "name": "电次",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009133454743752704/Z92W8eu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 176,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 486
+        },
+        "username": "sjjsjq135000",
+        "verified": false
+      }
+    ]
+  }
+}

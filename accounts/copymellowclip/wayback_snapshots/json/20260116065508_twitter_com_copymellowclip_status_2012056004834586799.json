@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012046264482078720"
+      ],
+      "media_source_tweet_id": [
+        "2012046276695925194"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1367132140811415552",
+          "name": "Street photography"
+        }
+      }
+    ],
+    "conversation_id": "2012056004834586799",
+    "created_at": "2026-01-16T06:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T07:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012056004834586799"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 19,
+          "tag": "Chongqing"
+        },
+        {
+          "end": 48,
+          "start": 30,
+          "tag": "streetphotography"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1951972278415364096",
+          "start": 3,
+          "username": "MikaPrime0404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2rmes7Yfep",
+          "end": 72,
+          "expanded_url": "https://x.com/MikaPrime0404/status/2012046276695925194/photo/1",
+          "media_key": "3_2012046264482078720",
+          "start": 49,
+          "url": "https://t.co/2rmes7Yfep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012056004834586799",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012046276695925194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MikaPrime0404: #Chongqing #streetphotography https://t.co/2rmes7Yfep"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2012046264482078720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-w5atIbIAAeXW7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012046264482078720"
+          ],
+          "media_source_tweet_id": [
+            "2012046276695925194"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1367132140811415552",
+              "name": "Street photography"
+            }
+          }
+        ],
+        "conversation_id": "2012056004834586799",
+        "created_at": "2026-01-16T06:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T07:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012056004834586799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "Chongqing"
+            },
+            {
+              "end": 48,
+              "start": 30,
+              "tag": "streetphotography"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1951972278415364096",
+              "start": 3,
+              "username": "MikaPrime0404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rmes7Yfep",
+              "end": 72,
+              "expanded_url": "https://x.com/MikaPrime0404/status/2012046276695925194/photo/1",
+              "media_key": "3_2012046264482078720",
+              "start": 49,
+              "url": "https://t.co/2rmes7Yfep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012056004834586799",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012046276695925194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MikaPrime0404: #Chongqing #streetphotography https://t.co/2rmes7Yfep"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012046264482078720"
+          ]
+        },
+        "author_id": "1951972278415364096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1367132140811415552",
+              "name": "Street photography"
+            }
+          }
+        ],
+        "conversation_id": "2012046276695925194",
+        "created_at": "2026-01-16T06:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T07:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012046276695925194"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "Chongqing"
+            },
+            {
+              "end": 29,
+              "start": 11,
+              "tag": "streetphotography"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rmes7Yfep",
+              "end": 53,
+              "expanded_url": "https://x.com/MikaPrime0404/status/2012046276695925194/photo/1",
+              "media_key": "3_2012046264482078720",
+              "start": 30,
+              "url": "https://t.co/2rmes7Yfep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012046276695925194",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#Chongqing #streetphotography https://t.co/2rmes7Yfep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 78,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 56,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢网址请收藏ovo",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 555,
+          "like_count": 2820,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1232
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T11:43:58.000Z",
+        "description": "In pursuit of subtle details. My visual journal is a meditation on light, shadow, and form. 探索未被注意的细节。我的视觉笔记，关于光、影与形式。| #街头摄影 #Cosplay #Street_Photography | 互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 120,
+                "tag": "街头摄影"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "tag": "Cosplay"
+              },
+              {
+                "end": 154,
+                "start": 135,
+                "tag": "Street_Photography"
+              }
+            ]
+          }
+        },
+        "id": "1951972278415364096",
+        "name": "MikaPrime0404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951972373210738688/j_ifra3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 70,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 22
+        },
+        "username": "MikaPrime0404",
+        "verified": false
+      }
+    ]
+  }
+}

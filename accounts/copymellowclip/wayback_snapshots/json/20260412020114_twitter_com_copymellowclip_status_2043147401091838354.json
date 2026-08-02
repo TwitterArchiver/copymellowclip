@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2042825867353821407",
+    "created_at": "2026-04-12T02:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043147401091838354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3184828508",
+          "start": 0,
+          "username": "astraorsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043147401091838354",
+    "in_reply_to_user_id": "3184828508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042825867353821407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@astraorsa 致敬传奇审美天灾马斯克"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2042825860349333508",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmTS_AakAQj-r1.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2042825867353821407",
+        "created_at": "2026-04-12T02:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043147401091838354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3184828508",
+              "start": 0,
+              "username": "astraorsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043147401091838354",
+        "in_reply_to_user_id": "3184828508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042825867353821407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@astraorsa 致敬传奇审美天灾马斯克"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042825860349333508"
+          ]
+        },
+        "author_id": "3184828508",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2042825867353821407",
+        "created_at": "2026-04-11T04:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042825867353821407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMO8xXUlrm",
+              "end": 79,
+              "expanded_url": "https://x.com/astraorsa/status/2042825867353821407/photo/1",
+              "media_key": "3_2042825860349333508",
+              "start": 56,
+              "url": "https://t.co/SMO8xXUlrm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042825867353821407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4860,
+          "like_count": 54,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这 App 图标也太丑了（\n而且我根本就不想用 Twitter 聊天，找我的全是 spam 还经常抽风很难用😑 https://t.co/SMO8xXUlrm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 1700,
+          "like_count": 6671,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2890
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-04T05:39:44.000Z",
+        "description": "矮纸斜行闲作草，晴窗细乳戏分茶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cynosura.one",
+                "end": 23,
+                "expanded_url": "https://cynosura.one",
+                "start": 0,
+                "url": "https://t.co/REjBdAN66j"
+              }
+            ]
+          }
+        },
+        "id": "3184828508",
+        "location": "TON 618",
+        "name": "千草茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012585523383009280/NU2wB57N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9483,
+          "following_count": 1258,
+          "like_count": 56368,
+          "listed_count": 48,
+          "media_count": 8627,
+          "tweet_count": 50734
+        },
+        "url": "https://t.co/REjBdAN66j",
+        "username": "astraorsa",
+        "verified": false
+      }
+    ]
+  }
+}

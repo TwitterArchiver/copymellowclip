@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2042291141740282099",
+    "created_at": "2026-04-10T01:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T02:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042418827527393746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1253292430792839174",
+          "start": 0,
+          "username": "Suzushirochika"
+        },
+        {
+          "end": 31,
+          "id": "2037881069090070529",
+          "start": 16,
+          "username": "Scar1234567889"
+        },
+        {
+          "end": 41,
+          "id": "2041531970006769664",
+          "start": 32,
+          "username": "poqzx246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042418827527393746",
+    "in_reply_to_user_id": "1253292430792839174",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042316279307190547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suzushirochika @Scar1234567889 @poqzx246 小千夏笑死我了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2042291141740282099",
+        "created_at": "2026-04-10T01:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042418827527393746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            },
+            {
+              "end": 31,
+              "id": "2037881069090070529",
+              "start": 16,
+              "username": "Scar1234567889"
+            },
+            {
+              "end": 41,
+              "id": "2041531970006769664",
+              "start": 32,
+              "username": "poqzx246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042418827527393746",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042316279307190547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika @Scar1234567889 @poqzx246 小千夏笑死我了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2042291141740282099",
+        "created_at": "2026-04-09T18:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042316279307190547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037881069090070529",
+              "start": 0,
+              "username": "Scar1234567889"
+            },
+            {
+              "end": 30,
+              "id": "2041531970006769664",
+              "start": 21,
+              "username": "poqzx246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042316279307190547",
+        "in_reply_to_user_id": "2037881069090070529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042291141740282099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scar1234567889 便民链接：@poqzx246"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 1707,
+          "like_count": 6633,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 2847
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14789,
+          "following_count": 747,
+          "like_count": 83810,
+          "listed_count": 14,
+          "media_count": 923,
+          "tweet_count": 17300
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T13:16:40.000Z",
+        "description": "懵逼懵逼再懵逼。\n中抑重焦/割/o/裸\n属性M\n🚪",
+        "id": "2037881069090070529",
+        "name": "scar",
+        "pinned_tweet_id": "2039828788985643342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040778743770488832/9bhbHHnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 47,
+          "like_count": 286,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 174
+        },
+        "username": "Scar1234567889",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T15:03:11.000Z",
+        "description": "戴拿",
+        "id": "2041531970006769664",
+        "location": "西安",
+        "name": "xi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041532755671228416/MXnamxYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 187
+        },
+        "username": "poqzx246",
+        "verified": false
+      }
+    ]
+  }
+}

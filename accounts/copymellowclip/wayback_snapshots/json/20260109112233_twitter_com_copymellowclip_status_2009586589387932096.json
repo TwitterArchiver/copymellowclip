@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009324031456235909",
+    "created_at": "2026-01-09T11:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T12:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009586589387932096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1344958069868957696",
+          "start": 0,
+          "username": "4MOEBA__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009586589387932096",
+    "in_reply_to_user_id": "876363325998678017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009586409808789852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4MOEBA__ ハートを大事そうに抱えてるとこ、かわいすぎる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009324031456235909",
+        "created_at": "2026-01-09T11:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009586589387932096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1344958069868957696",
+              "start": 0,
+              "username": "4MOEBA__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009586589387932096",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009586409808789852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4MOEBA__ ハートを大事そうに抱えてるとこ、かわいすぎる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009324031456235909",
+        "created_at": "2026-01-09T11:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009586409808789852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1344958069868957696",
+              "start": 0,
+              "username": "4MOEBA__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009586409808789852",
+        "in_reply_to_user_id": "1344958069868957696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009324031456235909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4MOEBA__ めめめっちゃかわいい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 35,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 150
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-01T10:46:16.000Z",
+        "description": "thx for ur comments!🥺https://t.co/jF0dDs6fwG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/4moeba",
+                "end": 44,
+                "expanded_url": "https://lit.link/4moeba",
+                "start": 21,
+                "url": "https://t.co/jF0dDs6fwG"
+              }
+            ]
+          }
+        },
+        "id": "1344958069868957696",
+        "location": "eng / 中文 /日本語 ",
+        "name": "mi",
+        "pinned_tweet_id": "1868898964772471076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003117749296586752/NHmFy_cW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3552,
+          "following_count": 379,
+          "like_count": 3894,
+          "listed_count": 12,
+          "media_count": 12,
+          "tweet_count": 123
+        },
+        "username": "4MOEBA__",
+        "verified": false
+      }
+    ]
+  }
+}

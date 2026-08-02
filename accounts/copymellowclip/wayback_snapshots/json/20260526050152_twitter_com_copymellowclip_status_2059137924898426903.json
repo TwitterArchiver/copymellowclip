@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2059104929701339160",
+    "created_at": "2026-05-26T05:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059137924898426903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983042229720735744",
+          "start": 0,
+          "username": "mchchc5216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059137924898426903",
+    "in_reply_to_user_id": "1983042229720735744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059104929701339160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mchchc5216 这集我知道，朋友为了cos超天酱买过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059104918938812416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNpA6CbgAAkEcD.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2059104929701339160",
+        "created_at": "2026-05-26T05:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059137924898426903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983042229720735744",
+              "start": 0,
+              "username": "mchchc5216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059137924898426903",
+        "in_reply_to_user_id": "1983042229720735744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059104929701339160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mchchc5216 这集我知道，朋友为了cos超天酱买过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059104918938812416"
+          ]
+        },
+        "author_id": "1983042229720735744",
+        "conversation_id": "2059104929701339160",
+        "created_at": "2026-05-26T02:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059104929701339160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUX9sUzqAI",
+              "end": 43,
+              "expanded_url": "https://x.com/mchchc5216/status/2059104929701339160/photo/1",
+              "media_key": "3_2059104918938812416",
+              "start": 20,
+              "url": "https://t.co/VUX9sUzqAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059104929701339160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2134,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不清楚买这个然后贴在胳膊上的人怎么想的 https://t.co/VUX9sUzqAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 1767,
+          "like_count": 7162,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 3427
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T05:25:04.000Z",
+        "description": "MTF l 长在春风里，活在药效里 Ⅱ od Ⅱ 紫餐 Ⅱ 生产日期：2011.3.29 // 坐标：山东济南 Ⅱ 优香单推人// 互fo ll ba国服新玩家 Ⅱ 扩列请加：1782403568 ✝昇天✝️\n🧀🍖🍗🍔🥩🌭🍟🍣🍤来玩提问箱 ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mchchc5216",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mchchc5216",
+                "start": 0,
+                "url": "https://t.co/mwjWoJrhwH"
+              }
+            ]
+          }
+        },
+        "id": "1983042229720735744",
+        "location": "基沃托斯",
+        "name": "hc5216ˣʸⁿ | 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054021490711085421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040819899392811008/-46z-zqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 525,
+          "like_count": 1806,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/mwjWoJrhwH",
+        "username": "mchchc5216",
+        "verified": false
+      }
+    ]
+  }
+}

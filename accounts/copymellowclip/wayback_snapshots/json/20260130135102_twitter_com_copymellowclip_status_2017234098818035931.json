@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2017169311526473759",
+    "created_at": "2026-01-30T13:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T14:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017234098818035931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1337890088638824448",
+          "start": 0,
+          "username": "Lingjiang_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017234098818035931",
+    "in_reply_to_user_id": "1337890088638824448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017169311526473759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingjiang_desu 天呐好可爱我也想去TT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2017169300810084352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5syqqbsAAg8iA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2017169311526473759",
+        "created_at": "2026-01-30T13:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017234098818035931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1337890088638824448",
+              "start": 0,
+              "username": "Lingjiang_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017234098818035931",
+        "in_reply_to_user_id": "1337890088638824448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017169311526473759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingjiang_desu 天呐好可爱我也想去TT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017169300810084352"
+          ]
+        },
+        "author_id": "1337890088638824448",
+        "conversation_id": "2017169311526473759",
+        "created_at": "2026-01-30T09:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017169311526473759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vw0xUnuE40",
+              "end": 77,
+              "expanded_url": "https://x.com/Lingjiang_desu/status/2017169311526473759/photo/1",
+              "media_key": "3_2017169300810084352",
+              "start": 54,
+              "url": "https://t.co/Vw0xUnuE40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017169311526473759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 718,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱喵🥺明天开始在女仆店（？）兼职了喵🥺可以来找我打桌游喵🥺但估计做到年前我就辞职了🥲年后要正式上班了喵🤗 https://t.co/Vw0xUnuE40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1500,
+          "like_count": 5965,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-12T22:40:44.000Z",
+        "description": "有对象 私信已关 无门槛 不卖图 不线下 不拍色图 纯日记本",
+        "id": "1337890088638824448",
+        "location": "Tokyo-to, Japan",
+        "name": "Nagiii-☆ナギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932399537580331008/8fWuTFH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 189,
+          "like_count": 1222,
+          "listed_count": 11,
+          "media_count": 368,
+          "tweet_count": 1242
+        },
+        "username": "Lingjiang_desu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010240627901116554",
+    "created_at": "2026-01-11T09:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T10:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010290262850109475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1507794054511497219",
+          "start": 0,
+          "username": "Miyu__Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010290262850109475",
+    "in_reply_to_user_id": "1507794054511497219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010289983152853061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyu__Z 补药啊最不擅长的一集"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010240627901116554",
+        "created_at": "2026-01-11T09:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T10:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010290262850109475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507794054511497219",
+              "start": 0,
+              "username": "Miyu__Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010290262850109475",
+        "in_reply_to_user_id": "1507794054511497219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010289983152853061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyu__Z 补药啊最不擅长的一集"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507794054511497219",
+        "conversation_id": "2010240627901116554",
+        "created_at": "2026-01-11T09:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T10:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010289983152853061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010289983152853061",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010289159156662300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 只要坚持发抽象文案一定会火的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 132,
+          "like_count": 877,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 460
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "争取成为人类的日常|| 里账，放眼熟的推友: @fuzhu514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "fuzhu514"
+              }
+            ]
+          }
+        },
+        "id": "1507794054511497219",
+        "location": "我是顺直郭楠（",
+        "name": "腐竹喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999413903890219013/lR3UvdSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 401,
+          "like_count": 30292,
+          "listed_count": 9,
+          "media_count": 194,
+          "tweet_count": 5683
+        },
+        "username": "Miyu__Z",
+        "verified": false
+      }
+    ]
+  }
+}

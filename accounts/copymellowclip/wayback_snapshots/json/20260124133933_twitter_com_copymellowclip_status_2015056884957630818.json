@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2015050978693976184",
+    "created_at": "2026-01-24T13:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T14:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015056884957630818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009673611918110720",
+          "start": 0,
+          "username": "PotatoD6480"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015056884957630818",
+    "in_reply_to_user_id": "2009673611918110720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015056581956628522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PotatoD6480 自己去店里抢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2015050978693976184",
+        "created_at": "2026-01-24T13:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015056884957630818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009673611918110720",
+              "start": 0,
+              "username": "PotatoD6480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015056884957630818",
+        "in_reply_to_user_id": "2009673611918110720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015056581956628522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PotatoD6480 自己去店里抢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009673611918110720",
+        "conversation_id": "2015050978693976184",
+        "created_at": "2026-01-24T13:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015056581956628522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015056581956628522",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015050978693976184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我要Marshall音箱（伸手）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 958,
+          "like_count": 5043,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1915
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T17:08:42.000Z",
+        "description": "Male 05 INFP/非同非跨/有负能内容/请原谅我的意淫/常发碎碎念🥺涩涩压抑用，如果打扰到泥了不要讨厌窝，窝会自己滚蛋。。",
+        "id": "2009673611918110720",
+        "name": "PotatoD",
+        "pinned_tweet_id": "2013263275144745333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009674189729615872/zBr2Czrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 74,
+          "like_count": 3794,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 729
+        },
+        "username": "PotatoD6480",
+        "verified": false
+      }
+    ]
+  }
+}

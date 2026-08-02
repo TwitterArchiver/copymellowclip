@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2079911784215871658",
+    "created_at": "2026-07-22T14:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079941961650467175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079941961650467175",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079911784215871658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 如何能变得像 mio 一样萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2079911771263873024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1UvHJWMAAMXV_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2079911784215871658",
+        "created_at": "2026-07-22T14:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079941961650467175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079941961650467175",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079911784215871658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 如何能变得像 mio 一样萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079911771263873024"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2079911784215871658",
+        "created_at": "2026-07-22T12:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079911784215871658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UViCMo3I7l",
+              "end": 34,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2079911784215871658/photo/1",
+              "media_key": "3_2079911771263873024",
+              "start": 11,
+              "url": "https://t.co/UViCMo3I7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079911784215871658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 397,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前不算坏总为你出头 https://t.co/UViCMo3I7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 1772,
+          "like_count": 7389,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 3847
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "miovo",
+        "pinned_tweet_id": "2011472330870907217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 239,
+          "like_count": 20044,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 3561
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

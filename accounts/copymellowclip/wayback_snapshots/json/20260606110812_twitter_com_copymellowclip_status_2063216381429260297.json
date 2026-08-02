@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061838141271793664"
+      ],
+      "media_source_tweet_id": [
+        "2061838185421029827"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063216381429260297",
+    "created_at": "2026-06-06T11:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063216381429260297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2061450593617563649",
+          "start": 3,
+          "username": "minesavior0311"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/887eZxXmEY",
+          "end": 54,
+          "expanded_url": "https://x.com/minesavior0311/status/2061838185421029827/photo/1",
+          "media_key": "3_2061838141271793664",
+          "start": 31,
+          "url": "https://t.co/887eZxXmEY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063216381429260297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061838185421029827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minesavior0311: 我想互fo 求求帮转 https://t.co/887eZxXmEY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_2061838141271793664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0e3YrbYAANxpx.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061838141271793664"
+          ],
+          "media_source_tweet_id": [
+            "2061838185421029827"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063216381429260297",
+        "created_at": "2026-06-06T11:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063216381429260297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2061450593617563649",
+              "start": 3,
+              "username": "minesavior0311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/887eZxXmEY",
+              "end": 54,
+              "expanded_url": "https://x.com/minesavior0311/status/2061838185421029827/photo/1",
+              "media_key": "3_2061838141271793664",
+              "start": 31,
+              "url": "https://t.co/887eZxXmEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063216381429260297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061838185421029827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minesavior0311: 我想互fo 求求帮转 https://t.co/887eZxXmEY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061838141271793664"
+          ]
+        },
+        "author_id": "2061450593617563649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061838185421029827",
+        "created_at": "2026-06-02T15:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061838185421029827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/887eZxXmEY",
+              "end": 34,
+              "expanded_url": "https://x.com/minesavior0311/status/2061838185421029827/photo/1",
+              "media_key": "3_2061838141271793664",
+              "start": 11,
+              "url": "https://t.co/887eZxXmEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061838185421029827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2338,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我想互fo 求求帮转 https://t.co/887eZxXmEY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 1772,
+          "like_count": 7236,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3589
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T14:15:47.000Z",
+        "description": "前世可颂\n我割我o 随便发发低脂小视频\n🚪52纯绿\n欢迎来找我玩\n防炸/雪兔https://t.co/UoBIc9JrtE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/keso1314sxh?s=…",
+                "end": 61,
+                "expanded_url": "https://x.com/keso1314sxh?s=21",
+                "start": 38,
+                "url": "https://t.co/UoBIc9JrtE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/E3FFBNW55n"
+              }
+            ]
+          }
+        },
+        "id": "2061450593617563649",
+        "location": "提问👉🏻",
+        "name": "Choke（Croissant5.0）",
+        "pinned_tweet_id": "2062780678484394089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062124667041959936/umI--rr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 157,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/E3FFBNW55n",
+        "username": "minesavior0311",
+        "verified": false
+      }
+    ]
+  }
+}

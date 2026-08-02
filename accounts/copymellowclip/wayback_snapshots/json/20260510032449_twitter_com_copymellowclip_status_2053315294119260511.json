@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2053237400805970016",
+    "created_at": "2026-05-10T03:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053315294119260511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980410903850885120",
+          "start": 0,
+          "username": "mmshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053315294119260511",
+    "in_reply_to_user_id": "1980410903850885120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053237400805970016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmshuxing 抖音胆敢拒绝这等萌物"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053237395118587906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6QiEeXgAIRlB9.jpg",
+        "width": 1506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2053237400805970016",
+        "created_at": "2026-05-10T03:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053315294119260511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980410903850885120",
+              "start": 0,
+              "username": "mmshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053315294119260511",
+        "in_reply_to_user_id": "1980410903850885120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053237400805970016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmshuxing 抖音胆敢拒绝这等萌物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053237395118587906"
+          ]
+        },
+        "author_id": "1980410903850885120",
+        "conversation_id": "2053237400805970016",
+        "created_at": "2026-05-09T22:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053237400805970016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5x5dIgPipM",
+              "end": 36,
+              "expanded_url": "https://x.com/mmshuxing/status/2053237400805970016/photo/1",
+              "media_key": "3_2053237395118587906",
+              "start": 13,
+              "url": "https://t.co/5x5dIgPipM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053237400805970016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音不过审和意为我很丑吗 https://t.co/5x5dIgPipM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 1733,
+          "like_count": 6960,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 3181
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T23:09:07.000Z",
+        "description": "幼幼 我喜欢@MmeTuT\n喜欢哥哥 餐券 抑焦 割手\n11年 INTP-T 顺女 友跨（🏳️‍🌈）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "MmeTuT"
+              }
+            ]
+          }
+        },
+        "id": "1980410903850885120",
+        "location": "好友位88 纯绿128 288",
+        "name": "死罪绝命",
+        "pinned_tweet_id": "2041265760366956715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050284709687517185/nDC89NHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 95,
+          "like_count": 2570,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 140
+        },
+        "username": "mmshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

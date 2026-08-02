@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2075065612947325285",
+    "created_at": "2026-07-09T04:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075076042369429796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1314081408982290432",
+          "start": 0,
+          "username": "Irelia7376"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/copymellowclip…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/copymellowclip/status/2075074648807772657",
+          "start": 21,
+          "url": "https://t.co/j8NZHMUyJM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075076042369429796",
+    "in_reply_to_user_id": "1314081408982290432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075074648807772657",
+        "type": "quoted"
+      },
+      {
+        "id": "2075075820448858397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irelia7376 这里有教程（？） https://t.co/j8NZHMUyJM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2075065612947325285",
+        "created_at": "2026-07-09T04:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075076042369429796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1314081408982290432",
+              "start": 0,
+              "username": "Irelia7376"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/copymellowclip…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/copymellowclip/status/2075074648807772657",
+              "start": 21,
+              "url": "https://t.co/j8NZHMUyJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075076042369429796",
+        "in_reply_to_user_id": "1314081408982290432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075074648807772657",
+            "type": "quoted"
+          },
+          {
+            "id": "2075075820448858397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irelia7376 这里有教程（？） https://t.co/j8NZHMUyJM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2075065612947325285",
+        "created_at": "2026-07-09T04:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075074648807772657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075074648807772657",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075068715901796818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 诶ww每天做饭会花18到20的嘛ww 我大概是一次买肉猪肉/鸡肉 大概10块到15！然后这些肉切成五块左右大概一周能吃完（）会买油菜土豆胡萝卜生菜洋葱豆芽青椒，买很多也花不上五块钱每星期，然后主食吃大米或者玉米，玉米一块五一棒，一棒我能吃两顿（）每顿饭主食半个玉米一些菜肉喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314081408982290432",
+        "conversation_id": "2075065612947325285",
+        "created_at": "2026-07-09T04:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075075820448858397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075075820448858397",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075065612947325285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 极限生存挑战吗😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 1777,
+          "like_count": 7347,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-08T05:53:23.000Z",
+        "description": "",
+        "id": "1314081408982290432",
+        "name": "人生とはとこしえのうらみのみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985665308015935488/6_OPfP1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 124,
+          "like_count": 4139,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1790
+        },
+        "url": "",
+        "username": "Irelia7376",
+        "verified": false
+      }
+    ]
+  }
+}

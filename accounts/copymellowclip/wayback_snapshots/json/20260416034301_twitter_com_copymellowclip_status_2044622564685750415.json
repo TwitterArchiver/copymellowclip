@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2044395765133652348",
+    "created_at": "2026-04-16T03:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044622564685750415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "42887075",
+          "start": 0,
+          "username": "xfgong"
+        },
+        {
+          "end": 19,
+          "id": "1667439202357899267",
+          "start": 8,
+          "username": "Pluvio9yte"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044622564685750415",
+    "in_reply_to_user_id": "42887075",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044542847668588685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xfgong @Pluvio9yte 开源也有lincense啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2044395765133652348",
+        "created_at": "2026-04-16T03:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044622564685750415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "42887075",
+              "start": 0,
+              "username": "xfgong"
+            },
+            {
+              "end": 19,
+              "id": "1667439202357899267",
+              "start": 8,
+              "username": "Pluvio9yte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044622564685750415",
+        "in_reply_to_user_id": "42887075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044542847668588685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xfgong @Pluvio9yte 开源也有lincense啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "42887075",
+        "conversation_id": "2044395765133652348",
+        "created_at": "2026-04-15T22:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T23:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044542847668588685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1667439202357899267",
+              "start": 0,
+              "username": "Pluvio9yte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044542847668588685",
+        "in_reply_to_user_id": "1667439202357899267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044395765133652348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluvio9yte 不想被别人借鉴就别开源，现在这种怕开源又被抄的心态，只把开源当做pr，而不是真心想开源"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 1694,
+          "like_count": 6681,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-27T13:59:34.000Z",
+        "description": "",
+        "id": "42887075",
+        "location": "Beijing",
+        "name": "chris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1114674577161031681/rVAjVXN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 243,
+          "like_count": 140,
+          "listed_count": 5,
+          "media_count": 4,
+          "tweet_count": 455
+        },
+        "username": "xfgong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T07:51:06.000Z",
+        "description": "💻 大厂牛马 && 热衷实用的新鲜技术\n🌏 擅长Vibe coding && Prompt & && Agent \n🌊 持续分享各类Web出海、AI编程、AI实战、出海必备干货内容 \n📩 商务合作 | 咨询 👉🏻 https://t.co/NQFSgc8FrP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pluviobyte",
+                "end": 130,
+                "expanded_url": "http://t.me/Pluviobyte",
+                "start": 107,
+                "url": "https://t.co/NQFSgc8FrP"
+              }
+            ]
+          }
+        },
+        "id": "1667439202357899267",
+        "name": "雪踏乌云",
+        "pinned_tweet_id": "2040453746497302871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986098802680369152/s5DF1Q7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28153,
+          "following_count": 752,
+          "like_count": 7782,
+          "listed_count": 349,
+          "media_count": 425,
+          "tweet_count": 3251
+        },
+        "username": "Pluvio9yte",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077046867175866368"
+      ],
+      "media_source_tweet_id": [
+        "2077046877087039815"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2077072653488427281",
+    "created_at": "2026-07-14T16:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077072653488427281"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "つり乙"
+        },
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "乙りろ"
+        },
+        {
+          "end": 30,
+          "start": 24,
+          "tag": "大蔵りそな"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779774601100189696",
+          "start": 3,
+          "username": "doll7799"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ELOpmrgyD4",
+          "end": 54,
+          "expanded_url": "https://x.com/doll7799/status/2077046877087039815/photo/1",
+          "media_key": "3_2077046867175866368",
+          "start": 31,
+          "url": "https://t.co/ELOpmrgyD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077072653488427281",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077046877087039815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doll7799: #つり乙 #乙りろ #大蔵りそな https://t.co/ELOpmrgyD4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077046867175866368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMnHvvbAAAhVyk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077046867175866368"
+          ],
+          "media_source_tweet_id": [
+            "2077046877087039815"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2077072653488427281",
+        "created_at": "2026-07-14T16:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077072653488427281"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "つり乙"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "乙りろ"
+            },
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "大蔵りそな"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779774601100189696",
+              "start": 3,
+              "username": "doll7799"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELOpmrgyD4",
+              "end": 54,
+              "expanded_url": "https://x.com/doll7799/status/2077046877087039815/photo/1",
+              "media_key": "3_2077046867175866368",
+              "start": 31,
+              "url": "https://t.co/ELOpmrgyD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077072653488427281",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077046877087039815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doll7799: #つり乙 #乙りろ #大蔵りそな https://t.co/ELOpmrgyD4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077046867175866368"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2077046877087039815",
+        "created_at": "2026-07-14T15:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077046877087039815"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "つり乙"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "乙りろ"
+            },
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "大蔵りそな"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELOpmrgyD4",
+              "end": 40,
+              "expanded_url": "https://x.com/doll7799/status/2077046877087039815/photo/1",
+              "media_key": "3_2077046867175866368",
+              "start": 17,
+              "url": "https://t.co/ELOpmrgyD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077046877087039815",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 801,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#つり乙 #乙りろ #大蔵りそな https://t.co/ELOpmrgyD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2872,
+          "following_count": 1776,
+          "like_count": 7377,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 3823
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707 \n匿名提问 https://t.co/2lBKx6Awd7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ydd67887",
+                "end": 41,
+                "expanded_url": "https://ngl.link/ydd67887",
+                "start": 18,
+                "url": "https://t.co/2lBKx6Awd7"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52聊一辈子",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5476,
+          "following_count": 10,
+          "like_count": 2912,
+          "listed_count": 22,
+          "media_count": 274,
+          "tweet_count": 1189
+        },
+        "url": "",
+        "username": "doll7799",
+        "verified": true
+      }
+    ]
+  }
+}

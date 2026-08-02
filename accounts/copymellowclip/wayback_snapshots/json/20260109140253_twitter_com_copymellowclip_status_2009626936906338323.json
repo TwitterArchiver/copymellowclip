@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009593140681081001",
+    "created_at": "2026-01-09T14:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T15:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009626936906338323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1664094644630851589",
+          "start": 0,
+          "username": "yeyupopopo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009626936906338323",
+    "in_reply_to_user_id": "1664094644630851589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009593140681081001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyupopopo 被铜丝了喵、"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4533,
+        "height": 720,
+        "media_key": "7_2009593120011542528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009593120011542528/pu/img/_cSpq2gp4h5jTo7O.jpg",
+        "public_metrics": {
+          "view_count": 322
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/vid/avc1/360x270/bJQJbxbQJaYirBZa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/vid/avc1/480x360/cSIAtcK8JkSw5lFm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/vid/avc1/960x720/qELqC-PrDG2sDueP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/pl/4-BhBPeZzlw8WWp8.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009593140681081001",
+        "created_at": "2026-01-09T14:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009626936906338323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1664094644630851589",
+              "start": 0,
+              "username": "yeyupopopo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009626936906338323",
+        "in_reply_to_user_id": "1664094644630851589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009593140681081001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyupopopo 被铜丝了喵、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009593120011542528"
+          ]
+        },
+        "author_id": "1664094644630851589",
+        "conversation_id": "2009593140681081001",
+        "created_at": "2026-01-09T11:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009593140681081001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjBpneShPC",
+              "end": 27,
+              "expanded_url": "https://x.com/yeyupopopo/status/2009593140681081001/video/1",
+              "media_key": "7_2009593120011542528",
+              "start": 4,
+              "url": "https://t.co/OjBpneShPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009593140681081001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 891,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "铜丝你 https://t.co/OjBpneShPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 40,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 191
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T02:21:13.000Z",
+        "description": "白日梦",
+        "id": "1664094644630851589",
+        "name": "葉雨popopoi",
+        "pinned_tweet_id": "1816351755552317609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664096727572574208/1vCX2-g1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25426,
+          "following_count": 121,
+          "like_count": 3283,
+          "listed_count": 105,
+          "media_count": 104,
+          "tweet_count": 808
+        },
+        "username": "yeyupopopo",
+        "verified": false
+      }
+    ]
+  }
+}

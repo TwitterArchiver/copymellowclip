@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2071958268373762068",
+    "created_at": "2026-06-30T15:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071979452356337721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2013724577529049088",
+          "start": 0,
+          "username": "_ropuu"
+        },
+        {
+          "end": 19,
+          "id": "2070541460659924992",
+          "start": 8,
+          "username": "Kiri_yume1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071979452356337721",
+    "in_reply_to_user_id": "2013724577529049088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071958268373762068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropuu @Kiri_yume1 居然也是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1831,
+        "media_key": "3_2071958255614492672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMETDkdXAAAvxyk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2071958268373762068",
+        "created_at": "2026-06-30T15:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071979452356337721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2013724577529049088",
+              "start": 0,
+              "username": "_ropuu"
+            },
+            {
+              "end": 19,
+              "id": "2070541460659924992",
+              "start": 8,
+              "username": "Kiri_yume1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071979452356337721",
+        "in_reply_to_user_id": "2013724577529049088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071958268373762068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropuu @Kiri_yume1 居然也是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071958255614492672"
+          ]
+        },
+        "author_id": "2013724577529049088",
+        "conversation_id": "2071958268373762068",
+        "created_at": "2026-06-30T14:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071958268373762068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2070541460659924992",
+              "start": 17,
+              "username": "Kiri_yume1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuxydvWeGj",
+              "end": 58,
+              "expanded_url": "https://x.com/_ropuu/status/2071958268373762068/photo/1",
+              "media_key": "3_2071958255614492672",
+              "start": 35,
+              "url": "https://t.co/RuxydvWeGj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071958268373762068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你一定还记得我………\n→Also @Kiri_yume1 ← 也是我 https://t.co/RuxydvWeGj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 1776,
+          "like_count": 7315,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 3727
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "|| 本垢 @_ropu || 网络一线牵珍惜这段缘 ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 6,
+                "username": "_ropu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RopuTrushCan",
+                "end": 23,
+                "expanded_url": "https://t.me/RopuTrushCan",
+                "start": 0,
+                "url": "https://t.co/vOSfeDndjM"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": "黑巧黑巧",
+        "pinned_tweet_id": "2071958268373762068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071192094417526784/8RQZBkY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 232,
+          "like_count": 672,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/vOSfeDndjM",
+        "username": "_ropuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T16:16:49.000Z",
+        "description": "わがはいはきり夢です ||",
+        "id": "2070541460659924992",
+        "name": "Kiriyume",
+        "pinned_tweet_id": "2070546609449173327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071959727718703104/nMajyzP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 54,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Kiri_yume1",
+        "verified": false
+      }
+    ]
+  }
+}

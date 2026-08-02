@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009954139321798842",
+    "created_at": "2026-01-10T12:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T13:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009958402676695518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999747932573302784",
+          "start": 0,
+          "username": "Tivzy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009958402676695518",
+    "in_reply_to_user_id": "1999747932573302784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009954139321798842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tivzy77 我爱你...！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009954139321798842",
+        "created_at": "2026-01-10T12:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009958402676695518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999747932573302784",
+              "start": 0,
+              "username": "Tivzy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009958402676695518",
+        "in_reply_to_user_id": "1999747932573302784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009954139321798842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tivzy77 我爱你...！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999747932573302784",
+        "conversation_id": "2009954139321798842",
+        "created_at": "2026-01-10T11:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009954139321798842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/copymellowclip…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/copymellowclip/status/2009952465425514917",
+              "start": 10,
+              "url": "https://t.co/ryOeZFaG4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009954139321798842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009952465425514917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人来夸夸我宝宝 https://t.co/ryOeZFaG4X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 66,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 269
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T07:47:25.000Z",
+        "description": "皮下是非常坏并且玻璃心的小女孩",
+        "id": "1999747932573302784",
+        "name": "谁理你",
+        "pinned_tweet_id": "2009153255864148333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009568818801336320/z9gXXSMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 48,
+          "like_count": 602,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 349
+        },
+        "username": "Tivzy77",
+        "verified": false
+      }
+    ]
+  }
+}

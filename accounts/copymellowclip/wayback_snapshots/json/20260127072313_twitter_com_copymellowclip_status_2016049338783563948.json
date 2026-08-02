@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2015345988488372227",
+    "created_at": "2026-01-27T07:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T08:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016049338783563948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001998644673994752",
+          "start": 0,
+          "username": "morganofliberal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016049338783563948",
+    "in_reply_to_user_id": "2001998644673994752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我是觉得游戏防沉迷单纯是把国家和企业的责任转嫁给家长本身，防止家长唱“马云你听我说”的手段，毕竟小孩要玩的话怎么都可以让父母帮忙防沉迷。\n\n性同意年龄14岁，是因为14岁以下通过没有任何发生性行为的权利来保护，如果发生性关系就默认你是被剥削导致的性行为。\n\n我们设想一下性同意年龄如果是16岁或者18岁会怎么样？\n如果一个人16岁（高中生），也大概率基本完全了解性行为，打扮的成熟让人无法准确判断性别，与其他人发生性关系的话可以百分百让对方坐牢并以此进行敲诈，这明显也是不合理的行为吧。\n但对于有特殊职业或不对等身份，与未成年发生关系仍然是根据监护人或其他方向来判罚，所以这个制度是有一定道理的。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015345988488372227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@morganofliberal 我是觉得游戏防沉迷单纯是把国家和企业的责任转嫁给家长本身，防止家长唱“马云你听我说”的手段，毕竟小孩要玩的话怎么都可以让父母帮忙防沉迷。\n\n性同意年龄14岁，是因为14岁以下通过没有任何发生性行为的权利来保护，如果发生性关系就默认你是被剥削导致的性行为。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2015345985632006144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fyfwUa8AAKcuH.jpg",
+        "width": 761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2015345988488372227",
+        "created_at": "2026-01-27T07:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016049338783563948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001998644673994752",
+              "start": 0,
+              "username": "morganofliberal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016049338783563948",
+        "in_reply_to_user_id": "2001998644673994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是觉得游戏防沉迷单纯是把国家和企业的责任转嫁给家长本身，防止家长唱“马云你听我说”的手段，毕竟小孩要玩的话怎么都可以让父母帮忙防沉迷。\n\n性同意年龄14岁，是因为14岁以下通过没有任何发生性行为的权利来保护，如果发生性关系就默认你是被剥削导致的性行为。\n\n我们设想一下性同意年龄如果是16岁或者18岁会怎么样？\n如果一个人16岁（高中生），也大概率基本完全了解性行为，打扮的成熟让人无法准确判断性别，与其他人发生性关系的话可以百分百让对方坐牢并以此进行敲诈，这明显也是不合理的行为吧。\n但对于有特殊职业或不对等身份，与未成年发生关系仍然是根据监护人或其他方向来判罚，所以这个制度是有一定道理的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015345988488372227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@morganofliberal 我是觉得游戏防沉迷单纯是把国家和企业的责任转嫁给家长本身，防止家长唱“马云你听我说”的手段，毕竟小孩要玩的话怎么都可以让父母帮忙防沉迷。\n\n性同意年龄14岁，是因为14岁以下通过没有任何发生性行为的权利来保护，如果发生性关系就默认你是被剥削导致的性行为。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015345985632006144"
+          ]
+        },
+        "author_id": "2001998644673994752",
+        "conversation_id": "2015345988488372227",
+        "created_at": "2026-01-25T08:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015345988488372227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VnPKoTv1Yu",
+              "end": 30,
+              "expanded_url": "https://x.com/morganofliberal/status/2015345988488372227/photo/1",
+              "media_key": "3_2015345985632006144",
+              "start": 7,
+              "url": "https://t.co/VnPKoTv1Yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015345988488372227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 450953,
+          "like_count": 3178,
+          "quote_count": 6,
+          "reply_count": 108,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "荒诞的中国人 https://t.co/VnPKoTv1Yu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 1033,
+          "like_count": 5446,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 2029
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-19T12:51:01.000Z",
+        "description": "穷则独善其身，达则兼济天下",
+        "id": "2001998644673994752",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "Morgan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001999389523623937/zyBvgTZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 240,
+          "like_count": 1722,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 1131
+        },
+        "username": "morganofliberal",
+        "verified": false
+      }
+    ]
+  }
+}

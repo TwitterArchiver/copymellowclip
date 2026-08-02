@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010563995980251306",
+    "created_at": "2026-01-12T04:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T05:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010571723389948290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009673611918110720",
+          "start": 0,
+          "username": "PotatoD6480"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010571723389948290",
+    "in_reply_to_user_id": "2009673611918110720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010563995980251306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PotatoD6480 好坏、！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010563995980251306",
+        "created_at": "2026-01-12T04:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010571723389948290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009673611918110720",
+              "start": 0,
+              "username": "PotatoD6480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010571723389948290",
+        "in_reply_to_user_id": "2009673611918110720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010563995980251306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PotatoD6480 好坏、！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009673611918110720",
+        "conversation_id": "2010563995980251306",
+        "created_at": "2026-01-12T04:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010563995980251306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010563995980251306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "msk我求你了别自己往我关注列表里塞帐号呗 感觉就像陌生人上来打了我一巴掌 我好痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 190,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 624
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T17:08:42.000Z",
+        "description": "Male 05 INFP/非同非跨/有负能内容/请原谅我的意淫/某人小号，常发碎碎念🥺涩涩压抑用，如果打扰到泥了不要讨厌窝，窝会自己滚蛋。。",
+        "id": "2009673611918110720",
+        "name": "PotatoD",
+        "pinned_tweet_id": "2009689435143844051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009674189729615872/zBr2Czrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 46,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 146
+        },
+        "username": "PotatoD6480",
+        "verified": false
+      }
+    ]
+  }
+}

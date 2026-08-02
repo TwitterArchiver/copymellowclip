@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010980880794435672",
+    "created_at": "2026-01-13T15:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T16:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011101523032621415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1980682684985921536",
+          "start": 0,
+          "username": "linovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011101523032621415",
+    "in_reply_to_user_id": "1980682684985921536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011097169382773203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linovo33 又被小檩主人夸啦ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010980880794435672",
+        "created_at": "2026-01-13T15:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011101523032621415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1980682684985921536",
+              "start": 0,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011101523032621415",
+        "in_reply_to_user_id": "1980682684985921536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011097169382773203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linovo33 又被小檩主人夸啦ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980682684985921536",
+        "conversation_id": "2010980880794435672",
+        "created_at": "2026-01-13T15:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011097169382773203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011097169382773203",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010980880794435672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 美的像瓷娃娃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 321,
+          "like_count": 1885,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 901
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "不收门不加任何联系方式不下海不线下别私信我｜会发黄文介意屏蔽就好｜我很敏感请不要对我有恶意",
+        "id": "1980682684985921536",
+        "location": "Amoy",
+        "name": "檩",
+        "pinned_tweet_id": "2010004795894165769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010005579511803909/rdE55MHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 47,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 623
+        },
+        "username": "linovo33",
+        "verified": false
+      }
+    ]
+  }
+}

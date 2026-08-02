@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063189964364632064",
+        "3_2063189965887176704"
+      ],
+      "media_source_tweet_id": [
+        "2063189968592457847",
+        "2063189968592457847"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2065579432426033304",
+    "created_at": "2026-06-12T23:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T00:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065579432426033304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2063187473405227008",
+          "start": 3,
+          "username": "yvame_rain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dVw8mEkAHJ",
+          "end": 113,
+          "expanded_url": "https://x.com/yvame_rain/status/2063189968592457847/photo/1",
+          "media_key": "3_2063189964364632064",
+          "start": 90,
+          "url": "https://t.co/dVw8mEkAHJ"
+        },
+        {
+          "display_url": "pic.x.com/dVw8mEkAHJ",
+          "end": 113,
+          "expanded_url": "https://x.com/yvame_rain/status/2063189968592457847/photo/1",
+          "media_key": "3_2063189965887176704",
+          "start": 90,
+          "url": "https://t.co/dVw8mEkAHJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065579432426033304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063189968592457847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yvame_rain: 这里是小雨  09  ip湖北武汉\n有心理疾病 什么都玩一点点 喜欢我的话可以资助我\n大号发了太多负能暂停使用了，这个号我会正常发东西\n感谢喜欢呀 https://t.co/dVw8mEkAHJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2063189964364632064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHsV2Ia0AA8wYn.jpg",
+        "width": 1122
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2063189965887176704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHsV7zbAAA7Xjd.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063189964364632064",
+            "3_2063189965887176704"
+          ],
+          "media_source_tweet_id": [
+            "2063189968592457847",
+            "2063189968592457847"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2065579432426033304",
+        "created_at": "2026-06-12T23:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065579432426033304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2063187473405227008",
+              "start": 3,
+              "username": "yvame_rain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVw8mEkAHJ",
+              "end": 113,
+              "expanded_url": "https://x.com/yvame_rain/status/2063189968592457847/photo/1",
+              "media_key": "3_2063189964364632064",
+              "start": 90,
+              "url": "https://t.co/dVw8mEkAHJ"
+            },
+            {
+              "display_url": "pic.x.com/dVw8mEkAHJ",
+              "end": 113,
+              "expanded_url": "https://x.com/yvame_rain/status/2063189968592457847/photo/1",
+              "media_key": "3_2063189965887176704",
+              "start": 90,
+              "url": "https://t.co/dVw8mEkAHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065579432426033304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063189968592457847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yvame_rain: 这里是小雨  09  ip湖北武汉\n有心理疾病 什么都玩一点点 喜欢我的话可以资助我\n大号发了太多负能暂停使用了，这个号我会正常发东西\n感谢喜欢呀 https://t.co/dVw8mEkAHJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063189964364632064",
+            "3_2063189965887176704"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063189968592457847",
+        "created_at": "2026-06-06T09:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063189968592457847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVw8mEkAHJ",
+              "end": 97,
+              "expanded_url": "https://x.com/yvame_rain/status/2063189968592457847/photo/1",
+              "media_key": "3_2063189964364632064",
+              "start": 74,
+              "url": "https://t.co/dVw8mEkAHJ"
+            },
+            {
+              "display_url": "pic.x.com/dVw8mEkAHJ",
+              "end": 97,
+              "expanded_url": "https://x.com/yvame_rain/status/2063189968592457847/photo/1",
+              "media_key": "3_2063189965887176704",
+              "start": 74,
+              "url": "https://t.co/dVw8mEkAHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063189968592457847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2800,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小雨  09  ip湖北武汉\n有心理疾病 什么都玩一点点 喜欢我的话可以资助我\n大号发了太多负能暂停使用了，这个号我会正常发东西\n感谢喜欢呀 https://t.co/dVw8mEkAHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 1775,
+          "like_count": 7405,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 3662
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//最好的朋友@ace_sana_//原账号负能量内容与此账号内容无关//B站：宅小雨rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "ace_sana_"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 65,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 41
+        },
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

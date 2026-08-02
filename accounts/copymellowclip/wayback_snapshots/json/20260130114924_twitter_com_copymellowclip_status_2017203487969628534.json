@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016887706970968108",
+    "created_at": "2026-01-30T11:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017203487969628534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1988706610005569536",
+          "start": 0,
+          "username": "MatrixCoreX"
+        },
+        {
+          "end": 22,
+          "id": "1812304729432838144",
+          "start": 13,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017203487969628534",
+    "in_reply_to_user_id": "1988706610005569536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017038854096605639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@MatrixCoreX @huimu420 一个月不到1100的保安很多地区都有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2016887706970968108",
+        "created_at": "2026-01-30T11:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017203487969628534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1988706610005569536",
+              "start": 0,
+              "username": "MatrixCoreX"
+            },
+            {
+              "end": 22,
+              "id": "1812304729432838144",
+              "start": 13,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017203487969628534",
+        "in_reply_to_user_id": "1988706610005569536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017038854096605639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@MatrixCoreX @huimu420 一个月不到1100的保安很多地区都有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988706610005569536",
+        "conversation_id": "2016887706970968108",
+        "created_at": "2026-01-30T00:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017038854096605639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017038854096605639",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2523,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016887706970968108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@huimu420 干保安也不止3000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 1477,
+          "like_count": 5918,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 2179
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-12T20:33:15.000Z",
+        "description": "财富矩阵，流量为王 ，真人矩阵✈️https://t.co/qNiPhSiD6f 不正经全栈工程师 ｜C2C 0撸分享任务平台⬇️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/w3matrix",
+                "end": 40,
+                "expanded_url": "https://t.me/w3matrix",
+                "start": 17,
+                "url": "https://t.co/qNiPhSiD6f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web3matrix.xyz",
+                "end": 23,
+                "expanded_url": "https://web3matrix.xyz/",
+                "start": 0,
+                "url": "https://t.co/Gbc08iDS0K"
+              }
+            ]
+          }
+        },
+        "id": "1988706610005569536",
+        "location": "mars",
+        "name": "MatrixCore 瓜七公",
+        "pinned_tweet_id": "2007313100589166917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996424161292369921/zBe4rW2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 2921,
+          "like_count": 3158,
+          "listed_count": 2,
+          "media_count": 370,
+          "tweet_count": 2560
+        },
+        "url": "https://t.co/Gbc08iDS0K",
+        "username": "MatrixCoreX",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "惨逼一个 聊黄滚 骂我死妈 被b自己找原因 fo你＝喜欢 \n唯一的恋人是酷拉皮卡…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 0,
+                "url": "https://t.co/o2XkPNmz4o"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "提问箱→",
+        "name": "回木",
+        "pinned_tweet_id": "2016510432039571539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 650,
+          "like_count": 20740,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 4997
+        },
+        "url": "https://t.co/o2XkPNmz4o",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

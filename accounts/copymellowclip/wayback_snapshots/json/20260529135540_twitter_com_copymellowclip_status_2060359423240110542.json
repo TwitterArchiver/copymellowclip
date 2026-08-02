@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2060344402158194957",
+    "created_at": "2026-05-29T13:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060359423240110542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2013724577529049088",
+          "start": 0,
+          "username": "_roopuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060359423240110542",
+    "in_reply_to_user_id": "2013724577529049088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060344402158194957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_roopuu 肯定和你玩呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2060344402158194957",
+        "created_at": "2026-05-29T13:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060359423240110542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2013724577529049088",
+              "start": 0,
+              "username": "_roopuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060359423240110542",
+        "in_reply_to_user_id": "2013724577529049088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060344402158194957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_roopuu 肯定和你玩呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013724577529049088",
+        "conversation_id": "2060344402158194957",
+        "created_at": "2026-05-29T12:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060344402158194957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060344402158194957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我逐渐把精神药品停掉 你们会把我当成健全人然后不和我玩吗🥺🥺\n我有些想恢复那种世俗人所说的“正常生活”，至少我想少借助药物获得一些快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 1775,
+          "like_count": 7216,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 3522
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "本垢 @_ropu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "_ropu"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": "プロ",
+        "pinned_tweet_id": "2059631799094161801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058139565706354688/a9VoHTY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 98,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 316
+        },
+        "username": "_roopuu",
+        "verified": false
+      }
+    ]
+  }
+}

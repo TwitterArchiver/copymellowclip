@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011101687008936292",
+    "created_at": "2026-01-14T01:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T02:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011250542744649815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000060779056492544",
+          "start": 0,
+          "username": "kakou0026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011250542744649815",
+    "in_reply_to_user_id": "2000060779056492544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011101687008936292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakou0026 能不能别问恶心问题不许欺负这个kakou酱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011101674283081728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-jeUUbWIAAWN7z.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2011101674274721792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-jeUUZWkAAsFF6.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2011101674274775040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-jeUUZXYAAyj47.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2011101674283188224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-jeUUbXwAAlHgO.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011101687008936292",
+        "created_at": "2026-01-14T01:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T02:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011250542744649815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000060779056492544",
+              "start": 0,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011250542744649815",
+        "in_reply_to_user_id": "2000060779056492544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011101687008936292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakou0026 能不能别问恶心问题不许欺负这个kakou酱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011101674283081728",
+            "3_2011101674274721792",
+            "3_2011101674274775040",
+            "3_2011101674283188224"
+          ]
+        },
+        "author_id": "2000060779056492544",
+        "conversation_id": "2011101687008936292",
+        "created_at": "2026-01-13T15:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011101687008936292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dssjQ3mMZM",
+              "end": 51,
+              "expanded_url": "https://x.com/kakou0026/status/2011101687008936292/photo/1",
+              "media_key": "3_2011101674283081728",
+              "start": 28,
+              "url": "https://t.co/dssjQ3mMZM"
+            },
+            {
+              "display_url": "pic.x.com/dssjQ3mMZM",
+              "end": 51,
+              "expanded_url": "https://x.com/kakou0026/status/2011101687008936292/photo/1",
+              "media_key": "3_2011101674274721792",
+              "start": 28,
+              "url": "https://t.co/dssjQ3mMZM"
+            },
+            {
+              "display_url": "pic.x.com/dssjQ3mMZM",
+              "end": 51,
+              "expanded_url": "https://x.com/kakou0026/status/2011101687008936292/photo/1",
+              "media_key": "3_2011101674274775040",
+              "start": 28,
+              "url": "https://t.co/dssjQ3mMZM"
+            },
+            {
+              "display_url": "pic.x.com/dssjQ3mMZM",
+              "end": 51,
+              "expanded_url": "https://x.com/kakou0026/status/2011101687008936292/photo/1",
+              "media_key": "3_2011101674283188224",
+              "start": 28,
+              "url": "https://t.co/dssjQ3mMZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011101687008936292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1201,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1️⃣不要！\n2️⃣不要！\n3️⃣不要！\n4️⃣不要！ https://t.co/dssjQ3mMZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜脆与ins也是copymellowclip（用来防走失）\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 108,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 85,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 344,
+          "like_count": 1991,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 939
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-14T04:30:32.000Z",
+        "description": "07｜女｜switch｜双｜单身｜ 回关看主页！｜防走丢1579218791",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/HmMHXfI5vl"
+              }
+            ]
+          }
+        },
+        "id": "2000060779056492544",
+        "location": "这里是Kakou 喜欢你来＞_＜",
+        "name": "Kakou",
+        "pinned_tweet_id": "2008049528918671858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010569778847764480/DepEpZBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2229,
+          "following_count": 137,
+          "like_count": 2352,
+          "listed_count": 5,
+          "media_count": 187,
+          "tweet_count": 1947
+        },
+        "url": "https://t.co/HmMHXfI5vl",
+        "username": "kakou0026",
+        "verified": false
+      }
+    ]
+  }
+}

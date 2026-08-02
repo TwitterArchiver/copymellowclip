@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012016593061232656",
+    "created_at": "2026-01-16T06:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T07:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012053251303358627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1707613939130126336",
+          "start": 0,
+          "username": "wwwyqcq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012053251303358627",
+    "in_reply_to_user_id": "1707613939130126336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012041158302793958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwyqcq 哎呀我也是www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012016593061232656",
+        "created_at": "2026-01-16T06:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T07:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012053251303358627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1707613939130126336",
+              "start": 0,
+              "username": "wwwyqcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012053251303358627",
+        "in_reply_to_user_id": "1707613939130126336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012041158302793958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwyqcq 哎呀我也是www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707613939130126336",
+        "conversation_id": "2012016593061232656",
+        "created_at": "2026-01-16T05:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T06:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012041158302793958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012041158302793958",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012016593061232656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我不管寫什麼作文都要加個first of all..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 78,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 56,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢网址请收藏ovo",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 550,
+          "like_count": 2803,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1226
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-29T04:31:10.000Z",
+        "description": "童言無忌 你跟我這個剛上學的小女孩計較什麼！",
+        "id": "1707613939130126336",
+        "location": "MARS CONCERT",
+        "name": "yu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569598450458624/Xx5-gYbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 79,
+          "like_count": 2237,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 129
+        },
+        "username": "wwwyqcq",
+        "verified": false
+      }
+    ]
+  }
+}

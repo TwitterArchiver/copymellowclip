@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2059090637920866396",
+    "created_at": "2026-05-26T10:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059218043881025798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2006369734011564032",
+          "start": 0,
+          "username": "Issac0797"
+        },
+        {
+          "end": 26,
+          "id": "1481227011100233730",
+          "start": 11,
+          "username": "LabSpeculation"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059218043881025798",
+    "in_reply_to_user_id": "2006369734011564032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059144116337020963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Issac0797 @LabSpeculation 因为不同模型区别很大啊，之前的4o 3.5 o1/o3都是魅，gpt5.2开始不魅了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2059090637920866396",
+        "created_at": "2026-05-26T10:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059218043881025798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006369734011564032",
+              "start": 0,
+              "username": "Issac0797"
+            },
+            {
+              "end": 26,
+              "id": "1481227011100233730",
+              "start": 11,
+              "username": "LabSpeculation"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059218043881025798",
+        "in_reply_to_user_id": "2006369734011564032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059144116337020963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Issac0797 @LabSpeculation 因为不同模型区别很大啊，之前的4o 3.5 o1/o3都是魅，gpt5.2开始不魅了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006369734011564032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2059090637920866396",
+        "created_at": "2026-05-26T05:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059144116337020963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1481227011100233730",
+              "start": 0,
+              "username": "LabSpeculation"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059144116337020963",
+        "in_reply_to_user_id": "1481227011100233730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3705,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059090637920866396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LabSpeculation 奇怪🤔，我和ChatGPT对话的时候，老是反驳我的观点，没有迎合的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 1767,
+          "like_count": 7175,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 3451
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T14:20:11.000Z",
+        "description": "业余trader｜宏微观经济学研究｜major in 金融工程｜ACG｜自省｜思考｜长期主义｜禁止🚫现实政治讨论",
+        "id": "2006369734011564032",
+        "location": "New York, USA",
+        "name": "Issac Pan",
+        "pinned_tweet_id": "2014397105780228564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053106533844819968/2cYbeKyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 256,
+          "like_count": 4406,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 759
+        },
+        "username": "Issac0797",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T11:30:29.000Z",
+        "description": "一个总想躺着赚钱的不成功交易员 😴💤\n\nYouTube频道：https://t.co/GDIXrAGfWz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@speculation",
+                "end": 53,
+                "expanded_url": "https://www.youtube.com/@speculation",
+                "start": 30,
+                "url": "https://t.co/GDIXrAGfWz"
+              }
+            ]
+          }
+        },
+        "id": "1481227011100233730",
+        "name": "投机实验室",
+        "pinned_tweet_id": "2052605308711927956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504111773183578120/Hu0TWmyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75167,
+          "following_count": 998,
+          "like_count": 2347,
+          "listed_count": 761,
+          "media_count": 2313,
+          "tweet_count": 3456
+        },
+        "username": "LabSpeculation",
+        "verified": true
+      }
+    ]
+  }
+}

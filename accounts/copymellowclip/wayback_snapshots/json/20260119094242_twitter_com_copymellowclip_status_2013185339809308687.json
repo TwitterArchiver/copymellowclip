@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013163424184963379",
+    "created_at": "2026-01-19T09:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T10:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013185339809308687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799331977205796864",
+          "start": 0,
+          "username": "Xxxxx62778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013185339809308687",
+    "in_reply_to_user_id": "1799331977205796864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013163424184963379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxx62778 好可爱呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2013163420514664448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_AxdvqWQAAzk-E.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013163424184963379",
+        "created_at": "2026-01-19T09:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T10:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013185339809308687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799331977205796864",
+              "start": 0,
+              "username": "Xxxxx62778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013185339809308687",
+        "in_reply_to_user_id": "1799331977205796864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013163424184963379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxx62778 好可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013163420514664448"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "conversation_id": "2013163424184963379",
+        "created_at": "2026-01-19T08:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T09:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013163424184963379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4aGj8b4b6",
+              "end": 216,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2013163424184963379/photo/1",
+              "media_key": "3_2013163420514664448",
+              "start": 193,
+              "url": "https://t.co/t4aGj8b4b6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013163424184963379",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。　     ☆ ♡。　       ♡ 。\n♡ ☆ 　＼　　  ｜　　    ／☆ ♡ 。\n                          \n        ୨୧       cat     ୨୧\n                                                \n♡。☆　／　    ｜　　＼。☆　♡ 。 \n    　  ♡。 　　  。　　♡。 https://t.co/t4aGj8b4b6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 661,
+          "like_count": 3785,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2006684405482533263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 29,
+          "like_count": 10786,
+          "listed_count": 0,
+          "media_count": 856,
+          "tweet_count": 2296
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

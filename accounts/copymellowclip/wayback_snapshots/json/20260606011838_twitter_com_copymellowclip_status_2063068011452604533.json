@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2062845339779080643",
+    "created_at": "2026-06-06T01:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T02:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063068011452604533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1907057082890928128",
+          "start": 0,
+          "username": "bj_qv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063068011452604533",
+    "in_reply_to_user_id": "1907057082890928128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062845339779080643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bj_qv0 萌萌的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2062845339779080643",
+        "created_at": "2026-06-06T01:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063068011452604533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1907057082890928128",
+              "start": 0,
+              "username": "bj_qv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063068011452604533",
+        "in_reply_to_user_id": "1907057082890928128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062845339779080643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bj_qv0 萌萌的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907057082890928128",
+        "conversation_id": "2062845339779080643",
+        "created_at": "2026-06-05T10:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062845339779080643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062845339779080643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 651,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "やっぱり自分が好きで学ぶ勉強ってこんなに楽しんだね！！\n今日学んだ言葉\n是的（yes)\n诶！（えっ！）\n我爱你😘（愛してる😘）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2423,
+          "following_count": 1773,
+          "like_count": 7243,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3587
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T13:07:19.000Z",
+        "description": "名無しのななちゃん\n08限界通信jkしてます\nおしゃべり大好きなのでdm待ってます（返せる時返します）",
+        "id": "1907057082890928128",
+        "location": "広島（来年東京）",
+        "name": "なな",
+        "pinned_tweet_id": "1997575343151177844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954072654992093185/DXbPCIJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 79,
+          "like_count": 24997,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 59
+        },
+        "username": "bj_qv0",
+        "verified": false
+      }
+    ]
+  }
+}

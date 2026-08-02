@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2014336734084104250",
+    "created_at": "2026-01-22T14:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T15:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014346178964689098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1915087790913810432",
+          "start": 0,
+          "username": "Jougasaki_Noa"
+        },
+        {
+          "end": 22,
+          "id": "1926313840557355008",
+          "start": 15,
+          "username": "yepa41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014346178964689098",
+    "in_reply_to_user_id": "1915087790913810432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014344079627407587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jougasaki_Noa @yepa41 没事喵这是我朋友，这个傻子就这样（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2014336734084104250",
+        "created_at": "2026-01-22T14:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014346178964689098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915087790913810432",
+              "start": 0,
+              "username": "Jougasaki_Noa"
+            },
+            {
+              "end": 22,
+              "id": "1926313840557355008",
+              "start": 15,
+              "username": "yepa41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014346178964689098",
+        "in_reply_to_user_id": "1915087790913810432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014344079627407587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jougasaki_Noa @yepa41 没事喵这是我朋友，这个傻子就这样（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915087790913810432",
+        "conversation_id": "2014336734084104250",
+        "created_at": "2026-01-22T14:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014344079627407587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1926313840557355008",
+              "start": 0,
+              "username": "yepa41"
+            },
+            {
+              "end": 23,
+              "id": "876363325998678017",
+              "start": 8,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014344079627407587",
+        "in_reply_to_user_id": "1926313840557355008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014338680492892374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yepa41 @copymellowclip 咱推u第一次做饭鼓励一下吧不要打击了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 815,
+          "like_count": 4588,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1786
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-23T16:58:29.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/SqkBRuQk",
+                "end": 23,
+                "expanded_url": "https://discord.gg/SqkBRuQk",
+                "start": 0,
+                "url": "https://t.co/Okrsx7F8iN"
+              }
+            ]
+          }
+        },
+        "id": "1915087790913810432",
+        "name": "城ケ崎 ノア",
+        "pinned_tweet_id": "1957072684271194469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004329674328129538/Wd4LU80G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 285,
+          "like_count": 21276,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/Okrsx7F8iN",
+        "username": "Jougasaki_Noa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "我需要只属于我的好东西",
+        "id": "1926313840557355008",
+        "location": "百味轩",
+        "name": "斯德哥尔摩第二吉他手（鸦鸦）",
+        "pinned_tweet_id": "1990480589112422835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998174458197245952/_6TPH7JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 799,
+          "like_count": 84049,
+          "listed_count": 4,
+          "media_count": 807,
+          "tweet_count": 5351
+        },
+        "username": "yepa41",
+        "verified": false
+      }
+    ]
+  }
+}

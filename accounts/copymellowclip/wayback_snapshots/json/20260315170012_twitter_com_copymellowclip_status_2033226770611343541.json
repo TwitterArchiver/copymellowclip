@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2033226770611343541",
+    "created_at": "2026-03-15T17:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T18:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033226770611343541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lantern_shark_…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/lantern_shark_/status/2033132140431634520",
+          "start": 5,
+          "url": "https://t.co/v4AvgG0Xuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033226770611343541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033132140431634520",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢你 https://t.co/v4AvgG0Xuv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6685,
+        "height": 1278,
+        "media_key": "13_2033132062304239616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033132062304239616/img/ougvEKtE-hxTde2r.jpg",
+        "public_metrics": {
+          "view_count": 1364
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033132062304239616/vid/avc1/320x568/39l0ZJqa1XISJAge.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033132062304239616/vid/avc1/480x852/sqW3gSD4dZv4AZ8d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033132062304239616/vid/avc1/720x1278/6u6XOzBGAXkJU971.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033132062304239616/pl/CCpMpee6g_pWSPpe.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2033226770611343541",
+        "created_at": "2026-03-15T17:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T18:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033226770611343541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lantern_shark_…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/lantern_shark_/status/2033132140431634520",
+              "start": 5,
+              "url": "https://t.co/v4AvgG0Xuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033226770611343541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033132140431634520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢你 https://t.co/v4AvgG0Xuv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033132062304239616"
+          ]
+        },
+        "author_id": "1750117039497216000",
+        "conversation_id": "2033132140431634520",
+        "created_at": "2026-03-15T10:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033132140431634520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "学マス"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "篠澤広"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuqOG5tl0F",
+              "end": 33,
+              "expanded_url": "https://x.com/lantern_shark_/status/2033132140431634520/video/1",
+              "media_key": "13_2033132062304239616",
+              "start": 10,
+              "url": "https://t.co/AuqOG5tl0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033132140431634520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 5038,
+          "like_count": 492,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "#学マス\n#篠澤広 https://t.co/AuqOG5tl0F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 1708,
+          "like_count": 6409,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2614
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T11:23:20.000Z",
+        "description": "中国人 偶尔出cos偶尔画画 cosplay/illustration ブルアカ好き 成人済み",
+        "id": "1750117039497216000",
+        "name": "灯笼鲨片",
+        "pinned_tweet_id": "1873006533812142288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886478995648372736/u4R4xYhD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32117,
+          "following_count": 357,
+          "like_count": 1288,
+          "listed_count": 160,
+          "media_count": 137,
+          "tweet_count": 582
+        },
+        "username": "lantern_shark_",
+        "verified": false
+      }
+    ]
+  }
+}

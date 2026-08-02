@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2057097626508841087",
+    "created_at": "2026-05-21T15:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057477845602230636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033093704987357185",
+          "start": 0,
+          "username": "Shionaowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057477845602230636",
+    "in_reply_to_user_id": "2033093704987357185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057097626508841087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shionaowo 这是怎么拍的呀我也想拍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1980,
+        "media_key": "3_2057097612650770432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxHYTZacAAawRT.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2057097626508841087",
+        "created_at": "2026-05-21T15:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057477845602230636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033093704987357185",
+              "start": 0,
+              "username": "Shionaowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057477845602230636",
+        "in_reply_to_user_id": "2033093704987357185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057097626508841087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shionaowo 这是怎么拍的呀我也想拍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057097612650770432"
+          ]
+        },
+        "author_id": "2033093704987357185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2057097626508841087",
+        "created_at": "2026-05-20T13:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057097626508841087"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "橘雪莉"
+            },
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/weVqoYsj39",
+              "end": 47,
+              "expanded_url": "https://x.com/Shionaowo/status/2057097626508841087/photo/1",
+              "media_key": "3_2057097612650770432",
+              "start": 24,
+              "url": "https://t.co/weVqoYsj39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057097626508841087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 17879,
+          "like_count": 1710,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "大家520快乐哦🎉\n#橘雪莉 #cosplay https://t.co/weVqoYsj39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 1766,
+          "like_count": 7140,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3391
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T08:11:37.000Z",
+        "description": "汐奈或者小汐/07年/生理男心理女/希望被当作女生/无药纯绿/（墙外扩列🚪52） 选择性回复私信，互fo可以评论或者私信！ 小汐的窝：604354288 ，超级重要的人：@ST_Bed0721 小汐很在意： @cangweiyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "ST_Bed0721"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "cangweiyi"
+              }
+            ]
+          }
+        },
+        "id": "2033093704987357185",
+        "location": "消失",
+        "name": "🎀Shiona🎀",
+        "pinned_tweet_id": "2041731654641938757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033405513703313408/y2LYRwC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 228,
+          "like_count": 1083,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 314
+        },
+        "username": "Shionaowo",
+        "verified": false
+      }
+    ]
+  }
+}

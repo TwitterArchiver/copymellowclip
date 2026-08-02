@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2027689880789373390",
+    "created_at": "2026-02-28T23:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T00:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027884434998091907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620792340897054720",
+          "start": 0,
+          "username": "Orange007Orange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027884434998091907",
+    "in_reply_to_user_id": "1620792340897054720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027867355796164982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orange007Orange 摸摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2027689880789373390",
+        "created_at": "2026-02-28T23:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T00:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027884434998091907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620792340897054720",
+              "start": 0,
+              "username": "Orange007Orange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027884434998091907",
+        "in_reply_to_user_id": "1620792340897054720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027867355796164982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange007Orange 摸摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620792340897054720",
+        "conversation_id": "2027689880789373390",
+        "created_at": "2026-02-28T22:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T23:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027867355796164982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027867355796164982",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027689880789373390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 哎我之前被一个这样的直女狠狠玩弄感情了。我恨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1707,
+          "like_count": 6318,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2429
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T14:33:23.000Z",
+        "description": "请问你今天要来一个🍊吗｜无性别或者性别是🍊｜精神状态二极管｜⚠️鉴证魔怔b滚贴脸飞老冯｜随便发发 偶有r17内容｜陌生人私信不常看",
+        "id": "1620792340897054720",
+        "name": "melatonin🍊",
+        "pinned_tweet_id": "1935274813045571758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776652401012736/ZaGBqDqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026,
+          "following_count": 740,
+          "like_count": 57060,
+          "listed_count": 6,
+          "media_count": 687,
+          "tweet_count": 22351
+        },
+        "username": "Orange007Orange",
+        "verified": false
+      }
+    ]
+  }
+}

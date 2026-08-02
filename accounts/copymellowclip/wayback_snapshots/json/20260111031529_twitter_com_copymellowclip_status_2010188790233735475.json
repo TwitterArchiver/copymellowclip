@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010187020652654873",
+    "created_at": "2026-01-11T03:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T04:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010188790233735475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1512776681085607940",
+          "start": 0,
+          "username": "_sorano_asa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010188790233735475",
+    "in_reply_to_user_id": "1512776681085607940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010187020652654873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sorano_asa 快进到因为紫餐听上去很可爱很好吃于是降低了对自残的心理防线...最好别说这种傻子话（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2010187015506350080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WecK9b0AAOx22.jpg",
+        "width": 1588
+      },
+      {
+        "height": 1211,
+        "media_key": "3_2010187017645441024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WecS7bwAAZSeZ.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010187020652654873",
+        "created_at": "2026-01-11T03:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010188790233735475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1512776681085607940",
+              "start": 0,
+              "username": "_sorano_asa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010188790233735475",
+        "in_reply_to_user_id": "1512776681085607940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010187020652654873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sorano_asa 快进到因为紫餐听上去很可爱很好吃于是降低了对自残的心理防线...最好别说这种傻子话（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010187015506350080",
+            "3_2010187017645441024"
+          ]
+        },
+        "author_id": "1512776681085607940",
+        "conversation_id": "2010187020652654873",
+        "created_at": "2026-01-11T03:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010187020652654873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UXGx33vv7I",
+              "end": 110,
+              "expanded_url": "https://x.com/_sorano_asa/status/2010187020652654873/photo/1",
+              "media_key": "3_2010187015506350080",
+              "start": 87,
+              "url": "https://t.co/UXGx33vv7I"
+            },
+            {
+              "display_url": "pic.x.com/UXGx33vv7I",
+              "end": 110,
+              "expanded_url": "https://x.com/_sorano_asa/status/2010187020652654873/photo/1",
+              "media_key": "3_2010187017645441024",
+              "start": 87,
+              "url": "https://t.co/UXGx33vv7I"
+            },
+            {
+              "display_url": "x.com/_sorano_asa/st…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/_sorano_asa/status/2010183403233259820",
+              "start": 111,
+              "url": "https://t.co/e5JD4P0xL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010187020652654873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010183403233259820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "论文没时间细看，简要理解一下就是，引入一个专门用来理解亚文化的multi-agent框架，用来帮助LLM理解地雷系等亚文化术语，并更准确地捕捉这些术语与自伤行为之间的联系。 https://t.co/UXGx33vv7I https://t.co/e5JD4P0xL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 132,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 410
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-09T12:57:45.000Z",
+        "description": "在日外人です☺️  || 百合/VTuber/地雷系/オトコの娘好き|| 很高兴认识你们🥰 || 喜欢穿地雷系，でも可愛くなくてごめん🥺 || ADHD合并抑郁症所以偶尔会发癫🥺\n|| ❤️推し: @AZKi_VDiVA  @ui_shig @virtual_kaf\n||   恋人：鲨鲨布罗艾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "AZKi_VDiVA"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "ui_shig"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "virtual_kaf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/5lfftdcgixcw1o…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/5lfftdcgixcw1om?t=MqovTd&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/f3yThXPobj"
+              }
+            ]
+          }
+        },
+        "id": "1512776681085607940",
+        "location": "次元の隙間",
+        "name": "空乃明咲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006375659460014080/V2kBDTvf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3008,
+          "following_count": 686,
+          "like_count": 20174,
+          "listed_count": 8,
+          "media_count": 876,
+          "tweet_count": 6962
+        },
+        "url": "https://t.co/f3yThXPobj",
+        "username": "_sorano_asa",
+        "verified": false
+      }
+    ]
+  }
+}

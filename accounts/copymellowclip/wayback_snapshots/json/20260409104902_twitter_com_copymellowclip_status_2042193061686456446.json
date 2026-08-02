@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2042193061686456446",
+    "created_at": "2026-04-09T10:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042193061686456446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvup/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/jianlvup/status/2042047183885889603",
+          "start": 18,
+          "url": "https://t.co/ycnPg3A4xo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042193061686456446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042047183885889603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老师这个是恐怖图片吗我看完心率飙升 https://t.co/ycnPg3A4xo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2042047181365088256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbPF5vakAAzR3p.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2042193061686456446",
+        "created_at": "2026-04-09T10:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042193061686456446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/jianlvup/status/2042047183885889603",
+              "start": 18,
+              "url": "https://t.co/ycnPg3A4xo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042193061686456446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042047183885889603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老师这个是恐怖图片吗我看完心率飙升 https://t.co/ycnPg3A4xo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042047181365088256"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2042047183885889603",
+        "created_at": "2026-04-09T01:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042047183885889603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZGQMflpfq",
+              "end": 35,
+              "expanded_url": "https://x.com/jianlvup/status/2042047183885889603/photo/1",
+              "media_key": "3_2042047181365088256",
+              "start": 12,
+              "url": "https://t.co/3ZGQMflpfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042047183885889603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 305264,
+          "like_count": 411,
+          "quote_count": 4,
+          "reply_count": 147,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "在这个协议我看不到输家 https://t.co/3ZGQMflpfq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 1705,
+          "like_count": 6604,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 2835
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2042047183885889603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17274,
+          "following_count": 1453,
+          "like_count": 77457,
+          "listed_count": 59,
+          "media_count": 2913,
+          "tweet_count": 6150
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

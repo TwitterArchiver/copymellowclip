@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010761288847421719",
+    "created_at": "2026-01-12T17:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T18:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010767818447540601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1984629468410101764",
+          "start": 0,
+          "username": "twntyfour7svn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010767818447540601",
+    "in_reply_to_user_id": "1984629468410101764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010767566961328406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twntyfour7svn 爱（广义） 钱 自由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010761288847421719",
+        "created_at": "2026-01-12T17:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010767818447540601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984629468410101764",
+              "start": 0,
+              "username": "twntyfour7svn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010767818447540601",
+        "in_reply_to_user_id": "1984629468410101764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010767566961328406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twntyfour7svn 爱（广义） 钱 自由"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984629468410101764",
+        "conversation_id": "2010761288847421719",
+        "created_at": "2026-01-12T17:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010767566961328406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010767566961328406",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010761288847421719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 63～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 258,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 739
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-01T14:32:12.000Z",
+        "description": "我提前说一下 我是文盲 和我家小狗共用一个账号 如果这个账号发了不好的言论 那都是小狗发的对不起 我家小狗没上过学 刚学会上网三个月 请大家谅解 骂人的都是小狗 狗四个爪子比我打字快🫶🏻",
+        "id": "1984629468410101764",
+        "location": "United States",
+        "name": "屁屁",
+        "pinned_tweet_id": "1994137317578297390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010030643103838209/nLSjDjZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 45,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 49
+        },
+        "username": "twntyfour7svn",
+        "verified": false
+      }
+    ]
+  }
+}

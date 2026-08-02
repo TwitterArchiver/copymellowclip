@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009615866351247407",
+    "created_at": "2026-01-10T10:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T11:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009930944720114012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1627244746430361603",
+          "start": 0,
+          "username": "ailisidabendan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009930944720114012",
+    "in_reply_to_user_id": "1627244746430361603",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009615866351247407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ailisidabendan 好萌呀、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009615863675338752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-OW-wlbwAAfq10.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009615866351247407",
+        "created_at": "2026-01-10T10:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T11:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009930944720114012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1627244746430361603",
+              "start": 0,
+              "username": "ailisidabendan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009930944720114012",
+        "in_reply_to_user_id": "1627244746430361603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009615866351247407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ailisidabendan 好萌呀、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009615863675338752"
+          ]
+        },
+        "author_id": "1627244746430361603",
+        "conversation_id": "2009615866351247407",
+        "created_at": "2026-01-09T13:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T14:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009615866351247407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xarQLcT5eE",
+              "end": 23,
+              "expanded_url": "https://x.com/ailisidabendan/status/2009615866351247407/photo/1",
+              "media_key": "3_2009615863675338752",
+              "start": 0,
+              "url": "https://t.co/xarQLcT5eE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009615866351247407",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 16609,
+          "like_count": 1188,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xarQLcT5eE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 62,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 256
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-19T09:54:00.000Z",
+        "description": "这里是爱丽丝，随便拍点自己感兴趣的，不要随便转发到墙内哦，没有出售图包原味以及线下等业务，非常感谢大家的喜欢哦(＾ω＾)🙏🏻（推广非本人请自辨，推广非本人！！！）",
+        "id": "1627244746430361603",
+        "location": "Side6",
+        "name": "笨蛋愛麗絲",
+        "pinned_tweet_id": "2007645665586012307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676180279965409285/7a7WFOBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26604,
+          "following_count": 204,
+          "like_count": 3460,
+          "listed_count": 121,
+          "media_count": 409,
+          "tweet_count": 1185
+        },
+        "username": "ailisidabendan",
+        "verified": false
+      }
+    ]
+  }
+}

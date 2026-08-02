@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013305293795459160",
+    "created_at": "2026-01-20T16:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T17:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013649476100202575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1095764370758475777",
+          "start": 0,
+          "username": "mayanezik1"
+        },
+        {
+          "end": 20,
+          "id": "1926810561536208897",
+          "start": 12,
+          "username": "Owso6y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013649476100202575",
+    "in_reply_to_user_id": "1095764370758475777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013649188010238173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayanezik1 @Owso6y_ 好耶ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013305293795459160",
+        "created_at": "2026-01-20T16:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013649476100202575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1095764370758475777",
+              "start": 0,
+              "username": "mayanezik1"
+            },
+            {
+              "end": 20,
+              "id": "1926810561536208897",
+              "start": 12,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013649476100202575",
+        "in_reply_to_user_id": "1095764370758475777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013649188010238173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayanezik1 @Owso6y_ 好耶ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1095764370758475777",
+        "conversation_id": "2013305293795459160",
+        "created_at": "2026-01-20T16:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013649188010238173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 24,
+              "id": "1926810561536208897",
+              "start": 16,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013649188010238173",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013648368346583220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @Owso6y_ 宝宝好米呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 756,
+          "like_count": 4246,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-13T19:19:19.000Z",
+        "description": "165/95|女大日常反差m|爱吃🍓🎂|分享日常|",
+        "id": "1095764370758475777",
+        "name": "棉棉宝宝",
+        "pinned_tweet_id": "2013643955091710342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004923062870020096/Yjhbjl8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 94,
+          "like_count": 29448,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 42
+        },
+        "username": "mayanezik1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T01:20:18.000Z",
+        "description": "",
+        "id": "1926810561536208897",
+        "name": "ねこ",
+        "pinned_tweet_id": "2013316343412769171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926810632331960320/-llV7JkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6360,
+          "following_count": 4,
+          "like_count": 301,
+          "listed_count": 11,
+          "media_count": 18,
+          "tweet_count": 33
+        },
+        "username": "Owso6y_",
+        "verified": false
+      }
+    ]
+  }
+}

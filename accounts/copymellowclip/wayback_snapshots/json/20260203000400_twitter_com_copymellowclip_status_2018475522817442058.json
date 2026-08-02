@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2018357214420037790",
+    "created_at": "2026-02-03T00:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018475522817442058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018475522817442058",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018357214420037790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 我接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1166,
+        "media_key": "3_2018357195352768512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKlLOrbAAA_UsO.jpg",
+        "width": 848
+      },
+      {
+        "height": 1669,
+        "media_key": "3_2018357196078342144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKlLRYaYAAYpM0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2018357214420037790",
+        "created_at": "2026-02-03T00:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018475522817442058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018475522817442058",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018357214420037790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 我接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018357195352768512",
+            "3_2018357196078342144"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2018357214420037790",
+        "created_at": "2026-02-02T16:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018357214420037790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/16zl7X3L91",
+              "end": 31,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2018357214420037790/photo/1",
+              "media_key": "3_2018357195352768512",
+              "start": 8,
+              "url": "https://t.co/16zl7X3L91"
+            },
+            {
+              "display_url": "pic.x.com/16zl7X3L91",
+              "end": 31,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2018357214420037790/photo/1",
+              "media_key": "3_2018357196078342144",
+              "start": 8,
+              "url": "https://t.co/16zl7X3L91"
+            },
+            {
+              "display_url": "x.com/0kada_mi0/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/0kada_mi0/status/2018320760041869635",
+              "start": 32,
+              "url": "https://t.co/HV028454hF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018357214420037790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5925,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018320760041869635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接到了嘻嘻^^ https://t.co/16zl7X3L91 https://t.co/HV028454hF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 1604,
+          "like_count": 6192,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "ミオ没睡醒",
+        "pinned_tweet_id": "2011472330870907217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 160,
+          "like_count": 9509,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1771
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

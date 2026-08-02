@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2054209505861267647",
+    "created_at": "2026-05-12T14:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054209505861267647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/copymellowclip…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/copymellowclip/status/2054189538512191559",
+          "start": 36,
+          "url": "https://t.co/EvN1YrTO5B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054209505861267647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054189538512191559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的场景是当主屏使用，我没有空间放大屏幕喵，刚需是2k144hz吧（） https://t.co/EvN1YrTO5B"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2054209505861267647",
+        "created_at": "2026-05-12T14:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054209505861267647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/copymellowclip…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/copymellowclip/status/2054189538512191559",
+              "start": 36,
+              "url": "https://t.co/EvN1YrTO5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054209505861267647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054189538512191559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的场景是当主屏使用，我没有空间放大屏幕喵，刚需是2k144hz吧（） https://t.co/EvN1YrTO5B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2054189538512191559",
+        "created_at": "2026-05-12T13:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054189538512191559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054189538512191559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想买便携屏喵，有没有买过的和我推一下（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 1736,
+          "like_count": 7021,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 3250
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      }
+    ]
+  }
+}

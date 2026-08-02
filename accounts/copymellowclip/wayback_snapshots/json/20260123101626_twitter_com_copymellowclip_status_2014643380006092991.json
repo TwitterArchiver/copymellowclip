@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2014637079200989284",
+    "created_at": "2026-01-23T10:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T11:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014643380006092991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926810561536208897",
+          "start": 0,
+          "username": "Owso6y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014643380006092991",
+    "in_reply_to_user_id": "1926810561536208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014637079200989284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Owso6y_ 咋这么惨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2014637079200989284",
+        "created_at": "2026-01-23T10:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T11:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014643380006092991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926810561536208897",
+              "start": 0,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014643380006092991",
+        "in_reply_to_user_id": "1926810561536208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014637079200989284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owso6y_ 咋这么惨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926810561536208897",
+        "conversation_id": "2014637079200989284",
+        "created_at": "2026-01-23T09:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014637079200989284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014637079200989284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我打开了存档里私信图片的文件差点没给我晕，一半的鸡吧照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 834,
+          "like_count": 4768,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1844
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T01:20:18.000Z",
+        "description": "备用号@Owsoy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Owsoy_"
+              }
+            ]
+          }
+        },
+        "id": "1926810561536208897",
+        "name": "ねこ",
+        "pinned_tweet_id": "2013316343412769171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926810632331960320/-llV7JkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7837,
+          "following_count": 5,
+          "like_count": 652,
+          "listed_count": 14,
+          "media_count": 33,
+          "tweet_count": 79
+        },
+        "username": "Owso6y_",
+        "verified": false
+      }
+    ]
+  }
+}

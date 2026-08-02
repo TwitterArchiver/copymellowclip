@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2037845165269037302",
+    "created_at": "2026-03-28T20:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T21:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037989113836478549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037989113836478549",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037845165269037302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 左边是什么app（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2037845146742693889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfhXS7aIAEeWtk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_2037845145966833664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfhXQCbcAAZmmo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2037845165269037302",
+        "created_at": "2026-03-28T20:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T21:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037989113836478549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037989113836478549",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037845165269037302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 左边是什么app（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037845146742693889",
+            "3_2037845145966833664"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037845165269037302",
+        "created_at": "2026-03-28T10:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037845165269037302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSNoJTeJYQ",
+              "end": 25,
+              "expanded_url": "https://x.com/JanboMikan/status/2037845165269037302/photo/1",
+              "media_key": "3_2037845146742693889",
+              "start": 2,
+              "url": "https://t.co/QSNoJTeJYQ"
+            },
+            {
+              "display_url": "pic.x.com/QSNoJTeJYQ",
+              "end": 25,
+              "expanded_url": "https://x.com/JanboMikan/status/2037845165269037302/photo/1",
+              "media_key": "3_2037845145966833664",
+              "start": 2,
+              "url": "https://t.co/QSNoJTeJYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037845165269037302",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2441,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥰 https://t.co/QSNoJTeJYQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 1707,
+          "like_count": 6462,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2694
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9698,
+          "following_count": 421,
+          "like_count": 13591,
+          "listed_count": 39,
+          "media_count": 197,
+          "tweet_count": 6991
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

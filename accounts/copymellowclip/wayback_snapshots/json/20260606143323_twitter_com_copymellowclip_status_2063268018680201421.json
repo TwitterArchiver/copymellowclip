@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2063263172275155022",
+    "created_at": "2026-06-06T14:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063268018680201421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1251510777007058946",
+          "start": 0,
+          "username": "wolfdarkness__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063268018680201421",
+    "in_reply_to_user_id": "1251510777007058946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063267913646445038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wolfdarkness__ 臭电"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2063263172275155022",
+        "created_at": "2026-06-06T14:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063268018680201421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1251510777007058946",
+              "start": 0,
+              "username": "wolfdarkness__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063268018680201421",
+        "in_reply_to_user_id": "1251510777007058946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063267913646445038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wolfdarkness__ 臭电"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251510777007058946",
+        "conversation_id": "2063263172275155022",
+        "created_at": "2026-06-06T14:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063267913646445038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063267913646445038",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063263172275155022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 为什么不是114%的电）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 1776,
+          "like_count": 7256,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 3605
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-18T14:00:05.000Z",
+        "description": "对网上政治讨论和人身攻击行为极度厌恶\n不反对友跨，也不支持友跨。不混圈子，如果你要跟我叫板那你说的都对\n纯fw，只会睡大觉，以及设计游戏和制作\n暂时死亡中...",
+        "id": "1251510777007058946",
+        "location": "对数螺线的原点",
+        "name": "Chen jiefeng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584151312073371648/QZc03fQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 297,
+          "like_count": 5161,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 2476
+        },
+        "username": "wolfdarkness__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2048738232247243174",
+    "created_at": "2026-04-27T15:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048786440662978946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1840695204271247360",
+          "start": 0,
+          "username": "yshidhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048786440662978946",
+    "in_reply_to_user_id": "1840695204271247360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048738232247243174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yshidhe 萌萌捏(/ω＼)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048738220104716289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6UjncbkAEpZyW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2048738232247243174",
+        "created_at": "2026-04-27T15:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048786440662978946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1840695204271247360",
+              "start": 0,
+              "username": "yshidhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048786440662978946",
+        "in_reply_to_user_id": "1840695204271247360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048738232247243174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe 萌萌捏(/ω＼)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048738220104716289"
+          ]
+        },
+        "author_id": "1840695204271247360",
+        "conversation_id": "2048738232247243174",
+        "created_at": "2026-04-27T12:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048738232247243174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "地雷系"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "病嬌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JmfoOu8d1Z",
+              "end": 88,
+              "expanded_url": "https://x.com/yshidhe/status/2048738232247243174/photo/1",
+              "media_key": "3_2048738220104716289",
+              "start": 65,
+              "url": "https://t.co/JmfoOu8d1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048738232247243174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 402,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "是壞掉了的一天哦(∩_∩)\n今天也發一張吧\n喜歡嘛\n\n喜歡就要follow我 按喜歡 轉發喔\n不可以騙我喔~\n\n#地雷系 #病嬌 https://t.co/JmfoOu8d1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 1714,
+          "like_count": 6840,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3077
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T10:08:39.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡\n~不線下哦\n!!日本人みんな、交流しよ～♡ 英語で話しかけてくれると嬉しいな（私の日本語ほんとに下手くそだから…(´；ω；)",
+        "id": "1840695204271247360",
+        "name": "ゆうく;壞掉了♡",
+        "pinned_tweet_id": "2035327812085895543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033847648617435136/uN-3c_Ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 79,
+          "like_count": 1644,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1244
+        },
+        "username": "yshidhe",
+        "verified": true
+      }
+    ]
+  }
+}

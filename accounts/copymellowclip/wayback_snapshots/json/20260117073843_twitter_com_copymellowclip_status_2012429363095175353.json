@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012389983391260948",
+    "created_at": "2026-01-17T07:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T08:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012429363095175353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672856505048264706",
+          "start": 0,
+          "username": "xplq1985411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012429363095175353",
+    "in_reply_to_user_id": "1672856505048264706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012428856053899541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xplq1985411 还是有点太善待了www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012389983391260948",
+        "created_at": "2026-01-17T07:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012429363095175353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672856505048264706",
+              "start": 0,
+              "username": "xplq1985411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012429363095175353",
+        "in_reply_to_user_id": "1672856505048264706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012428856053899541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xplq1985411 还是有点太善待了www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672856505048264706",
+        "conversation_id": "2012389983391260948",
+        "created_at": "2026-01-17T07:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012428856053899541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012428856053899541",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012389983391260948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 善待自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 84,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "喵",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 594,
+          "like_count": 3234,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1362
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-25T06:37:35.000Z",
+        "description": "@plq1985411的分身，大号扔在打复活赛中，寻找失散的朋友ing。预备避难所@dplq1985411。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "plq1985411"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "dplq1985411"
+              }
+            ]
+          }
+        },
+        "id": "1672856505048264706",
+        "location": "青岛",
+        "name": "pradge-official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860157901337427971/QXTssgJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 2405,
+          "like_count": 18813,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 2666
+        },
+        "username": "xplq1985411",
+        "verified": false
+      }
+    ]
+  }
+}

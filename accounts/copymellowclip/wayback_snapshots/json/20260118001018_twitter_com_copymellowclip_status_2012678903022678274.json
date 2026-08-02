@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012140547457380439",
+    "created_at": "2026-01-18T00:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T01:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012678903022678274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1960187829687885824",
+          "start": 0,
+          "username": "taikongjile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012678903022678274",
+    "in_reply_to_user_id": "1960187829687885824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012140547457380439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile 我没看过上下文所以不知道具体情况是什么样，但是这些话只能作为个人选择，希望不要用在反驳那些对所谓大事业有所追求的人身上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012140544768843776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-yPKikboAAjWmY.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012140547457380439",
+        "created_at": "2026-01-18T00:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012678903022678274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960187829687885824",
+              "start": 0,
+              "username": "taikongjile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012678903022678274",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012140547457380439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile 我没看过上下文所以不知道具体情况是什么样，但是这些话只能作为个人选择，希望不要用在反驳那些对所谓大事业有所追求的人身上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012140544768843776"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012140547457380439",
+        "created_at": "2026-01-16T12:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T13:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012140547457380439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TEyrMUQbeF",
+              "end": 23,
+              "expanded_url": "https://x.com/taikongjile/status/2012140547457380439/photo/1",
+              "media_key": "3_2012140544768843776",
+              "start": 0,
+              "url": "https://t.co/TEyrMUQbeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012140547457380439",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 80431,
+          "like_count": 913,
+          "quote_count": 6,
+          "reply_count": 46,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TEyrMUQbeF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 620,
+          "like_count": 3525,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1429
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQt63U"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9Jk8E"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwb28"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shangtaikong.com",
+                "end": 23,
+                "expanded_url": "http://www.shangtaikong.com/",
+                "start": 0,
+                "url": "https://t.co/i6JxOs4twU"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "太空极乐百科🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5647,
+          "following_count": 1747,
+          "like_count": 1091,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 1987
+        },
+        "url": "https://t.co/i6JxOs4twU",
+        "username": "taikongjile",
+        "verified": false
+      }
+    ]
+  }
+}

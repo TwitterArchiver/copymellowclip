@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011154302849728870",
+    "created_at": "2026-01-14T01:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T02:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011251103850283024"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "萌萌",
+          "probability": 0.7676,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009636788118433792",
+          "start": 0,
+          "username": "Josiezhoun0201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011251103850283024",
+    "in_reply_to_user_id": "2009636788118433792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011154302849728870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Josiezhoun0201 萌萌两只"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2011154294876356612",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-kOLPabQAQ9Zur.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011154302849728870",
+        "created_at": "2026-01-14T01:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T02:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011251103850283024"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "萌萌",
+              "probability": 0.7676,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009636788118433792",
+              "start": 0,
+              "username": "Josiezhoun0201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011251103850283024",
+        "in_reply_to_user_id": "2009636788118433792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011154302849728870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Josiezhoun0201 萌萌两只"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011154294876356612"
+          ]
+        },
+        "author_id": "2009636788118433792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2011154302849728870",
+        "created_at": "2026-01-13T19:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T20:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011154302849728870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1yPAgfGfG",
+              "end": 33,
+              "expanded_url": "https://x.com/Josiezhoun0201/status/2011154302849728870/photo/1",
+              "media_key": "3_2011154294876356612",
+              "start": 10,
+              "url": "https://t.co/E1yPAgfGfG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011154302849728870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的世界咋这么好玩 https://t.co/E1yPAgfGfG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜脆与ins也是copymellowclip（用来防走失）\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 108,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 85,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 346,
+          "like_count": 1995,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 942
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T14:42:15.000Z",
+        "description": "我发着玩的 os好想和小女孩互fo",
+        "id": "2009636788118433792",
+        "name": "Josie zhou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010257622536957952/6l1MhC_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 30,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "username": "Josiezhoun0201",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "2047300515659444401",
+    "created_at": "2026-04-25T07:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047936796416151739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915756432747810816",
+          "start": 0,
+          "username": "SHUIYINSHUI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047936796416151739",
+    "in_reply_to_user_id": "1915756432747810816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047432617109463485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHUIYINSHUI 没预算了，比降低cpu或者显卡强吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-25T07:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047936796416151739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915756432747810816",
+              "start": 0,
+              "username": "SHUIYINSHUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047936796416151739",
+        "in_reply_to_user_id": "1915756432747810816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047432617109463485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUIYINSHUI 没预算了，比降低cpu或者显卡强吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915756432747810816",
+        "conversation_id": "2047300515659444401",
+        "created_at": "2026-04-23T21:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047432617109463485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047432617109463485",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047300515659444401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 别买铭瑄主板最好 少折腾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 1707,
+          "like_count": 6813,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3055
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T13:15:14.000Z",
+        "description": "男的/杂食/女装很好看所以穿了\n逃生仓: https://t.co/DBrvKPDf0L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/sqnss43527721",
+                "end": 44,
+                "expanded_url": "https://x.com/sqnss43527721",
+                "start": 21,
+                "url": "https://t.co/DBrvKPDf0L"
+              }
+            ]
+          }
+        },
+        "id": "1915756432747810816",
+        "location": "深圳",
+        "name": "水银水",
+        "pinned_tweet_id": "2028988541305536833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024722255641706496/oXBv1F4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 141,
+          "like_count": 570,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 339
+        },
+        "username": "SHUIYINSHUI",
+        "verified": false
+      }
+    ]
+  }
+}

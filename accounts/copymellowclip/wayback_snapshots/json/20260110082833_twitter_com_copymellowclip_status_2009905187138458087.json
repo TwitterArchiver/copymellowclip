@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009905187138458087",
+    "created_at": "2026-01-10T08:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T09:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009905187138458087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Loveyanouo/sta…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/Loveyanouo/status/2009640761932075248",
+          "start": 53,
+          "url": "https://t.co/koOKKwbweX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009905187138458087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009640761932075248",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是这个感觉、、完全记不住生日挑礼物也很麻烦，对方送来的礼物用不太上也觉得好浪费、双方都直接转账吧（） https://t.co/koOKKwbweX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1299,
+        "media_key": "3_2009640750569648128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-OtnXfacAA-QEn.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009905187138458087",
+        "created_at": "2026-01-10T08:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T09:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009905187138458087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Loveyanouo/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/Loveyanouo/status/2009640761932075248",
+              "start": 53,
+              "url": "https://t.co/koOKKwbweX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009905187138458087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009640761932075248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是这个感觉、、完全记不住生日挑礼物也很麻烦，对方送来的礼物用不太上也觉得好浪费、双方都直接转账吧（） https://t.co/koOKKwbweX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009640750569648128"
+          ]
+        },
+        "author_id": "1994727203750514688",
+        "conversation_id": "2009640761932075248",
+        "created_at": "2026-01-09T14:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009640761932075248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfDQrLnqtz",
+              "end": 111,
+              "expanded_url": "https://x.com/Loveyanouo/status/2009640761932075248/photo/1",
+              "media_key": "3_2009640750569648128",
+              "start": 88,
+              "url": "https://t.co/lfDQrLnqtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009640761932075248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不会挑礼物啊好烦啊 我一想到谈恋爱要送礼我就要b溃了。（不是不想花钱的意思）只是很怕送的东西对方不喜欢 我更喜欢直接问对方想要啥但是感觉对方肯定会说送啥他都喜欢。🥲🥲🥲 https://t.co/lfDQrLnqtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 59,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 242
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-29T11:20:36.000Z",
+        "description": "其实我挺可爱的！",
+        "id": "1994727203750514688",
+        "name": "小草莓",
+        "pinned_tweet_id": "2002296398293750004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008475955535491072/DfR-wLIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 17,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 425
+        },
+        "username": "Loveyanouo",
+        "verified": false
+      }
+    ]
+  }
+}

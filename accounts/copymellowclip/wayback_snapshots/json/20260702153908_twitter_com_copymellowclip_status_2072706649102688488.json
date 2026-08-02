@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2072696344712724717",
+    "created_at": "2026-07-02T15:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072706649102688488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646454241324830720",
+          "start": 0,
+          "username": "tube1925"
+        },
+        {
+          "end": 19,
+          "id": "1280001743162609664",
+          "start": 10,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072706649102688488",
+    "in_reply_to_user_id": "1646454241324830720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072698431580389424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tube1925 @Poca2381 可以早上出门前淘米洗米下班路上远程煮饭回家就吃捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2072696344712724717",
+        "created_at": "2026-07-02T15:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072706649102688488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646454241324830720",
+              "start": 0,
+              "username": "tube1925"
+            },
+            {
+              "end": 19,
+              "id": "1280001743162609664",
+              "start": 10,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072706649102688488",
+        "in_reply_to_user_id": "1646454241324830720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072698431580389424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tube1925 @Poca2381 可以早上出门前淘米洗米下班路上远程煮饭回家就吃捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646454241324830720",
+        "conversation_id": "2072696344712724717",
+        "created_at": "2026-07-02T15:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072698431580389424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072698431580389424",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072696344712724717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 电饭煲还能连？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 1777,
+          "like_count": 7340,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 3750
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T10:04:33.000Z",
+        "description": "Hola!你好,我是一只也可以叫我will/男性/高中生(休学)/NEET/友跨🏳️‍⚧️/酒精依赖🥃/信仰天主✝️/爱好:撸猫🐱/摄影📷/文学📖使用的语言:中文🇨🇳英语🇺🇸西语🇲🇽/适度涉政/主要发点碎碎念和日常/一个在人间凑数的废柴\n除常互动的推友以外不会主动回fo，回fo请私信🥺",
+        "id": "1646454241324830720",
+        "location": "小马利亚,坎特洛特城",
+        "name": "一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015852408648458240/Ho5VfcNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 113,
+          "like_count": 30296,
+          "listed_count": 3,
+          "media_count": 387,
+          "tweet_count": 14555
+        },
+        "url": "",
+        "username": "tube1925",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22445,
+          "following_count": 9779,
+          "like_count": 152895,
+          "listed_count": 52,
+          "media_count": 5200,
+          "tweet_count": 52950
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

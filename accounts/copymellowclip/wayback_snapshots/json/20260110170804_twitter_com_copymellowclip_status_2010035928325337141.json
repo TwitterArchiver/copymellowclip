@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009971413478977593",
+    "created_at": "2026-01-10T17:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T18:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010035928325337141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1421981886516183043",
+          "start": 0,
+          "username": "gaga159469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010035928325337141",
+    "in_reply_to_user_id": "1421981886516183043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009971413478977593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaga159469 天呐好有张力、是穿着轻飘飘衣服打架在天台抽烟的好女人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009971410010267648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-TaWR5aYAAF_UB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009971413478977593",
+        "created_at": "2026-01-10T17:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T18:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010035928325337141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1421981886516183043",
+              "start": 0,
+              "username": "gaga159469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010035928325337141",
+        "in_reply_to_user_id": "1421981886516183043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009971413478977593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga159469 天呐好有张力、是穿着轻飘飘衣服打架在天台抽烟的好女人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009971410010267648"
+          ]
+        },
+        "author_id": "1421981886516183043",
+        "conversation_id": "2009971413478977593",
+        "created_at": "2026-01-10T12:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009971413478977593"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "SubaHibi"
+            },
+            {
+              "end": 18,
+              "start": 10,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1lTUJzXmq",
+              "end": 42,
+              "expanded_url": "https://x.com/gaga159469/status/2009971413478977593/photo/1",
+              "media_key": "3_2009971410010267648",
+              "start": 19,
+              "url": "https://t.co/A1lTUJzXmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009971413478977593",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 8058,
+          "like_count": 737,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "#SubaHibi #素晴らしき日々 https://t.co/A1lTUJzXmq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 99,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 359
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-01T23:51:47.000Z",
+        "description": "是来自中国的coser🇨🇳\n最爱最爱最爱水上由岐\n本人只有这一个x账号，其他都是假的",
+        "id": "1421981886516183043",
+        "name": "Houkoi_恋",
+        "pinned_tweet_id": "1892695795880587453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820189763506491392/gPE-snpd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4283,
+          "following_count": 233,
+          "like_count": 4612,
+          "listed_count": 14,
+          "media_count": 323,
+          "tweet_count": 756
+        },
+        "username": "gaga159469",
+        "verified": false
+      }
+    ]
+  }
+}

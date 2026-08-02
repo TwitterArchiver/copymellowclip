@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2012042068236046466",
+    "created_at": "2026-01-16T12:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T13:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012141065768493069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1497522141759111174",
+          "start": 0,
+          "username": "MEMZMeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012141065768493069",
+    "in_reply_to_user_id": "1497522141759111174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012042068236046466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEMZMeow 是挂件吗（拔拔）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1619,
+        "media_key": "3_2012042032362274816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-w1kXQbwAAIET0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2012042068236046466",
+        "created_at": "2026-01-16T12:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T13:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012141065768493069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1497522141759111174",
+              "start": 0,
+              "username": "MEMZMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012141065768493069",
+        "in_reply_to_user_id": "1497522141759111174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012042068236046466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEMZMeow 是挂件吗（拔拔）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012042032362274816"
+          ]
+        },
+        "author_id": "1497522141759111174",
+        "conversation_id": "2012042068236046466",
+        "created_at": "2026-01-16T05:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T06:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012042068236046466"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "白丝"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "狐尾"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i9Pg1jaIQY",
+              "end": 83,
+              "expanded_url": "https://x.com/MEMZMeow/status/2012042068236046466/photo/1",
+              "media_key": "3_2012042032362274816",
+              "start": 60,
+              "url": "https://t.co/i9Pg1jaIQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012042068236046466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 234,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "朋友站在门口沉默了三秒\n“你后面那个。。是。。挂件还是。。？”\n我回头看了一眼\n“是挂件。。吧。。嗯”\n#白丝 #狐尾 https://t.co/i9Pg1jaIQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 78,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 56,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓→防走丢网址请收藏ovo",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 562,
+          "like_count": 2949,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1253
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-26T10:41:25.000Z",
+        "description": "~只是一只喜欢喝茶的正常（不良x）狐狸🦊\n想要更多的喜欢和转发，咱会持续更新的🥺\n有任何事情欢迎私信咱喔，咱看到就会回复的✨\nWant more likes and repost, I will keep updating❤️",
+        "id": "1497522141759111174",
+        "name": "Nana Azuki",
+        "pinned_tweet_id": "2003670745965339100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996923189902123008/mRlq6OTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 227,
+          "like_count": 1665,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 418
+        },
+        "username": "MEMZMeow",
+        "verified": true
+      }
+    ]
+  }
+}

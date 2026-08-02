@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2056240067530858686",
+    "created_at": "2026-05-19T09:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056675137588723913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568430640428875776",
+          "start": 0,
+          "username": "YesStrayPuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056675137588723913",
+    "in_reply_to_user_id": "1568430640428875776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056240067530858686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesStrayPuppy 怎么全是硅基妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2056240067530858686",
+        "created_at": "2026-05-19T09:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056675137588723913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568430640428875776",
+              "start": 0,
+              "username": "YesStrayPuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056675137588723913",
+        "in_reply_to_user_id": "1568430640428875776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056240067530858686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesStrayPuppy 怎么全是硅基妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568430640428875776",
+        "conversation_id": "2056240067530858686",
+        "created_at": "2026-05-18T05:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056240067530858686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056240067530858686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 624,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找妈妈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 1741,
+          "like_count": 7119,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3369
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|好朋友👾https://t.co/WyEuIlIItL👬|鲁路修·v·布里塔尼亚下令，世界将臣服于我！|可以叫我小夜💭！|记录(辱骂)📝高三生活中。。|取关随意一切随意！不用礼貌回关！！！💃🏻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/hown530150?s=20",
+                "end": 36,
+                "expanded_url": "https://x.com/hown530150?s=20",
+                "start": 13,
+                "url": "https://t.co/WyEuIlIItL"
+              }
+            ]
+          }
+        },
+        "id": "1568430640428875776",
+        "location": "没有门不加V不陪聊😔",
+        "name": "小夜野耶椰也",
+        "pinned_tweet_id": "2007046154253746348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004823690333356037/nLjdnVKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 483,
+          "like_count": 25094,
+          "listed_count": 2,
+          "media_count": 594,
+          "tweet_count": 7385
+        },
+        "username": "YesStrayPuppy",
+        "verified": false
+      }
+    ]
+  }
+}

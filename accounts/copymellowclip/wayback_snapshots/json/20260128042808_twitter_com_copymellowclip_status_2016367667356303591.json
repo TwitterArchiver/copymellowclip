@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2016367667356303591",
+    "created_at": "2026-01-28T04:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T05:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016367667356303591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GuiMengNya/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/GuiMengNya/status/2015719052845658441",
+          "start": 9,
+          "url": "https://t.co/eTdPhQUAFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016367667356303591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015719052845658441",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有就业指导（） https://t.co/eTdPhQUAFm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_2015719045161734145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lFyrXa0AET-9G.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2016367667356303591",
+        "created_at": "2026-01-28T04:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016367667356303591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GuiMengNya/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/GuiMengNya/status/2015719052845658441",
+              "start": 9,
+              "url": "https://t.co/eTdPhQUAFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016367667356303591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015719052845658441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有就业指导（） https://t.co/eTdPhQUAFm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015719045161734145"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "2015719052845658441",
+        "created_at": "2026-01-26T09:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015719052845658441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L287LoNt74",
+              "end": 33,
+              "expanded_url": "https://x.com/GuiMengNya/status/2015719052845658441/photo/1",
+              "media_key": "3_2015719045161734145",
+              "start": 10,
+              "url": "https://t.co/L287LoNt74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015719052845658441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 314,
+          "impression_count": 292978,
+          "like_count": 1801,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "看着这段文字出来了 https://t.co/L287LoNt74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 1050,
+          "like_count": 5565,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2058
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5730,
+          "following_count": 659,
+          "like_count": 9314,
+          "listed_count": 15,
+          "media_count": 970,
+          "tweet_count": 3033
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

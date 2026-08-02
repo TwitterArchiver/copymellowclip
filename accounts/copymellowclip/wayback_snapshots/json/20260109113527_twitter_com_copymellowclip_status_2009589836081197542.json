@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2009583934980637077",
+    "created_at": "2026-01-09T11:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T12:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009589836081197542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194283796314509312",
+          "start": 0,
+          "username": "gana0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009589836081197542",
+    "in_reply_to_user_id": "1194283796314509312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009583934980637077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gana0w0 好漂亮…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2009583921718349826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-N57fhb0AIdafy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2009583934980637077",
+        "created_at": "2026-01-09T11:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009589836081197542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194283796314509312",
+              "start": 0,
+              "username": "gana0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009589836081197542",
+        "in_reply_to_user_id": "1194283796314509312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009583934980637077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gana0w0 好漂亮…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009583921718349826"
+          ]
+        },
+        "author_id": "1194283796314509312",
+        "conversation_id": "2009583934980637077",
+        "created_at": "2026-01-09T11:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009583934980637077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eIlFtSpgJ2",
+              "end": 98,
+              "expanded_url": "https://x.com/gana0w0/status/2009583934980637077/photo/1",
+              "media_key": "3_2009583921718349826",
+              "start": 75,
+              "url": "https://t.co/eIlFtSpgJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009583934980637077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 917,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的敏感程度跟galgame 一样。选错选项，第二天去找我就发现我吊死在卧室里。开玩笑的，我没有女主这么温柔漂亮，其实看起来像一块腊肉在天花板上吊着 https://t.co/eIlFtSpgJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，Morning & GoodNight~/♥",
+        "id": "876363325998678017",
+        "location": "顺女泛性恋、喜欢可爱的事物",
+        "name": "COPYww",
+        "pinned_tweet_id": "2009566363187351918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 36,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 160
+        },
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "谢谢大家的喜欢 如果有多的钱可以给我",
+        "id": "1194283796314509312",
+        "location": "🚪188",
+        "name": "gana",
+        "pinned_tweet_id": "2005205974223814832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004121346436222978/aqLhsPd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65696,
+          "following_count": 168,
+          "like_count": 9463,
+          "listed_count": 196,
+          "media_count": 1509,
+          "tweet_count": 6675
+        },
+        "username": "gana0w0",
+        "verified": true
+      }
+    ]
+  }
+}

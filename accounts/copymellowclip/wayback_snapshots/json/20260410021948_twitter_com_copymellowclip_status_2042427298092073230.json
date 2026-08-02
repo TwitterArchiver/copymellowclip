@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2041185291172802915",
+    "created_at": "2026-04-10T02:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042427298092073230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906250041305743360",
+          "start": 0,
+          "username": "AsagiriMisqb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042427298092073230",
+    "in_reply_to_user_id": "1906250041305743360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041212257154290090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsagiriMisqb1 笑死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2041185291172802915",
+        "created_at": "2026-04-10T02:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042427298092073230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906250041305743360",
+              "start": 0,
+              "username": "AsagiriMisqb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042427298092073230",
+        "in_reply_to_user_id": "1906250041305743360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041212257154290090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsagiriMisqb1 笑死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906250041305743360",
+        "conversation_id": "2041185291172802915",
+        "created_at": "2026-04-06T17:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041212257154290090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041212257154290090",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041185291172802915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 有女朋友线下吗 万达附近🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 1707,
+          "like_count": 6640,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 2855
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T07:40:13.000Z",
+        "description": "🇬🇧虚拟电台放送Vtuber｜纯绿清水推｜树洞｜音企妹｜互fo｜L站po主",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/2017212239003213964",
+                "start": 0,
+                "url": "https://t.co/l1YSAkAVaM"
+              }
+            ]
+          }
+        },
+        "id": "1906250041305743360",
+        "location": "便箋",
+        "name": "朝霧美咲",
+        "pinned_tweet_id": "2018252162409939138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038907016585105408/szI-Pqrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 318,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/l1YSAkAVaM",
+        "username": "AsagiriMisqb1",
+        "verified": false
+      }
+    ]
+  }
+}

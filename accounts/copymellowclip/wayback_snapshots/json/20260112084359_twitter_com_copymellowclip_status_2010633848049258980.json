@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010526115031605648",
+    "created_at": "2026-01-12T08:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T09:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010633848049258980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721693159149674497",
+          "start": 0,
+          "username": "gu_wen98233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010633848049258980",
+    "in_reply_to_user_id": "1721693159149674497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010633245323657662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu_wen98233 那憋尿play的门槛很高了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010526115031605648",
+        "created_at": "2026-01-12T08:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T09:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010633848049258980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721693159149674497",
+              "start": 0,
+              "username": "gu_wen98233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010633848049258980",
+        "in_reply_to_user_id": "1721693159149674497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010633245323657662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_wen98233 那憋尿play的门槛很高了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721693159149674497",
+        "conversation_id": "2010526115031605648",
+        "created_at": "2026-01-12T08:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T09:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010633245323657662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010633245323657662",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010526115031605648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我教你怎么触发真正的憋尿play，在上海下午四点半喝很多的水然后开车去漕宝路 或者沪太路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜数学/天文学/物理学｜\nID是copy，也可以叫我考贝酱或者随意起称呼，很孤单请和我说话吧...！互fo私聊欢迎，匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 103,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 80,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、喜欢可爱的事物、请和我互fo欢迎私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 211,
+          "like_count": 1339,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 651
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T00:57:11.000Z",
+        "description": "画画对脑袋有好处。\n欢迎找我聊天！",
+        "id": "1721693159149674497",
+        "location": "shanghai",
+        "name": "不吃蔬菜！千青",
+        "pinned_tweet_id": "2007880622287827087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728082024341114880/0U_Yywx8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 37,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 270
+        },
+        "username": "gu_wen98233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2054189538512191559",
+    "created_at": "2026-05-13T07:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054466731674910937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1487627916498378753",
+          "start": 0,
+          "username": "B612qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054466731674910937",
+    "in_reply_to_user_id": "1487627916498378753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054459039330025903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B612qwq 收到（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2054189538512191559",
+        "created_at": "2026-05-13T07:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054466731674910937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1487627916498378753",
+              "start": 0,
+              "username": "B612qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054466731674910937",
+        "in_reply_to_user_id": "1487627916498378753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054459039330025903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B612qwq 收到（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487627916498378753",
+        "conversation_id": "2054189538512191559",
+        "created_at": "2026-05-13T07:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054459039330025903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054459039330025903",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054189538512191559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 建议买拯救者的屏幕，A+屏或A屏能用的久一些，另外就是找久一点店铺有运营自媒体账号的最好，包装一定不要丢，之后方便售后。我高中时也是买便携屏当主屏用，后来闪屏售后和店家吵了好久就是因为外包装丢了说没法证明是他们的屏当时让我心情特别不好嗯大概就这些了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 1735,
+          "like_count": 7035,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 3268
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T03:25:20.000Z",
+        "description": "阴暗缺爱精神病/🏳️‍🌈🏳️‍⚧️/\n❤︎dauphinkawaii❤︎",
+        "id": "1487627916498378753",
+        "location": "Hankow",
+        "name": "機巧土旦不會受傷 ❤︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984623518739566592/keynWQwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 460,
+          "like_count": 4705,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1604
+        },
+        "username": "B612qwq",
+        "verified": false
+      }
+    ]
+  }
+}

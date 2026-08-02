@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2047268379313238180",
+    "created_at": "2026-04-23T15:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047336238727004331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047336238727004331",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047268379313238180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa 那很好用了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2047268373000826880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlbvQSbMAAsfHF.jpg",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2047268379313238180",
+        "created_at": "2026-04-23T15:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047336238727004331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047336238727004331",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047268379313238180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 那很好用了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047268373000826880"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2047268379313238180",
+        "created_at": "2026-04-23T10:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047268379313238180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pA6vT42FtD",
+              "end": 38,
+              "expanded_url": "https://x.com/Miiharukawa/status/2047268379313238180/photo/1",
+              "media_key": "3_2047268373000826880",
+              "start": 15,
+              "url": "https://t.co/pA6vT42FtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047268379313238180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7492,
+          "like_count": 289,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "发个挺好用的梯子，用了几年了 https://t.co/pA6vT42FtD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 1705,
+          "like_count": 6797,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3030
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "怨是用希\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 189,
+          "like_count": 5635,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2010754458553393324",
+    "created_at": "2026-01-12T17:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T18:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010760543226003952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003081838965960704",
+          "start": 0,
+          "username": "Gatsuue_inf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010760543226003952",
+    "in_reply_to_user_id": "2003081838965960704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010754458553393324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gatsuue_inf （忍住笑）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2010754131674484737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-eiOrUbUAEel6Z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010754131674468352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-eiOrUbEAATtQl.jpg",
+        "width": 502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2010754458553393324",
+        "created_at": "2026-01-12T17:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010760543226003952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003081838965960704",
+              "start": 0,
+              "username": "Gatsuue_inf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010760543226003952",
+        "in_reply_to_user_id": "2003081838965960704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010754458553393324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gatsuue_inf （忍住笑）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010754131674484737",
+            "3_2010754131674468352"
+          ]
+        },
+        "author_id": "2003081838965960704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010754458553393324",
+        "created_at": "2026-01-12T16:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010754458553393324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFALTGPPON",
+              "end": 34,
+              "expanded_url": "https://x.com/Gatsuue_inf/status/2010754458553393324/photo/1",
+              "media_key": "3_2010754131674484737",
+              "start": 11,
+              "url": "https://t.co/OFALTGPPON"
+            },
+            {
+              "display_url": "pic.x.com/OFALTGPPON",
+              "end": 34,
+              "expanded_url": "https://x.com/Gatsuue_inf/status/2010754458553393324/photo/1",
+              "media_key": "3_2010754131674468352",
+              "start": 11,
+              "url": "https://t.co/OFALTGPPON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010754458553393324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂。。。我一直在哭 https://t.co/OFALTGPPON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高\nID是copy，也可以叫我考贝酱或者随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 86,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 63,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "性别女泛性恋、和我互fo请私信..！",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 258,
+          "like_count": 1525,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 725
+        },
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T12:35:12.000Z",
+        "description": "男的    不是男娘    是正常人\n把推當qq空間使的    因為推沒人認識所以可以肆無忌憚地發    qq空間就不行了",
+        "id": "2003081838965960704",
+        "location": "上海or南宁",
+        "name": "月上Gatsuue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009347754141814784/ctBSfWQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 251,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 217
+        },
+        "username": "Gatsuue_inf",
+        "verified": false
+      }
+    ]
+  }
+}

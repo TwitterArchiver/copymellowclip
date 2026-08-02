@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2031063998184174040",
+    "created_at": "2026-03-09T18:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T19:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031075942056313195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543918989390532608",
+          "start": 0,
+          "username": "ouoicy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031075942056313195",
+    "in_reply_to_user_id": "1543918989390532608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031063998184174040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouoicy77 你最萌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2031063998184174040",
+        "created_at": "2026-03-09T18:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T19:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031075942056313195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543918989390532608",
+              "start": 0,
+              "username": "ouoicy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031075942056313195",
+        "in_reply_to_user_id": "1543918989390532608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031063998184174040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouoicy77 你最萌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543918989390532608",
+        "conversation_id": "2031063998184174040",
+        "created_at": "2026-03-09T17:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T18:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031063998184174040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031063998184174040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我容貌焦虑是害怕我的照片太丑了太低脂了没流量了我朋友们就不和我玩了 虽然没有朋友会这样 但是我特别擅长给自己制造这种焦虑 不焦虑现实长相是因为我是个网蛆和网友线下见面的概率不到百分之一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 1691,
+          "like_count": 6318,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 2489
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T11:25:54.000Z",
+        "description": "🇨🇳 我只有这一个账号 用来存照片和碎碎念 取关随意 别转载或者ai我的照片 我各个平台都有号 不常看粉丝列表",
+        "id": "1543918989390532608",
+        "location": "不扩列 非要扩给我521  无任何福利纯圈",
+        "name": "の",
+        "pinned_tweet_id": "1982968458557157589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920545101261996032/qHrE2K0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29221,
+          "following_count": 80,
+          "like_count": 3914,
+          "listed_count": 115,
+          "media_count": 190,
+          "tweet_count": 894
+        },
+        "username": "ouoicy77",
+        "verified": false
+      }
+    ]
+  }
+}

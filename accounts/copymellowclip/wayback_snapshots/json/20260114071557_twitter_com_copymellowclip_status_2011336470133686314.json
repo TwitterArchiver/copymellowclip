@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2011332154102595851",
+    "created_at": "2026-01-14T07:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T08:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011336470133686314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2006740448719810562",
+          "start": 0,
+          "username": "Cxzccgd"
+        },
+        {
+          "end": 21,
+          "id": "1433833820810211332",
+          "start": 9,
+          "username": "Ettf_Cabage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011336470133686314",
+    "in_reply_to_user_id": "2006740448719810562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011336065580401119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxzccgd @Ettf_Cabage 难说（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2011332154102595851",
+        "created_at": "2026-01-14T07:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T08:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011336470133686314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2006740448719810562",
+              "start": 0,
+              "username": "Cxzccgd"
+            },
+            {
+              "end": 21,
+              "id": "1433833820810211332",
+              "start": 9,
+              "username": "Ettf_Cabage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011336470133686314",
+        "in_reply_to_user_id": "2006740448719810562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011336065580401119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxzccgd @Ettf_Cabage 难说（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006740448719810562",
+        "conversation_id": "2011332154102595851",
+        "created_at": "2026-01-14T07:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T08:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011336065580401119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 28,
+              "id": "1433833820810211332",
+              "start": 16,
+              "username": "Ettf_Cabage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011336065580401119",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011335772742578453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @Ettf_Cabage 都知道要爬梯子了。這麼簡單問題不可能想不到吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 80,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 57,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 357,
+          "like_count": 2070,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T14:55:07.000Z",
+        "description": "歡迎真人🚪哥。🚪姐。互關。我會給你推薦真人。 是真人。我就會關注妳你",
+        "id": "2006740448719810562",
+        "name": "奶油車輪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006741182681067525/TOB4mLu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 27,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 273
+        },
+        "username": "Cxzccgd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T16:46:52.000Z",
+        "description": "中文/English 双性恋 男孩子！活动范围以泉州／厦门为主 现在是18岁想可爱的180cm 90kg性压抑肥猪 - Citroen C4 Coupe车主 - 坚定的伊蕾娜厨 r18转发bot（x）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ettfcabage.airrice.cn",
+                "end": 23,
+                "expanded_url": "http://ettfcabage.airrice.cn",
+                "start": 0,
+                "url": "https://t.co/p5B0lrW8mH"
+              }
+            ]
+          }
+        },
+        "id": "1433833820810211332",
+        "location": "Airrice space center",
+        "name": "Ettf Cabage @什么都只会一点的废物人生",
+        "pinned_tweet_id": "1996166985517031758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617749411005857793/1ffSoHVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 1729,
+          "like_count": 50981,
+          "listed_count": 8,
+          "media_count": 313,
+          "tweet_count": 12750
+        },
+        "url": "https://t.co/p5B0lrW8mH",
+        "username": "Ettf_Cabage",
+        "verified": false
+      }
+    ]
+  }
+}

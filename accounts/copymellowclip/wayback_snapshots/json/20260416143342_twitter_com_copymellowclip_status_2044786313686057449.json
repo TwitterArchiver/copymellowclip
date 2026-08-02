@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2043715064537243824",
+    "created_at": "2026-04-16T14:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044786313686057449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009636788118433792",
+          "start": 0,
+          "username": "Josiezhou0201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044786313686057449",
+    "in_reply_to_user_id": "2009636788118433792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043715064537243824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Josiezhou0201 我吃醋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2043715064537243824",
+        "created_at": "2026-04-16T14:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044786313686057449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009636788118433792",
+              "start": 0,
+              "username": "Josiezhou0201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044786313686057449",
+        "in_reply_to_user_id": "2009636788118433792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043715064537243824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Josiezhou0201 我吃醋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009636788118433792",
+        "conversation_id": "2043715064537243824",
+        "created_at": "2026-04-13T15:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043715064537243824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043715064537243824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8577,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想和喜欢的女孩子扩列哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 1692,
+          "like_count": 6685,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2908
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T14:42:15.000Z",
+        "description": "可以叫我舟舟/Josie酱｜双性恋｜switch｜还在上高中 学业繁忙 不能及时回复请见谅｜不过门不陪聊 不接线下｜查成分回fo｜提问箱➡️https://t.co/0i4f0P0ndT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhou34337",
+                "end": 93,
+                "expanded_url": "https://ngl.link/zhou34337",
+                "start": 70,
+                "url": "https://t.co/0i4f0P0ndT"
+              }
+            ]
+          }
+        },
+        "id": "2009636788118433792",
+        "location": "🚪49/58/88/288/520",
+        "name": "Josie zhou",
+        "pinned_tweet_id": "2015424330998620238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010257622536957952/6l1MhC_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6465,
+          "following_count": 58,
+          "like_count": 857,
+          "listed_count": 5,
+          "media_count": 114,
+          "tweet_count": 575
+        },
+        "username": "Josiezhou0201",
+        "verified": false
+      }
+    ]
+  }
+}

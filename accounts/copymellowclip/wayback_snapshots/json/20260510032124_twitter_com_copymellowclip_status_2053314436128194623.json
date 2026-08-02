@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053062077368115200",
+        "3_2053062074243391488",
+        "3_2053062077422710784",
+        "3_2053062077405958144"
+      ],
+      "media_source_tweet_id": [
+        "2053062098654249345",
+        "2053062098654249345",
+        "2053062098654249345",
+        "2053062098654249345"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2053314436128194623",
+    "created_at": "2026-05-10T03:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053314436128194623"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 49,
+          "tag": "依賴受付"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979108124985561088",
+          "start": 3,
+          "username": "yumenoWchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2uYBczH9dw",
+          "end": 78,
+          "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+          "media_key": "3_2053062077368115200",
+          "start": 55,
+          "url": "https://t.co/2uYBczH9dw"
+        },
+        {
+          "display_url": "pic.x.com/2uYBczH9dw",
+          "end": 78,
+          "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+          "media_key": "3_2053062074243391488",
+          "start": 55,
+          "url": "https://t.co/2uYBczH9dw"
+        },
+        {
+          "display_url": "pic.x.com/2uYBczH9dw",
+          "end": 78,
+          "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+          "media_key": "3_2053062077422710784",
+          "start": 55,
+          "url": "https://t.co/2uYBczH9dw"
+        },
+        {
+          "display_url": "pic.x.com/2uYBczH9dw",
+          "end": 78,
+          "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+          "media_key": "3_2053062077405958144",
+          "start": 55,
+          "url": "https://t.co/2uYBczH9dw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053314436128194623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053062098654249345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yumenoWchan: 我想接點委託⋯\n只接盲盒 給多少畫多少\n求轉發 轉發裡抽個無償\n#依賴受付 https://t.co/2uYBczH9dw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053062077368115200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3xFO9aIAAiHoF.jpg",
+        "width": 944
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053062074243391488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3xFDUaoAAxlDM.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053062077422710784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3xFPKbMAAahNz.jpg",
+        "width": 768
+      },
+      {
+        "height": 1631,
+        "media_key": "3_2053062077405958144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3xFPGbkAALOAr.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053062077368115200",
+            "3_2053062074243391488",
+            "3_2053062077422710784",
+            "3_2053062077405958144"
+          ],
+          "media_source_tweet_id": [
+            "2053062098654249345",
+            "2053062098654249345",
+            "2053062098654249345",
+            "2053062098654249345"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2053314436128194623",
+        "created_at": "2026-05-10T03:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053314436128194623"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "依賴受付"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979108124985561088",
+              "start": 3,
+              "username": "yumenoWchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2uYBczH9dw",
+              "end": 78,
+              "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+              "media_key": "3_2053062077368115200",
+              "start": 55,
+              "url": "https://t.co/2uYBczH9dw"
+            },
+            {
+              "display_url": "pic.x.com/2uYBczH9dw",
+              "end": 78,
+              "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+              "media_key": "3_2053062074243391488",
+              "start": 55,
+              "url": "https://t.co/2uYBczH9dw"
+            },
+            {
+              "display_url": "pic.x.com/2uYBczH9dw",
+              "end": 78,
+              "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+              "media_key": "3_2053062077422710784",
+              "start": 55,
+              "url": "https://t.co/2uYBczH9dw"
+            },
+            {
+              "display_url": "pic.x.com/2uYBczH9dw",
+              "end": 78,
+              "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+              "media_key": "3_2053062077405958144",
+              "start": 55,
+              "url": "https://t.co/2uYBczH9dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053314436128194623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053062098654249345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yumenoWchan: 我想接點委託⋯\n只接盲盒 給多少畫多少\n求轉發 轉發裡抽個無償\n#依賴受付 https://t.co/2uYBczH9dw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053062077368115200",
+            "3_2053062074243391488",
+            "3_2053062077422710784",
+            "3_2053062077405958144"
+          ]
+        },
+        "author_id": "1979108124985561088",
+        "conversation_id": "2053062098654249345",
+        "created_at": "2026-05-09T10:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053062098654249345"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "依賴受付"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2uYBczH9dw",
+              "end": 61,
+              "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+              "media_key": "3_2053062077368115200",
+              "start": 38,
+              "url": "https://t.co/2uYBczH9dw"
+            },
+            {
+              "display_url": "pic.x.com/2uYBczH9dw",
+              "end": 61,
+              "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+              "media_key": "3_2053062074243391488",
+              "start": 38,
+              "url": "https://t.co/2uYBczH9dw"
+            },
+            {
+              "display_url": "pic.x.com/2uYBczH9dw",
+              "end": 61,
+              "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+              "media_key": "3_2053062077422710784",
+              "start": 38,
+              "url": "https://t.co/2uYBczH9dw"
+            },
+            {
+              "display_url": "pic.x.com/2uYBczH9dw",
+              "end": 61,
+              "expanded_url": "https://x.com/yumenoWchan/status/2053062098654249345/photo/1",
+              "media_key": "3_2053062077405958144",
+              "start": 38,
+              "url": "https://t.co/2uYBczH9dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053062098654249345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 7070,
+          "like_count": 236,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "我想接點委託⋯\n只接盲盒 給多少畫多少\n求轉發 轉發裡抽個無償\n#依賴受付 https://t.co/2uYBczH9dw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 1733,
+          "like_count": 6957,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 3179
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕/阿欠｜🇨🇳🇭🇰｜🚫轉載🚫AI 🚫自作發言\n沒有其他帳號 請不要轉載我的作品",
+        "id": "1979108124985561088",
+        "name": "えぐち",
+        "pinned_tweet_id": "2046593454990619043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047250628687355904/LIuDBNUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 504,
+          "like_count": 3059,
+          "listed_count": 5,
+          "media_count": 82,
+          "tweet_count": 510
+        },
+        "username": "yumenoWchan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2014401344371884254",
+    "created_at": "2026-01-23T18:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T19:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014770966061318235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787610522600505344",
+          "start": 0,
+          "username": "hjmgowithw20934"
+        },
+        {
+          "end": 25,
+          "id": "1618557658163970049",
+          "start": 17,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014770966061318235",
+    "in_reply_to_user_id": "1787610522600505344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014768852710916140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hjmgowithw20934 @qqqqqf5 claude会员是用来解锁模型/增加次数用的呀（）不是在说twitter"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2014401344371884254",
+        "created_at": "2026-01-23T18:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T19:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014770966061318235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787610522600505344",
+              "start": 0,
+              "username": "hjmgowithw20934"
+            },
+            {
+              "end": 25,
+              "id": "1618557658163970049",
+              "start": 17,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014770966061318235",
+        "in_reply_to_user_id": "1787610522600505344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014768852710916140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hjmgowithw20934 @qqqqqf5 claude会员是用来解锁模型/增加次数用的呀（）不是在说twitter"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787610522600505344",
+        "conversation_id": "2014401344371884254",
+        "created_at": "2026-01-23T18:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T19:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014768852710916140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            },
+            {
+              "end": 24,
+              "id": "1618557658163970049",
+              "start": 16,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014768852710916140",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014759471567061393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip @qqqqqf5 要是封了的话这个会员的意义何在啊（这个会员不都是为了养号用的吗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 868,
+          "like_count": 4929,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-06T22:29:07.000Z",
+        "description": "",
+        "id": "1787610522600505344",
+        "name": "hjmgowithwind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787612623305129984/-JOVyEH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 226,
+          "like_count": 7351,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 3148
+        },
+        "username": "hjmgowithw20934",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手不恶俗\n爱发梗图和生活日常 ｜ 偶尔爆照\n欢迎私信投稿内容\nPython/Rust/JS后端个人开发者 | 学生\nAI | 量化 | 交易\nGithub求follow\n逃生舱:@qqqqqf_\n个人网站(博客):https://t.co/FF4XPq1mIy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 97,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 138,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 115,
+                "url": "https://t.co/FF4XPq1mIy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2013835813071790433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6485,
+          "following_count": 2042,
+          "like_count": 12240,
+          "listed_count": 14,
+          "media_count": 1620,
+          "tweet_count": 4169
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

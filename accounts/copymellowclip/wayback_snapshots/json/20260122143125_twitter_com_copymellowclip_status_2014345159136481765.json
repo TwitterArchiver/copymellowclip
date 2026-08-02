@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2014345159136481765",
+    "created_at": "2026-01-22T14:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T15:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014345159136481765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/copymellowclip…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/copymellowclip/status/2014336734084104250",
+          "start": 96,
+          "url": "https://t.co/GUerZ1zqhH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014345159136481765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014336734084104250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们什么意思！外面脆脆的里面粉粉的好吃捏，这个土豆味好浓完全是土豆条不是薯条，就是有几根粗的没熟洗的糊了都让我扔了（）谁能想到这是四个土豆的量，这个土豆太小了切出来好多损耗！而且也不好切（） https://t.co/GUerZ1zqhH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014336729478828032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RclUKbkAAtLHy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2014345159136481765",
+        "created_at": "2026-01-22T14:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014345159136481765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/copymellowclip…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/copymellowclip/status/2014336734084104250",
+              "start": 96,
+              "url": "https://t.co/GUerZ1zqhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014345159136481765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014336734084104250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们什么意思！外面脆脆的里面粉粉的好吃捏，这个土豆味好浓完全是土豆条不是薯条，就是有几根粗的没熟洗的糊了都让我扔了（）谁能想到这是四个土豆的量，这个土豆太小了切出来好多损耗！而且也不好切（） https://t.co/GUerZ1zqhH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014336729478828032"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014336734084104250",
+        "created_at": "2026-01-22T13:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T14:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014336734084104250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRWIbNyaxE",
+              "end": 39,
+              "expanded_url": "https://x.com/copymellowclip/status/2014336734084104250/photo/1",
+              "media_key": "3_2014336729478828032",
+              "start": 16,
+              "url": "https://t.co/FRWIbNyaxE"
+            },
+            {
+              "display_url": "x.com/copymellowclip…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/copymellowclip/status/2014327686370656701",
+              "start": 40,
+              "url": "https://t.co/PjeVysL35v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014336734084104250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014327686370656701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我成功了吗家人们（）谁想吃（） https://t.co/FRWIbNyaxE https://t.co/PjeVysL35v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 813,
+          "like_count": 4582,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2045713318917349830",
+    "created_at": "2026-04-19T11:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045820384172487129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1711367869567746048",
+          "start": 0,
+          "username": "lala_oldtang"
+        },
+        {
+          "end": 21,
+          "id": "4848269835",
+          "start": 14,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045820384172487129",
+    "in_reply_to_user_id": "1711367869567746048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045722555366113393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lala_oldtang @_FORAB 这个地区本来就明确写着不受支持啊，你使用服务本来就违规了，理论上来说你也不应该能付款，他甚至都全额退给你了还想干啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1732,
+        "media_key": "3_2045722530615570432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPdzYpasAAag5F.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2045713318917349830",
+        "created_at": "2026-04-19T11:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045820384172487129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1711367869567746048",
+              "start": 0,
+              "username": "lala_oldtang"
+            },
+            {
+              "end": 21,
+              "id": "4848269835",
+              "start": 14,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045820384172487129",
+        "in_reply_to_user_id": "1711367869567746048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045722555366113393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lala_oldtang @_FORAB 这个地区本来就明确写着不受支持啊，你使用服务本来就违规了，理论上来说你也不应该能付款，他甚至都全额退给你了还想干啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045722530615570432"
+          ]
+        },
+        "author_id": "1711367869567746048",
+        "conversation_id": "2045713318917349830",
+        "created_at": "2026-04-19T04:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045722555366113393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mHVgRc5eW4",
+              "end": 44,
+              "expanded_url": "https://x.com/lala_oldtang/status/2045722555366113393/photo/1",
+              "media_key": "3_2045722530615570432",
+              "start": 21,
+              "url": "https://t.co/mHVgRc5eW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045722555366113393",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 30407,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045713318917349830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 然而中文用户说封就封了。 https://t.co/mHVgRc5eW4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 1699,
+          "like_count": 6685,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 2927
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T13:08:03.000Z",
+        "description": "Mr Richard｜Veteran across Internet, Blockchain & AI！\n分享 AI/Crypto 行业知识、最新资讯与热点解读！",
+        "id": "1711367869567746048",
+        "name": "Mr Richard@AI+Crypto",
+        "pinned_tweet_id": "2040810207627100201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029908571169882112/WT3WAz7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 483,
+          "like_count": 2794,
+          "listed_count": 4,
+          "media_count": 1315,
+          "tweet_count": 3558
+        },
+        "username": "lala_oldtang",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116101,
+          "following_count": 597,
+          "like_count": 10025,
+          "listed_count": 1898,
+          "media_count": 3130,
+          "tweet_count": 14047
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2015729949462892775",
+    "created_at": "2026-01-27T17:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T18:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016198726570934494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354720635545477121",
+          "start": 0,
+          "username": "Nagisorry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016198726570934494",
+    "in_reply_to_user_id": "1354720635545477121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015729949462892775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagisorry 萌我一大跳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13400,
+        "height": 1280,
+        "media_key": "13_2015729886170939392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015729886170939392/img/XczkgQLyQCi7z2DD.jpg",
+        "public_metrics": {
+          "view_count": 1860
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015729886170939392/vid/avc1/320x568/UskMVpcZKYP6TD4a.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015729886170939392/vid/avc1/480x852/wpla5dlQWd9saKmO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015729886170939392/vid/avc1/720x1280/qdC_grgIjztF4ZB5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015729886170939392/pl/d1dKz7RNT1NRsA4W.m3u8?v=123"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2015729949462892775",
+        "created_at": "2026-01-27T17:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016198726570934494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354720635545477121",
+              "start": 0,
+              "username": "Nagisorry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016198726570934494",
+        "in_reply_to_user_id": "1354720635545477121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015729949462892775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagisorry 萌我一大跳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015729886170939392"
+          ]
+        },
+        "author_id": "1354720635545477121",
+        "conversation_id": "2015729949462892775",
+        "created_at": "2026-01-26T10:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015729949462892775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIyyo6FLCe",
+              "end": 28,
+              "expanded_url": "https://x.com/Nagisorry/status/2015729949462892775/video/1",
+              "media_key": "13_2015729886170939392",
+              "start": 5,
+              "url": "https://t.co/CIyyo6FLCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015729949462892775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 5878,
+          "like_count": 675,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "きみの… https://t.co/CIyyo6FLCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 94,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 71,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 1039,
+          "like_count": 5520,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2051
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-28T09:19:27.000Z",
+        "description": "韓国で留学している中国人のコスプレイヤー／イラストレーターです\n🚫無断転載、AI",
+        "id": "1354720635545477121",
+        "location": "Seoul, Republic of Korea",
+        "name": "羽見 怜",
+        "pinned_tweet_id": "2009189557133312403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015751268174880768/M3BBOF9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270,
+          "following_count": 2278,
+          "like_count": 6620,
+          "listed_count": 26,
+          "media_count": 60,
+          "tweet_count": 468
+        },
+        "username": "Nagisorry",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2013932227566985318",
+    "created_at": "2026-01-22T06:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T07:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014229191747911794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926810561536208897",
+          "start": 0,
+          "username": "Owso6y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014229191747911794",
+    "in_reply_to_user_id": "1926810561536208897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013932227566985318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Owso6y_ 羡慕ccb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2013932227566985318",
+        "created_at": "2026-01-22T06:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T07:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014229191747911794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926810561536208897",
+              "start": 0,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014229191747911794",
+        "in_reply_to_user_id": "1926810561536208897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013932227566985318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owso6y_ 羡慕ccb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926810561536208897",
+        "conversation_id": "2013932227566985318",
+        "created_at": "2026-01-21T11:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013932227566985318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013932227566985318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2932,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想踩踩背我也想捶捶背我也想猜猜吧我也想曾出版我也想冲刺班我也想长翅膀我也想尺寸表我也想川菜标"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 85,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 806,
+          "like_count": 4516,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1753
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T01:20:18.000Z",
+        "description": "",
+        "id": "1926810561536208897",
+        "name": "ねこ",
+        "pinned_tweet_id": "2013316343412769171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926810632331960320/-llV7JkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6918,
+          "following_count": 4,
+          "like_count": 455,
+          "listed_count": 11,
+          "media_count": 24,
+          "tweet_count": 56
+        },
+        "username": "Owso6y_",
+        "verified": false
+      }
+    ]
+  }
+}

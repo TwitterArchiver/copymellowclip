@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2057645995891343774",
+    "created_at": "2026-05-22T02:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057645995891343774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/indiehackercas…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/indiehackercase/status/2057398382025720235",
+          "start": 61,
+          "url": "https://t.co/IFb9LbSZDq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057645995891343774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057398382025720235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "adb 无线局域网调试 scrcpy\n这玩意能绕过银行app的anti屏幕共享吗，得手机本身解bl锁root之类的配合吧 https://t.co/IFb9LbSZDq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138784,
+        "height": 1280,
+        "media_key": "13_2057398225066459137",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057398225066459137/img/jXVsyKy2ocjXm7-T.jpg",
+        "public_metrics": {
+          "view_count": 7235
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057398225066459137/vid/avc1/320x568/p6yGt8biVvIBCX5r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057398225066459137/vid/avc1/480x852/J843g9CdDZW2wiJY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057398225066459137/vid/avc1/720x1280/PLlwHQRLs-F3Lhpz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057398225066459137/pl/EloQ623Y9ShUQCPt.m3u8?v=963"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2057645995891343774",
+        "created_at": "2026-05-22T02:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057645995891343774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/indiehackercas…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/indiehackercase/status/2057398382025720235",
+              "start": 61,
+              "url": "https://t.co/IFb9LbSZDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057645995891343774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057398382025720235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "adb 无线局域网调试 scrcpy\n这玩意能绕过银行app的anti屏幕共享吗，得手机本身解bl锁root之类的配合吧 https://t.co/IFb9LbSZDq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057398225066459137"
+          ]
+        },
+        "author_id": "1529821061411246081",
+        "conversation_id": "2057398382025720235",
+        "created_at": "2026-05-21T09:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057398382025720235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GqwPsDgRfD",
+              "end": 114,
+              "expanded_url": "https://x.com/indiehackercase/status/2057398382025720235/video/1",
+              "media_key": "13_2057398225066459137",
+              "start": 91,
+              "url": "https://t.co/GqwPsDgRfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057398382025720235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 1996,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请教一下推特上的大神，这种手机远程操控是怎么实现的，如何破解？\n\n视频说要断网，拔卡，重启。但是有时候你并没有注意到异常，比如在深夜，而且动不动就拔卡也很麻烦。有更好的处理办法吗？ https://t.co/GqwPsDgRfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问年龄/位置等现实信息！｜https://t.co/6r9Myxt6qg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 96,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 73,
+                "url": "https://t.co/6r9Myxt6qg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 1767,
+          "like_count": 7143,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3392
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T13:45:58.000Z",
+        "description": "数据分析师，分享AI自媒体搞钱副业，只做线上项目。资源分享：https://t.co/RDR5wo0kNo，公众号：AI搞钱笔记，商务合作加微信 1146399972 (qq同号)。DM me for cooperation",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+PK2391V7qFU0N…",
+                "end": 53,
+                "expanded_url": "http://t.me/+PK2391V7qFU0NWNl",
+                "start": 30,
+                "url": "https://t.co/RDR5wo0kNo"
+              }
+            ]
+          }
+        },
+        "id": "1529821061411246081",
+        "name": "Olivert",
+        "pinned_tweet_id": "2056550050566947102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977258121816162304/1hNmA_d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32145,
+          "following_count": 5422,
+          "like_count": 497,
+          "listed_count": 262,
+          "media_count": 1847,
+          "tweet_count": 7604
+        },
+        "username": "indiehackercase",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075077100697182208",
+        "3_2075077100705632256",
+        "3_2075077100751704064",
+        "3_2075077100760178688"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075065612947325285",
+    "created_at": "2026-07-09T04:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075077111447216232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rmj7QlS2hB",
+          "end": 117,
+          "expanded_url": "https://x.com/copymellowclip/status/2075077111447216232/photo/1",
+          "media_key": "3_2075077100697182208",
+          "start": 94,
+          "url": "https://t.co/Rmj7QlS2hB"
+        },
+        {
+          "display_url": "pic.x.com/Rmj7QlS2hB",
+          "end": 117,
+          "expanded_url": "https://x.com/copymellowclip/status/2075077111447216232/photo/1",
+          "media_key": "3_2075077100705632256",
+          "start": 94,
+          "url": "https://t.co/Rmj7QlS2hB"
+        },
+        {
+          "display_url": "pic.x.com/Rmj7QlS2hB",
+          "end": 117,
+          "expanded_url": "https://x.com/copymellowclip/status/2075077111447216232/photo/1",
+          "media_key": "3_2075077100751704064",
+          "start": 94,
+          "url": "https://t.co/Rmj7QlS2hB"
+        },
+        {
+          "display_url": "pic.x.com/Rmj7QlS2hB",
+          "end": 117,
+          "expanded_url": "https://x.com/copymellowclip/status/2075077111447216232/photo/1",
+          "media_key": "3_2075077100760178688",
+          "start": 94,
+          "url": "https://t.co/Rmj7QlS2hB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075077111447216232",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075068715901796818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 豆芽炒肉、土豆胡萝卜鸡肉咖喱、麻婆豆腐、炒青菜+煎猪排煎鸡排、红烧肉、清炒虾仁之类的，以下是配图（）好吃又便宜喵平均每盘 5 块钱以内，鸡腿可能 6 块钱了（） https://t.co/Rmj7QlS2hB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2075077100697182208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwnoPyaYAA3dwa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075077100705632256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwnoP0bUAAY0LQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075077100751704064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwnoP_aUAA30_q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075077100760178688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwnoQBboAAK0GF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075077100697182208",
+            "3_2075077100705632256",
+            "3_2075077100751704064",
+            "3_2075077100760178688"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075065612947325285",
+        "created_at": "2026-07-09T04:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075077111447216232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rmj7QlS2hB",
+              "end": 117,
+              "expanded_url": "https://x.com/copymellowclip/status/2075077111447216232/photo/1",
+              "media_key": "3_2075077100697182208",
+              "start": 94,
+              "url": "https://t.co/Rmj7QlS2hB"
+            },
+            {
+              "display_url": "pic.x.com/Rmj7QlS2hB",
+              "end": 117,
+              "expanded_url": "https://x.com/copymellowclip/status/2075077111447216232/photo/1",
+              "media_key": "3_2075077100705632256",
+              "start": 94,
+              "url": "https://t.co/Rmj7QlS2hB"
+            },
+            {
+              "display_url": "pic.x.com/Rmj7QlS2hB",
+              "end": 117,
+              "expanded_url": "https://x.com/copymellowclip/status/2075077111447216232/photo/1",
+              "media_key": "3_2075077100751704064",
+              "start": 94,
+              "url": "https://t.co/Rmj7QlS2hB"
+            },
+            {
+              "display_url": "pic.x.com/Rmj7QlS2hB",
+              "end": 117,
+              "expanded_url": "https://x.com/copymellowclip/status/2075077111447216232/photo/1",
+              "media_key": "3_2075077100760178688",
+              "start": 94,
+              "url": "https://t.co/Rmj7QlS2hB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075077111447216232",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075068715901796818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 豆芽炒肉、土豆胡萝卜鸡肉咖喱、麻婆豆腐、炒青菜+煎猪排煎鸡排、红烧肉、清炒虾仁之类的，以下是配图（）好吃又便宜喵平均每盘 5 块钱以内，鸡腿可能 6 块钱了（） https://t.co/Rmj7QlS2hB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2075065612947325285",
+        "created_at": "2026-07-09T04:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075068715901796818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075068715901796818",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075066796881891393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我自己做饭也会每天花18-20+🥹都做的什么呀我将严肃学习！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 1777,
+          "like_count": 7347,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 3794
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…\n需要回fo请私信或评论我！",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 210,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 958
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}
