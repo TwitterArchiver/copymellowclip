@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2090326226053558724",
+    "created_at": "2026-08-20T07:50:14.000Z",
+    "display_text_range": [
+      15,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090345650768769375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2030123031490875396",
+          "start": 0,
+          "username": "Haruukawaiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090345650768769375",
+    "in_reply_to_user_id": "876363325998678017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090345523324866786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Haruukawaiiii 我小时候是个装货吃到好吃的还要假装自己不爱吃，因为啥都不爱吃比较像大人😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2090326226053558724",
+        "created_at": "2026-08-20T07:50:14.000Z",
+        "display_text_range": [
+          15,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090345650768769375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030123031490875396",
+              "start": 0,
+              "username": "Haruukawaiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090345650768769375",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090345523324866786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Haruukawaiiii 我小时候是个装货吃到好吃的还要假装自己不爱吃，因为啥都不爱吃比较像大人😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2090326226053558724",
+        "created_at": "2026-08-20T07:49:44.000Z",
+        "display_text_range": [
+          15,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090345523324866786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030123031490875396",
+              "start": 0,
+              "username": "Haruukawaiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090345523324866786",
+        "in_reply_to_user_id": "2030123031490875396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090326226053558724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Haruukawaiiii 啊呀 好怀念小时候 不知道什么是热量 只知道这个好好吃 下次还想吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090345650768769375",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2843,
+          "following_count": 1746,
+          "like_count": 7447,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 3890
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-07T03:27:15.000Z",
+        "description": "心的距离是遥不可及\n掉关注不是双取是我大号坠机了😔@Miiharukawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Miiharukawa"
+              }
+            ]
+          }
+        },
+        "id": "2030123031490875396",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090326226053558724",
+        "name": "遥",
+        "pinned_tweet_id": "2045065282570592611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030123031490875396/1786662655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089413446882529280/IKbHnV6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 102,
+          "like_count": 1255,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "Haruukawaiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2090380107093320064",
+    "created_at": "2026-08-21T03:41:12.000Z",
+    "display_text_range": [
+      40,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090645366630940744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1251976337528668160",
+          "start": 0,
+          "username": "xcate329"
+        },
+        {
+          "end": 24,
+          "id": "1651547371581452290",
+          "start": 10,
+          "username": "WYk0123456789"
+        },
+        {
+          "end": 39,
+          "id": "1167950426550878209",
+          "start": 25,
+          "username": "adambrownh365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090645366630940744",
+    "in_reply_to_user_id": "876363325998678017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090645297584349227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcate329 @WYk0123456789 @adambrownh365 不过到现在也是只有热门视频才有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2090380107093320064",
+        "created_at": "2026-08-21T03:41:12.000Z",
+        "display_text_range": [
+          40,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090645366630940744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1251976337528668160",
+              "start": 0,
+              "username": "xcate329"
+            },
+            {
+              "end": 24,
+              "id": "1651547371581452290",
+              "start": 10,
+              "username": "WYk0123456789"
+            },
+            {
+              "end": 39,
+              "id": "1167950426550878209",
+              "start": 25,
+              "username": "adambrownh365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090645366630940744",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090645297584349227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcate329 @WYk0123456789 @adambrownh365 不过到现在也是只有热门视频才有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2090380107093320064",
+        "created_at": "2026-08-21T03:40:55.000Z",
+        "display_text_range": [
+          40,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090645297584349227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1251976337528668160",
+              "start": 0,
+              "username": "xcate329"
+            },
+            {
+              "end": 24,
+              "id": "1651547371581452290",
+              "start": 10,
+              "username": "WYk0123456789"
+            },
+            {
+              "end": 39,
+              "id": "1167950426550878209",
+              "start": 25,
+              "username": "adambrownh365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090645297584349227",
+        "in_reply_to_user_id": "1251976337528668160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090433862518116769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcate329 @WYk0123456789 @adambrownh365 你没在网页端用过 ai 语音翻译吗，网页端比 app 上线的早吧？我第一次就是在 pc 网页上用到的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090645366630940744",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 1744,
+          "like_count": 7451,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 3892
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-19T20:50:01.000Z",
+        "description": "中文，English 🆗 | 06 | 男的 | BSc CSE在读 | 我喜欢白洲梓",
+        "id": "1251976337528668160",
+        "is_identity_verified": false,
+        "location": "Eindhoven, Nederland",
+        "most_recent_tweet_id": "2090632163225907485",
+        "name": "炫彩甜辣酱 ☮（过气推主",
+        "pinned_tweet_id": "2082541198586130450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251976337528668160/1686672570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668651816605605889/IyXgzfY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3853,
+          "following_count": 2892,
+          "like_count": 55985,
+          "listed_count": 35,
+          "media_count": 2223,
+          "tweet_count": 52068
+        },
+        "url": "",
+        "username": "xcate329",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-27T11:23:01.000Z",
+        "description": "",
+        "id": "1651547371581452290",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090594462682750995",
+        "name": "纯良ksm",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970268743495491587/uTxCAYAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 471,
+          "like_count": 27060,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "WYk0123456789",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-01T00:01:07.000Z",
+        "description": "富贵险中求",
+        "id": "1167950426550878209",
+        "is_identity_verified": false,
+        "location": "Red Earth 29, Saskatchewan",
+        "most_recent_tweet_id": "2090575604064387383",
+        "name": "皮皮特",
+        "pinned_tweet_id": "1667006326998986755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167950426550878209/1755263729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086437543042764800/PB5H6coU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 12,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "adambrownh365",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

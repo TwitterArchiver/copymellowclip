@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2083362870537162823",
+    "created_at": "2026-08-01T13:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083539384213864665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "488296116",
+          "start": 0,
+          "username": "zhaoxo"
+        },
+        {
+          "end": 20,
+          "id": "1520126866132434944",
+          "start": 8,
+          "username": "baimao_suki"
+        },
+        {
+          "end": 29,
+          "id": "1433678976564662273",
+          "start": 21,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083539384213864665",
+    "in_reply_to_user_id": "488296116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083515165346341319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaoxo @baimao_suki @hsn8086 他都能不经过孩子允许擅自改志愿并不通知了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2083362870537162823",
+        "created_at": "2026-08-01T13:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083539384213864665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "488296116",
+              "start": 0,
+              "username": "zhaoxo"
+            },
+            {
+              "end": 20,
+              "id": "1520126866132434944",
+              "start": 8,
+              "username": "baimao_suki"
+            },
+            {
+              "end": 29,
+              "id": "1433678976564662273",
+              "start": 21,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083539384213864665",
+        "in_reply_to_user_id": "488296116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083515165346341319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaoxo @baimao_suki @hsn8086 他都能不经过孩子允许擅自改志愿并不通知了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "488296116",
+        "conversation_id": "2083362870537162823",
+        "created_at": "2026-08-01T11:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083515165346341319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1520126866132434944",
+              "start": 0,
+              "username": "baimao_suki"
+            },
+            {
+              "end": 21,
+              "id": "1433678976564662273",
+              "start": 13,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083515165346341319",
+        "in_reply_to_user_id": "1520126866132434944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083439164113232245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baimao_suki @hsn8086 有一说一这是救了他，人家又没说不准他住外面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊提问 vx🚪52｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2070349159660712118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 1763,
+          "like_count": 7435,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 3885
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T09:18:54.000Z",
+        "description": "毋负今朝少年时，去管多少不平事。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhaoxo.substack.com",
+                "end": 23,
+                "expanded_url": "https://zhaoxo.substack.com/",
+                "start": 0,
+                "url": "https://t.co/0cXYXrfzo8"
+              }
+            ]
+          }
+        },
+        "id": "488296116",
+        "location": "Shanghai",
+        "name": "Xiaoou 晓欧",
+        "pinned_tweet_id": "2071242560492978658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/539355371446341632/1N3K3pEz_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 444,
+          "like_count": 1643,
+          "listed_count": 10,
+          "media_count": 246,
+          "tweet_count": 15133
+        },
+        "url": "https://t.co/0cXYXrfzo8",
+        "username": "zhaoxo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T19:44:32.000Z",
+        "description": "电脑DIY爱好者/ ysyxer/CS2玩家/ 头像是⁹ 背景是桜田シロ/疑似双A被bug拖着走 /容易踩地雷（雾）",
+        "id": "1520126866132434944",
+        "location": "广州",
+        "name": "白毛suki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671767047737602051/c8nMOrhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 1498,
+          "like_count": 27821,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 3029
+        },
+        "url": "",
+        "username": "baimao_suki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121890,
+          "following_count": 1118,
+          "like_count": 52110,
+          "listed_count": 296,
+          "media_count": 23893,
+          "tweet_count": 34447
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}
