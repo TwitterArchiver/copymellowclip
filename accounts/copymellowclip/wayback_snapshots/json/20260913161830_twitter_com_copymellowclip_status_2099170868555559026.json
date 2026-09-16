@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2099067470757671197",
+    "created_at": "2026-09-13T16:18:30.000Z",
+    "display_text_range": [
+      15,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099170868555559026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "143787031",
+          "start": 0,
+          "username": "Core_Investor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099170868555559026",
+    "in_reply_to_user_id": "143787031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099067470757671197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Core_Investor 啊啊中国牌子来着，但是这家厂商最近的产品审美好差，这台机器的侧面和背面都和正面的设计语言不一致好难受"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41466,
+        "height": 1920,
+        "media_key": "13_2099029460326744064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099029460326744064/img/EAshcmfELUPzx-D2.jpg",
+        "public_metrics": {
+          "view_count": 1564004
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099029460326744064/vid/avc1/320x568/x7mcIloHTVVcCFcC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099029460326744064/vid/avc1/480x852/DcJ9ycAJPTyY2cnC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099029460326744064/vid/avc1/720x1280/npZNGif2vGuXSK9L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099029460326744064/pl/N8Ef7mmDLwAvRSGZ.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099029460326744064/vid/avc1/1080x1920/s78v1C1nB6H_yKMD.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2099067470757671197",
+        "created_at": "2026-09-13T16:18:30.000Z",
+        "display_text_range": [
+          15,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099170868555559026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "143787031",
+              "start": 0,
+              "username": "Core_Investor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099170868555559026",
+        "in_reply_to_user_id": "143787031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099067470757671197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Core_Investor 啊啊中国牌子来着，但是这家厂商最近的产品审美好差，这台机器的侧面和背面都和正面的设计语言不一致好难受"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099029460326744064"
+          ],
+          "media_source_tweet_id": [
+            "2099029596960178505"
+          ]
+        },
+        "author_id": "143787031",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026889703",
+              "name": "BlackBerry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2099067470757671197",
+        "created_at": "2026-09-13T09:27:38.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099067470757671197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJEUfFJb9k",
+              "end": 102,
+              "expanded_url": "https://x.com/ibra_resh/status/2099029596960178505/video/1",
+              "media_key": "13_2099029460326744064",
+              "start": 79,
+              "url": "https://t.co/pJEUfFJb9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099067470757671197",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2099029460326744064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5896,
+          "impression_count": 2894786,
+          "like_count": 32089,
+          "quote_count": 991,
+          "reply_count": 629,
+          "retweet_count": 2971
+        },
+        "reply_settings": "everyone",
+        "text": "Todo el mundo emocionado por el iPhone Duo y yo flipando por está \"BlackBerry\" https://t.co/pJEUfFJb9k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099170868555559026",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 1730,
+          "like_count": 7457,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3955
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-05-14T11:41:33.000Z",
+        "description": "Padre, Cloud Engineer e Inversor.\n\nCloud Admin que opera en diferentes mercados buscando ganar en tranquilidad financiera. NFA\n\nBTC, stocks & real estate",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Core_Investor",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Core_Investor",
+                "start": 0,
+                "url": "https://t.co/Z5nqBwyVdT"
+              }
+            ]
+          }
+        },
+        "id": "143787031",
+        "is_identity_verified": false,
+        "location": "Granada, España",
+        "most_recent_tweet_id": "2099151585523761533",
+        "name": "Core Investor",
+        "pinned_tweet_id": "2083096590730891277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143787031/1707124567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998647562627088385/FlPHNID8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10342,
+          "following_count": 438,
+          "like_count": 255437,
+          "listed_count": 99,
+          "media_count": 2317,
+          "tweet_count": 88558
+        },
+        "url": "https://t.co/Z5nqBwyVdT",
+        "username": "Core_Investor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

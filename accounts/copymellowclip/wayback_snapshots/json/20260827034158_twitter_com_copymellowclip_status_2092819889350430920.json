@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2092817746606383599",
+    "created_at": "2026-08-27T03:41:58.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T04:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092819889350430920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092819889350430920",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092817746606383599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 哎mio我要金币！金币！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092817726914138112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsuomhbkAAqaAm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2092817746606383599",
+        "created_at": "2026-08-27T03:41:58.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092819889350430920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092819889350430920",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092817746606383599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 哎mio我要金币！金币！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092817726914138112"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2092817746606383599",
+        "created_at": "2026-08-27T03:33:28.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092817746606383599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFTlWZhZEw",
+              "end": 28,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2092817746606383599/photo/1",
+              "media_key": "3_2092817726914138112",
+              "start": 5,
+              "url": "https://t.co/XFTlWZhZEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092817746606383599",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092817726914138112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘎哒嘎哒 https://t.co/XFTlWZhZEw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092819889350430920",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 1738,
+          "like_count": 7466,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 3907
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物\n联系方式🚪88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSHHsL"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092817746606383599",
+        "name": "miovo",
+        "pinned_tweet_id": "2082239946614784158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944679199358570496/1752484102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 237,
+          "like_count": 20988,
+          "listed_count": 8,
+          "media_count": 246,
+          "tweet_count": 3805
+        },
+        "url": "https://t.co/1hFCOSHHsL",
+        "username": "0kada_Mi0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

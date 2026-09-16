@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094805391419064320",
+        "3_2094805391423213568"
+      ],
+      "media_source_tweet_id": [
+        "2094805434834264210",
+        "2094805434834264210"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2094811526612066588",
+    "created_at": "2026-09-01T15:36:02.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094811526612066588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2070541460659924992",
+          "start": 3,
+          "username": "Kiri_yume1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G9teQ4CNWu",
+          "end": 39,
+          "expanded_url": "https://x.com/Kiri_yume1/status/2094805434834264210/photo/1",
+          "media_key": "3_2094805391419064320",
+          "start": 16,
+          "url": "https://t.co/G9teQ4CNWu"
+        },
+        {
+          "display_url": "pic.x.com/G9teQ4CNWu",
+          "end": 39,
+          "expanded_url": "https://x.com/Kiri_yume1/status/2094805434834264210/photo/1",
+          "media_key": "3_2094805391423213568",
+          "start": 16,
+          "url": "https://t.co/G9teQ4CNWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094811526612066588",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2094805391419064320"
+      },
+      {
+        "media_key": "3_2094805391423213568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094805434834264210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kiri_yume1: https://t.co/G9teQ4CNWu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2026,
+        "media_key": "3_2094805391419064320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRI-Z50bQAA1w9r.jpg",
+        "width": 2376
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2094805391423213568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRI-Z51akAAkM4b.jpg",
+        "width": 1570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094805391419064320",
+            "3_2094805391423213568"
+          ],
+          "media_source_tweet_id": [
+            "2094805434834264210",
+            "2094805434834264210"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2094811526612066588",
+        "created_at": "2026-09-01T15:36:02.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094811526612066588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2070541460659924992",
+              "start": 3,
+              "username": "Kiri_yume1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9teQ4CNWu",
+              "end": 39,
+              "expanded_url": "https://x.com/Kiri_yume1/status/2094805434834264210/photo/1",
+              "media_key": "3_2094805391419064320",
+              "start": 16,
+              "url": "https://t.co/G9teQ4CNWu"
+            },
+            {
+              "display_url": "pic.x.com/G9teQ4CNWu",
+              "end": 39,
+              "expanded_url": "https://x.com/Kiri_yume1/status/2094805434834264210/photo/1",
+              "media_key": "3_2094805391423213568",
+              "start": 16,
+              "url": "https://t.co/G9teQ4CNWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094811526612066588",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094805391419064320"
+          },
+          {
+            "media_key": "3_2094805391423213568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094805434834264210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kiri_yume1: https://t.co/G9teQ4CNWu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094805391419064320",
+            "3_2094805391423213568"
+          ]
+        },
+        "author_id": "2070541460659924992",
+        "conversation_id": "2094805434834264210",
+        "created_at": "2026-09-01T15:11:49.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094805434834264210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9teQ4CNWu",
+              "end": 23,
+              "expanded_url": "https://x.com/Kiri_yume1/status/2094805434834264210/photo/1",
+              "media_key": "3_2094805391419064320",
+              "start": 0,
+              "url": "https://t.co/G9teQ4CNWu"
+            },
+            {
+              "display_url": "pic.x.com/G9teQ4CNWu",
+              "end": 23,
+              "expanded_url": "https://x.com/Kiri_yume1/status/2094805434834264210/photo/1",
+              "media_key": "3_2094805391423213568",
+              "start": 0,
+              "url": "https://t.co/G9teQ4CNWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094805434834264210",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094805391419064320"
+          },
+          {
+            "media_key": "3_2094805391423213568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 114,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/G9teQ4CNWu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094811526612066588",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 1734,
+          "like_count": 7467,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 3921
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:16:49.000Z",
+        "description": "其实是ロプ三代目 || 放弃世界",
+        "id": "2070541460659924992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094811368973328605",
+        "name": "ロプ（Kiriyume）",
+        "pinned_tweet_id": "2070546609449173327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070541460659924992/1787152678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094463076758384641/Yd7g2gJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 208,
+          "like_count": 856,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "Kiri_yume1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

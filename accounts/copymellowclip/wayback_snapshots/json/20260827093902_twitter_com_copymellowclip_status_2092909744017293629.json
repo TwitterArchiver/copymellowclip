@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2092903052932182208",
+    "created_at": "2026-08-27T09:39:02.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T10:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092909744017293629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194283796314509312",
+          "start": 0,
+          "username": "gana0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092909744017293629",
+    "in_reply_to_user_id": "1194283796314509312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092903052932182208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@gana0w0 gana 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2092903041532067840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt8OkPagAAWjN4.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2092903052932182208",
+        "created_at": "2026-08-27T09:39:02.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092909744017293629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194283796314509312",
+              "start": 0,
+              "username": "gana0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092909744017293629",
+        "in_reply_to_user_id": "1194283796314509312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092903052932182208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@gana0w0 gana 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092903041532067840"
+          ]
+        },
+        "author_id": "1194283796314509312",
+        "conversation_id": "2092903052932182208",
+        "created_at": "2026-08-27T09:12:26.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092903052932182208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wl0sT37w65",
+              "end": 29,
+              "expanded_url": "https://x.com/gana0w0/status/2092903052932182208/photo/1",
+              "media_key": "3_2092903041532067840",
+              "start": 6,
+              "url": "https://t.co/wl0sT37w65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092903052932182208",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092903041532067840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 390,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "像被人打了 https://t.co/wl0sT37w65"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092909744017293629",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 1737,
+          "like_count": 7467,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 3908
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "我单推🍰",
+        "id": "1194283796314509312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092903052932182208",
+        "name": "gana",
+        "pinned_tweet_id": "2071408465004880316",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1194283796314509312/1787740761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089995412426141696/cNTf6ZRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66228,
+          "following_count": 65,
+          "like_count": 9780,
+          "listed_count": 197,
+          "media_count": 1536,
+          "tweet_count": 6663
+        },
+        "url": "",
+        "username": "gana0w0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2093462898546979129",
+    "created_at": "2026-08-29T03:33:13.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T04:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093542459339128967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1668257047647776770",
+          "start": 0,
+          "username": "nekoTiao0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093542459339128967",
+    "in_reply_to_user_id": "1668257047647776770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093462898546979129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekoTiao0w0 喜欢你喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2093462870717816832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ15Y6ea4AAMZ8H.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2093462898546979129",
+        "created_at": "2026-08-29T03:33:13.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093542459339128967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1668257047647776770",
+              "start": 0,
+              "username": "nekoTiao0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093542459339128967",
+        "in_reply_to_user_id": "1668257047647776770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093462898546979129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoTiao0w0 喜欢你喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093462870717816832"
+          ]
+        },
+        "author_id": "1668257047647776770",
+        "conversation_id": "2093462898546979129",
+        "created_at": "2026-08-28T22:17:04.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T23:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093462898546979129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wDThqAZgU4",
+              "end": 55,
+              "expanded_url": "https://x.com/nekoTiao0w0/status/2093462898546979129/photo/1",
+              "media_key": "3_2093462870717816832",
+              "start": 32,
+              "url": "https://t.co/wDThqAZgU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093462898546979129",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093462870717816832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 767,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这么可爱为什么没人喜欢我呢？！！想操我也行，喜欢我吧求你们了 https://t.co/wDThqAZgU4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093542459339128967",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 1740,
+          "like_count": 7470,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 3913
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩 看你们也没多喜欢我 关注我干嘛？",
+        "id": "1668257047647776770",
+        "is_identity_verified": false,
+        "location": "🚪288",
+        "most_recent_tweet_id": "2093503049423851681",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2086341735215677755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668257047647776770/1785333867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059143750694350848/9P2mQIqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 264,
+          "like_count": 9838,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 4266
+        },
+        "url": "",
+        "username": "nekoTiao0w0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

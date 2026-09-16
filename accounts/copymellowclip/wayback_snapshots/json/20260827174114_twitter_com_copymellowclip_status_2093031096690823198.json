@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2093019819235029414",
+    "created_at": "2026-08-27T17:41:14.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093031096690823198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2081316058087251968",
+          "start": 0,
+          "username": "Nekoimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093031096690823198",
+    "in_reply_to_user_id": "2081316058087251968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093019819235029414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nekoimeow 好惨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1882,
+        "media_key": "3_2093019810347311104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvmbZ-bYAA9mLM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2093019819235029414",
+        "created_at": "2026-08-27T17:41:14.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093031096690823198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2081316058087251968",
+              "start": 0,
+              "username": "Nekoimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093031096690823198",
+        "in_reply_to_user_id": "2081316058087251968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093019819235029414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nekoimeow 好惨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093019810347311104"
+          ]
+        },
+        "author_id": "2081316058087251968",
+        "conversation_id": "2093019819235029414",
+        "created_at": "2026-08-27T16:56:25.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093019819235029414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ew8FpqheMh",
+              "end": 40,
+              "expanded_url": "https://x.com/Nekoimeow/status/2093019819235029414/photo/1",
+              "media_key": "3_2093019810347311104",
+              "start": 17,
+              "url": "https://t.co/Ew8FpqheMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093019819235029414",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093019810347311104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "互关回家，粉丝回家。我想你们🥺🥹 https://t.co/Ew8FpqheMh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093031096690823198",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 1739,
+          "like_count": 7470,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 3911
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T09:52:48.000Z",
+        "description": "水过无痕\n前世@nekoinekoQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "nekoinekoQwQ"
+              }
+            ]
+          }
+        },
+        "id": "2081316058087251968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093025144717668805",
+        "name": "泪（转生版）",
+        "pinned_tweet_id": "2093019819235029414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081316058087251968/1785060268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081847870286897152/fwVQlUWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Nekoimeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2099444563249381619",
+    "created_at": "2026-09-14T10:32:37.000Z",
+    "display_text_range": [
+      15,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T11:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099446212080599085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2030123031490875396",
+          "start": 0,
+          "username": "Haruukawaiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099446212080599085",
+    "in_reply_to_user_id": "876363325998678017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099446006073233854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruukawaiiii 但是从 xxx 日开始我觉得是包含 xxx 日的哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2099444563249381619",
+        "created_at": "2026-09-14T10:32:37.000Z",
+        "display_text_range": [
+          15,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T11:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099446212080599085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030123031490875396",
+              "start": 0,
+              "username": "Haruukawaiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099446212080599085",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099446006073233854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruukawaiiii 但是从 xxx 日开始我觉得是包含 xxx 日的哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2099444563249381619",
+        "created_at": "2026-09-14T10:31:48.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T11:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099446006073233854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030123031490875396",
+              "start": 0,
+              "username": "Haruukawaiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099446006073233854",
+        "in_reply_to_user_id": "2030123031490875396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099444563249381619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruukawaiiii 不说的话我默认左开右闭（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099446212080599085",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 1729,
+          "like_count": 7458,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3960
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-07T03:27:15.000Z",
+        "description": "若是一切都能抛诸脑后。\n掉关注不是双取是我大号坠机了😔@Miiharukawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Miiharukawa"
+              }
+            ]
+          }
+        },
+        "id": "2030123031490875396",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099444785673347085",
+        "name": "遥",
+        "pinned_tweet_id": "2045065282570592611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030123031490875396/1788701471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089413446882529280/IKbHnV6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 122,
+          "like_count": 1632,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "Haruukawaiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

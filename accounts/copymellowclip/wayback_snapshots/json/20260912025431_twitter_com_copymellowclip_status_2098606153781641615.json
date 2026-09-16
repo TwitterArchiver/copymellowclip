@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2098446355681480817",
+    "created_at": "2026-09-12T02:54:31.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T03:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098606153781641615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098606153781641615",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098446355681480817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 抱抱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098446344046473223",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8t1PUbcAcIQQb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1607,
+        "media_key": "3_2098446344054874112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8t1PWboAAH1tN.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2098446344168079360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8t1PxbAAAyun_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 884,
+        "media_key": "3_2098446344046473220",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8t1PUbcAQPLO_.jpg",
+        "width": 1129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2098446355681480817",
+        "created_at": "2026-09-12T02:54:31.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T03:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098606153781641615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098606153781641615",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098446355681480817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 抱抱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098446344046473223",
+            "3_2098446344054874112",
+            "3_2098446344168079360",
+            "3_2098446344046473220"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2098446355681480817",
+        "created_at": "2026-09-11T16:19:33.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098446355681480817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOFidZvvgm",
+              "end": 127,
+              "expanded_url": "https://x.com/doll7799/status/2098446355681480817/photo/1",
+              "media_key": "3_2098446344046473223",
+              "start": 104,
+              "url": "https://t.co/vOFidZvvgm"
+            },
+            {
+              "display_url": "pic.x.com/vOFidZvvgm",
+              "end": 127,
+              "expanded_url": "https://x.com/doll7799/status/2098446355681480817/photo/1",
+              "media_key": "3_2098446344054874112",
+              "start": 104,
+              "url": "https://t.co/vOFidZvvgm"
+            },
+            {
+              "display_url": "pic.x.com/vOFidZvvgm",
+              "end": 127,
+              "expanded_url": "https://x.com/doll7799/status/2098446355681480817/photo/1",
+              "media_key": "3_2098446344168079360",
+              "start": 104,
+              "url": "https://t.co/vOFidZvvgm"
+            },
+            {
+              "display_url": "pic.x.com/vOFidZvvgm",
+              "end": 127,
+              "expanded_url": "https://x.com/doll7799/status/2098446355681480817/photo/1",
+              "media_key": "3_2098446344046473220",
+              "start": 104,
+              "url": "https://t.co/vOFidZvvgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098446355681480817",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098446344046473223"
+          },
+          {
+            "media_key": "3_2098446344054874112"
+          },
+          {
+            "media_key": "3_2098446344168079360"
+          },
+          {
+            "media_key": "3_2098446344046473220"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1404,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我终于出去一个人住了呀😭就是不知道跟我爹怎么解释怕他找到我给又给我关戒网瘾中心唉真的好害怕呀有人懂吗，玩cosplay的下场就是这么多假发箱子，一个人住很安心但是还是很害怕啊每天都压力好大倒霉一直流血唉…. https://t.co/vOFidZvvgm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098606153781641615",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 1732,
+          "like_count": 7458,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3950
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "匿名提问 https://t.co/2lBKx6Awd7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ydd67887",
+                "end": 28,
+                "expanded_url": "https://ngl.link/ydd67887",
+                "start": 5,
+                "url": "https://t.co/2lBKx6Awd7"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "is_identity_verified": false,
+        "location": "扩列52聊一辈子天=(^.^)=",
+        "most_recent_tweet_id": "2098470054140768262",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779774601100189696/1758037969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6150,
+          "following_count": 7,
+          "like_count": 3448,
+          "listed_count": 24,
+          "media_count": 335,
+          "tweet_count": 1487
+        },
+        "url": "",
+        "username": "doll7799",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

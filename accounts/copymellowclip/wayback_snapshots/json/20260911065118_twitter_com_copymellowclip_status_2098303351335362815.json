@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2096567032980684961",
+    "created_at": "2026-09-11T06:51:18.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098303351335362815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2030123031490875396",
+          "start": 0,
+          "username": "Haruukawaiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098303351335362815",
+    "in_reply_to_user_id": "2030123031490875396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096567032980684961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruukawaiiii 两个小蛋糕喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096567020536147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiAmNrbMAAdmxF.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2096567032980684961",
+        "created_at": "2026-09-11T06:51:18.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098303351335362815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030123031490875396",
+              "start": 0,
+              "username": "Haruukawaiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098303351335362815",
+        "in_reply_to_user_id": "2030123031490875396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096567032980684961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruukawaiiii 两个小蛋糕喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096567020536147968"
+          ]
+        },
+        "author_id": "2030123031490875396",
+        "conversation_id": "2096567032980684961",
+        "created_at": "2026-09-06T11:51:47.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096567032980684961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIUkWkbBtf",
+              "end": 23,
+              "expanded_url": "https://x.com/Haruukawaiiii/status/2096567032980684961/photo/1",
+              "media_key": "3_2096567020536147968",
+              "start": 0,
+              "url": "https://t.co/gIUkWkbBtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096567032980684961",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096567020536147968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2570,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gIUkWkbBtf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098303351335362815",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 1732,
+          "like_count": 7463,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3949
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-07T03:27:15.000Z",
+        "description": "若是一切都能抛诸脑后。\n掉关注不是双取是我大号坠机了😔@Miiharukawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Miiharukawa"
+              }
+            ]
+          }
+        },
+        "id": "2030123031490875396",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098303003422003370",
+        "name": "遥",
+        "pinned_tweet_id": "2045065282570592611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030123031490875396/1788701471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089413446882529280/IKbHnV6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 121,
+          "like_count": 1602,
+          "listed_count": 5,
+          "media_count": 42,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "Haruukawaiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
