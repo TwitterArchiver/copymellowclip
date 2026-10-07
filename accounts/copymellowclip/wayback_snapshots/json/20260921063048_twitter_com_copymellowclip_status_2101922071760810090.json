@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2101919829406224604",
+    "created_at": "2026-09-21T06:30:48.000Z",
+    "display_text_range": [
+      10,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T07:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101922071760810090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1837542721298616320",
+          "start": 0,
+          "username": "Yosameko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101922071760810090",
+    "in_reply_to_user_id": "1837542721298616320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101921439301726652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yosameko 上班了完全低精力人士极品牛马完全不想扯皮，而且我口才也很差，，但是不搞道德感还过不去感觉会有其他人也被她这样坑到，呃啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2101919829406224604",
+        "created_at": "2026-09-21T06:30:48.000Z",
+        "display_text_range": [
+          10,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101922071760810090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1837542721298616320",
+              "start": 0,
+              "username": "Yosameko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101922071760810090",
+        "in_reply_to_user_id": "1837542721298616320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101921439301726652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yosameko 上班了完全低精力人士极品牛马完全不想扯皮，而且我口才也很差，，但是不搞道德感还过不去感觉会有其他人也被她这样坑到，呃啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837542721298616320",
+        "conversation_id": "2101919829406224604",
+        "created_at": "2026-09-21T06:28:17.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101921439301726652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101921439301726652",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101919829406224604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 走闲鱼小法庭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101922071760810090",
+        "name": "コピー",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2893,
+          "following_count": 1725,
+          "like_count": 7505,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 4003
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-21T17:21:55.000Z",
+        "description": "只和同坑互fo\n我喜欢和可爱的人交朋友\n我全家都讨厌单取\n不接🚪有对象",
+        "id": "1837542721298616320",
+        "is_identity_verified": false,
+        "location": "0.01km",
+        "most_recent_tweet_id": "2101922025539543251",
+        "name": "よづき",
+        "pinned_tweet_id": "2090530252305137988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837542721298616320/1787023202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089552359878017024/x3E7LPp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 138,
+          "like_count": 8902,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 420
+        },
+        "url": "",
+        "username": "Yosameko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

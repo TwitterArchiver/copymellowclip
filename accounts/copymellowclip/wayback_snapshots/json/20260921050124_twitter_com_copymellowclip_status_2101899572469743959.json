@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090530245111840768",
+        "3_2090530245120311296"
+      ],
+      "media_source_tweet_id": [
+        "2090530252305137988",
+        "2090530252305137988"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2101899572469743959",
+    "created_at": "2026-09-21T05:01:24.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T06:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101899572469743959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1837542721298616320",
+          "start": 3,
+          "username": "Yosameko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PGh4kNhv8h",
+          "end": 86,
+          "expanded_url": "https://x.com/Yosameko/status/2090530252305137988/photo/1",
+          "media_key": "3_2090530245111840768",
+          "start": 63,
+          "url": "https://t.co/PGh4kNhv8h"
+        },
+        {
+          "display_url": "pic.x.com/PGh4kNhv8h",
+          "end": 86,
+          "expanded_url": "https://x.com/Yosameko/status/2090530252305137988/photo/1",
+          "media_key": "3_2090530245120311296",
+          "start": 63,
+          "url": "https://t.co/PGh4kNhv8h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101899572469743959",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090530245111840768"
+      },
+      {
+        "media_key": "3_2090530245120311296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090530252305137988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yosameko: =长禾\n我喜欢发一些废话和转发弱智东西\n直fo就是喜欢你～ 互关可以来骚扰我呀\np2是我的oc。 https://t.co/PGh4kNhv8h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090530245111840768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQMOLowaAAAS_NG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2090530245120311296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQMOLoybQAATvEY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090530245111840768",
+            "3_2090530245120311296"
+          ],
+          "media_source_tweet_id": [
+            "2090530252305137988",
+            "2090530252305137988"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2101899572469743959",
+        "created_at": "2026-09-21T05:01:24.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T06:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101899572469743959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1837542721298616320",
+              "start": 3,
+              "username": "Yosameko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGh4kNhv8h",
+              "end": 86,
+              "expanded_url": "https://x.com/Yosameko/status/2090530252305137988/photo/1",
+              "media_key": "3_2090530245111840768",
+              "start": 63,
+              "url": "https://t.co/PGh4kNhv8h"
+            },
+            {
+              "display_url": "pic.x.com/PGh4kNhv8h",
+              "end": 86,
+              "expanded_url": "https://x.com/Yosameko/status/2090530252305137988/photo/1",
+              "media_key": "3_2090530245120311296",
+              "start": 63,
+              "url": "https://t.co/PGh4kNhv8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101899572469743959",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090530245111840768"
+          },
+          {
+            "media_key": "3_2090530245120311296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090530252305137988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yosameko: =长禾\n我喜欢发一些废话和转发弱智东西\n直fo就是喜欢你～ 互关可以来骚扰我呀\np2是我的oc。 https://t.co/PGh4kNhv8h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090530245111840768",
+            "3_2090530245120311296"
+          ]
+        },
+        "author_id": "1837542721298616320",
+        "conversation_id": "2090530252305137988",
+        "created_at": "2026-08-20T20:03:46.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T21:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090530252305137988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGh4kNhv8h",
+              "end": 72,
+              "expanded_url": "https://x.com/Yosameko/status/2090530252305137988/photo/1",
+              "media_key": "3_2090530245111840768",
+              "start": 49,
+              "url": "https://t.co/PGh4kNhv8h"
+            },
+            {
+              "display_url": "pic.x.com/PGh4kNhv8h",
+              "end": 72,
+              "expanded_url": "https://x.com/Yosameko/status/2090530252305137988/photo/1",
+              "media_key": "3_2090530245120311296",
+              "start": 49,
+              "url": "https://t.co/PGh4kNhv8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090530252305137988",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090530245111840768"
+          },
+          {
+            "media_key": "3_2090530245120311296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8672,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "=长禾\n我喜欢发一些废话和转发弱智东西\n直fo就是喜欢你～ 互关可以来骚扰我呀\np2是我的oc。 https://t.co/PGh4kNhv8h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101899572469743959",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2892,
+          "following_count": 1726,
+          "like_count": 7502,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 4002
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-21T17:21:55.000Z",
+        "description": "只和同坑互fo\n我喜欢和可爱的人交朋友\n我全家都讨厌单取\n不接🚪有对象",
+        "id": "1837542721298616320",
+        "is_identity_verified": false,
+        "location": "0.01km",
+        "most_recent_tweet_id": "2101899525279592945",
+        "name": "よづき",
+        "pinned_tweet_id": "2090530252305137988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837542721298616320/1787023202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089552359878017024/x3E7LPp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 134,
+          "like_count": 8891,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "Yosameko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

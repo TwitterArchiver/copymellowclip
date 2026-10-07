@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2101344425301672281",
+    "created_at": "2026-09-20T10:43:44.000Z",
+    "display_text_range": [
+      8,
+      157
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101623336556216481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "939870716391854082",
+          "start": 0,
+          "username": "yyyole"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101623336556216481",
+    "in_reply_to_user_id": "939870716391854082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101344425301672281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyole ai 也可以吧，最简单的路径大概：gpt 出成图再出一版线稿的，线稿轮廓、相邻相似颜色的取色块，让 ai 写个脚本出碎图层出来并保留相对位置再导入 ps 组装回去，重复三次出三张图，然后导入到 blender 里面三张图按照观测角度排好，然后每个图层全部拉伸一下前后的轴弄的乱乱的，相机轮播三个角度"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32933,
+        "height": 1346,
+        "media_key": "13_2101344249199706112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101344249199706112/img/ze0zcUlrdfxkDln5.jpg",
+        "public_metrics": {
+          "view_count": 802270
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101344249199706112/pl/noLXHa8HIxeG67gh.m3u8?v=183"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101344249199706112/vid/avc1/480x598/hjxwHYuVoizhmG-u.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101344249199706112/vid/avc1/1080x1346/-56ptYDxg_Iyvtdp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101344249199706112/vid/avc1/720x896/UbrzY7OX2ykJ2Dql.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101344249199706112/vid/avc1/320x398/UGCmZZ4bzpG3Iv_w.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2101344425301672281",
+        "created_at": "2026-09-20T10:43:44.000Z",
+        "display_text_range": [
+          8,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101623336556216481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "939870716391854082",
+              "start": 0,
+              "username": "yyyole"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101623336556216481",
+        "in_reply_to_user_id": "939870716391854082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101344425301672281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyole ai 也可以吧，最简单的路径大概：gpt 出成图再出一版线稿的，线稿轮廓、相邻相似颜色的取色块，让 ai 写个脚本出碎图层出来并保留相对位置再导入 ps 组装回去，重复三次出三张图，然后导入到 blender 里面三张图按照观测角度排好，然后每个图层全部拉伸一下前后的轴弄的乱乱的，相机轮播三个角度"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101344249199706112"
+          ]
+        },
+        "author_id": "939870716391854082",
+        "conversation_id": "2101344425301672281",
+        "created_at": "2026-09-19T16:15:26.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101344425301672281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/595oJ0uflA",
+              "end": 71,
+              "expanded_url": "https://x.com/yyyole/status/2101344425301672281/video/1",
+              "media_key": "13_2101344249199706112",
+              "start": 48,
+              "url": "https://t.co/595oJ0uflA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101344425301672281",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101344249199706112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3186,
+          "impression_count": 1263107,
+          "like_count": 14213,
+          "quote_count": 64,
+          "reply_count": 275,
+          "retweet_count": 1259
+        },
+        "reply_settings": "everyone",
+        "text": "朋友发来个视频，问AI能不能复刻！\n\n这复刻个鬼，AI跪地不起。\n美术生才是AI最严厉的父亲。 https://t.co/595oJ0uflA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101623336556216481",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2896,
+          "following_count": 1725,
+          "like_count": 7500,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 4000
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-10T14:53:35.000Z",
+        "description": "10年资深自媒体｜多平台认证/签约作者｜AI变现玩家｜终身学习｜长期主义｜赚钱是第一要义｜效率控｜副业拉满",
+        "id": "939870716391854082",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2101601230485332112",
+        "name": "沐阳",
+        "pinned_tweet_id": "2002978535791534421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/939870716391854082/1762334898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986002260447707136/lf3UN9Xp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34282,
+          "following_count": 1280,
+          "like_count": 4283,
+          "listed_count": 324,
+          "media_count": 1424,
+          "tweet_count": 7718
+        },
+        "url": "",
+        "username": "yyyole",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

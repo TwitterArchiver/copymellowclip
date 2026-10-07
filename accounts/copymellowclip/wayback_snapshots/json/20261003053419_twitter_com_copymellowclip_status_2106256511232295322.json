@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2106124925958496621",
+    "created_at": "2026-10-03T05:34:19.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106256511232295322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106256511232295322",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106124925958496621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2106124914877181952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTp1c4vasAAHZSk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2106124925958496621",
+        "created_at": "2026-10-03T05:34:19.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106256511232295322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106256511232295322",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106124925958496621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106124914877181952"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2106124925958496621",
+        "created_at": "2026-10-02T20:51:26.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T21:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106124925958496621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8nT18bb7p",
+              "end": 105,
+              "expanded_url": "https://x.com/doll7799/status/2106124925958496621/photo/1",
+              "media_key": "3_2106124914877181952",
+              "start": 82,
+              "url": "https://t.co/r8nT18bb7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106124925958496621",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106124914877181952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2148,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "19岁爱挂壁小女孩的房间一枚，收集了好几年的挂画，有没有人懂这些价值…跟家里断了一个人住就是好，但是我真的抑郁好严重每天都不知道活着干嘛浑浑噩噩好想郁郁而终….唉 https://t.co/r8nT18bb7p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106256511232295322",
+        "name": "コピー",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 1713,
+          "like_count": 7533,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4029
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "精力低很久才看一次推特私信\n小号纯碎碎念@moyueshen\n\n匿名提问 https://t.co/2lBKx6zYnz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "moyueshen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ydd67887",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ydd67887",
+                "start": 37,
+                "url": "https://t.co/2lBKx6zYnz"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "is_identity_verified": false,
+        "location": "扩列52聊一辈子天=(^.^)=",
+        "most_recent_tweet_id": "2106128689901818212",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779774601100189696/1758037969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7401,
+          "following_count": 8,
+          "like_count": 3850,
+          "listed_count": 27,
+          "media_count": 381,
+          "tweet_count": 1605
+        },
+        "url": "",
+        "username": "doll7799",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2100635052833186123",
+    "created_at": "2026-09-18T07:52:39.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100855506076344422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1635516217200099328",
+          "start": 0,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100855506076344422",
+    "in_reply_to_user_id": "1635516217200099328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100635052833186123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ywxqz_sy 我喜欢你 ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2100635052833186123",
+        "created_at": "2026-09-18T07:52:39.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100855506076344422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100855506076344422",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100635052833186123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ywxqz_sy 我喜欢你 ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635516217200099328",
+        "conversation_id": "2100635052833186123",
+        "created_at": "2026-09-17T17:16:39.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100635052833186123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100635052833186123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1974,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "你们对我的态度稍微变一点，我就会觉得你们不喜欢我了。即使我不是那个特别的重要的，能不能不要让我感到不安？可能因为现在是深夜吧，好寂寞哦，你们都有更重要的人，我只是流连于你们之间一会蹭这个一会蹭那个，每次评论我都会想会不会其实你们觉得我很烦，会不会在下一个瞬间讨厌我？😔😔😔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100855506076344422",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2894,
+          "following_count": 1724,
+          "like_count": 7497,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 3988
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "一朵普通飘过的云。",
+        "id": "1635516217200099328",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100854292269986176",
+        "name": "朔云",
+        "pinned_tweet_id": "2050390733987971520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1635516217200099328/1765711606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075399307688366080/HunfxYzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 595,
+          "like_count": 33998,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 11023
+        },
+        "url": "",
+        "username": "ywxqz_sy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

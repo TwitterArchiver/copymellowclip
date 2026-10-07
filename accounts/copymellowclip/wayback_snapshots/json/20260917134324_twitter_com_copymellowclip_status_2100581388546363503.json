@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2100522597662560268",
+    "created_at": "2026-09-17T13:43:24.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T14:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100581388546363503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1464477075033702400",
+          "start": 0,
+          "username": "DuiMiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100581388546363503",
+    "in_reply_to_user_id": "1464477075033702400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100522597662560268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuiMiao 何文案"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3907,
+        "media_key": "3_2100521565633085440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaNPCKbgAAxPan.jpg",
+        "width": 2199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2100522597662560268",
+        "created_at": "2026-09-17T13:43:24.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100581388546363503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1464477075033702400",
+              "start": 0,
+              "username": "DuiMiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100581388546363503",
+        "in_reply_to_user_id": "1464477075033702400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100522597662560268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuiMiao 何文案"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100521565633085440"
+          ]
+        },
+        "author_id": "1464477075033702400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1417415621281673217",
+              "name": "Central Banks"
+            }
+          }
+        ],
+        "conversation_id": "2100522597662560268",
+        "created_at": "2026-09-17T09:49:47.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100522597662560268"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "千早愛音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaQvCqEgZx",
+              "end": 105,
+              "expanded_url": "https://x.com/DuiMiao/status/2100522597662560268/photo/1",
+              "media_key": "3_2100521565633085440",
+              "start": 82,
+              "url": "https://t.co/JaQvCqEgZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100522597662560268",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100521565633085440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 869,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "16日FOMC决定将联邦基金利率目标区间上调25个基点，至3.75%-4%，以支持美联储的双重使命。委员会将继续实施在银行体系中维持充足准备金的政策\n\n＃千早愛音 https://t.co/JaQvCqEgZx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100581388546363503",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2891,
+          "following_count": 1723,
+          "like_count": 7495,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 3985
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-27T06:12:08.000Z",
+        "description": "夏天将要到来",
+        "id": "1464477075033702400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100526388172488917",
+        "name": "洋葱乳酪味鲨鱼",
+        "pinned_tweet_id": "2095862159733584186",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464477075033702400/1778604850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039644306504663040/D-dmQ_yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 3171,
+          "like_count": 59139,
+          "listed_count": 16,
+          "media_count": 32,
+          "tweet_count": 1880
+        },
+        "url": "",
+        "username": "DuiMiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

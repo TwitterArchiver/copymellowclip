@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2099896530652246478",
+    "created_at": "2026-09-16T05:36:31.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T06:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100096470825459828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845786359082135552",
+          "start": 0,
+          "username": "Fluttermori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100096470825459828",
+    "in_reply_to_user_id": "1845786359082135552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100090946788655429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fluttermori 诶诶贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2099896530652246478",
+        "created_at": "2026-09-16T05:36:31.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100096470825459828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845786359082135552",
+              "start": 0,
+              "username": "Fluttermori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100096470825459828",
+        "in_reply_to_user_id": "1845786359082135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100090946788655429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fluttermori 诶诶贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845786359082135552",
+        "conversation_id": "2099896530652246478",
+        "created_at": "2026-09-16T05:14:34.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100090946788655429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100090946788655429",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100057503358951786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 我好想你。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100096470825459828",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 1729,
+          "like_count": 7490,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 3982
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T11:19:12.000Z",
+        "description": "碎碎念=ᗜωᗜ= /对你有兴趣会互fo /现生刷到请保持边界感/不线下/不礼貌拉黑/分身@phyuyomore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "phyuyomore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/puyo23953",
+                "end": 23,
+                "expanded_url": "https://ngl.link/puyo23953",
+                "start": 0,
+                "url": "https://t.co/7vIC1YhHkG"
+              }
+            ]
+          }
+        },
+        "id": "1845786359082135552",
+        "is_identity_verified": false,
+        "location": "🚪好友位52",
+        "most_recent_tweet_id": "2100091143598014671",
+        "name": "ぷよ",
+        "pinned_tweet_id": "2010715318365348314",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845786359082135552/1766930514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005284831522127872/Zk63-t7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 179,
+          "like_count": 4555,
+          "listed_count": 4,
+          "media_count": 380,
+          "tweet_count": 3004
+        },
+        "url": "https://t.co/7vIC1YhHkG",
+        "username": "Fluttermori",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

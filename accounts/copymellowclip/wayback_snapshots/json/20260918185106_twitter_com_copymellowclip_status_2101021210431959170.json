@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2100448662459400401",
+    "created_at": "2026-09-18T18:51:06.000Z",
+    "display_text_range": [
+      12,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T19:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101021210431959170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948391508970762240",
+          "start": 0,
+          "username": "ohouhou717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101021210431959170",
+    "in_reply_to_user_id": "1948391508970762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100448662459400401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohouhou717 题目没说有谈判的机会，不排除对方有可能接收到的信息是一亿元里选一部分给自己另一部分给别人，或者说被隐藏了对方拥有否决权的信息或者更多情况，为什么总有人喜欢在不知全貌的时候擅自脑补细节然后还要上升高度"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_2100420467173789696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYxSVDakAAP3J7.png",
+        "width": 699
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2100448662459400401",
+        "created_at": "2026-09-18T18:51:06.000Z",
+        "display_text_range": [
+          12,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101021210431959170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948391508970762240",
+              "start": 0,
+              "username": "ohouhou717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101021210431959170",
+        "in_reply_to_user_id": "1948391508970762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100448662459400401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohouhou717 题目没说有谈判的机会，不排除对方有可能接收到的信息是一亿元里选一部分给自己另一部分给别人，或者说被隐藏了对方拥有否决权的信息或者更多情况，为什么总有人喜欢在不知全貌的时候擅自脑补细节然后还要上升高度"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100420467173789696"
+          ]
+        },
+        "author_id": "1948391508970762240",
+        "conversation_id": "2100448662459400401",
+        "created_at": "2026-09-17T04:56:00.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100448662459400401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CtOSEbCofA",
+              "end": 45,
+              "expanded_url": "https://x.com/ohouhou717/status/2100448662459400401/photo/1",
+              "media_key": "3_2100420467173789696",
+              "start": 22,
+              "url": "https://t.co/CtOSEbCofA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100448662459400401",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100420467173789696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 185831,
+          "like_count": 1671,
+          "quote_count": 11,
+          "reply_count": 198,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "一亿分给你一块，不答应就一起死，你接不接？ https://t.co/CtOSEbCofA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101021210431959170",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2895,
+          "following_count": 1725,
+          "like_count": 7499,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 3992
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T14:35:22.000Z",
+        "description": "段子手 | 纯玩梗 | 全职推特 | \n生活是web2 |职业摸鱼人 | 纯玩梗不负责 | 蓝鸟会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weilan69",
+                "end": 23,
+                "expanded_url": "https://t.me/weilan69",
+                "start": 0,
+                "url": "https://t.co/Cb7C0RUglZ"
+              }
+            ]
+          }
+        },
+        "id": "1948391508970762240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101016655069614582",
+        "name": "Weilan",
+        "pinned_tweet_id": "2100809531618185557",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948391508970762240/1765885855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999801423761199104/dgwqRHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23628,
+          "following_count": 10799,
+          "like_count": 146159,
+          "listed_count": 86,
+          "media_count": 2603,
+          "tweet_count": 154394
+        },
+        "url": "https://t.co/Cb7C0RUglZ",
+        "username": "ohouhou717",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

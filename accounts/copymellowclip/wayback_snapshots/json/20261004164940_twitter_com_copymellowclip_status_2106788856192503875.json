@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106788851142549507"
+      ]
+    },
+    "author_id": "876363325998678017",
+    "conversation_id": "2106776558040137797",
+    "created_at": "2026-10-04T16:49:40.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T17:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106788856192503875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1425706149060308994",
+          "start": 0,
+          "username": "Hitman_T800"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AexAjRNRvC",
+          "end": 42,
+          "expanded_url": "https://x.com/copymellowclip/status/2106788856192503875/photo/1",
+          "media_key": "3_2106788851142549507",
+          "start": 19,
+          "url": "https://t.co/AexAjRNRvC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106788856192503875",
+    "in_reply_to_user_id": "1425706149060308994",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106788851142549507"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106776558040137797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hitman_T800 生日快乐喵 https://t.co/AexAjRNRvC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106788851142549507",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzRTEEa4AMCbxN.jpg",
+        "width": 944
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2106776549026635776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzGG_HbIAAIC4m.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106788851142549507"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2106776558040137797",
+        "created_at": "2026-10-04T16:49:40.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106788856192503875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425706149060308994",
+              "start": 0,
+              "username": "Hitman_T800"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AexAjRNRvC",
+              "end": 42,
+              "expanded_url": "https://x.com/copymellowclip/status/2106788856192503875/photo/1",
+              "media_key": "3_2106788851142549507",
+              "start": 19,
+              "url": "https://t.co/AexAjRNRvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106788856192503875",
+        "in_reply_to_user_id": "1425706149060308994",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106788851142549507"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106776558040137797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hitman_T800 生日快乐喵 https://t.co/AexAjRNRvC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106776549026635776"
+          ]
+        },
+        "author_id": "1425706149060308994",
+        "conversation_id": "2106776558040137797",
+        "created_at": "2026-10-04T16:00:48.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106776558040137797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrfQ37BDvp",
+              "end": 28,
+              "expanded_url": "https://x.com/Hitman_T800/status/2106776558040137797/photo/1",
+              "media_key": "3_2106776549026635776",
+              "start": 5,
+              "url": "https://t.co/xrfQ37BDvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106776558040137797",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106776549026635776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我气球呢 https://t.co/xrfQ37BDvp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106788856192503875",
+        "name": "コピー",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2873,
+          "following_count": 1711,
+          "like_count": 7532,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 4030
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-12T06:30:25.000Z",
+        "description": "电波系碎碎念/想要成为人类",
+        "id": "1425706149060308994",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106787721226363158",
+        "name": "榴弹",
+        "pinned_tweet_id": "1905188226819854730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1425706149060308994/1703563813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091441326600716288/bGDy4USb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 821,
+          "like_count": 75186,
+          "listed_count": 3,
+          "media_count": 813,
+          "tweet_count": 11480
+        },
+        "url": "",
+        "username": "Hitman_T800",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "876363325998678017",
+    "conversation_id": "2100881195869544542",
+    "created_at": "2026-09-18T09:51:12.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T10:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100885341574209542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463569401228460033",
+          "start": 0,
+          "username": "krsm1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100885341574209542",
+    "in_reply_to_user_id": "1463569401228460033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100881195869544542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@krsm1231 我想进"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876363325998678017",
+        "conversation_id": "2100881195869544542",
+        "created_at": "2026-09-18T09:51:12.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100885341574209542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463569401228460033",
+              "start": 0,
+              "username": "krsm1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100885341574209542",
+        "in_reply_to_user_id": "1463569401228460033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100881195869544542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@krsm1231 我想进"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463569401228460033",
+        "conversation_id": "2100881195869544542",
+        "created_at": "2026-09-18T09:34:44.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100881195869544542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100881195869544542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想建一个聊天群"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100885341574209542",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2895,
+          "following_count": 1725,
+          "like_count": 7499,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 3990
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-24T18:05:33.000Z",
+        "description": "女的/重度颜控只喜欢长得好看的丑的敢来死定了/约拍互fo请敲",
+        "id": "1463569401228460033",
+        "is_identity_verified": false,
+        "location": "Tokyo",
+        "most_recent_tweet_id": "2100881195869544542",
+        "name": "あゆ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1463569401228460033/1670470622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925415782194061315/yz43-Tnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5518,
+          "following_count": 47,
+          "like_count": 457,
+          "listed_count": 13,
+          "media_count": 80,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "krsm1231",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
